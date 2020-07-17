@@ -1,5 +1,5 @@
 # Jan-Otto Kröpke - @jkroepke
-### Cloud Sucess Manager @ [adorsys](https://www.adorsys.de)
+### Cloud Sucess Manager @ [adorsys](https://github.com/adorsys)
 
 Hi, welcome to my GitHub profile!
 
@@ -32,7 +32,7 @@ I love Prometheus to hold statistics. I wrote the tool @ adorsys to track all st
 
 #### https://github.com/adorsys/keycloak-config-cli
 
-I wrote this tool with @borisskert at adorsys. Initially, we need a configuration as code tool for our Keycloak instance to automate the configuration tasks. Click on the UI was a nogo. After the first PoC with bash and curl scripting, we rewrote the whole tool in java and used the REST client provided by Keycloak.
+I wrote this tool with [@borisskert](https://github.com/borisskert) at adorsys. Initially, we need a configuration as code tool for our Keycloak instance to automate the configuration tasks. Click on the UI was a nogo. After the first PoC with bash and curl scripting, we rewrote the whole tool in java and used the REST client provided by Keycloak.
 
 ### discontinued projects
 
