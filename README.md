@@ -14,9 +14,9 @@ I like the challenge of code somewhat in a programming language without know how
 
 ### Some of my projects:
 
-#### https://github.com/jkroepke/2Moons
+#### https://github.com/jkroepke/openvpn_aad_authenticator
 
-A brower game engine from my first coding days written in PHP! It based on the OGame clone XNova.
+At adorsys we used OpenVPN as primary VPN solution. Since there was no way to intergate Azure AD authentication combind with OpenVPN authentication possiblities, I wrote a python script with allows that the used can authenticate the vpn connection by [devices code flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-device-code) or [resource owner password credentials grant](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)
 
 #### https://github.com/jkroepke/helm-secrets
 
@@ -35,6 +35,10 @@ I love Prometheus to hold statistics. I wrote the tool @ adorsys to track all st
 I wrote this tool with [@borisskert](https://github.com/borisskert) at adorsys. Initially, we need a configuration as code tool for our Keycloak instance to automate the configuration tasks. Click on the UI was a nogo. After the first PoC with bash and curl scripting, we rewrote the whole tool in java and used the REST client provided by Keycloak.
 
 ### discontinued projects
+
+#### https://github.com/jkroepke/2Moons
+
+A brower game engine from my first coding days written in PHP! It based on the OGame clone XNova.
 
 #### https://github.com/jkroepke/openshift-mta
 
