@@ -14,7 +14,7 @@ I like the challenge of code somewhat in a programming language without know how
 
 ### Some of my projects:
 
-#### https://github.com/jkroepke/openvpn_aad_authenticator
+#### https://github.com/jkroepke/openvpn-auth-azure-ad
 
 At adorsys we used OpenVPN as primary VPN solution. Since there was no way to intergate Azure AD authentication combind with OpenVPN authentication possiblities, I wrote a python script with allows that the used can authenticate the vpn connection by [devices code flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-device-code) or [resource owner password credentials grant](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)
 
