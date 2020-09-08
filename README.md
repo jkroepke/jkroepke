@@ -47,3 +47,10 @@ On my customer projects I need a RHEL supported MTA which runs in openshift with
 #### https://github.com/jkroepke/puppet-module-autofs
 
 My first puppet module released on puppet forged. Like the name, you can configure autofs on your system with puppet. This project is low maintenance state since puppet is quite dead and I prefer to use [systemd.automount](https://www.freedesktop.org/software/systemd/man/systemd.automount.html) instead of autofs. But I got my badge for publishing a module on puppet forge.
+
+#### 📈 Stats
+
+**NOTE:** Some stats may be incorrect as contributions to organizations
+are not counted.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkroepke&count_private=true&theme=tokyonight&show_icons=true)
