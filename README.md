@@ -3,7 +3,7 @@
 
 Hi, welcome to my GitHub profile!
 
-I'm a cloud system engineer and help our and customer developer to understand how be responsable for production. I create tools that help our developers to release the applications to production!
+I'm a cloud system engineer at [adorsys](https://github.com/adorsys), consult and assist company and customer developer to understand how be responsable for production. I create tools that help our developers to release the applications to production!
 
 Let's automate it!
 
