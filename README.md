@@ -3,20 +3,20 @@
 
 Hi, welcome to my GitHub profile!
 
-I'm a cloud system engineer at [adorsys](https://github.com/adorsys), consult and assist company and customer developer to understand how be responsable for production. I create tools that help our developers to release the applications to production!
+I'm a cloud system engineer at [adorsys](https://github.com/adorsys). I consult and assist company developer and customer developer to understand how be responsible for production. I create tools that help our developers to release the applications to production!
 
-Let's automate it!
+Let's start to automate it!
 
 ## OSS developer time
 In my free time, I'm going to support and maintain opensource projects. I have a great experience in Linux system administration and container stuff like docker and clusters like k8s and Openshift.
 
-I like the challenge of code somewhat in a programming language without know how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
+I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 ### Some of my projects:
 
 #### https://github.com/jkroepke/openvpn-auth-azure-ad
 
-At adorsys we used OpenVPN as primary VPN solution. Since there was no way to intergate Azure AD authentication combind with OpenVPN authentication possiblities, I wrote a python script with allows that the used can authenticate the vpn connection by [devices code flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-device-code) or [resource owner password credentials grant](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)
+At adorsys we used OpenVPN as primary VPN solution. Since there was no way to integrate Azure AD authentication combind with OpenVPN authentication possiblities, I wrote a python script with allows that the used can authenticates the VPN connection by [devices code flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-device-code) or [resource owner password credentials grant](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)
 
 #### https://github.com/jkroepke/helm-secrets
 
