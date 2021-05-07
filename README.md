@@ -8,7 +8,7 @@ I'm a cloud system engineer at [adorsys](https://github.com/adorsys). I consult 
 Let's start to automate it!
 
 ## OSS developer time
-In my free time, I'm going to support and maintain opensource projects. I have a great experience in Linux system administration and container stuff like docker and clusters like k8s and Openshift.
+In my free time, I'm going to support and maintain opensource projects. I have a great experience in Linux system administration and container stuff and clusters like Docker, Kubernetes and Openshift.
 
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
