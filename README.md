@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.17.9](https://github.com/grafana/helm-charts/releases/tag/grafana-6.17.9), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.0.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.0](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.0), 2 days ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.17.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.17.8), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.87.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-notifications-1.6.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-notifications-1.6.0), 4 days ago) - ArgoProj Helm Charts
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) ([v2.7.3](https://github.com/mittwald/kubernetes-replicator/releases/tag/v2.7.3), 4 days ago) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces
