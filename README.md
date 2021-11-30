@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [akiii02](https://github.com/akiii02)
 - [ader-api](https://github.com/ader-api)
 - [ml-](https://github.com/ml-)
 - [senfomat](https://github.com/senfomat)
 - [FaysalAhmmed177](https://github.com/FaysalAhmmed177)
-- [KingEmm1227](https://github.com/KingEmm1227)
 
 #### 💬 Feedback
 
