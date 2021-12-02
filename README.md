@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([changedetection-io-1.2.0](https://github.com/k8s-at-home/charts/releases/tag/changedetection-io-1.2.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.3.3](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.3.3), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.12), 3 days ago) - ArgoProj Helm Charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) ([v2.7.3](https://github.com/mittwald/kubernetes-replicator/releases/tag/v2.7.3), 1 week ago) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.11.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.11.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.70](https://github.com/stakater/Forecastle/releases/tag/v1.0.70), 1 week ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([zwavejs2mqtt-5.1.0](https://github.com/k8s-at-home/charts/releases/tag/zwavejs2mqtt-5.1.0), 1 week ago) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.7](https://github.com/argoproj/argo-cd/releases/tag/v2.1.7), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 My recent Pull Requests
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [harshali1218](https://github.com/harshali1218)
+- [NASWA2020](https://github.com/NASWA2020)
+- [Udoybarua](https://github.com/Udoybarua)
+- [Joanneyuy](https://github.com/Joanneyuy)
 - [dongphuchaitrieu](https://github.com/dongphuchaitrieu)
-- [JamilAbdul](https://github.com/JamilAbdul)
-- [kavindyahirushani](https://github.com/kavindyahirushani)
-- [rubytodd](https://github.com/rubytodd)
-- [Diego-Padilla](https://github.com/Diego-Padilla)
 
 #### 💬 Feedback
 
