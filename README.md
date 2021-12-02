@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-21.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-21.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.3.3](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.3.3), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.12), 3 days ago) - ArgoProj Helm Charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.0](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.0), 5 days ago) - 
