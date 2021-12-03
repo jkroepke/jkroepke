@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-21.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-21.0.3), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.88.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.88.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-21.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-21.0.2), 1 day ago) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([wallabag-5.2.1](https://github.com/k8s-at-home/charts/releases/tag/wallabag-5.2.1), 1 day ago) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.3.3](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.3.3), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.26.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.26.12), 4 days ago) - ArgoProj Helm Charts
