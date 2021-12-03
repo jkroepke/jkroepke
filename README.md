@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Krendrage](https://github.com/Krendrage)
+- [PranamBhat](https://github.com/PranamBhat)
 - [dcscottwritescode](https://github.com/dcscottwritescode)
 - [martinsedm](https://github.com/martinsedm)
 - [senji13](https://github.com/senji13)
-- [oluwa121](https://github.com/oluwa121)
-- [Azzy001](https://github.com/Azzy001)
 
 #### 💬 Feedback
 
