@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-2.3.0), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.0.0), today) - Helm charts for applications you run at home
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.1.3), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.18.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.18.2), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.6.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.6.0), 2 days ago) - ArgoProj Helm Charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.4.0), 5 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
