@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) -  (1 week ago)
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces (2 weeks ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (3 weeks ago)
@@ -30,25 +30,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.2.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.28.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.28.0), today) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.89.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.0), today) - 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.0.1](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.0.1), 1 day ago) - Helm charts for applications you run at home
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.4.0), 6 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.0](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.0), 1 week ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.2.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.28.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.28.0), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.89.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.0), 1 day ago) - 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.0.1](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.0.1), 2 days ago) - Helm charts for applications you run at home
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.4.0), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.0](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.0), 2 weeks ago) - 
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) ([v2.7.3](https://github.com/mittwald/kubernetes-replicator/releases/tag/v2.7.3), 2 weeks ago) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.11.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.11.0), 2 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.70](https://github.com/stakater/Forecastle/releases/tag/v1.0.70), 2 weeks ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
-- [Do not update resource if owner id is a username](https://github.com/adorsys/keycloak-config-cli/pull/590) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 days ago)
-- [Explain remote value files](https://github.com/jkroepke/helm-secrets/pull/175) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
+- [Do not update resource if owner id is a username](https://github.com/adorsys/keycloak-config-cli/pull/590) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (3 days ago)
+- [Explain remote value files](https://github.com/jkroepke/helm-secrets/pull/175) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [Enable .netrc for http based values](https://github.com/jkroepke/helm-secrets/pull/174) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Add RH SSO repository](https://github.com/adorsys/keycloak-config-cli/pull/583) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
-- [Add better terraform integration](https://github.com/jkroepke/helm-secrets/pull/173) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Minor improvements](https://github.com/jkroepke/helm-secrets/pull/172) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
+- [Add better terraform integration](https://github.com/jkroepke/helm-secrets/pull/173) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
+- [Minor improvements](https://github.com/jkroepke/helm-secrets/pull/172) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Fix coverage](https://github.com/jkroepke/helm-secrets/pull/171) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Implement stricter protocol handler](https://github.com/jkroepke/helm-secrets/pull/170) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Add variable expansion to URLs for values](https://github.com/jkroepke/helm-secrets/pull/169) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
@@ -56,10 +56,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 day ago)
-- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (3 days ago)
-- [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (3 days ago)
-- [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static Analysis &amp; visualisation tool (6 days ago)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 days ago)
+- [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and scalability. https://karpenter.sh (4 days ago)
+- [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (4 days ago)
+- [appvia/krane](https://github.com/appvia/krane) - Kubernetes RBAC static Analysis &amp; visualisation tool (1 week ago)
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces (2 weeks ago)
 - [Kola124/SmartGoldbergEmu](https://github.com/Kola124/SmartGoldbergEmu) - My version of smart goldberg emu (2 weeks ago)
 - [vmware-tanzu/cartographer](https://github.com/vmware-tanzu/cartographer) - Cartographer is a Supply Chain Choreographer. (2 weeks ago)
