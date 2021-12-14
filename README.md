@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.3.1), today) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.0](https://github.com/argoproj/argo-cd/releases/tag/v2.2.0), today) - Declarative continuous deployment for Kubernetes.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.3.0), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([ghost-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/ghost-1.0.0), today) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.28.1), 3 days ago) - ArgoProj Helm Charts
