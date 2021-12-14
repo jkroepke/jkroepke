@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.2), today) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.8](https://github.com/argoproj/argo-cd/releases/tag/v2.1.8), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([tdarr-4.2.0](https://github.com/k8s-at-home/charts/releases/tag/tdarr-4.2.0), 1 day ago) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.1.2), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.28.1), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.89.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.4.0), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
