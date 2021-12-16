@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.8.3](https://github.com/grafana/helm-charts/releases/tag/loki-2.8.3), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-notifications-1.6.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-notifications-1.6.1), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.3.2), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.0](https://github.com/argoproj/argo-cd/releases/tag/v2.2.0), 2 days ago) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([ghost-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/ghost-1.0.0), 2 days ago) - Helm charts for applications you run at home
