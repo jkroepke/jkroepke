@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Support for multiple realm definitions inside one YAML file.](https://github.com/adorsys/keycloak-config-cli/pull/594) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [Add nginx 1.20](https://github.com/adorsys-containers/nginx/pull/5) on [adorsys-containers/nginx](https://github.com/adorsys-containers/nginx) (4 days ago)
 - [Add coverage to ITs](https://github.com/jkroepke/helm-secrets/pull/176) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Do not update resource if owner id is a username](https://github.com/adorsys/keycloak-config-cli/pull/590) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add better terraform integration](https://github.com/jkroepke/helm-secrets/pull/173) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Minor improvements](https://github.com/jkroepke/helm-secrets/pull/172) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Fix coverage](https://github.com/jkroepke/helm-secrets/pull/171) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
-- [Implement stricter protocol handler](https://github.com/jkroepke/helm-secrets/pull/170) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
