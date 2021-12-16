@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.8.2](https://github.com/grafana/helm-charts/releases/tag/loki-2.8.2), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.19.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.19.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.3.2), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.29.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.29.0), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.0](https://github.com/argoproj/argo-cd/releases/tag/v2.2.0), 2 days ago) - Declarative continuous deployment for Kubernetes.
