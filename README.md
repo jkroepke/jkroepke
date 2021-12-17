@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.90.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.1](https://github.com/argoproj/argo-cd/releases/tag/v2.2.1), today) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([sonarr-15.2.1](https://github.com/k8s-at-home/charts/releases/tag/sonarr-15.2.1), 1 day ago) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-notifications-1.6.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-notifications-1.6.1), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-23.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-23.3.2), 2 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.89.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.4.0), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.0](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.0), 2 weeks ago) - 
 - [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) ([v2.7.3](https://github.com/mittwald/kubernetes-replicator/releases/tag/v2.7.3), 3 weeks ago) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces
