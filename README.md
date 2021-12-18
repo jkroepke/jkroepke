@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-24.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-24.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-24.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-24.0.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.8.4](https://github.com/grafana/helm-charts/releases/tag/loki-2.8.4), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.29.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.29.2), 1 day ago) - ArgoProj Helm Charts
 - [yuzutech/kroki](https://github.com/yuzutech/kroki) ([v0.16.0](https://github.com/yuzutech/kroki/releases/tag/v0.16.0), 1 day ago) - Creates diagrams from textual descriptions!
