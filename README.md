@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-notifications-1.7.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-notifications-1.7.0), today) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.71](https://github.com/stakater/Forecastle/releases/tag/v1.0.71), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.29.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.29.4), today) - ArgoProj Helm Charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.5.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.5.0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-24.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-24.0.1), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.8.4](https://github.com/grafana/helm-charts/releases/tag/loki-2.8.4), 2 days ago) - 
