@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kyaml/v0.13.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kyaml%2Fv0.13.1), today) - Customization of kubernetes YAML configurations
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.4.0), today) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.72](https://github.com/stakater/Forecastle/releases/tag/v1.0.72), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.7.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.7.0), 3 days ago) - ArgoProj Helm Charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.90.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.1](https://github.com/argoproj/argo-cd/releases/tag/v2.2.1), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([sonarr-15.2.1](https://github.com/k8s-at-home/charts/releases/tag/sonarr-15.2.1), 1 week ago) - Helm charts for applications you run at home
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.0](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.0), 3 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
