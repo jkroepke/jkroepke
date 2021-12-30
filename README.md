@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.5.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-27.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-27.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-metrics-1.7.2](https://github.com/grafana/helm-charts/releases/tag/enterprise-metrics-1.7.2), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([double-take-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/double-take-2.0.0), today) - Helm charts for applications you run at home
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kyaml/v0.13.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kyaml%2Fv0.13.1), 1 week ago) - Customization of kubernetes YAML configurations
