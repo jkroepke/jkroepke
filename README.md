@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([baikal-4.0.0](https://github.com/k8s-at-home/charts/releases/tag/baikal-4.0.0), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/dendrite-1.0.0), today) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.3.4](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.3.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.11.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 2 days ago) - Declarative continuous deployment for Kubernetes.
