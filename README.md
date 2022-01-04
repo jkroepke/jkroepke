@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.12.2](https://github.com/grafana/helm-charts/releases/tag/tempo-0.12.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.29.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.29.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-27.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-27.2.0), 1 day ago) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([node-red-10.0.0](https://github.com/k8s-at-home/charts/releases/tag/node-red-10.0.0), 1 day ago) - Helm charts for applications you run at home
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.3.4](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.3.4), 1 day ago) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kyaml/v0.13.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kyaml%2Fv0.13.1), 1 week ago) - Customization of kubernetes YAML configurations
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.72](https://github.com/stakater/Forecastle/releases/tag/v1.0.72), 2 weeks ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
