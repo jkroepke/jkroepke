@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.5.1](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.5.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.2.1), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-3.9.2](https://github.com/grafana/helm-charts/releases/tag/promtail-3.9.2), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.29.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.29.5), 1 day ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([node-red-10.0.0](https://github.com/k8s-at-home/charts/releases/tag/node-red-10.0.0), 2 days ago) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 4 days ago) - Declarative continuous deployment for Kubernetes.
