@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-29.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-29.0.1), today) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.2.0](https://github.com/databus23/helm-diff/releases/tag/v3.2.0), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-29.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-29.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.5), 1 day ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([privatebin-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/privatebin-1.0.0), 1 day ago) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.91.0), 1 day ago) - Terraform provider for Azure Resource Manager
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [elsbrock](https://github.com/elsbrock)
 - [Iraj44](https://github.com/Iraj44)
 - [Jabarbetta](https://github.com/Jabarbetta)
 - [tuanducdesign](https://github.com/tuanducdesign)
 - [arifszn](https://github.com/arifszn)
-- [GeorgeReal6](https://github.com/GeorgeReal6)
 
 #### 💬 Feedback
 
