@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-applicationset-1.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-applicationset-1.9.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.0), 1 day ago) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.2.0](https://github.com/databus23/helm-diff/releases/tag/v3.2.0), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.5), 2 days ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([privatebin-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/privatebin-1.0.0), 2 days ago) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.91.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-applicationset-1.8.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-applicationset-1.8.0), 3 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kyaml/v0.13.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kyaml%2Fv0.13.1), 2 weeks ago) - Customization of kubernetes YAML configurations
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.72](https://github.com/stakater/Forecastle/releases/tag/v1.0.72), 2 weeks ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
