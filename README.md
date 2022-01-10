@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [adorsys-containers/java](https://github.com/adorsys-containers/java) - Base image for distribute java jars (today)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (6 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
@@ -26,7 +27,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) -  (3 weeks ago)
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (3 weeks ago)
 - [adorsys-containers/nginx](https://github.com/adorsys-containers/nginx) - Base image for distribute static files and SPAs. (4 weeks ago)
-- [mittwald/kubernetes-replicator](https://github.com/mittwald/kubernetes-replicator) - Kubernetes controller for synchronizing secrets &amp; config maps across namespaces (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,6 +43,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update helm](https://github.com/adorsys-containers/ci-helm/pull/10) on [adorsys-containers/ci-helm](https://github.com/adorsys-containers/ci-helm) (today)
+- [Add Java 17](https://github.com/adorsys-containers/java/pull/4) on [adorsys-containers/java](https://github.com/adorsys-containers/java) (today)
+- [Add java 17](https://github.com/adorsys-containers/ci-build/pull/10) on [adorsys-containers/ci-build](https://github.com/adorsys-containers/ci-build) (today)
 - [Migrate to GH actions](https://github.com/databus23/helm-diff/pull/335) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (1 day ago)
 - [Migrate to GH actions](https://github.com/jkroepke/helm-diff/pull/1) on [jkroepke/helm-diff](https://github.com/jkroepke/helm-diff) (1 day ago)
 - [Reduce dependencies](https://github.com/adorsys/keycloak-config-cli/pull/601) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
@@ -50,9 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix typos in ArgoCD Integration documentation](https://github.com/jkroepke/helm-secrets/pull/181) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [Drop dead code](https://github.com/adorsys/keycloak-config-cli/pull/596) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (3 weeks ago)
 - [Fixes Github link in releases](https://github.com/keycloak/keycloak-web/pull/199) on [keycloak/keycloak-web](https://github.com/keycloak/keycloak-web) (3 weeks ago)
-- [Support for multiple realm definitions inside one YAML file.](https://github.com/adorsys/keycloak-config-cli/pull/594) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (3 weeks ago)
-- [Add nginx 1.20](https://github.com/adorsys-containers/nginx/pull/5) on [adorsys-containers/nginx](https://github.com/adorsys-containers/nginx) (4 weeks ago)
-- [Add coverage to ITs](https://github.com/jkroepke/helm-secrets/pull/176) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 
 #### ⭐ Recent Stars
 
