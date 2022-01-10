@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [adorsys-containers/ci-helm](https://github.com/adorsys-containers/ci-helm) - Deploy your environment with helm! Multiple versions of helm supported (today)
 - [adorsys-containers/java](https://github.com/adorsys-containers/java) - Base image for distribute java jars (today)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (6 days ago)
@@ -26,14 +27,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [keycloak/keycloak-web](https://github.com/keycloak/keycloak-web) -  (3 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) -  (3 weeks ago)
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it! (3 weeks ago)
-- [adorsys-containers/nginx](https://github.com/adorsys-containers/nginx) - Base image for distribute static files and SPAs. (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-metrics-1.7.3](https://github.com/grafana/helm-charts/releases/tag/enterprise-metrics-1.7.3), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-applicationset-1.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-applicationset-1.9.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.5), 3 days ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([privatebin-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/privatebin-1.0.0), 3 days ago) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.91.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 1 week ago) - Declarative continuous deployment for Kubernetes.
