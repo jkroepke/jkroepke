@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.1](https://github.com/databus23/helm-diff/releases/tag/v3.3.1), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-applicationset-1.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-applicationset-1.9.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.5), 3 days ago) - 
