@@ -23,15 +23,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [adorsys-containers/java](https://github.com/adorsys-containers/java) - Base image for distribute java jars (today)
 - [adorsys-containers/openshift-components](https://github.com/adorsys-containers/openshift-components) -  (today)
 - [adorsys-containers/ci-build](https://github.com/adorsys-containers/ci-build) - Generic build image for CI builds (today)
-- [adorsys-containers/arc42-tools](https://github.com/adorsys-containers/arc42-tools) - Bundles java, asciidoctor and plantuml together for creating arc42 architecture documentations from the asciidoc template. (today)
-- [adorsys-containers/config](https://github.com/adorsys-containers/config) - configuration for our module sync (today)
-- [adorsys-containers/ci-helm](https://github.com/adorsys-containers/ci-helm) - Deploy your environment with helm! Multiple versions of helm supported (today)
+- [adorsys-containers/test-applications](https://github.com/adorsys-containers/test-applications) - various test applications to test the functionality of containers (today)
 - [adorsys-containers/s3-tools](https://github.com/adorsys-containers/s3-tools) -  (today)
+- [adorsys-containers/ci-helm](https://github.com/adorsys-containers/ci-helm) - Deploy your environment with helm! Multiple versions of helm supported (today)
+- [adorsys-containers/arc42-tools](https://github.com/adorsys-containers/arc42-tools) - Bundles java, asciidoctor and plantuml together for creating arc42 architecture documentations from the asciidoc template. (today)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.39.4](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.39.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-metrics-1.7.3](https://github.com/grafana/helm-charts/releases/tag/enterprise-metrics-1.7.3), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-applicationset-1.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-applicationset-1.9.0), 1 day ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([privatebin-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/privatebin-1.0.0), 3 days ago) - Helm charts for applications you run at home
