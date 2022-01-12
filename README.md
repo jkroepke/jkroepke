@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.9.1), 1 day ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-1.0.2](https://github.com/k8s-at-home/charts/releases/tag/dendrite-1.0.2), 2 days ago) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.39.5](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.39.5), 2 days ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.1), 2 days ago) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.91.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 1 week ago) - Declarative continuous deployment for Kubernetes.
