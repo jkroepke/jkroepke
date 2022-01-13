@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.3.5](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.3.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.0.3), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.9.0](https://github.com/grafana/helm-charts/releases/tag/loki-2.9.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.9.1), 2 days ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-1.0.2](https://github.com/k8s-at-home/charts/releases/tag/dendrite-1.0.2), 3 days ago) - Helm charts for applications you run at home
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
