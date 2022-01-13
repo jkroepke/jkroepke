@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.4.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.4.0), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dokuwiki-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/dokuwiki-1.0.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-2.5.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.3.5](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.3.5), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.9.1), 2 days ago) - ArgoProj Helm Charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.91.0), 6 days ago) - Terraform provider for Azure Resource Manager
