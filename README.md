@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.18.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.13.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.13.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.92.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-1.4.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-1.4.0), 1 day ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dokuwiki-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/dokuwiki-1.0.0), 1 day ago) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.9.1), 3 days ago) - ArgoProj Helm Charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
