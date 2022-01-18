@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([deconz-6.3.0](https://github.com/k8s-at-home/charts/releases/tag/deconz-6.3.0), today) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.10.0), 1 day ago) - ArgoProj Helm Charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.6.1), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.13.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.13.0), 4 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.1), 4 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.92.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dokuwiki-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/dokuwiki-1.0.0), 5 days ago) - Helm charts for applications you run at home
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.2](https://github.com/argoproj/argo-cd/releases/tag/v2.2.2), 2 weeks ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kyaml/v0.13.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kyaml%2Fv0.13.1), 3 weeks ago) - Customization of kubernetes YAML configurations
