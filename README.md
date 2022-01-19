@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-30.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-30.0.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.6](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.6), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.10.1), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.5.0), 1 day ago) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([powerdns-admin-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/powerdns-admin-1.0.0), 1 day ago) - Helm charts for applications you run at home
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.6.1), 2 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.92.0), 5 days ago) - Terraform provider for Azure Resource Manager
