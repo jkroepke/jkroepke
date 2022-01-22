@@ -17,19 +17,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (today)
 - [adorsys-containers/mailout](https://github.com/adorsys-containers/mailout) - MTA designed to run inside secure openshift environment (5 days ago)
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (5 days ago)
 - [adorsys-containers/ci-build](https://github.com/adorsys-containers/ci-build) - Generic build image for CI builds (1 week ago)
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 week ago)
 - [adorsys-containers/config](https://github.com/adorsys-containers/config) - configuration for our module sync (1 week ago)
-- [adorsys-containers/java](https://github.com/adorsys-containers/java) - Base image for distribute java jars (1 week ago)
 - [adorsys-containers/test-applications](https://github.com/adorsys-containers/test-applications) - various test applications to test the functionality of containers (1 week ago)
+- [adorsys-containers/java](https://github.com/adorsys-containers/java) - Base image for distribute java jars (1 week ago)
 - [adorsys-containers/s3-tools](https://github.com/adorsys-containers/s3-tools) -  (1 week ago)
 - [adorsys-containers/ci-helm](https://github.com/adorsys-containers/ci-helm) - Deploy your environment with helm! Multiple versions of helm supported (1 week ago)
 - [adorsys-containers/postgres](https://github.com/adorsys-containers/postgres) - Postgres container based on https://github.com/sclorg/postgresql-container but create multiple databases (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.0](https://github.com/databus23/helm-diff/releases/tag/v3.4.0), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.12.3](https://github.com/grafana/helm-charts/releases/tag/tempo-0.12.3), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.93.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.1.1), 2 days ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([powerdns-admin-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/powerdns-admin-1.0.0), 4 days ago) - Helm charts for applications you run at home
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.6.1), 5 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.3.2](https://github.com/databus23/helm-diff/releases/tag/v3.3.2), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kyaml/v0.13.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kyaml%2Fv0.13.1), 1 month ago) - Customization of kubernetes YAML configurations
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.72](https://github.com/stakater/Forecastle/releases/tag/v1.0.72), 1 month ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 
