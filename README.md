@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.93.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.93.1), today) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([maddy-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/maddy-1.0.0), today) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.20.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.20.8), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.1](https://github.com/databus23/helm-diff/releases/tag/v3.4.1), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.9.1), 2 days ago) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.73](https://github.com/stakater/Forecastle/releases/tag/v1.0.73), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.93.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.31.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.31.0), 4 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.3](https://github.com/argoproj/argo-cd/releases/tag/v2.2.3), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.6.1), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
