@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.32.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.32.0), today) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.75](https://github.com/stakater/Forecastle/releases/tag/v1.0.75), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.21.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.21.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.1), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.9.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.9.3), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.93.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.93.1), 2 days ago) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([maddy-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/maddy-1.0.0), 2 days ago) - Helm charts for applications you run at home
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.1](https://github.com/databus23/helm-diff/releases/tag/v3.4.1), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
