@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.32.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.32.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.21.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.21.2), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.32.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.32.0), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.75](https://github.com/stakater/Forecastle/releases/tag/v1.0.75), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.1), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.93.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.93.1), 3 days ago) - Terraform provider for Azure Resource Manager
