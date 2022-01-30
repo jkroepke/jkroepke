@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([maddy-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/maddy-2.0.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.15.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-3.11.0](https://github.com/grafana/helm-charts/releases/tag/promtail-3.11.0), 2 days ago) - 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([torrserver-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/torrserver-1.0.0), 2 days ago) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.0), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.94.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.76](https://github.com/stakater/Forecastle/releases/tag/v1.0.76), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: switch from node-jose to jose](https://github.com/adorsys/jwe-codec/pull/24) on [adorsys/jwe-codec](https://github.com/adorsys/jwe-codec) (today)
 - [Proposal: Add function systemd::systemd_escape](https://github.com/voxpupuli/puppet-systemd/pull/243) on [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) (1 week ago)
 - [Fix installation on cygwin](https://github.com/databus23/helm-diff/pull/353) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (2 weeks ago)
 - [Fix cygwin](https://github.com/jkroepke/helm-diff/pull/2) on [jkroepke/helm-diff](https://github.com/jkroepke/helm-diff) (2 weeks ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add Java 17](https://github.com/adorsys-containers/java/pull/4) on [adorsys-containers/java](https://github.com/adorsys-containers/java) (2 weeks ago)
 - [Add java 17](https://github.com/adorsys-containers/ci-build/pull/10) on [adorsys-containers/ci-build](https://github.com/adorsys-containers/ci-build) (2 weeks ago)
 - [Migrate to GH actions](https://github.com/databus23/helm-diff/pull/335) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (3 weeks ago)
-- [Migrate to GH actions](https://github.com/jkroepke/helm-diff/pull/1) on [jkroepke/helm-diff](https://github.com/jkroepke/helm-diff) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
