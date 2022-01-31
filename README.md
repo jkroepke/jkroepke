@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-0.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.1), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.2), today) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0-rc1), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([maddy-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/maddy-2.0.0), 1 day ago) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-3.11.0](https://github.com/grafana/helm-charts/releases/tag/promtail-3.11.0), 3 days ago) - 
