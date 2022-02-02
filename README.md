@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.3), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.13.1](https://github.com/grafana/helm-charts/releases/tag/tempo-0.13.1), today) - 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.0), today) - Customization of kubernetes YAML configurations
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-31.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-31.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-notifications-1.8.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-notifications-1.8.0), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.42.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.42.2), 1 day ago) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0-rc1), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([maddy-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/maddy-2.0.0), 3 days ago) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.94.0), 5 days ago) - Terraform provider for Azure Resource Manager
