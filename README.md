@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([api/v0.11.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/api%2Fv0.11.1), today) - Customization of kubernetes YAML configurations
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.1), today) - Customization of kubernetes YAML configurations
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.4.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.13.1](https://github.com/grafana/helm-charts/releases/tag/tempo-0.13.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-notifications-1.8.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-notifications-1.8.0), 1 day ago) - ArgoProj Helm Charts
