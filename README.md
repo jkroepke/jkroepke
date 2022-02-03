@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.15.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.15.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.2), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.0](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.2), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.12.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.12.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0-rc2), 1 day ago) - Declarative continuous deployment for Kubernetes.
