@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.0](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.1.2), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.12.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.12.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0-rc2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0-rc2), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.1), 1 day ago) - Customization of kubernetes YAML configurations
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.13.1](https://github.com/grafana/helm-charts/releases/tag/tempo-0.13.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-notifications-1.8.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-notifications-1.8.0), 2 days ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([maddy-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/maddy-2.0.0), 4 days ago) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.94.0), 6 days ago) - Terraform provider for Azure Resource Manager
