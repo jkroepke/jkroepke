@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.10](https://github.com/argoproj/argo-cd/releases/tag/v2.1.10), today) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), today) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([grocy-8.3.0](https://github.com/k8s-at-home/charts/releases/tag/grocy-8.3.0), 1 day ago) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.3), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.95.0), 1 day ago) - Terraform provider for Azure Resource Manager
