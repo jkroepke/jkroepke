@@ -30,19 +30,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([api/v0.11.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/api%2Fv0.11.2), today) - Customization of kubernetes YAML configurations
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-32.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-32.2.0), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([traefik-forward-auth-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/traefik-forward-auth-2.0.0), today) - Helm charts for applications you run at home
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-32.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-32.1.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.5), 4 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.95.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.43.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.43.0), 6 days ago) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.12.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.12.0), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.1), 1 week ago) - Customization of kubernetes YAML configurations
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.76](https://github.com/stakater/Forecastle/releases/tag/v1.0.76), 1 week ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.1](https://github.com/databus23/helm-diff/releases/tag/v3.4.1), 2 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
 #### 🔨 My recent Pull Requests
 
+- [Allow spring boot properties in string substitution.](https://github.com/adorsys/keycloak-config-cli/pull/635) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [Improve helm-secrets wrapper](https://github.com/jkroepke/helm-secrets/pull/186) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Supports YAML anchors in realm import file](https://github.com/adorsys/keycloak-config-cli/pull/633) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (3 days ago)
 - [fix: Add secrets protocol to allowedHelmRemoteProtocols ](https://github.com/argoproj/argo-cd/pull/8398) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: switch from node-jose to jose](https://github.com/adorsys/jwe-codec/pull/24) on [adorsys/jwe-codec](https://github.com/adorsys/jwe-codec) (1 week ago)
 - [Proposal: Add function systemd::systemd_escape](https://github.com/voxpupuli/puppet-systemd/pull/243) on [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) (2 weeks ago)
 - [Fix installation on cygwin](https://github.com/databus23/helm-diff/pull/353) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (3 weeks ago)
-- [Fix cygwin](https://github.com/jkroepke/helm-diff/pull/2) on [jkroepke/helm-diff](https://github.com/jkroepke/helm-diff) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
