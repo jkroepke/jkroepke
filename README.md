@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.21.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.21.3), today) - 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.2), today) - Customization of kubernetes YAML configurations
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-32.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-32.2.0), 1 day ago) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([traefik-forward-auth-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/traefik-forward-auth-2.0.0), 1 day ago) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.95.0), 6 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.43.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.43.0), 1 week ago) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.12.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.12.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.76](https://github.com/stakater/Forecastle/releases/tag/v1.0.76), 2 weeks ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.1](https://github.com/databus23/helm-diff/releases/tag/v3.4.1), 2 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
