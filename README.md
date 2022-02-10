@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([scrypted-0.1.0](https://github.com/k8s-at-home/charts/releases/tag/scrypted-0.1.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.1](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.1), today) - 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.2), today) - Customization of kubernetes YAML configurations
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 1 day ago) - ArgoProj Helm Charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([traefik-forward-auth-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/traefik-forward-auth-2.0.0), 1 day ago) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.95.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.12.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.12.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
