@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.0.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.1](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.0.0), today) - Prometheus community Helm charts
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.2), today) - Customization of kubernetes YAML configurations
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 1 day ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([traefik-forward-auth-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/traefik-forward-auth-2.0.0), 1 day ago) - Helm charts for applications you run at home
