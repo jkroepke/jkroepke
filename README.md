@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.21.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.21.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.1](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.0.0), today) - Prometheus community Helm charts
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.2), today) - Customization of kubernetes YAML configurations
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-32.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-32.2.0), 1 day ago) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([traefik-forward-auth-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/traefik-forward-auth-2.0.0), 1 day ago) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.5](https://github.com/argoproj/argo-cd/releases/tag/v2.2.5), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.95.0), 6 days ago) - Terraform provider for Azure Resource Manager
