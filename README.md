@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.14.0](https://github.com/grafana/helm-charts/releases/tag/tempo-0.14.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.96.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.2.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.21.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.21.4), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([scrypted-0.1.0](https://github.com/k8s-at-home/charts/releases/tag/scrypted-0.1.0), 1 day ago) - Helm charts for applications you run at home
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.2), 1 day ago) - Customization of kubernetes YAML configurations
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.10.1), 2 days ago) - ArgoProj Helm Charts
