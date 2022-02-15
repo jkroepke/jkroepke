@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([puppeteer-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/puppeteer-1.0.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.6.0), 1 day ago) - Prometheus community Helm charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-3.0.1](https://github.com/k8s-at-home/charts/releases/tag/dendrite-3.0.1), 1 day ago) - Helm charts for applications you run at home
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.7.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.7.0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.78](https://github.com/stakater/Forecastle/releases/tag/v1.0.78), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.2](https://github.com/databus23/helm-diff/releases/tag/v3.4.2), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (today)
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. (2 days ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 month ago)
 - [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure Key Vault (App Gateway / Front Door / CDN / others) (1 month ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jlandowner/kustomize-ingress](https://github.com/jlandowner/kustomize-ingress) -  (2 months ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 months ago)
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. https://karpenter.sh (2 months ago)
-- [kedacore/keda](https://github.com/kedacore/keda) -  KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes  (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
