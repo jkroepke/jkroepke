@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update ArgoCD Integration to match the new capabilities on ArgoCD 2.3](https://github.com/jkroepke/helm-secrets/pull/191) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update dependencies](https://github.com/javamachr/sonar-gitlab-plugin/pull/22) on [javamachr/sonar-gitlab-plugin](https://github.com/javamachr/sonar-gitlab-plugin) (2 days ago)
 - [Optimize CloneUtils](https://github.com/adorsys/keycloak-config-cli/pull/638) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (4 days ago)
 - [Add keycloak 17](https://github.com/adorsys/keycloak-config-cli/pull/637) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Improve helm-secrets wrapper](https://github.com/jkroepke/helm-secrets/pull/186) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Supports YAML anchors in realm import file](https://github.com/adorsys/keycloak-config-cli/pull/633) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 - [fix: Add secrets protocol to allowedHelmRemoteProtocols ](https://github.com/argoproj/argo-cd/pull/8398) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (1 week ago)
-- [Handle nested role composites](https://github.com/adorsys/keycloak-config-cli/pull/631) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 
 #### ⭐ Recent Stars
 
