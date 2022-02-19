@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([influxdb-exporter-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/influxdb-exporter-1.0.0), today) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-0.14.1](https://github.com/grafana/helm-charts/releases/tag/tempo-0.14.1), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.97.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.97.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.6), 2 days ago) - ArgoProj Helm Charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([seafile-2.0.1](https://github.com/k8s-at-home/charts/releases/tag/seafile-2.0.1), 2 days ago) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-2.1.0), 4 days ago) - Prometheus community Helm charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.7.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.7.0), 5 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.78](https://github.com/stakater/Forecastle/releases/tag/v1.0.78), 6 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
