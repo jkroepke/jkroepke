@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.6.3](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.6.3), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.11.0), today) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([radarr-16.0.1](https://github.com/k8s-at-home/charts/releases/tag/radarr-16.0.1), today) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.10.1](https://github.com/grafana/helm-charts/releases/tag/loki-2.10.1), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.97.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.97.0), 2 days ago) - Terraform provider for Azure Resource Manager
