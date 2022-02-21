@@ -19,18 +19,18 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/keycloak-10338](https://github.com/jkroepke/keycloak-10338) -  (today)
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (4 days ago)
-- [adorsys-containers/node](https://github.com/adorsys-containers/node) - Base image for distribute node applications (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
+- [adorsys-containers/node](https://github.com/adorsys-containers/node) - Base image for distribute node applications (1 week ago)
 - [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) - Find similar issues like CVE-2022-24348 (2 weeks ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
 - [adorsys-containers/ci-build](https://github.com/adorsys-containers/ci-build) - Generic build image for CI builds (2 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
 - [adorsys-containers/mailout](https://github.com/adorsys-containers/mailout) - MTA designed to run inside secure openshift environment (1 month ago)
-- [adorsys-containers/config](https://github.com/adorsys-containers/config) - configuration for our module sync (1 month ago)
+- [adorsys-containers/s3-tools](https://github.com/adorsys-containers/s3-tools) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([influxdb-exporter-1.0.1](https://github.com/k8s-at-home/charts/releases/tag/influxdb-exporter-1.0.1), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([frigate-8.0.0](https://github.com/k8s-at-home/charts/releases/tag/frigate-8.0.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.4.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.10.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.10.1](https://github.com/grafana/helm-charts/releases/tag/loki-2.10.1), 2 days ago) - 
