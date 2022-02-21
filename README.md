@@ -69,7 +69,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
-- [long-nguyen-ts](https://github.com/long-nguyen-ts)
+- [longnbao](https://github.com/longnbao)
 - [glyptho](https://github.com/glyptho)
 - [rfashwall](https://github.com/rfashwall)
 - [VoipSip](https://github.com/VoipSip)
