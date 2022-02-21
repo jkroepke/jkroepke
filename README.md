@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/keycloak-10338](https://github.com/jkroepke/keycloak-10338) -  (today)
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (4 days ago)
 - [adorsys-containers/node](https://github.com/adorsys-containers/node) - Base image for distribute node applications (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
@@ -25,8 +26,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [adorsys-containers/ci-build](https://github.com/adorsys-containers/ci-build) - Generic build image for CI builds (2 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
 - [adorsys-containers/mailout](https://github.com/adorsys-containers/mailout) - MTA designed to run inside secure openshift environment (1 month ago)
-- [adorsys-containers/test-applications](https://github.com/adorsys-containers/test-applications) - various test applications to test the functionality of containers (1 month ago)
-- [adorsys-containers/s3-tools](https://github.com/adorsys-containers/s3-tools) -  (1 month ago)
+- [adorsys-containers/config](https://github.com/adorsys-containers/config) - configuration for our module sync (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
