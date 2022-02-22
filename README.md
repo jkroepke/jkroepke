@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.4.0), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([tdarr-4.3.1](https://github.com/k8s-at-home/charts/releases/tag/tdarr-4.3.1), today) - Helm charts for applications you run at home
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.4.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.10.0), 2 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.10.1](https://github.com/grafana/helm-charts/releases/tag/loki-2.10.1), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.97.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.97.0), 4 days ago) - Terraform provider for Azure Resource Manager
@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Improve creation of components](https://github.com/adorsys/keycloak-config-cli/pull/647) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
+- [Manage only known Clients Authorization Resources](https://github.com/adorsys/keycloak-config-cli/pull/646) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [Update ArgoCD Integration to match the new capabilities on ArgoCD 2.3](https://github.com/jkroepke/helm-secrets/pull/191) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Update dependencies](https://github.com/javamachr/sonar-gitlab-plugin/pull/22) on [javamachr/sonar-gitlab-plugin](https://github.com/javamachr/sonar-gitlab-plugin) (1 week ago)
 - [Optimize CloneUtils](https://github.com/adorsys/keycloak-config-cli/pull/638) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add hardening for values file paths](https://github.com/jkroepke/helm-secrets/pull/188) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Allow spring boot properties in string substitution.](https://github.com/adorsys/keycloak-config-cli/pull/635) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 - [Improve helm-secrets wrapper](https://github.com/jkroepke/helm-secrets/pull/186) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Supports YAML anchors in realm import file](https://github.com/adorsys/keycloak-config-cli/pull/633) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
-- [fix: Add secrets protocol to allowedHelmRemoteProtocols ](https://github.com/argoproj/argo-cd/pull/8398) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
