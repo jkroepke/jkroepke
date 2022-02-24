@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Run helm-secrets without bats in CI](https://github.com/jkroepke/helm-secrets/pull/196) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Run helm-secrets on WSL](https://github.com/jkroepke/helm-secrets/pull/196) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Improve creation of components](https://github.com/adorsys/keycloak-config-cli/pull/647) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 days ago)
 - [Manage only known Clients Authorization Resources](https://github.com/adorsys/keycloak-config-cli/pull/646) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 days ago)
 - [Update ArgoCD Integration to match the new capabilities on ArgoCD 2.3](https://github.com/jkroepke/helm-secrets/pull/191) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
