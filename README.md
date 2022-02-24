@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.16.0), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([rtsp-to-web-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/rtsp-to-web-2.0.0), today) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.4), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.1.2), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.7), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.97.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.97.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.7.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.7.0), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
