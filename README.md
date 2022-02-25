@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.4.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.98.0), today) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([rtsp-to-web-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/rtsp-to-web-2.0.0), 1 day ago) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.4), 2 days ago) - 
