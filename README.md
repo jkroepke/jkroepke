@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([blocky-10.1.1](https://github.com/k8s-at-home/charts/releases/tag/blocky-10.1.1), 1 day ago) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([frigate-8.0.0](https://github.com/k8s-at-home/charts/releases/tag/frigate-8.0.0), today) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.8), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.5.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.98.0), 2 days ago) - Terraform provider for Azure Resource Manager
