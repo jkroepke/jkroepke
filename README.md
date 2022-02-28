@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Support for fine granted authz policies](https://github.com/adorsys/keycloak-config-cli/pull/650) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [Run helm-secrets on WSL](https://github.com/jkroepke/helm-secrets/pull/196) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Improve creation of components](https://github.com/adorsys/keycloak-config-cli/pull/647) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (6 days ago)
 - [Manage only known Clients Authorization Resources](https://github.com/adorsys/keycloak-config-cli/pull/646) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add keycloak 17](https://github.com/adorsys/keycloak-config-cli/pull/637) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
 - [Fix nodejs](https://github.com/adorsys-containers/node/pull/7) on [adorsys-containers/node](https://github.com/adorsys-containers/node) (2 weeks ago)
 - [Add hardening for values file paths](https://github.com/jkroepke/helm-secrets/pull/188) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Allow spring boot properties in string substitution.](https://github.com/adorsys/keycloak-config-cli/pull/635) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
