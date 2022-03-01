@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.5.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.0.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.7.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.7.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.23.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.23.0), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([frigate-8.0.0](https://github.com/k8s-at-home/charts/releases/tag/frigate-8.0.0), 2 days ago) - Helm charts for applications you run at home
