@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/keycloak-10338](https://github.com/jkroepke/keycloak-10338) -  (1 week ago)
@@ -26,14 +27,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [adorsys-containers/ci-build](https://github.com/adorsys-containers/ci-build) - Generic build image for CI builds (4 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
 - [adorsys-containers/mailout](https://github.com/adorsys-containers/mailout) - MTA designed to run inside secure openshift environment (1 month ago)
-- [adorsys-containers/s3-tools](https://github.com/adorsys-containers/s3-tools) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.11.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.16.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.23.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.23.0), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([frigate-8.0.0](https://github.com/k8s-at-home/charts/releases/tag/frigate-8.0.0), 2 days ago) - Helm charts for applications you run at home
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.33.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.33.8), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.98.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.7.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.7.0), 2 weeks ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.78](https://github.com/stakater/Forecastle/releases/tag/v1.0.78), 2 weeks ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
