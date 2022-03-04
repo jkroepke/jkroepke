@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Redyou75](https://github.com/Redyou75)
 - [longnbao](https://github.com/longnbao)
 - [glyptho](https://github.com/glyptho)
 - [rfashwall](https://github.com/rfashwall)
 - [VoipSip](https://github.com/VoipSip)
-- [DiegoAll](https://github.com/DiegoAll)
 
 #### 💬 Feedback
 
