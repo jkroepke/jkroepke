@@ -19,6 +19,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (5 days ago)
 - [jkroepke/keycloak-10338](https://github.com/jkroepke/keycloak-10338) -  (1 week ago)
 - [adorsys-containers/node](https://github.com/adorsys-containers/node) - Base image for distribute node applications (3 weeks ago)
@@ -26,17 +27,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 month ago)
 - [adorsys-containers/ci-build](https://github.com/adorsys-containers/ci-build) - Generic build image for CI builds (1 month ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 month ago)
-- [adorsys-containers/mailout](https://github.com/adorsys-containers/mailout) - MTA designed to run inside secure openshift environment (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.1), today) - ArgoProj Helm Charts
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.8.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.8.0), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), today) - Declarative continuous deployment for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-33.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-33.2.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.11.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.11.2), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.23.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.23.2), 1 day ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([photoprism-6.4.0](https://github.com/k8s-at-home/charts/releases/tag/photoprism-6.4.0), 2 days ago) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.98.0), 1 week ago) - Terraform provider for Azure Resource Manager
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.7.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.7.0), 2 weeks ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.78](https://github.com/stakater/Forecastle/releases/tag/v1.0.78), 3 weeks ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.2](https://github.com/databus23/helm-diff/releases/tag/v3.4.2), 3 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v4.5.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize%2Fv4.5.2), 3 weeks ago) - Customization of kubernetes YAML configurations
