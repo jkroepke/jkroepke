@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.1.6](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.1.6), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.45.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.45.1), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-12.1.0](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-12.1.0), 1 day ago) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.6.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.2), 2 days ago) - ArgoProj Helm Charts
