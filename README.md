@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove openvpn::deploy](https://github.com/voxpupuli/puppet-openvpn/pull/424) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (today)
 - [fix(argo-cd): Use upstream entrypoint.sh](https://github.com/argoproj/argo-helm/pull/1159) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
 - [Revert comment out rm -rf &#34;${TMPDIR}&#34;](https://github.com/jkroepke/helm-secrets/pull/201) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [feat(argo-cd): Allow override docker entrypoint for argocd-repo-server](https://github.com/argoproj/argo-helm/pull/1158) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Improve creation of components](https://github.com/adorsys/keycloak-config-cli/pull/647) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
 - [Manage only known Clients Authorization Resources](https://github.com/adorsys/keycloak-config-cli/pull/646) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
 - [Update ArgoCD Integration to match the new capabilities on ArgoCD 2.3](https://github.com/jkroepke/helm-secrets/pull/191) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Update dependencies](https://github.com/javamachr/sonar-gitlab-plugin/pull/22) on [javamachr/sonar-gitlab-plugin](https://github.com/javamachr/sonar-gitlab-plugin) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
