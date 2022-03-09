@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (2 days ago)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (3 days ago)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [jkroepke/keycloak-10338](https://github.com/jkroepke/keycloak-10338) -  (2 weeks ago)
 - [adorsys-containers/node](https://github.com/adorsys-containers/node) - Base image for distribute node applications (3 weeks ago)
@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.45.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.45.1), today) - 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-12.1.0](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-12.1.0), 1 day ago) - Helm charts for applications you run at home
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.6.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.2), 2 days ago) - ArgoProj Helm Charts
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.8.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.8.0), 2 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), 2 days ago) - Declarative continuous deployment for Kubernetes.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.24.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.24.1), 1 day ago) - 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-12.1.0](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-12.1.0), 2 days ago) - Helm charts for applications you run at home
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.6.0), 2 days ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.2), 3 days ago) - ArgoProj Helm Charts
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.8.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.8.0), 3 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.0](https://github.com/argoproj/argo-cd/releases/tag/v2.3.0), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.98.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.78](https://github.com/stakater/Forecastle/releases/tag/v1.0.78), 3 weeks ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.2](https://github.com/databus23/helm-diff/releases/tag/v3.4.2), 3 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -43,20 +43,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/202) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [Remove openvpn::deploy](https://github.com/voxpupuli/puppet-openvpn/pull/424) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (today)
-- [fix(argo-cd): Use upstream entrypoint.sh](https://github.com/argoproj/argo-helm/pull/1159) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
-- [Revert comment out rm -rf &#34;${TMPDIR}&#34;](https://github.com/jkroepke/helm-secrets/pull/201) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
-- [feat(argo-cd): Allow override docker entrypoint for argocd-repo-server](https://github.com/argoproj/argo-helm/pull/1158) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (3 days ago)
-- [Clarify docs about import.remove-default-role-from-user](https://github.com/adorsys/keycloak-config-cli/pull/659) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (4 days ago)
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/202) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Remove openvpn::deploy](https://github.com/voxpupuli/puppet-openvpn/pull/424) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 day ago)
+- [fix(argo-cd): Use upstream entrypoint.sh](https://github.com/argoproj/argo-helm/pull/1159) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (4 days ago)
+- [Revert comment out rm -rf &#34;${TMPDIR}&#34;](https://github.com/jkroepke/helm-secrets/pull/201) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [feat(argo-cd): Allow override docker entrypoint for argocd-repo-server](https://github.com/argoproj/argo-helm/pull/1158) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (4 days ago)
+- [Clarify docs about import.remove-default-role-from-user](https://github.com/adorsys/keycloak-config-cli/pull/659) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (5 days ago)
 - [Support for fine granted authz policies](https://github.com/adorsys/keycloak-config-cli/pull/650) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
-- [Run helm-secrets on WSL](https://github.com/jkroepke/helm-secrets/pull/196) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
+- [Run helm-secrets on WSL](https://github.com/jkroepke/helm-secrets/pull/196) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Improve creation of components](https://github.com/adorsys/keycloak-config-cli/pull/647) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
 - [Manage only known Clients Authorization Resources](https://github.com/adorsys/keycloak-config-cli/pull/646) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets. (1 week ago)
+- [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets. (2 weeks ago)
 - [eirslett/frontend-maven-plugin](https://github.com/eirslett/frontend-maven-plugin) - &#34;Maven-node-grunt-gulp-npm-node-plugin to end all maven-node-grunt-gulp-npm-plugins.&#34; A Maven plugin that downloads/installs Node and NPM locally, runs NPM install, Grunt, Gulp and/or Karma. (2 weeks ago)
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (3 weeks ago)
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. (3 weeks ago)
