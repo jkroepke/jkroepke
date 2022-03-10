@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.3), today) - ArgoProj Helm Charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.8.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.8.1), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.7](https://github.com/argoproj/argo-cd/releases/tag/v2.2.7), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.24.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.24.1), 2 days ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-12.1.0](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-12.1.0), 3 days ago) - Helm charts for applications you run at home
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.2), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.98.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.78](https://github.com/stakater/Forecastle/releases/tag/v1.0.78), 3 weeks ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.2](https://github.com/databus23/helm-diff/releases/tag/v3.4.2), 3 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
