@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([paperless-8.5.0](https://github.com/k8s-at-home/charts/releases/tag/paperless-8.5.0), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([signal-cli-rest-api-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/signal-cli-rest-api-1.0.0), today) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.99.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), today) - Declarative continuous deployment for Kubernetes.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-3.35.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-3.35.3), 1 day ago) - ArgoProj Helm Charts
