@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python &amp; Django (today)
 - [poseidon/terraform-render-bootstrap](https://github.com/poseidon/terraform-render-bootstrap) - Low-level bootstrap a Kubernetes control plane with Terraform (part of Typhoon) (1 day ago)
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (3 days ago)
 - [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets. (2 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 month ago)
 - [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure Key Vault (App Gateway / Front Door / CDN / others) (2 months ago)
 - [plexsystems/sinker](https://github.com/plexsystems/sinker) - A tool to sync images from one container registry to another (2 months ago)
-- [google/zx](https://github.com/google/zx) - Replace Bash with JavaScript (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
