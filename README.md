@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.24.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.24.0-rc.0), today) - Prometheus Alertmanager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.11.0), 2 days ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([otel-collector-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/otel-collector-1.0.0), 2 days ago) - Helm charts for applications you run at home
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.24.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.24.1), 1 week ago) - 
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.78](https://github.com/stakater/Forecastle/releases/tag/v1.0.78), 1 month ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.2](https://github.com/databus23/helm-diff/releases/tag/v3.4.2), 1 month ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.12.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.12.0), 1 month ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
