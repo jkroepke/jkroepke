@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.11.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.11.0), 2 days ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([otel-collector-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/otel-collector-1.0.0), 2 days ago) - Helm charts for applications you run at home
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.0.0), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.99.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.1](https://github.com/argoproj/argo-cd/releases/tag/v2.3.1), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v4.8.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v4.8.1), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Test for #671](https://github.com/adorsys/keycloak-config-cli/pull/674) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [Java Client: Add fine granted permissions for role-by-id and identity providers](https://github.com/jkroepke/keycloak/pull/1) on [jkroepke/keycloak](https://github.com/jkroepke/keycloak) (4 days ago)
 - [Java Client: Add fine granted permissions for role-by-id and identity providers](https://github.com/keycloak/keycloak/pull/10724) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (4 days ago)
 - [wip: debug](https://github.com/adorsys/keycloak-config-cli/pull/666) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix(argo-cd): Use upstream entrypoint.sh](https://github.com/argoproj/argo-helm/pull/1159) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
 - [Revert comment out rm -rf &#34;${TMPDIR}&#34;](https://github.com/jkroepke/helm-secrets/pull/201) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [feat(argo-cd): Allow override docker entrypoint for argocd-repo-server](https://github.com/argoproj/argo-helm/pull/1158) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (1 week ago)
-- [Clarify docs about import.remove-default-role-from-user](https://github.com/adorsys/keycloak-config-cli/pull/659) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 
 #### ⭐ Recent Stars
 
