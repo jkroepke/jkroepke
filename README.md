@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.1.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.1.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.8.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.8.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.5), 2 days ago) - 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.24.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.24.0-rc.0), 2 days ago) - Prometheus Alertmanager
