@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.2.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.5.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.8.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.8.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.5), 2 days ago) - 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.24.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.24.0-rc.0), 2 days ago) - Prometheus Alertmanager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([otel-collector-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/otel-collector-1.0.0), 4 days ago) - Helm charts for applications you run at home
