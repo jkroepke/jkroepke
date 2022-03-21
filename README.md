@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.7.0), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([influxdb-exporter-1.0.2](https://github.com/k8s-at-home/charts/releases/tag/influxdb-exporter-1.0.2), 1 day ago) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.2.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.2.1), 3 days ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.5.0), 3 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.5), 5 days ago) - 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.24.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.24.0-rc.0), 5 days ago) - Prometheus Alertmanager
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v2.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v2.99.0), 1 week ago) - Terraform provider for Azure Resource Manager
