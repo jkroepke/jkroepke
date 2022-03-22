@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.6), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.46.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.46.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.7.0), today) - Prometheus community Helm charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.0.0-rc0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.0.0-rc0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([influxdb-exporter-1.0.2](https://github.com/k8s-at-home/charts/releases/tag/influxdb-exporter-1.0.2), 2 days ago) - Helm charts for applications you run at home
