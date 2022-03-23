@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.8](https://github.com/argoproj/argo-cd/releases/tag/v2.2.8), today) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), today) - Declarative continuous deployment for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.46.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.46.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.7.0), 1 day ago) - Prometheus community Helm charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.0.0-rc0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.0.0-rc0), 2 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
