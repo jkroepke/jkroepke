@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.0.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.0.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.0.1), today) - Terraform provider for Azure Resource Manager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.5.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.5.4), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.12.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.12.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.46.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.46.2), 1 day ago) - 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 1 day ago) - Declarative continuous deployment for Kubernetes.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Prevent resource leakage on keycloak connection failure](https://github.com/adorsys/keycloak-config-cli/pull/683) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [Upgrade to keycloak 17.0.1](https://github.com/adorsys/keycloak-config-cli/pull/682) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [Remove jboss repository and do not push latest on pre-release](https://github.com/adorsys/keycloak-config-cli/pull/681) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [v5: Drop Java 8 and Refactor file import](https://github.com/adorsys/keycloak-config-cli/pull/677) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Java Client: Add fine granted permissions for role-by-id and identity providers](https://github.com/keycloak/keycloak/pull/10724) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (1 week ago)
 - [wip: debug](https://github.com/adorsys/keycloak-config-cli/pull/666) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
 - [Use known user id for updating users](https://github.com/adorsys/keycloak-config-cli/pull/664) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/202) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
