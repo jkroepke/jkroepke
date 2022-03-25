@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.46.4](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.46.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.0.4](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.0.4), today) - 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.24.0](https://github.com/prometheus/alertmanager/releases/tag/v0.24.0), today) - Prometheus Alertmanager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.0.2), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.0.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.0.1), 1 day ago) - Terraform provider for Azure Resource Manager
