@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.10.2](https://github.com/grafana/helm-charts/releases/tag/loki-2.10.2), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.0.2](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.0.2), today) - Terraform provider for Azure Resource Manager
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.0.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.0.0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.24.0](https://github.com/prometheus/alertmanager/releases/tag/v0.24.0), 1 day ago) - Prometheus Alertmanager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.0.2), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.12.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.12.0), 3 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([influxdb-exporter-1.0.2](https://github.com/k8s-at-home/charts/releases/tag/influxdb-exporter-1.0.2), 6 days ago) - Helm charts for applications you run at home
