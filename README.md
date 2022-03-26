@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Heredoc did not detected](https://github.com/voxpupuli/puppet-lint-strict_indent-check/pull/25) on [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) (today)
+- [add more heredoc examples](https://github.com/jkroepke/puppet-lint-strict_indent-check/pull/1) on [jkroepke/puppet-lint-strict_indent-check](https://github.com/jkroepke/puppet-lint-strict_indent-check) (today)
 - [Prevent resource leakage on keycloak connection failure](https://github.com/adorsys/keycloak-config-cli/pull/683) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 days ago)
 - [Upgrade to keycloak 17.0.1](https://github.com/adorsys/keycloak-config-cli/pull/682) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 days ago)
 - [Remove jboss repository and do not push latest on pre-release](https://github.com/adorsys/keycloak-config-cli/pull/681) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Test for #671](https://github.com/adorsys/keycloak-config-cli/pull/674) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 - [Java Client: Add fine granted permissions for role-by-id and identity providers](https://github.com/jkroepke/keycloak/pull/1) on [jkroepke/keycloak](https://github.com/jkroepke/keycloak) (2 weeks ago)
 - [Java Client: Add fine granted permissions for role-by-id and identity providers](https://github.com/keycloak/keycloak/pull/10724) on [keycloak/keycloak](https://github.com/keycloak/keycloak) (2 weeks ago)
-- [wip: debug](https://github.com/adorsys/keycloak-config-cli/pull/666) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
-- [Use known user id for updating users](https://github.com/adorsys/keycloak-config-cli/pull/664) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
