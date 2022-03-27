@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [add CA certificate verification and insecure option](https://github.com/jkroepke/terraform-provider-http/pull/1) on [jkroepke/terraform-provider-http](https://github.com/jkroepke/terraform-provider-http) (today)
+- [add CA certificate verification and insecure option](https://github.com/hashicorp/terraform-provider-http/pull/125) on [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) (today)
 - [internal/resource: enable DualStack for S3 connections](https://github.com/coreos/ignition/pull/1341) on [coreos/ignition](https://github.com/coreos/ignition) (today)
 - [Heredoc did not detected](https://github.com/voxpupuli/puppet-lint-strict_indent-check/pull/25) on [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) (1 day ago)
 - [add more heredoc examples](https://github.com/jkroepke/puppet-lint-strict_indent-check/pull/1) on [jkroepke/puppet-lint-strict_indent-check](https://github.com/jkroepke/puppet-lint-strict_indent-check) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove jboss repository and do not push latest on pre-release](https://github.com/adorsys/keycloak-config-cli/pull/681) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (3 days ago)
 - [v5: Drop Java 8 and Refactor file import](https://github.com/adorsys/keycloak-config-cli/pull/677) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 - [Split TestContainer start in test abstract class](https://github.com/adorsys/keycloak-config-cli/pull/675) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
-- [Test for #671](https://github.com/adorsys/keycloak-config-cli/pull/674) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
-- [Java Client: Add fine granted permissions for role-by-id and identity providers](https://github.com/jkroepke/keycloak/pull/1) on [jkroepke/keycloak](https://github.com/jkroepke/keycloak) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
