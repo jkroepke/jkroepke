@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([recipes-6.4.0](https://github.com/k8s-at-home/charts/releases/tag/recipes-6.4.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.11.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.10.2](https://github.com/grafana/helm-charts/releases/tag/loki-2.10.2), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.0.2](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.0.2), 2 days ago) - Terraform provider for Azure Resource Manager
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.24.0](https://github.com/prometheus/alertmanager/releases/tag/v0.24.0), 3 days ago) - Prometheus Alertmanager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.12.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.12.0), 5 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.2](https://github.com/argoproj/argo-cd/releases/tag/v2.3.2), 5 days ago) - Declarative continuous deployment for Kubernetes.
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([influxdb-exporter-1.0.2](https://github.com/k8s-at-home/charts/releases/tag/influxdb-exporter-1.0.2), 1 week ago) - Helm charts for applications you run at home
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.78](https://github.com/stakater/Forecastle/releases/tag/v1.0.78), 1 month ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.4.2](https://github.com/databus23/helm-diff/releases/tag/v3.4.2), 1 month ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
