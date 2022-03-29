@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([kube-ops-view-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/kube-ops-view-1.0.0), today) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.2.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.2.4), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.1.0), 1 day ago) - Prometheus community Helm charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([gotify-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/gotify-1.0.0), 1 day ago) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-2.10.2](https://github.com/grafana/helm-charts/releases/tag/loki-2.10.2), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.0.2](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.0.2), 3 days ago) - Terraform provider for Azure Resource Manager
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.0.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.0.0), 4 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) - My take on Kubernetes the hard way and way further (today)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (1 day ago)
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python &amp; Django (2 weeks ago)
 - [poseidon/terraform-render-bootstrap](https://github.com/poseidon/terraform-render-bootstrap) - Low-level bootstrap a Kubernetes control plane with Terraform (part of Typhoon) (2 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [alex/what-happens-when](https://github.com/alex/what-happens-when) - An attempt to answer the age old interview question &#34;What happens when you type google.com into your browser and press enter?&#34; (1 month ago)
 - [komodorio/validkube](https://github.com/komodorio/validkube) - ValidKube combines the best open-source tools to help ensure Kubernetes YAML best practices, hygiene &amp; security. (1 month ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (2 months ago)
-- [shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure Key Vault (App Gateway / Front Door / CDN / others) (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
