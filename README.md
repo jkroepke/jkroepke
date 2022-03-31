@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) -  (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/keycloak-environment-resource-version](https://github.com/jkroepke/keycloak-environment-resource-version) -  (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
@@ -26,11 +27,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (6 days ago)
 - [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (3 weeks ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (3 weeks ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.8](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.8), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.47.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.47.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.13.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.0.1), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([babybuddy-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/babybuddy-1.0.0), today) - Helm charts for applications you run at home
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Initial commit of amazon-eks-pod-identity-webhook](https://github.com/jkroepke/helm-charts/pull/1) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [Dockerfile(arm64): Remove ETCD_UNSUPPORTED_ARCH](https://github.com/etcd-io/etcd/pull/13847) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (3 days ago)
 - [add CA certificate verification and insecure option](https://github.com/jkroepke/terraform-provider-http/pull/1) on [jkroepke/terraform-provider-http](https://github.com/jkroepke/terraform-provider-http) (4 days ago)
 - [add CA certificate verification and insecure option](https://github.com/hashicorp/terraform-provider-http/pull/125) on [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Prevent resource leakage on keycloak connection failure](https://github.com/adorsys/keycloak-config-cli/pull/683) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 - [Upgrade to keycloak 17.0.1](https://github.com/adorsys/keycloak-config-cli/pull/682) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 - [Remove jboss repository and do not push latest on pre-release](https://github.com/adorsys/keycloak-config-cli/pull/681) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
-- [v5: Drop Java 8 and Refactor file import](https://github.com/adorsys/keycloak-config-cli/pull/677) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 
 #### ⭐ Recent Stars
 
