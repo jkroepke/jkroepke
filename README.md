@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Added amazon-eks-pod-identity-webhook 1.0.0](https://github.com/jkroepke/helm-charts/pull/9) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [Fix typo in README.md](https://github.com/helm/chart-testing-action/pull/84) on [helm/chart-testing-action](https://github.com/helm/chart-testing-action) (1 day ago)
 - [Fix CI](https://github.com/jkroepke/helm-charts/pull/8) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 day ago)
 - [Initial commit of amazon-eks-pod-identity-webhook](https://github.com/jkroepke/helm-charts/pull/1) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [internal/resource: enable DualStack for S3 connections](https://github.com/coreos/ignition/pull/1341) on [coreos/ignition](https://github.com/coreos/ignition) (5 days ago)
 - [Heredoc did not detected](https://github.com/voxpupuli/puppet-lint-strict_indent-check/pull/25) on [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) (6 days ago)
 - [add more heredoc examples](https://github.com/jkroepke/puppet-lint-strict_indent-check/pull/1) on [jkroepke/puppet-lint-strict_indent-check](https://github.com/jkroepke/puppet-lint-strict_indent-check) (6 days ago)
-- [Prevent resource leakage on keycloak connection failure](https://github.com/adorsys/keycloak-config-cli/pull/683) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 
 #### ⭐ Recent Stars
 
