@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-0.1.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-0.1.0), 1 day ago) - 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.1), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.47.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.47.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.13.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.0.1), 1 day ago) - Prometheus community Helm charts
