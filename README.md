@@ -16,7 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) -  (today)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/keycloak-environment-resource-version](https://github.com/jkroepke/keycloak-environment-resource-version) -  (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 days ago)
@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.1), today) - 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.2](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.2), today) - Collection of charts used in my projects
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.47.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.47.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.13.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.0.1), 1 day ago) - Prometheus community Helm charts
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix README.md](https://github.com/jkroepke/helm-charts/pull/10) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [Added amazon-eks-pod-identity-webhook 1.0.0](https://github.com/jkroepke/helm-charts/pull/9) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [Fix typo in README.md](https://github.com/helm/chart-testing-action/pull/84) on [helm/chart-testing-action](https://github.com/helm/chart-testing-action) (1 day ago)
 - [Fix CI](https://github.com/jkroepke/helm-charts/pull/8) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [add CA certificate verification and insecure option](https://github.com/hashicorp/terraform-provider-http/pull/125) on [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) (5 days ago)
 - [internal/resource: enable DualStack for S3 connections](https://github.com/coreos/ignition/pull/1341) on [coreos/ignition](https://github.com/coreos/ignition) (5 days ago)
 - [Heredoc did not detected](https://github.com/voxpupuli/puppet-lint-strict_indent-check/pull/25) on [voxpupuli/puppet-lint-strict_indent-check](https://github.com/voxpupuli/puppet-lint-strict_indent-check) (6 days ago)
-- [add more heredoc examples](https://github.com/jkroepke/puppet-lint-strict_indent-check/pull/1) on [jkroepke/puppet-lint-strict_indent-check](https://github.com/jkroepke/puppet-lint-strict_indent-check) (6 days ago)
 
 #### ⭐ Recent Stars
 
