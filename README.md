@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.7.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.25.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.25.0), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.4.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.4.1), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.79](https://github.com/stakater/Forecastle/releases/tag/v1.0.79), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dsmr-reader-6.0.0](https://github.com/k8s-at-home/charts/releases/tag/dsmr-reader-6.0.0), 2 days ago) - Helm charts for applications you run at home
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.2](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.2), 2 days ago) - Collection of charts used in my projects
