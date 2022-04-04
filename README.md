@@ -41,6 +41,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chart: Add extraVolumes and extraVolumeMounts](https://github.com/aws/amazon-vpc-cni-k8s/pull/1949) on [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) (today)
+- [[aws-vpc-cni] Add extraVolumeMounts and extraVolumes](https://github.com/aws/eks-charts/pull/721) on [aws/eks-charts](https://github.com/aws/eks-charts) (today)
 - [Add environment and securityContexts](https://github.com/kubernetes/cloud-provider-aws/pull/328) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (2 days ago)
 - [Dump realm configuration on TRACE log level](https://github.com/adorsys/keycloak-config-cli/pull/692) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 days ago)
 - [fix README.md](https://github.com/jkroepke/helm-charts/pull/10) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (3 days ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix CI](https://github.com/jkroepke/helm-charts/pull/8) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (4 days ago)
 - [Initial commit of amazon-eks-pod-identity-webhook](https://github.com/jkroepke/helm-charts/pull/1) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (4 days ago)
 - [Dockerfile(arm64): Remove ETCD_UNSUPPORTED_ARCH](https://github.com/etcd-io/etcd/pull/13847) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 week ago)
-- [add CA certificate verification and insecure option](https://github.com/jkroepke/terraform-provider-http/pull/1) on [jkroepke/terraform-provider-http](https://github.com/jkroepke/terraform-provider-http) (1 week ago)
-- [add CA certificate verification and insecure option](https://github.com/hashicorp/terraform-provider-http/pull/125) on [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) (1 week ago)
 
 #### ⭐ Recent Stars
 
