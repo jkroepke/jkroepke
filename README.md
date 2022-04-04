@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.25.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.25.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.0.5](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.0.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.8.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.0), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.79](https://github.com/stakater/Forecastle/releases/tag/v1.0.79), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
