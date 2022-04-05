@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix merge multiple pom imports](https://github.com/aquasecurity/go-dep-parser/pull/91) on [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) (today)
 - [chart: Add extraVolumes and extraVolumeMounts](https://github.com/aws/amazon-vpc-cni-k8s/pull/1949) on [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) (1 day ago)
 - [[aws-vpc-cni] Add extraVolumeMounts and extraVolumes](https://github.com/aws/eks-charts/pull/721) on [aws/eks-charts](https://github.com/aws/eks-charts) (1 day ago)
 - [Add environment and securityContexts](https://github.com/kubernetes/cloud-provider-aws/pull/328) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix typo in README.md](https://github.com/helm/chart-testing-action/pull/84) on [helm/chart-testing-action](https://github.com/helm/chart-testing-action) (5 days ago)
 - [Fix CI](https://github.com/jkroepke/helm-charts/pull/8) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (5 days ago)
 - [Initial commit of amazon-eks-pod-identity-webhook](https://github.com/jkroepke/helm-charts/pull/1) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (5 days ago)
-- [Dockerfile(arm64): Remove ETCD_UNSUPPORTED_ARCH](https://github.com/etcd-io/etcd/pull/13847) on [etcd-io/etcd](https://github.com/etcd-io/etcd) (1 week ago)
 
 #### ⭐ Recent Stars
 
