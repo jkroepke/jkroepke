@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chart: Add extraVolumes and extraVolumeMounts](https://github.com/kubernetes/cloud-provider-aws/pull/333) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (today)
 - [tpl function related errors](https://github.com/jkroepke/helm-charts/pull/12) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [Expose pod hostNetwork](https://github.com/jkroepke/helm-charts/pull/11) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [Add minimum sonarqube version note for latest release](https://github.com/javamachr/sonar-gitlab-plugin/pull/25) on [javamachr/sonar-gitlab-plugin](https://github.com/javamachr/sonar-gitlab-plugin) (today)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add environment and securityContexts](https://github.com/kubernetes/cloud-provider-aws/pull/328) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (3 days ago)
 - [Dump realm configuration on TRACE log level](https://github.com/adorsys/keycloak-config-cli/pull/692) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (3 days ago)
 - [fix README.md](https://github.com/jkroepke/helm-charts/pull/10) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (4 days ago)
-- [Added amazon-eks-pod-identity-webhook 1.0.0](https://github.com/jkroepke/helm-charts/pull/9) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
