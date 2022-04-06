@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-4.0.0](https://github.com/k8s-at-home/charts/releases/tag/dendrite-4.0.0), today) - Helm charts for applications you run at home
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.0.3), 1 day ago) - Collection of charts used in my projects
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-13.0.0](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-13.0.0), 1 day ago) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.4](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.4), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.8.0), 2 days ago) - Prometheus community Helm charts
