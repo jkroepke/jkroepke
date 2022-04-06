@@ -18,13 +18,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) - Dependency Parser for Multiple Programming Languages (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [aquasecurity/fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers (today)
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) -  (5 days ago)
 - [jkroepke/keycloak-environment-resource-version](https://github.com/jkroepke/keycloak-environment-resource-version) -  (6 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [coreos/ignition](https://github.com/coreos/ignition) - First boot installer and configuration tool (1 week ago)
-- [voxpupuli/puppet-systemd](https://github.com/voxpupuli/puppet-systemd) - Puppet module to manage systemd (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/trivy/pull/1959) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (today)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/fanal/pull/457) on [aquasecurity/fanal](https://github.com/aquasecurity/fanal) (today)
 - [chart: Add extraVolumes and extraVolumeMounts](https://github.com/kubernetes/cloud-provider-aws/pull/333) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (1 day ago)
 - [tpl function related errors](https://github.com/jkroepke/helm-charts/pull/12) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chart: Add extraVolumes and extraVolumeMounts](https://github.com/aws/amazon-vpc-cni-k8s/pull/1949) on [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) (2 days ago)
 - [[aws-vpc-cni] Add extraVolumeMounts and extraVolumes](https://github.com/aws/eks-charts/pull/721) on [aws/eks-charts](https://github.com/aws/eks-charts) (2 days ago)
 - [Add environment and securityContexts](https://github.com/kubernetes/cloud-provider-aws/pull/328) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (4 days ago)
-- [Dump realm configuration on TRACE log level](https://github.com/adorsys/keycloak-config-cli/pull/692) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (4 days ago)
 
 #### ⭐ Recent Stars
 
