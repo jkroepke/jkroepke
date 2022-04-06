@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.26.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.26.0), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.25.3](https://github.com/aquasecurity/trivy/releases/tag/v0.25.3), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-4.0.0](https://github.com/k8s-at-home/charts/releases/tag/dendrite-4.0.0), today) - Helm charts for applications you run at home
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.0.3), 1 day ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.0), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.4](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.4), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.8.0), 2 days ago) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.79](https://github.com/stakater/Forecastle/releases/tag/v1.0.79), 4 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 1 week ago) - Declarative continuous deployment for Kubernetes.
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for dnsPolicy to the Helm chart](https://github.com/postfinance/kubelet-csr-approver/pull/45) on [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) (today)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/trivy/pull/1959) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (today)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/fanal/pull/457) on [aquasecurity/fanal](https://github.com/aquasecurity/fanal) (today)
 - [chart: Add extraVolumes and extraVolumeMounts](https://github.com/kubernetes/cloud-provider-aws/pull/333) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix merge multiple pom imports](https://github.com/aquasecurity/go-dep-parser/pull/91) on [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) (1 day ago)
 - [chart: Add extraVolumes and extraVolumeMounts](https://github.com/aws/amazon-vpc-cni-k8s/pull/1949) on [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) (2 days ago)
 - [[aws-vpc-cni] Add extraVolumeMounts and extraVolumes](https://github.com/aws/eks-charts/pull/721) on [aws/eks-charts](https://github.com/aws/eks-charts) (2 days ago)
-- [Add environment and securityContexts](https://github.com/kubernetes/cloud-provider-aws/pull/328) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (4 days ago)
 
 #### ⭐ Recent Stars
 
