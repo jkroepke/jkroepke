@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.7.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.7.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.6](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.6), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.1), today) - Prometheus community Helm charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.1](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.1), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-13.0.1](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-13.0.1), today) - Helm charts for applications you run at home
