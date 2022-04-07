@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Bump amazon-ssm-agent to 3.1.1208.0](https://github.com/flatcar-linux/coreos-overlay/pull/1800) on [flatcar-linux/coreos-overlay](https://github.com/flatcar-linux/coreos-overlay) (today)
 - [Add support for dnsPolicy to the Helm chart](https://github.com/postfinance/kubelet-csr-approver/pull/45) on [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) (1 day ago)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/trivy/pull/1959) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (1 day ago)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/fanal/pull/457) on [aquasecurity/fanal](https://github.com/aquasecurity/fanal) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add minimum sonarqube version note for latest release](https://github.com/javamachr/sonar-gitlab-plugin/pull/25) on [javamachr/sonar-gitlab-plugin](https://github.com/javamachr/sonar-gitlab-plugin) (2 days ago)
 - [Fix merge multiple pom imports](https://github.com/aquasecurity/go-dep-parser/pull/91) on [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) (2 days ago)
 - [chart: Add extraVolumes and extraVolumeMounts](https://github.com/aws/amazon-vpc-cni-k8s/pull/1949) on [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) (3 days ago)
-- [[aws-vpc-cni] Add extraVolumeMounts and extraVolumes](https://github.com/aws/eks-charts/pull/721) on [aws/eks-charts](https://github.com/aws/eks-charts) (3 days ago)
 
 #### ⭐ Recent Stars
 
