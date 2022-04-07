@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-13.0.1](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-13.0.1), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.9.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.26.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.26.0), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.25.3](https://github.com/aquasecurity/trivy/releases/tag/v0.25.3), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-4.0.0](https://github.com/k8s-at-home/charts/releases/tag/dendrite-4.0.0), 1 day ago) - Helm charts for applications you run at home
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.0.3), 2 days ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.0), 2 days ago) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.79](https://github.com/stakater/Forecastle/releases/tag/v1.0.79), 5 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
