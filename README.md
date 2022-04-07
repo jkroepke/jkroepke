@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add initial support for Flatcar Linux](https://github.com/aws/amazon-ssm-agent/pull/439) on [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) (today)
 - [Bump amazon-ssm-agent to 3.1.1208.0](https://github.com/flatcar-linux/coreos-overlay/pull/1800) on [flatcar-linux/coreos-overlay](https://github.com/flatcar-linux/coreos-overlay) (today)
 - [Add support for dnsPolicy to the Helm chart](https://github.com/postfinance/kubelet-csr-approver/pull/45) on [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) (1 day ago)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/trivy/pull/1959) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Expose pod hostNetwork](https://github.com/jkroepke/helm-charts/pull/11) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 days ago)
 - [Add minimum sonarqube version note for latest release](https://github.com/javamachr/sonar-gitlab-plugin/pull/25) on [javamachr/sonar-gitlab-plugin](https://github.com/javamachr/sonar-gitlab-plugin) (2 days ago)
 - [Fix merge multiple pom imports](https://github.com/aquasecurity/go-dep-parser/pull/91) on [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) (2 days ago)
-- [chart: Add extraVolumes and extraVolumeMounts](https://github.com/aws/amazon-vpc-cni-k8s/pull/1949) on [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) (3 days ago)
 
 #### ⭐ Recent Stars
 
