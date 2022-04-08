@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.47.4](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.47.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.9.0), today) - Prometheus community Helm charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.1.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.1.0), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.1.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.1.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.6](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.6), 1 day ago) - 
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.1](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.1), 1 day ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-13.0.1](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-13.0.1), 1 day ago) - Helm charts for applications you run at home
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.25.3](https://github.com/aquasecurity/trivy/releases/tag/v0.25.3), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
