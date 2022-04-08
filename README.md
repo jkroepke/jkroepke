@@ -15,19 +15,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 days ago)
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (2 days ago)
 - [aquasecurity/fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers (2 days ago)
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 days ago)
 - [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) - Dependency Parser for Multiple Programming Languages (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (3 days ago)
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) -  (1 week ago)
 - [jkroepke/keycloak-environment-resource-version](https://github.com/jkroepke/keycloak-environment-resource-version) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.1.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.1.0), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.1.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.1.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.6](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.6), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.1), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.0.3), 3 days ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.0), 3 days ago) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.79](https://github.com/stakater/Forecastle/releases/tag/v1.0.79), 6 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.3](https://github.com/argoproj/argo-cd/releases/tag/v2.3.3), 1 week ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
