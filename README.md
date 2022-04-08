@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Better documentation of helm.valuesFileSchemes](https://github.com/jkroepke/helm-secrets/pull/206) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [fix sonar findings](https://github.com/adorsys/keycloak-config-cli/pull/699) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (today)
 - [Add initial support for Flatcar Linux](https://github.com/aws/amazon-ssm-agent/pull/439) on [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) (1 day ago)
 - [Bump amazon-ssm-agent to 3.1.1208.0](https://github.com/flatcar-linux/coreos-overlay/pull/1800) on [flatcar-linux/coreos-overlay](https://github.com/flatcar-linux/coreos-overlay) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chart: Add extraVolumes and extraVolumeMounts](https://github.com/kubernetes/cloud-provider-aws/pull/333) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (3 days ago)
 - [tpl function related errors](https://github.com/jkroepke/helm-charts/pull/12) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (3 days ago)
 - [Expose pod hostNetwork](https://github.com/jkroepke/helm-charts/pull/11) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (3 days ago)
-- [Add minimum sonarqube version note for latest release](https://github.com/javamachr/sonar-gitlab-plugin/pull/25) on [javamachr/sonar-gitlab-plugin](https://github.com/javamachr/sonar-gitlab-plugin) (3 days ago)
 
 #### ⭐ Recent Stars
 
