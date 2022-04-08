@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-simple-scalable-0.4.0](https://github.com/grafana/helm-charts/releases/tag/loki-simple-scalable-0.4.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.8.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.8.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.9.0), today) - Prometheus community Helm charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.1.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.1.0), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.1.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.1.0), today) - Terraform provider for Azure Resource Manager
