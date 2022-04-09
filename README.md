@@ -28,13 +28,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([zalando-postgres-cluster-3.2.1](https://github.com/k8s-at-home/charts/releases/tag/zalando-postgres-cluster-3.2.1), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.2.0), today) - Prometheus community Helm charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.0-alpha.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.0-alpha.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.8.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.8.0), 1 day ago) - 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.1.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.1.0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.1.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.1.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.1](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.1), 2 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-13.0.1](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-13.0.1), 2 days ago) - Helm charts for applications you run at home
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.25.3](https://github.com/aquasecurity/trivy/releases/tag/v0.25.3), 3 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.0.3), 4 days ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.0), 4 days ago) - ArgoProj Helm Charts
