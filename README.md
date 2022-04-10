@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([zalando-postgres-cluster-3.2.1](https://github.com/k8s-at-home/charts/releases/tag/zalando-postgres-cluster-3.2.1), 1 day ago) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([theme-park-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/theme-park-1.0.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.2.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.0-alpha.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.0-alpha.0), 1 day ago) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.8.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.8.0), 2 days ago) - 
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [helm chart: Added extraVolumes and extraVolumeMounts](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/pull/1204) on [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) (today)
 - [Fix RBAC, if OwnerReferencesPermissionEnforcement Admission Controller is active](https://github.com/aws/karpenter/pull/1653) on [aws/karpenter](https://github.com/aws/karpenter) (1 day ago)
 - [Better documentation of helm.valuesFileSchemes](https://github.com/jkroepke/helm-secrets/pull/206) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [fix sonar findings](https://github.com/adorsys/keycloak-config-cli/pull/699) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/trivy/pull/1959) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (4 days ago)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/fanal/pull/457) on [aquasecurity/fanal](https://github.com/aquasecurity/fanal) (4 days ago)
 - [chart: Add extraVolumes and extraVolumeMounts](https://github.com/kubernetes/cloud-provider-aws/pull/333) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (5 days ago)
-- [tpl function related errors](https://github.com/jkroepke/helm-charts/pull/12) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
