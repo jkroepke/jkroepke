@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chart: Added extraVolumes and extraVolumeMounts](https://github.com/aws/karpenter/pull/1654) on [aws/karpenter](https://github.com/aws/karpenter) (today)
 - [helm chart: Added extraVolumes and extraVolumeMounts](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/pull/1204) on [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) (today)
 - [Fix RBAC, if OwnerReferencesPermissionEnforcement Admission Controller is active](https://github.com/aws/karpenter/pull/1653) on [aws/karpenter](https://github.com/aws/karpenter) (1 day ago)
 - [Better documentation of helm.valuesFileSchemes](https://github.com/jkroepke/helm-secrets/pull/206) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add support for dnsPolicy to the Helm chart](https://github.com/postfinance/kubelet-csr-approver/pull/45) on [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) (4 days ago)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/trivy/pull/1959) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (4 days ago)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/fanal/pull/457) on [aquasecurity/fanal](https://github.com/aquasecurity/fanal) (4 days ago)
-- [chart: Add extraVolumes and extraVolumeMounts](https://github.com/kubernetes/cloud-provider-aws/pull/333) on [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) (5 days ago)
 
 #### ⭐ Recent Stars
 
