@@ -28,6 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.2](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.2), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.25.4](https://github.com/aquasecurity/trivy/releases/tag/v0.25.4), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.48.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.48.1), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([theme-park-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/theme-park-1.0.0), 1 day ago) - Helm charts for applications you run at home
@@ -35,8 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.0-alpha.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.0-alpha.0), 2 days ago) - 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.1.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.1.0), 3 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.1.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.1.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.1](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.1), 4 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.25.3](https://github.com/aquasecurity/trivy/releases/tag/v0.25.3), 5 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.0.3), 6 days ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [jom-2021](https://github.com/jom-2021)
 - [aacecandev](https://github.com/aacecandev)
 - [gmYusuf](https://github.com/gmYusuf)
 - [Redyou75](https://github.com/Redyou75)
 - [longnbao](https://github.com/longnbao)
-- [glyptho](https://github.com/glyptho)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
