@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Do not depend on docker](https://github.com/nce/k8s-hard-way/pull/7) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (today)
 - [chart: Added extraVolumes and extraVolumeMounts](https://github.com/aws/karpenter/pull/1654) on [aws/karpenter](https://github.com/aws/karpenter) (1 day ago)
 - [helm chart: Added extraVolumes and extraVolumeMounts](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/pull/1204) on [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) (1 day ago)
 - [Fix RBAC, if OwnerReferencesPermissionEnforcement Admission Controller is active](https://github.com/aws/karpenter/pull/1653) on [aws/karpenter](https://github.com/aws/karpenter) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Bump amazon-ssm-agent to 3.1.1208.0](https://github.com/flatcar-linux/coreos-overlay/pull/1800) on [flatcar-linux/coreos-overlay](https://github.com/flatcar-linux/coreos-overlay) (4 days ago)
 - [Add support for dnsPolicy to the Helm chart](https://github.com/postfinance/kubelet-csr-approver/pull/45) on [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) (5 days ago)
 - [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/trivy/pull/1959) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (5 days ago)
-- [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/fanal/pull/457) on [aquasecurity/fanal](https://github.com/aquasecurity/fanal) (5 days ago)
 
 #### ⭐ Recent Stars
 
