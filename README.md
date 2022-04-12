@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.13.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.13.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.10.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([fluent-bit-2.3.1](https://github.com/grafana/helm-charts/releases/tag/fluent-bit-2.3.1), today) - 
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.2](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.2), 1 day ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.0-alpha.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.0-alpha.0), 3 days ago) - 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.1.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.1.0), 4 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.1.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.1.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.0.3), 1 week ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
 
