@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.2), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), today) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.13.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.13.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.10.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([fluent-bit-2.3.1](https://github.com/grafana/helm-charts/releases/tag/fluent-bit-2.3.1), today) - 
