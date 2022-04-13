@@ -15,9 +15,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 day ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (4 days ago)
 - [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) - Dependency Parser for Multiple Programming Languages (1 week ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (1 week ago)
@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.26.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.26.1), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.7](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.7), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 1 day ago) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.13.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.13.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-2.10.0), 1 day ago) - Prometheus community Helm charts
