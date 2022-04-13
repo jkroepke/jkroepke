@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.8](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.8), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.1.8](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.1.8), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.2.1), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([unifi-4.8.0](https://github.com/k8s-at-home/charts/releases/tag/unifi-4.8.0), today) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 1 day ago) - ArgoProj Helm Charts
