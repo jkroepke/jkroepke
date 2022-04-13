@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([paperless-8.6.1](https://github.com/k8s-at-home/charts/releases/tag/paperless-8.6.1), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([unifi-4.8.0](https://github.com/k8s-at-home/charts/releases/tag/unifi-4.8.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.9.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-0.1.7](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-0.1.7), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 1 day ago) - ArgoProj Helm Charts
