@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/10867) on [helm/helm](https://github.com/helm/helm) (today)
 - [Change detection of sops file](https://github.com/jkroepke/helm-secrets/pull/211) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/210) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Do not depend on docker](https://github.com/nce/k8s-hard-way/pull/7) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Better documentation of helm.valuesFileSchemes](https://github.com/jkroepke/helm-secrets/pull/206) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [fix sonar findings](https://github.com/adorsys/keycloak-config-cli/pull/699) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 - [Add initial support for Flatcar Linux](https://github.com/aws/amazon-ssm-agent/pull/439) on [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) (1 week ago)
-- [Bump amazon-ssm-agent to 3.1.1208.0](https://github.com/flatcar-linux/coreos-overlay/pull/1800) on [flatcar-linux/coreos-overlay](https://github.com/flatcar-linux/coreos-overlay) (1 week ago)
 
 #### ⭐ Recent Stars
 
