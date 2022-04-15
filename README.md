@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.10](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.10), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.4](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.4), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([factorio-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/factorio-1.0.0), 1 day ago) - Helm charts for applications you run at home
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-34.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-34.10.0), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 3 days ago) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.13.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.13.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.2](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.2), 4 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
