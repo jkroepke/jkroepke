@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.6.4](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.6.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.26.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.26.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([factorio-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/factorio-1.0.0), 1 day ago) - Helm charts for applications you run at home
