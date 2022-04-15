@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.26.0](https://github.com/aquasecurity/trivy/releases/tag/v0.26.0), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.26.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.26.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 1 day ago) - Terraform provider for Azure Resource Manager
@@ -35,7 +36,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 3 days ago) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.13.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.13.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.2](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.2), 4 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.25.4](https://github.com/aquasecurity/trivy/releases/tag/v0.25.4), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.0-alpha.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.0-alpha.0), 6 days ago) - 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.1.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.1.0), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 
