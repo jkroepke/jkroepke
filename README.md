@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/210) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Do not depend on docker](https://github.com/nce/k8s-hard-way/pull/7) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (4 days ago)
 - [chart: Added extraVolumes and extraVolumeMounts](https://github.com/aws/karpenter/pull/1654) on [aws/karpenter](https://github.com/aws/karpenter) (5 days ago)
 - [helm chart: Added extraVolumes and extraVolumeMounts](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/pull/1204) on [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) (5 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add initial support for Flatcar Linux](https://github.com/aws/amazon-ssm-agent/pull/439) on [aws/amazon-ssm-agent](https://github.com/aws/amazon-ssm-agent) (1 week ago)
 - [Bump amazon-ssm-agent to 3.1.1208.0](https://github.com/flatcar-linux/coreos-overlay/pull/1800) on [flatcar-linux/coreos-overlay](https://github.com/flatcar-linux/coreos-overlay) (1 week ago)
 - [Add support for dnsPolicy to the Helm chart](https://github.com/postfinance/kubelet-csr-approver/pull/45) on [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) (1 week ago)
-- [fix(pom): merge multiple pom imports in a good manner](https://github.com/aquasecurity/trivy/pull/1959) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (1 week ago)
 
 #### ⭐ Recent Stars
 
