@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.4), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.26.0](https://github.com/aquasecurity/trivy/releases/tag/v0.26.0), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.26.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.26.3), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.2), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([factorio-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/factorio-1.0.0), 2 days ago) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.3), 4 days ago) - ArgoProj Helm Charts
