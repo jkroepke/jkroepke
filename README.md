@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.2.1](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.2.1), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([bazarr-10.4.0](https://github.com/k8s-at-home/charts/releases/tag/bazarr-10.4.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.4), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.26.0](https://github.com/aquasecurity/trivy/releases/tag/v0.26.0), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.26.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.26.3), 2 days ago) - 
