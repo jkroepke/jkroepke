@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([home-assistant-13.0.2](https://github.com/k8s-at-home/charts/releases/tag/home-assistant-13.0.2), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([miniflux-4.6.1](https://github.com/k8s-at-home/charts/releases/tag/miniflux-4.6.1), today) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.0.4](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.0.4), today) - 
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.2](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.2), 1 day ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.4), 2 days ago) - Prometheus community Helm charts
