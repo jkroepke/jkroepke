@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-4.1.0](https://github.com/k8s-at-home/charts/releases/tag/dendrite-4.1.0), today) - Helm charts for applications you run at home
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.11](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.11), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.7.0), today) - Prometheus community Helm charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([miniflux-4.6.1](https://github.com/k8s-at-home/charts/releases/tag/miniflux-4.6.1), 1 day ago) - Helm charts for applications you run at home
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.2](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.2), 2 days ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.26.0](https://github.com/aquasecurity/trivy/releases/tag/v0.26.0), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 5 days ago) - Terraform provider for Azure Resource Manager
