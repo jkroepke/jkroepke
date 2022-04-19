@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [ec ed keys](https://github.com/jkroepke/puppet-openvpn/pull/3) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (today)
 - [Added easyrsa DN mode](https://github.com/jkroepke/puppet-openvpn/pull/2) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (today)
 - [Add better error handling of downloading files](https://github.com/jkroepke/helm-secrets/pull/213) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [v2](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/9) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Do not depend on docker](https://github.com/nce/k8s-hard-way/pull/7) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (1 week ago)
 - [chart: Added extraVolumes and extraVolumeMounts](https://github.com/aws/karpenter/pull/1654) on [aws/karpenter](https://github.com/aws/karpenter) (1 week ago)
 - [helm chart: Added extraVolumes and extraVolumeMounts](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/pull/1204) on [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) (1 week ago)
-- [Fix RBAC, if OwnerReferencesPermissionEnforcement Admission Controller is active](https://github.com/aws/karpenter/pull/1653) on [aws/karpenter](https://github.com/aws/karpenter) (1 week ago)
 
 #### ⭐ Recent Stars
 
