@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add better error handling of downloading files](https://github.com/jkroepke/helm-secrets/pull/213) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [v2](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/9) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (2 days ago)
 - [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/10867) on [helm/helm](https://github.com/helm/helm) (4 days ago)
 - [Change detection of sops file](https://github.com/jkroepke/helm-secrets/pull/211) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
@@ -50,10 +51,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helm chart: Added extraVolumes and extraVolumeMounts](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/pull/1204) on [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) (1 week ago)
 - [Fix RBAC, if OwnerReferencesPermissionEnforcement Admission Controller is active](https://github.com/aws/karpenter/pull/1653) on [aws/karpenter](https://github.com/aws/karpenter) (1 week ago)
 - [Better documentation of helm.valuesFileSchemes](https://github.com/jkroepke/helm-secrets/pull/206) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [fix sonar findings](https://github.com/adorsys/keycloak-config-cli/pull/699) on [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [kris-nova/boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (today)
 - [creativesandbox/puppet](https://github.com/creativesandbox/puppet) -  (3 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [KongZ/piggy](https://github.com/KongZ/piggy) - Piggy is a tool built for supporting AWS Secret Manager with Kubernetes. It has abilities to mutating Pods, unseal secrets and inject into application environment. (2 weeks ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python &amp; Django (1 month ago)
 - [poseidon/terraform-render-bootstrap](https://github.com/poseidon/terraform-render-bootstrap) - Low-level bootstrap a Kubernetes control plane with Terraform (part of Typhoon) (1 month ago)
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors (1 month ago)
-- [SpectralOps/teller](https://github.com/SpectralOps/teller) - A secrets management tool for developers built in Go - never leave your command line for secrets. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
