@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.48.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.48.2), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-4.1.0](https://github.com/k8s-at-home/charts/releases/tag/dendrite-4.1.0), today) - Helm charts for applications you run at home
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.16.11](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.16.11), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.7.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.2](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.2), 2 days ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
