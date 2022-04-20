@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.5), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.48.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.48.2), 1 day ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([dendrite-4.1.0](https://github.com/k8s-at-home/charts/releases/tag/dendrite-4.1.0), 1 day ago) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.4), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.7.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.2](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.2), 3 days ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.26.0](https://github.com/aquasecurity/trivy/releases/tag/v0.26.0), 5 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.2.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.2.0), 6 days ago) - Terraform provider for Azure Resource Manager
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Added support for elliptic curve keys](https://github.com/voxpupuli/puppet-openvpn/pull/431) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (today)
 - [ec ed keys](https://github.com/jkroepke/puppet-openvpn/pull/3) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (1 day ago)
 - [Added easyrsa DN mode](https://github.com/jkroepke/puppet-openvpn/pull/2) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (1 day ago)
 - [Add better error handling of downloading files](https://github.com/jkroepke/helm-secrets/pull/213) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/210) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Do not depend on docker](https://github.com/nce/k8s-hard-way/pull/7) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (1 week ago)
 - [chart: Added extraVolumes and extraVolumeMounts](https://github.com/aws/karpenter/pull/1654) on [aws/karpenter](https://github.com/aws/karpenter) (1 week ago)
-- [helm chart: Added extraVolumes and extraVolumeMounts](https://github.com/kubernetes-sigs/aws-ebs-csi-driver/pull/1204) on [kubernetes-sigs/aws-ebs-csi-driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver) (1 week ago)
 
 #### ⭐ Recent Stars
 
