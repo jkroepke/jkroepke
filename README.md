@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Added support for easyrsa X509 DN mode &#39;cn_only&#39;](https://github.com/voxpupuli/puppet-openvpn/pull/432) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (today)
 - [Added support for elliptic curve keys](https://github.com/voxpupuli/puppet-openvpn/pull/431) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (today)
 - [ec ed keys](https://github.com/jkroepke/puppet-openvpn/pull/3) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (1 day ago)
 - [Added easyrsa DN mode](https://github.com/jkroepke/puppet-openvpn/pull/2) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Change detection of sops file](https://github.com/jkroepke/helm-secrets/pull/211) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/210) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Do not depend on docker](https://github.com/nce/k8s-hard-way/pull/7) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (1 week ago)
-- [chart: Added extraVolumes and extraVolumeMounts](https://github.com/aws/karpenter/pull/1654) on [aws/karpenter](https://github.com/aws/karpenter) (1 week ago)
 
 #### ⭐ Recent Stars
 
