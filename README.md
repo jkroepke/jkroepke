@@ -16,6 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
+- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (1 day ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (3 days ago)
 - [jkroepke/kubernetes-crds](https://github.com/jkroepke/kubernetes-crds) - Various collection to kubernetes CRDS for IntelliJ IDEA (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
@@ -24,11 +25,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (2 weeks ago)
 - [aquasecurity/fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers (2 weeks ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 weeks ago)
-- [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) - Dependency Parser for Multiple Programming Languages (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-simple-1.1.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-simple-1.1.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.0.7](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.0.7), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([prowlarr-4.3.0](https://github.com/k8s-at-home/charts/releases/tag/prowlarr-4.3.0), 1 day ago) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.5), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.4), 2 days ago) - ArgoProj Helm Charts
@@ -41,7 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Added support for easyrsa X509 DN mode &#39;cn_only&#39;](https://github.com/voxpupuli/puppet-openvpn/pull/432) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 day ago)
+- [Add support for easyrsa X509 DN mode &#39;cn_only&#39;](https://github.com/voxpupuli/puppet-openvpn/pull/432) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 day ago)
 - [Add support for elliptic curve keys](https://github.com/voxpupuli/puppet-openvpn/pull/431) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 day ago)
 - [ec ed keys](https://github.com/jkroepke/puppet-openvpn/pull/3) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (2 days ago)
 - [Added easyrsa DN mode](https://github.com/jkroepke/puppet-openvpn/pull/2) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (2 days ago)
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (today)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 day ago)
 - [kris-nova/boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (2 days ago)
 - [creativesandbox/puppet](https://github.com/creativesandbox/puppet) -  (5 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) - My take on Kubernetes the hard way and way further (3 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (3 weeks ago)
 - [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python &amp; Django (1 month ago)
-- [poseidon/terraform-render-bootstrap](https://github.com/poseidon/terraform-render-bootstrap) - Low-level bootstrap a Kubernetes control plane with Terraform (part of Typhoon) (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
