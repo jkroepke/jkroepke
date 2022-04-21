@@ -42,7 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔨 My recent Pull Requests
 
 - [Added support for easyrsa X509 DN mode &#39;cn_only&#39;](https://github.com/voxpupuli/puppet-openvpn/pull/432) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 day ago)
-- [Added support for elliptic curve keys](https://github.com/voxpupuli/puppet-openvpn/pull/431) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 day ago)
+- [Add support for elliptic curve keys](https://github.com/voxpupuli/puppet-openvpn/pull/431) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 day ago)
 - [ec ed keys](https://github.com/jkroepke/puppet-openvpn/pull/3) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (2 days ago)
 - [Added easyrsa DN mode](https://github.com/jkroepke/puppet-openvpn/pull/2) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (2 days ago)
 - [Add better error handling of downloading files](https://github.com/jkroepke/helm-secrets/pull/213) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
