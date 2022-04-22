@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 day ago)
 - [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (2 days ago)
@@ -22,9 +23,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/kubernetes-crds](https://github.com/jkroepke/kubernetes-crds) - Various collection to kubernetes CRDS for IntelliJ IDEA (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak. (1 week ago)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues (2 weeks ago)
+- [aquasecurity/go-dep-parser](https://github.com/aquasecurity/go-dep-parser) - Dependency Parser for Multiple Programming Languages (2 weeks ago)
 - [aquasecurity/fanal](https://github.com/aquasecurity/fanal) - Static Analysis Library for Containers (2 weeks ago)
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([prowlarr-4.3.0](https://github.com/k8s-at-home/charts/releases/tag/prowlarr-4.3.0), 2 days ago) - Helm charts for applications you run at home
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.2](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.2), 5 days ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.26.0](https://github.com/aquasecurity/trivy/releases/tag/v0.26.0), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.0), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.13.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.13.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.2](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.2), 1 week ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
-- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.0-alpha.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.0-alpha.0), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
