@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.7), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.1.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.6), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.3.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.3.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.0.7](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.0.7), 1 day ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([prowlarr-4.3.0](https://github.com/k8s-at-home/charts/releases/tag/prowlarr-4.3.0), 2 days ago) - Helm charts for applications you run at home
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Support spaces in directories](https://github.com/jkroepke/helm-secrets/pull/216) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Add support for easyrsa X509 DN mode &#39;cn_only&#39;](https://github.com/voxpupuli/puppet-openvpn/pull/432) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (2 days ago)
 - [Add support for elliptic curve keys](https://github.com/voxpupuli/puppet-openvpn/pull/431) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (2 days ago)
 - [ec ed keys](https://github.com/jkroepke/puppet-openvpn/pull/3) on [jkroepke/puppet-openvpn](https://github.com/jkroepke/puppet-openvpn) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/10867) on [helm/helm](https://github.com/helm/helm) (1 week ago)
 - [Change detection of sops file](https://github.com/jkroepke/helm-secrets/pull/211) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/210) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Do not depend on docker](https://github.com/nce/k8s-hard-way/pull/7) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (1 week ago)
 
 #### ⭐ Recent Stars
 
