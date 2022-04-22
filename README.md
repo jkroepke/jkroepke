@@ -41,6 +41,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix CI](https://github.com/jkroepke/helm-secrets/pull/218) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [Support spaces in directories](https://github.com/jkroepke/helm-secrets/pull/217) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Support spaces in directories](https://github.com/jkroepke/helm-secrets/pull/216) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Add support for easyrsa X509 DN mode &#39;cn_only&#39;](https://github.com/voxpupuli/puppet-openvpn/pull/432) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (2 days ago)
 - [Add support for elliptic curve keys](https://github.com/voxpupuli/puppet-openvpn/pull/431) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (2 days ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add better error handling of downloading files](https://github.com/jkroepke/helm-secrets/pull/213) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [v2](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/9) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (5 days ago)
 - [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/10867) on [helm/helm](https://github.com/helm/helm) (1 week ago)
-- [Change detection of sops file](https://github.com/jkroepke/helm-secrets/pull/211) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/210) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
