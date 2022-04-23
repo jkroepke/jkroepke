@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.13.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.2.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.2.0), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.7), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.1.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.3.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.3.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([prowlarr-4.3.0](https://github.com/k8s-at-home/charts/releases/tag/prowlarr-4.3.0), 3 days ago) - Helm charts for applications you run at home
