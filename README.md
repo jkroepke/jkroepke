@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([plex-6.2.2](https://github.com/k8s-at-home/charts/releases/tag/plex-6.2.2), 2 days ago) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.2.3](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.2.3), today) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.13.0), 2 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.2.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.2.0), 3 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.1.0), 3 days ago) - Prometheus community Helm charts
