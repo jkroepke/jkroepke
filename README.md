@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.0.8](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.0.8), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.1.2](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.1.2), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([nightscout-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/nightscout-1.0.0), today) - Helm charts for applications you run at home
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.9.0](https://github.com/aws/karpenter/releases/tag/v0.9.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.0](https://github.com/aquasecurity/trivy/releases/tag/v0.27.0), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (today)
 - [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (5 days ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (6 days ago)
 - [kris-nova/boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (4 weeks ago)
 - [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) - My take on Kubernetes the hard way and way further (4 weeks ago)
 - [sigstore/cosign](https://github.com/sigstore/cosign) - Container Signing (4 weeks ago)
-- [healthchecks/healthchecks](https://github.com/healthchecks/healthchecks) - A cron monitoring tool written in Python &amp; Django (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
