@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-2.0.10](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-2.0.10), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.27.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.27.0), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([nightscout-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/nightscout-1.0.0), 1 day ago) - Helm charts for applications you run at home
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.9.0](https://github.com/aws/karpenter/releases/tag/v0.9.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.0](https://github.com/aquasecurity/trivy/releases/tag/v0.27.0), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
