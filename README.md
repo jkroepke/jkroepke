@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.27.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.27.0), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([nightscout-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/nightscout-1.0.0), 1 day ago) - Helm charts for applications you run at home
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.9.0](https://github.com/aws/karpenter/releases/tag/v0.9.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.0](https://github.com/aquasecurity/trivy/releases/tag/v0.27.0), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.0), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-1.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-1.13.0), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.3.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.3.0), 5 days ago) - Terraform provider for Azure Resource Manager
