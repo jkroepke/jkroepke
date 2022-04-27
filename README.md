@@ -29,7 +29,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔭 Latest releases I've contributed to
 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([paperless-8.6.2](https://github.com/k8s-at-home/charts/releases/tag/paperless-8.6.2), today) - Helm charts for applications you run at home
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.28.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.28.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.3), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.9.0](https://github.com/aws/karpenter/releases/tag/v0.9.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
@@ -38,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.2](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.2), 1 week ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.0), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.13.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.13.0), 2 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.2](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.2), 2 weeks ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 
 #### 🔨 My recent Pull Requests
 
