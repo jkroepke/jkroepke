@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([paperless-8.6.2](https://github.com/k8s-at-home/charts/releases/tag/paperless-8.6.2), 1 day ago) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([tdarr-4.4.1](https://github.com/k8s-at-home/charts/releases/tag/tdarr-4.4.1), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.3), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.9.0](https://github.com/aws/karpenter/releases/tag/v0.9.0), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [st3v0rr](https://github.com/st3v0rr)
 - [gmillerkramer](https://github.com/gmillerkramer)
 - [Sally-Prosper](https://github.com/Sally-Prosper)
 - [gylidian](https://github.com/gylidian)
 - [Xnova2moons](https://github.com/Xnova2moons)
-- [jom-2021](https://github.com/jom-2021)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
