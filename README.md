@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.14.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.14.1), today) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([paperless-8.7.1](https://github.com/k8s-at-home/charts/releases/tag/paperless-8.7.1), today) - Helm charts for applications you run at home
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.8), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.4.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.4.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.3), 4 days ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C&#43;&#43; / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby (today)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (today)
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (today)
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (5 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [creativesandbox/puppet](https://github.com/creativesandbox/puppet) -  (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 weeks ago)
 - [KongZ/piggy](https://github.com/KongZ/piggy) - Piggy is a tool built for supporting AWS Secret Manager with Kubernetes. It has abilities to mutating Pods, unseal secrets and inject into application environment. (4 weeks ago)
-- [FairwindsOps/pluto](https://github.com/FairwindsOps/pluto) - A cli tool to help discover deprecated apiVersions in Kubernetes (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
