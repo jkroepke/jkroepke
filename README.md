@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([zwavejs2mqtt-5.3.0](https://github.com/k8s-at-home/charts/releases/tag/zwavejs2mqtt-5.3.0), today) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.14.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.14.1), today) - ArgoProj Helm Charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([paperless-8.7.1](https://github.com/k8s-at-home/charts/releases/tag/paperless-8.7.1), today) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.4.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.4.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.0.3), 4 days ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
