@@ -1,5 +1,5 @@
 # Jan-Otto Kröpke - @jkroepke
-### Cloud Success Manager @ [adorsys](https://github.com/adorsys)
+### Site Reliability Engineer @ [cloudeteer](https://github.com/adorsys)
 
 Hi, welcome to my GitHub profile! 👋
 
