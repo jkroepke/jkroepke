@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([audiobookshelf-1.1.2](https://github.com/k8s-at-home/charts/releases/tag/audiobookshelf-1.1.2), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.17.0), 1 day ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.9.1](https://github.com/aws/karpenter/releases/tag/v0.9.1), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([zwavejs2mqtt-5.3.1](https://github.com/k8s-at-home/charts/releases/tag/zwavejs2mqtt-5.3.1), 2 days ago) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.14.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.14.1), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.4.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.4.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
