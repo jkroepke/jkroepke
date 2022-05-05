@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.1.0), today) - Prometheus community Helm charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([photoprism-6.6.2](https://github.com/k8s-at-home/charts/releases/tag/photoprism-6.6.2), today) - Helm charts for applications you run at home
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.0.0), today) - Prometheus community Helm charts
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([kube-ops-view-1.1.3](https://github.com/k8s-at-home/charts/releases/tag/kube-ops-view-1.1.3), today) - Helm charts for applications you run at home
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.9), 1 day ago) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.9.1](https://github.com/aws/karpenter/releases/tag/v0.9.1), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.4.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.4.0), 6 days ago) - Terraform provider for Azure Resource Manager
