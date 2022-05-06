@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.0), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.5.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.5.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.5.10), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.0.0), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.2](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.2), 2 weeks ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.0), 3 weeks ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.13.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.13.0), 3 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.2](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.2), 3 weeks ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 
 #### 🔨 My recent Pull Requests
 
