@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.14.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.14.3), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.15.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.15.0), today) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([zwavejs2mqtt-5.3.2](https://github.com/k8s-at-home/charts/releases/tag/zwavejs2mqtt-5.3.2), today) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc1), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.8.0), 3 days ago) - Prometheus community Helm charts
