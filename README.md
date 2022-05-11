@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([onedrive-2.3.3](https://github.com/k8s-at-home/charts/releases/tag/onedrive-2.3.3), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.2.0), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.6.0), 1 day ago) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.0](https://github.com/aws/karpenter/releases/tag/v0.10.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([zwavejs2mqtt-5.3.2](https://github.com/k8s-at-home/charts/releases/tag/zwavejs2mqtt-5.3.2), 2 days ago) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc1), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.0), 5 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.5.0), 5 days ago) - Terraform provider for Azure Resource Manager
