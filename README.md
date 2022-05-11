@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fixes val support on windows](https://github.com/jkroepke/helm-secrets/pull/224) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Make ecdh-curve optional](https://github.com/voxpupuli/puppet-openvpn/pull/436) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (4 days ago)
 - [Add Ubuntu 22.04](https://github.com/voxpupuli/beaker-hostgenerator/pull/248) on [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) (1 week ago)
 - [Add Ubuntu 22.04](https://github.com/voxpupuli/puppet-openvpn/pull/435) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix CI](https://github.com/jkroepke/helm-secrets/pull/218) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Fix helm protocol handler on windows](https://github.com/jkroepke/helm-secrets/pull/217) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Support spaces in directories](https://github.com/jkroepke/helm-secrets/pull/216) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Add support for easyrsa X509 DN mode &#39;cn_only&#39;](https://github.com/voxpupuli/puppet-openvpn/pull/432) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
