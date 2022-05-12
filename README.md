@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (4 days ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 week ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [aws/karpenter](https://github.com/aws/karpenter) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity. (2 weeks ago)
@@ -28,21 +28,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.18.0), today) - Prometheus community Helm charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([onedrive-2.3.3](https://github.com/k8s-at-home/charts/releases/tag/onedrive-2.3.3), today) - Helm charts for applications you run at home
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.6.0), 1 day ago) - ArgoProj Helm Charts
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.0](https://github.com/aws/karpenter/releases/tag/v0.10.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc1), 5 days ago) - Declarative continuous deployment for Kubernetes.
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.0), 5 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.5.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.8.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.8.7), 1 day ago) - Prometheus community Helm charts
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([onedrive-2.3.3](https://github.com/k8s-at-home/charts/releases/tag/onedrive-2.3.3), 1 day ago) - Helm charts for applications you run at home
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.27.1](https://github.com/aquasecurity/trivy/releases/tag/v0.27.1), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.6.0), 2 days ago) - ArgoProj Helm Charts
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.0](https://github.com/aws/karpenter/releases/tag/v0.10.0), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc1), 6 days ago) - Declarative continuous deployment for Kubernetes.
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.0), 6 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.5.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.2](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.2), 3 weeks ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.0), 3 weeks ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.0), 4 weeks ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 
 #### 🔨 My recent Pull Requests
 
-- [Fixes val support on windows](https://github.com/jkroepke/helm-secrets/pull/224) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [Make ecdh-curve optional](https://github.com/voxpupuli/puppet-openvpn/pull/436) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (4 days ago)
+- [Fixes val support on windows](https://github.com/jkroepke/helm-secrets/pull/224) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Make ecdh-curve optional](https://github.com/voxpupuli/puppet-openvpn/pull/436) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (5 days ago)
 - [Add Ubuntu 22.04](https://github.com/voxpupuli/beaker-hostgenerator/pull/248) on [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) (1 week ago)
 - [Add Ubuntu 22.04](https://github.com/voxpupuli/puppet-openvpn/pull/435) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 week ago)
 - [Optimize tests execution](https://github.com/jkroepke/helm-secrets/pull/221) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
@@ -54,13 +54,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit (today)
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit (1 day ago)
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (1 week ago)
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C&#43;&#43; / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby (1 week ago)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (1 week ago)
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (1 week ago)
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (2 weeks ago)
-- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (2 weeks ago)
+- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (3 weeks ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (3 weeks ago)
 - [kris-nova/boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (3 weeks ago)
 - [creativesandbox/puppet](https://github.com/creativesandbox/puppet) -  (3 weeks ago)
