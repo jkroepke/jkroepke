@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([vikunja-5.5.3](https://github.com/k8s-at-home/charts/releases/tag/vikunja-5.5.3), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([syslog-ng-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/syslog-ng-1.0.0), today) - Helm charts for applications you run at home
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.5.0](https://github.com/databus23/helm-diff/releases/tag/v3.5.0), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.6.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.0), 2 days ago) - 
