@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-4.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-4.7.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-3.2.0), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.28.0](https://github.com/aquasecurity/trivy/releases/tag/v0.28.0), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([syslog-ng-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/syslog-ng-1.0.0), 2 days ago) - Helm charts for applications you run at home
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.5.0](https://github.com/databus23/helm-diff/releases/tag/v3.5.0), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
