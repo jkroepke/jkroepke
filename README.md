@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([satisfactory-1.1.0](https://github.com/k8s-at-home/charts/releases/tag/satisfactory-1.1.0), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.8.1), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.28.0](https://github.com/aquasecurity/trivy/releases/tag/v0.28.0), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([syslog-ng-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/syslog-ng-1.0.0), 2 days ago) - Helm charts for applications you run at home
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.5.0](https://github.com/databus23/helm-diff/releases/tag/v3.5.0), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.6.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.0), 4 days ago) - 
