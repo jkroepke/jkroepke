@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.9](https://github.com/argoproj/argo-cd/releases/tag/v2.2.9), today) - Declarative continuous deployment for Kubernetes.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.80](https://github.com/stakater/Forecastle/releases/tag/v1.0.80), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([satisfactory-1.1.0](https://github.com/k8s-at-home/charts/releases/tag/satisfactory-1.1.0), 1 day ago) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-5.8.1), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.0), 5 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.6.0), 1 week ago) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.0](https://github.com/aws/karpenter/releases/tag/v0.10.0), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc1](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc1), 1 week ago) - Declarative continuous deployment for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
