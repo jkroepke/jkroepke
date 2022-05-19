@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.6.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.6.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.3.0), today) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.15](https://github.com/argoproj/argo-cd/releases/tag/v2.1.15), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.80](https://github.com/stakater/Forecastle/releases/tag/v1.0.80), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.5.0](https://github.com/databus23/helm-diff/releases/tag/v3.5.0), 5 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.6.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.0), 6 days ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.6.0), 1 week ago) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.0](https://github.com/aws/karpenter/releases/tag/v0.10.0), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
