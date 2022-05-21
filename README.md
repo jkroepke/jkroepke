@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([plex-6.3.3](https://github.com/k8s-at-home/charts/releases/tag/plex-6.3.3), today) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.3.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.15.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.15.2), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.7.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([ombi-11.4.0](https://github.com/k8s-at-home/charts/releases/tag/ombi-11.4.0), 1 day ago) - Helm charts for applications you run at home
 - [coreos/ignition](https://github.com/coreos/ignition) ([v2.14.0](https://github.com/coreos/ignition/releases/tag/v2.14.0), 2 days ago) - First boot installer and configuration tool
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.15](https://github.com/argoproj/argo-cd/releases/tag/v2.1.15), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.80](https://github.com/stakater/Forecastle/releases/tag/v1.0.80), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
