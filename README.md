@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.15.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.15.3), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.6.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.6.4), today) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([plex-6.3.3](https://github.com/k8s-at-home/charts/releases/tag/plex-6.3.3), 1 day ago) - Helm charts for applications you run at home
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.3.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.7.0), 2 days ago) - Terraform provider for Azure Resource Manager
