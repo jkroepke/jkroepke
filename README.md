@@ -54,6 +54,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (today)
+- [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥   (today)
 - [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit (1 week ago)
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (3 weeks ago)
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C&#43;&#43; / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby (3 weeks ago)
@@ -62,8 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (4 weeks ago)
 - [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (1 month ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 month ago)
-- [kris-nova/boopkit](https://github.com/kris-nova/boopkit) - Linux eBPF backdoor over TCP. Spawn reverse shells, RCE, on prior privileged access. Less Honkin, More Tonkin. (1 month ago)
-- [creativesandbox/puppet](https://github.com/creativesandbox/puppet) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
