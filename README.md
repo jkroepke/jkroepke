@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [HIP: Support for multiple yaml documents in stdin/file](https://github.com/helm/community/pull/253) on [helm/community](https://github.com/helm/community) (today)
 - [Prefer gpg4win over builtin gpg installations](https://github.com/jkroepke/helm-secrets/pull/227) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Fixes val support on windows](https://github.com/jkroepke/helm-secrets/pull/224) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Make ecdh-curve optional](https://github.com/voxpupuli/puppet-openvpn/pull/436) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (2 weeks ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Optimize vault tests](https://github.com/jkroepke/helm-secrets/pull/220) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 weeks ago)
 - [Replace dirname with HELM_PLUGIN_DIR](https://github.com/jkroepke/helm-secrets/pull/219) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 weeks ago)
 - [Fix CI](https://github.com/jkroepke/helm-secrets/pull/218) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
-- [Fix helm protocol handler on windows](https://github.com/jkroepke/helm-secrets/pull/217) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 
 #### ⭐ Recent Stars
 
