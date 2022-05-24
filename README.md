@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (1 week ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (3 weeks ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 weeks ago)
