@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.21.1](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.21.1), today) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([vaultwarden-4.2.3](https://github.com/k8s-at-home/charts/releases/tag/vaultwarden-4.2.3), today) - Helm charts for applications you run at home
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.1](https://github.com/aws/karpenter/releases/tag/v0.10.1), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.1), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.1.15](https://github.com/argoproj/argo-cd/releases/tag/v2.1.15), 6 days ago) - Declarative continuous deployment for Kubernetes.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.80](https://github.com/stakater/Forecastle/releases/tag/v1.0.80), 6 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.28.0](https://github.com/aquasecurity/trivy/releases/tag/v0.28.0), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.5.0](https://github.com/databus23/helm-diff/releases/tag/v3.5.0), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
 #### 🔨 My recent Pull Requests
 
