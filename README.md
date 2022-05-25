@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.15.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.15.4), today) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([firefly-iii-0.0.1](https://github.com/k8s-at-home/charts/releases/tag/firefly-iii-0.0.1), today) - Helm charts for applications you run at home
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.21.1](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.21.1), 1 day ago) - 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.1](https://github.com/aws/karpenter/releases/tag/v0.10.1), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.14.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.14.1), 2 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.3.1), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.7.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [coreos/ignition](https://github.com/coreos/ignition) ([v2.14.0](https://github.com/coreos/ignition/releases/tag/v2.14.0), 6 days ago) - First boot installer and configuration tool
