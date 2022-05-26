@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.15.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.15.0), today) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.28.1](https://github.com/aquasecurity/trivy/releases/tag/v0.28.1), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.7.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.7.0), 1 day ago) - ArgoProj Helm Charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.22.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.22.2), 1 day ago) - 
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([firefly-iii-0.0.1](https://github.com/k8s-at-home/charts/releases/tag/firefly-iii-0.0.1), 1 day ago) - Helm charts for applications you run at home
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.1](https://github.com/aws/karpenter/releases/tag/v0.10.1), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
