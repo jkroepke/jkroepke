@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.3.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.4.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.8.0), today) - Terraform provider for Azure Resource Manager
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.2), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.15.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.15.0), 1 day ago) - ArgoProj Helm Charts
