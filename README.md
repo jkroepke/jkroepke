@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([mealie-5.0.1](https://github.com/k8s-at-home/charts/releases/tag/mealie-5.0.1), today) - Helm charts for applications you run at home
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), today) - terraform-provider-echo
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.8.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.0), 1 day ago) - ArgoProj Helm Charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.3.3](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.3.3), 1 day ago) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.8.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.2), 5 days ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.28.1](https://github.com/aquasecurity/trivy/releases/tag/v0.28.1), 5 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
