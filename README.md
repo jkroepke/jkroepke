@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.1.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.1.0), today) - terraform-provider-echo
+- [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), today) - terraform-provider-echo
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.8.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.0), 1 day ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.3.3](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.3.3), 1 day ago) - Helm charts for applications you run at home
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [:zap:](https://github.com/nce/k8s-hard-way/pull/25) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (today)
 - [HIP: Support for multiple yaml documents in stdin/file](https://github.com/helm/community/pull/253) on [helm/community](https://github.com/helm/community) (1 week ago)
 - [Prefer gpg4win over builtin gpg installations](https://github.com/jkroepke/helm-secrets/pull/227) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Fixes val support on windows](https://github.com/jkroepke/helm-secrets/pull/224) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Optimize tests execution](https://github.com/jkroepke/helm-secrets/pull/221) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 - [Optimize vault tests](https://github.com/jkroepke/helm-secrets/pull/220) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 - [Replace dirname with HELM_PLUGIN_DIR](https://github.com/jkroepke/helm-secrets/pull/219) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
-- [Fix CI](https://github.com/jkroepke/helm-secrets/pull/218) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 
 #### ⭐ Recent Stars
 
