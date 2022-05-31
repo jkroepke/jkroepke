@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.0), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([rhasspy-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/rhasspy-1.0.0), today) - Helm charts for applications you run at home
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), today) - terraform-provider-echo
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.8.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.0), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.8.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.2), 5 days ago) - 
