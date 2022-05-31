@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([mealie-5.0.1](https://github.com/k8s-at-home/charts/releases/tag/mealie-5.0.1), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([rhasspy-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/rhasspy-1.0.0), today) - Helm charts for applications you run at home
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), today) - terraform-provider-echo
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.8.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.0), 1 day ago) - ArgoProj Helm Charts
