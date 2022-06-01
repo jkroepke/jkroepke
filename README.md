@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: implement healthcheck for kubernetes probes](https://github.com/prometheus-community/prom-label-proxy/pull/106) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (today)
 - [:zap:](https://github.com/nce/k8s-hard-way/pull/25) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (1 day ago)
 - [HIP: Support for multiple yaml documents in stdin/file](https://github.com/helm/community/pull/253) on [helm/community](https://github.com/helm/community) (1 week ago)
 - [Prefer gpg4win over builtin gpg installations](https://github.com/jkroepke/helm-secrets/pull/227) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -50,14 +51,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add Ubuntu 22.04](https://github.com/voxpupuli/puppet-openvpn/pull/435) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 month ago)
 - [Optimize tests execution](https://github.com/jkroepke/helm-secrets/pull/221) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 - [Optimize vault tests](https://github.com/jkroepke/helm-secrets/pull/220) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
-- [Replace dirname with HELM_PLUGIN_DIR](https://github.com/jkroepke/helm-secrets/pull/219) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 
 #### ⭐ Recent Stars
 
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (3 days ago)
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (1 week ago)
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥   (1 week ago)
-- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Kubernetes-native security toolkit (3 weeks ago)
+- [aquasecurity/starboard](https://github.com/aquasecurity/starboard) - Moved to https://github.com/aquasecurity/trivy-operator (3 weeks ago)
 - [mingrammer/diagrams](https://github.com/mingrammer/diagrams) - :art: Diagram as Code for prototyping cloud system architectures (1 month ago)
 - [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C&#43;&#43; / C# / Go / Java / JavaScript / Lua / Perl / PHP / Python / Ruby (1 month ago)
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (1 month ago)
