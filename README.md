@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.8.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.1), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([handbrake-0.0.1](https://github.com/k8s-at-home/charts/releases/tag/handbrake-0.0.1), today) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc3), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), 1 day ago) - terraform-provider-echo
