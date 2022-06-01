@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.16.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.16.0), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.2), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.1), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([handbrake-0.0.1](https://github.com/k8s-at-home/charts/releases/tag/handbrake-0.0.1), today) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc3), 1 day ago) - Declarative continuous deployment for Kubernetes.
