@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([gatus-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/gatus-1.0.0), today) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([mqtt-exporter-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/mqtt-exporter-1.0.0), today) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.9.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.2), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-2.10.0), 1 day ago) - Prometheus community Helm charts
