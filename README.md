@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.9.1), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([mqtt-exporter-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/mqtt-exporter-1.0.0), today) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.9.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.2), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-2.10.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc4](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc4), 2 days ago) - Declarative continuous deployment for Kubernetes.
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), 3 days ago) - terraform-provider-echo
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.2), 1 week ago) - 
