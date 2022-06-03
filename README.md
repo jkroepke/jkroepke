@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) -  (5 days ago)
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (1 week ago)
 - [deepfence/ThreatMapper](https://github.com/deepfence/ThreatMapper) - 🔥 🔥   Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more. 🔥 🔥   (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes. (1 month ago)
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave (1 month ago)
 - [PolyMC/PolyMC](https://github.com/PolyMC/PolyMC) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (1 month ago)
-- [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) - OpenVPN module for puppet including client config/cert creation (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
