@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.2), today) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.9.1), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([mqtt-exporter-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/mqtt-exporter-1.0.0), today) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.9.0), today) - Terraform provider for Azure Resource Manager
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.2), 1 week ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.28.1](https://github.com/aquasecurity/trivy/releases/tag/v0.28.1), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.1](https://github.com/aws/karpenter/releases/tag/v0.10.1), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [coreos/ignition](https://github.com/coreos/ignition) ([v2.14.0](https://github.com/coreos/ignition/releases/tag/v2.14.0), 2 weeks ago) - First boot installer and configuration tool
 
 #### 🔨 My recent Pull Requests
 
