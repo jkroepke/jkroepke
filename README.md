@@ -15,19 +15,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (2 days ago)
-- [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (4 days ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (4 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
+- [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (4 days ago)
 - [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (2 weeks ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (3 weeks ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 month ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 month ago)
-- [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.2), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.9.1), 1 day ago) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([mqtt-exporter-1.0.0](https://github.com/k8s-at-home/charts/releases/tag/mqtt-exporter-1.0.0), 1 day ago) - Helm charts for applications you run at home
@@ -37,10 +38,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), 4 days ago) - terraform-provider-echo
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.20.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.20.2), 1 week ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.28.1](https://github.com/aquasecurity/trivy/releases/tag/v0.28.1), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.10.1](https://github.com/aws/karpenter/releases/tag/v0.10.1), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
 
+- [Update deps](https://github.com/jkroepke/setup-vals/pull/29) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (today)
 - [promtail: Support set tenant id from labels](https://github.com/grafana/loki/pull/6290) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
 - [Implement general multiline behaviors for custom drivers](https://github.com/jkroepke/helm-secrets/pull/230) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [dep: Update dependencies and golang](https://github.com/prometheus-community/prom-label-proxy/pull/107) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Prefer gpg4win over builtin gpg installations](https://github.com/jkroepke/helm-secrets/pull/227) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Fixes val support on windows](https://github.com/jkroepke/helm-secrets/pull/224) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [Make ecdh-curve optional](https://github.com/voxpupuli/puppet-openvpn/pull/436) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (4 weeks ago)
-- [Add Ubuntu 22.04](https://github.com/voxpupuli/beaker-hostgenerator/pull/248) on [voxpupuli/beaker-hostgenerator](https://github.com/voxpupuli/beaker-hostgenerator) (1 month ago)
 
 #### ⭐ Recent Stars
 
