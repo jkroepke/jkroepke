@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (today)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 day ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
@@ -24,11 +25,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (1 week ago)
 - [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (3 weeks ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 month ago)
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.8.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.2.1), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([unifi-4.10.1](https://github.com/k8s-at-home/charts/releases/tag/unifi-4.10.1), today) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc5), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Send errors in prometheus rest api format](https://github.com/prometheus-community/prom-label-proxy/pull/108) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (today)
 - [Update deps](https://github.com/jkroepke/setup-vals/pull/29) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (3 days ago)
 - [promtail: Support set tenant id from labels](https://github.com/grafana/loki/pull/6290) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
 - [Implement general multiline behaviors for custom drivers](https://github.com/jkroepke/helm-secrets/pull/230) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [HIP: Support for multiple yaml documents in stdin/file](https://github.com/helm/community/pull/253) on [helm/community](https://github.com/helm/community) (2 weeks ago)
 - [Prefer gpg4win over builtin gpg installations](https://github.com/jkroepke/helm-secrets/pull/227) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Fixes val support on windows](https://github.com/jkroepke/helm-secrets/pull/224) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
-- [Make ecdh-curve optional](https://github.com/voxpupuli/puppet-openvpn/pull/436) on [voxpupuli/puppet-openvpn](https://github.com/voxpupuli/puppet-openvpn) (1 month ago)
 
 #### ⭐ Recent Stars
 
