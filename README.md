@@ -21,8 +21,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (5 days ago)
-- [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (1 week ago)
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (1 week ago)
+- [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (1 week ago)
 - [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (3 weeks ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 month ago)
 
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Setup TAP](https://github.com/jkroepke/homebrew-openlens/pull/1) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [feat: Send errors in prometheus rest api format](https://github.com/prometheus-community/prom-label-proxy/pull/108) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (today)
 - [Update deps](https://github.com/jkroepke/setup-vals/pull/29) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (3 days ago)
 - [promtail: Support set tenant id from labels](https://github.com/grafana/loki/pull/6290) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [:zap:](https://github.com/nce/k8s-hard-way/pull/25) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (1 week ago)
 - [HIP: Support for multiple yaml documents in stdin/file](https://github.com/helm/community/pull/253) on [helm/community](https://github.com/helm/community) (2 weeks ago)
 - [Prefer gpg4win over builtin gpg installations](https://github.com/jkroepke/helm-secrets/pull/227) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Fixes val support on windows](https://github.com/jkroepke/helm-secrets/pull/224) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
