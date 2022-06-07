@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.8.0), today) - Prometheus community Helm charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([unifi-4.10.1](https://github.com/k8s-at-home/charts/releases/tag/unifi-4.10.1), today) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc5), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.2), 4 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.9.1), 4 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.9.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.2), 5 days ago) - ArgoProj Helm Charts
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), 1 week ago) - terraform-provider-echo
