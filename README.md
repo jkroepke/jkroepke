@@ -21,8 +21,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (5 days ago)
-- [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (1 week ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (1 week ago)
+- [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (1 week ago)
 - [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (3 weeks ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 month ago)
 
