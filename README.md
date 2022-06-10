@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.9.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.10.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.3), 2 days ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([unifi-4.10.1](https://github.com/k8s-at-home/charts/releases/tag/unifi-4.10.1), 3 days ago) - Helm charts for applications you run at home
