@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (today)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
-- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (6 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-35.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-35.5.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.0.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.3), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.10.0), today) - Terraform provider for Azure Resource Manager
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.8.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.8.3), 2 days ago) - ArgoProj Helm Charts
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([unifi-4.10.1](https://github.com/k8s-at-home/charts/releases/tag/unifi-4.10.1), 3 days ago) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0-rc5](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0-rc5), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.0), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
