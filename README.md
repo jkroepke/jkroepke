@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [openlens 5.5.4](https://github.com/jkroepke/homebrew-openlens/pull/5) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [Tests and Avoid race-conditions on build](https://github.com/jkroepke/homebrew-openlens/pull/4) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 days ago)
 - [Initial](https://github.com/jkroepke/homebrew-openlens/pull/3) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 days ago)
 - [Setup TAP](https://github.com/jkroepke/homebrew-openlens/pull/1) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement general multiline behaviors for custom drivers](https://github.com/jkroepke/helm-secrets/pull/230) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [dep: Update dependencies and golang](https://github.com/prometheus-community/prom-label-proxy/pull/107) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (1 week ago)
 - [feat: implement healthcheck for kubernetes probes](https://github.com/prometheus-community/prom-label-proxy/pull/106) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (1 week ago)
-- [:zap:](https://github.com/nce/k8s-hard-way/pull/25) on [nce/k8s-hard-way](https://github.com/nce/k8s-hard-way) (1 week ago)
 
 #### ⭐ Recent Stars
 
