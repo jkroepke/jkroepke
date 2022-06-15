@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Avoid using wslenv](https://github.com/jkroepke/helm-secrets/pull/232) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [openlens 5.5.4](https://github.com/jkroepke/homebrew-openlens/pull/5) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (5 days ago)
 - [Tests and Avoid race-conditions on build](https://github.com/jkroepke/homebrew-openlens/pull/4) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 - [Initial](https://github.com/jkroepke/homebrew-openlens/pull/3) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [promtail: Support set tenant id from labels](https://github.com/grafana/loki/pull/6290) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [Implement general multiline behaviors for custom drivers](https://github.com/jkroepke/helm-secrets/pull/230) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [dep: Update dependencies and golang](https://github.com/prometheus-community/prom-label-proxy/pull/107) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (1 week ago)
-- [feat: implement healthcheck for kubernetes probes](https://github.com/prometheus-community/prom-label-proxy/pull/106) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
