@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.0](https://github.com/aquasecurity/trivy/releases/tag/v0.29.0), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.11.1](https://github.com/aws/karpenter/releases/tag/v0.11.1), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-36.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.2), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.2), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.10.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.2), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) ([v0.2.0](https://github.com/jkroepke/terraform-provider-echo/releases/tag/v0.2.0), 2 weeks ago) - terraform-provider-echo
 
 #### 🔨 My recent Pull Requests
 
