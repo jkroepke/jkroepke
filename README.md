@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.3), today) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.0](https://github.com/aquasecurity/trivy/releases/tag/v0.29.0), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.11.1](https://github.com/aws/karpenter/releases/tag/v0.11.1), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-36.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.0.2), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.2), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.5.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.5.0), 1 day ago) - A proxy that enforces a given label in a given PromQL query.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([snapcast-0.0.1](https://github.com/k8s-at-home/charts/releases/tag/snapcast-0.0.1), 3 days ago) - Helm charts for applications you run at home
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.0](https://github.com/argoproj/argo-cd/releases/tag/v2.4.0), 6 days ago) - Declarative continuous deployment for Kubernetes.
