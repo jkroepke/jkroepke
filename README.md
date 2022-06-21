@@ -15,12 +15,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (4 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 week ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (2 weeks ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (3 weeks ago)
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (3 weeks ago)
@@ -41,7 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Avoid using wslenv](https://github.com/jkroepke/helm-secrets/pull/232) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
+- [Better handing of /tmp files in windows environments.](https://github.com/jkroepke/helm-secrets/pull/232) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [openlens 5.5.4](https://github.com/jkroepke/homebrew-openlens/pull/5) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 - [Tests and Avoid race-conditions on build](https://github.com/jkroepke/homebrew-openlens/pull/4) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (2 weeks ago)
 - [Initial](https://github.com/jkroepke/homebrew-openlens/pull/3) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (2 weeks ago)
