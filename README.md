@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.1](https://github.com/argoproj/argo-cd/releases/tag/v2.4.1), today) - Declarative continuous deployment for Kubernetes.
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([teamspeak-0.6.0](https://github.com/k8s-at-home/charts/releases/tag/teamspeak-0.6.0), 1 day ago) - Helm charts for applications you run at home
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([photoprism-6.6.4](https://github.com/k8s-at-home/charts/releases/tag/photoprism-6.6.4), today) - Helm charts for applications you run at home
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.5](https://github.com/argoproj/argo-cd/releases/tag/v2.3.5), today) - Declarative continuous deployment for Kubernetes.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.1](https://github.com/aquasecurity/trivy/releases/tag/v0.29.1), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.1), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.17.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.17.0), 4 days ago) - ArgoProj Helm Charts
