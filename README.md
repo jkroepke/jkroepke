@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.2](https://github.com/aquasecurity/trivy/releases/tag/v0.29.2), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.12.0](https://github.com/aws/karpenter/releases/tag/v0.12.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.2](https://github.com/argoproj/argo-cd/releases/tag/v2.4.2), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([photoprism-6.6.4](https://github.com/k8s-at-home/charts/releases/tag/photoprism-6.6.4), 1 day ago) - Helm charts for applications you run at home
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.1](https://github.com/aquasecurity/trivy/releases/tag/v0.29.1), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.1), 2 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.17.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.17.0), 5 days ago) - ArgoProj Helm Charts
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.5.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.5.0), 1 week ago) - A proxy that enforces a given label in a given PromQL query.
