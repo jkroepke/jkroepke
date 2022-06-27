@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.8), today) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.81](https://github.com/stakater/Forecastle/releases/tag/v1.0.81), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.6), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.11.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.3.5](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.3.5), 4 days ago) - Helm charts for applications you run at home
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.2](https://github.com/aquasecurity/trivy/releases/tag/v0.29.2), 5 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
