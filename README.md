@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.82](https://github.com/stakater/Forecastle/releases/tag/v1.0.82), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.1](https://github.com/aws/karpenter/releases/tag/v0.13.1), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.10), today) - ArgoProj Helm Charts
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.0](https://github.com/aws/karpenter/releases/tag/v0.13.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.3), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.81](https://github.com/stakater/Forecastle/releases/tag/v1.0.81), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.11.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.3.5](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.3.5), 5 days ago) - Helm charts for applications you run at home
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.2](https://github.com/aquasecurity/trivy/releases/tag/v0.29.2), 6 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
