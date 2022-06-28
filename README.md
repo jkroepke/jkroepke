@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.82](https://github.com/stakater/Forecastle/releases/tag/v1.0.82), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.83](https://github.com/stakater/Forecastle/releases/tag/v1.0.83), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.1](https://github.com/aws/karpenter/releases/tag/v0.13.1), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.10), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.3), 1 day ago) - Declarative continuous deployment for Kubernetes.
