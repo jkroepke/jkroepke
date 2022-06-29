@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.85](https://github.com/stakater/Forecastle/releases/tag/v1.0.85), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.86](https://github.com/stakater/Forecastle/releases/tag/v1.0.86), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.3](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.3), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.1](https://github.com/aws/karpenter/releases/tag/v0.13.1), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.10), 1 day ago) - ArgoProj Helm Charts
