@@ -28,13 +28,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([prometheus-nut-exporter-5.3.4](https://github.com/k8s-at-home/charts/releases/tag/prometheus-nut-exporter-5.3.4), today) - Helm charts for applications you run at home
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.87](https://github.com/stakater/Forecastle/releases/tag/v1.0.87), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.11), 1 day ago) - ArgoProj Helm Charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.3](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.3), 1 day ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.1](https://github.com/aws/karpenter/releases/tag/v0.13.1), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.3](https://github.com/argoproj/argo-cd/releases/tag/v2.4.3), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.11.0), 1 week ago) - Terraform provider for Azure Resource Manager
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([uptime-kuma-1.3.5](https://github.com/k8s-at-home/charts/releases/tag/uptime-kuma-1.3.5), 1 week ago) - Helm charts for applications you run at home
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.2](https://github.com/aquasecurity/trivy/releases/tag/v0.29.2), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.1), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.5.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.5.0), 2 weeks ago) - A proxy that enforces a given label in a given PromQL query.
