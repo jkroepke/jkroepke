@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([ghost-2.0.0](https://github.com/k8s-at-home/charts/releases/tag/ghost-2.0.0), today) - Helm charts for applications you run at home
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.91](https://github.com/stakater/Forecastle/releases/tag/v1.0.91), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([rhasspy-1.0.1](https://github.com/k8s-at-home/charts/releases/tag/rhasspy-1.0.1), today) - Helm charts for applications you run at home
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.12.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.12.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.11), 2 days ago) - ArgoProj Helm Charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.3](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.3), 2 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
