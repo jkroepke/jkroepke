@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Allow unsupported environments](https://github.com/voxpupuli/puppet-php/pull/662) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (today)
 - [Better handing of /tmp files in windows environments.](https://github.com/jkroepke/helm-secrets/pull/232) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [openlens 5.5.4](https://github.com/jkroepke/homebrew-openlens/pull/5) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 weeks ago)
 - [Tests and Avoid race-conditions on build](https://github.com/jkroepke/homebrew-openlens/pull/4) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 weeks ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update deps](https://github.com/jkroepke/setup-vals/pull/29) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 weeks ago)
 - [promtail: Support set tenant id from labels](https://github.com/grafana/loki/pull/6290) on [grafana/loki](https://github.com/grafana/loki) (1 month ago)
 - [Implement general multiline behaviors for custom drivers](https://github.com/jkroepke/helm-secrets/pull/230) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
-- [dep: Update dependencies and golang](https://github.com/prometheus-community/prom-label-proxy/pull/107) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (1 month ago)
 
 #### ⭐ Recent Stars
 
