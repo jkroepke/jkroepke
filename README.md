@@ -15,15 +15,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (2 weeks ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 weeks ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (3 weeks ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 weeks ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (4 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
-- [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (1 month ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -41,7 +41,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [fix arch tests](https://github.com/voxpupuli/puppet-php/pull/663) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (1 day ago)
+- [Release 8.1.0](https://github.com/voxpupuli/puppet-php/pull/665) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (today)
+- [Arch Linux: Fix package names and set correct php-fpm user (root -&gt; http)](https://github.com/voxpupuli/puppet-php/pull/663) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (1 day ago)
 - [Allow unsupported environments](https://github.com/voxpupuli/puppet-php/pull/662) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (1 day ago)
 - [Better handing of /tmp files in windows environments.](https://github.com/jkroepke/helm-secrets/pull/232) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [openlens 5.5.4](https://github.com/jkroepke/homebrew-openlens/pull/5) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 weeks ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Setup TAP](https://github.com/jkroepke/homebrew-openlens/pull/1) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 weeks ago)
 - [feat: Send errors in prometheus rest api format](https://github.com/prometheus-community/prom-label-proxy/pull/108) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (3 weeks ago)
 - [Update deps](https://github.com/jkroepke/setup-vals/pull/29) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 weeks ago)
-- [promtail: Support set tenant id from labels](https://github.com/grafana/loki/pull/6290) on [grafana/loki](https://github.com/grafana/loki) (1 month ago)
 
 #### ⭐ Recent Stars
 
