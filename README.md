@@ -29,7 +29,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔭 Latest releases I've contributed to
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.3](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.3), today) - ArgoProj Helm Charts
-- [k8s-at-home/charts](https://github.com/k8s-at-home/charts) ([tt-rss-5.0.1](https://github.com/k8s-at-home/charts/releases/tag/tt-rss-5.0.1), 1 day ago) - Helm charts for applications you run at home
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.91](https://github.com/stakater/Forecastle/releases/tag/v1.0.91), 5 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.12.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.12.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.3](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.3), 1 week ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
@@ -38,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.29.2](https://github.com/aquasecurity/trivy/releases/tag/v0.29.2), 2 weeks ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.1), 2 weeks ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.5.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.5.0), 3 weeks ago) - A proxy that enforces a given label in a given PromQL query.
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.0), 1 month ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
