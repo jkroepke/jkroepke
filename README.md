@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[prom-label-proxy] setup chart](https://github.com/prometheus-community/helm-charts/pull/2262) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Cloud Integration](https://github.com/jkroepke/helm-secrets/pull/235) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [feat: Provide label value by http header](https://github.com/prometheus-community/prom-label-proxy/pull/118) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (6 days ago)
 - [Release 8.1.0](https://github.com/voxpupuli/puppet-php/pull/665) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openlens 5.5.4](https://github.com/jkroepke/homebrew-openlens/pull/5) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 month ago)
 - [Tests and Avoid race-conditions on build](https://github.com/jkroepke/homebrew-openlens/pull/4) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 month ago)
 - [Initial](https://github.com/jkroepke/homebrew-openlens/pull/3) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 month ago)
-- [Setup TAP](https://github.com/jkroepke/homebrew-openlens/pull/1) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 month ago)
 
 #### ⭐ Recent Stars
 
