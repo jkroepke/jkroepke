@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.5](https://github.com/argoproj/argo-cd/releases/tag/v2.4.5), today) - Declarative continuous deployment for Kubernetes.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-36.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-36.6.2), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.6](https://github.com/argoproj/argo-cd/releases/tag/v2.3.6), today) - Declarative continuous deployment for Kubernetes.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-37.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-37.0.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.6.0](https://github.com/grafana/loki/releases/tag/v2.6.0), 4 days ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.13.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.13.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.2](https://github.com/aws/karpenter/releases/tag/v0.13.2), 5 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
