@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.13), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.14), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-37.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-37.2.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.6](https://github.com/argoproj/argo-cd/releases/tag/v2.4.6), 2 days ago) - Declarative continuous deployment for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.6.0](https://github.com/grafana/loki/releases/tag/v2.6.0), 6 days ago) - Like Prometheus, but for logs.
