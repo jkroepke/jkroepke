@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (today)
 - [kris-nova/xpid](https://github.com/kris-nova/xpid) - Linux Process Discovery. C Library, Go bindings, Runtime. (2 days ago)
 - [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation. (3 days ago)
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices. (5 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (1 month ago)
 - [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) - Helm plugin to list all/selected images that are part of chart deployment. (1 month ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (1 month ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
