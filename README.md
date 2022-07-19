@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.15), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.16), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.7](https://github.com/argoproj/argo-cd/releases/tag/v2.4.7), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.6.1](https://github.com/grafana/loki/releases/tag/v2.6.1), 1 day ago) - Like Prometheus, but for logs.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.0](https://github.com/aquasecurity/trivy/releases/tag/v0.30.0), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
