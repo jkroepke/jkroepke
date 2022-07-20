@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-37.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-37.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.19.0), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.1](https://github.com/aquasecurity/trivy/releases/tag/v0.30.1), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.16), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.7](https://github.com/argoproj/argo-cd/releases/tag/v2.4.7), 2 days ago) - Declarative continuous deployment for Kubernetes.
