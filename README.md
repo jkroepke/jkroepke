@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.1](https://github.com/aquasecurity/trivy/releases/tag/v0.30.1), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.9.16](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.9.16), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.7](https://github.com/argoproj/argo-cd/releases/tag/v2.4.7), 2 days ago) - Declarative continuous deployment for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.6.1](https://github.com/grafana/loki/releases/tag/v2.6.1), 2 days ago) - Like Prometheus, but for logs.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.0](https://github.com/aquasecurity/trivy/releases/tag/v0.30.0), 5 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.14.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.14.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.5.0), 6 days ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.2](https://github.com/aws/karpenter/releases/tag/v0.13.2), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
