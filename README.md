@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.94](https://github.com/stakater/Forecastle/releases/tag/v1.0.94), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-38.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-38.0.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.15.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.15.0), today) - Terraform provider for Azure Resource Manager
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.93](https://github.com/stakater/Forecastle/releases/tag/v1.0.93), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.2](https://github.com/aquasecurity/trivy/releases/tag/v0.30.2), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.0), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.19.0), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.7](https://github.com/argoproj/argo-cd/releases/tag/v2.4.7), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.6.1](https://github.com/grafana/loki/releases/tag/v2.6.1), 4 days ago) - Like Prometheus, but for logs.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.2](https://github.com/aws/karpenter/releases/tag/v0.13.2), 2 weeks ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
