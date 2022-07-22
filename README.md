@@ -54,6 +54,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [uli-heller/falsisign](https://github.com/uli-heller/falsisign) - A German fork of https://gitlab.com/edouardklein/falsisign.git (today)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (today)
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (today)
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (2 days ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (4 days ago)
 - [kris-nova/xpid](https://github.com/kris-nova/xpid) - Linux Process Discovery. C Library, Go bindings, Runtime. (6 days ago)
@@ -61,9 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices. (1 week ago)
 - [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻 (3 weeks ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (4 weeks ago)
-- [grafana-operator/grafana-operator](https://github.com/grafana-operator/grafana-operator) - An operator for Grafana that installs and manages Grafana instances, Dashboards and Datasources through Kubernetes/OpenShift CRs (1 month ago)
-- [opensearch-project/OpenSearch](https://github.com/opensearch-project/OpenSearch) - 🔎 Open source distributed and RESTful search engine. (1 month ago)
-- [nikhilsbhat/helm-images](https://github.com/nikhilsbhat/helm-images) - Helm plugin to list all/selected images that are part of chart deployment. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
