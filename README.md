@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix: newlines on powershell](https://github.com/jkroepke/helm-secrets/pull/240) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [docs: add chart](https://github.com/prometheus-community/prom-label-proxy/pull/122) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (1 week ago)
 - [[prom-label-proxy] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2269) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prom-label-proxy] setup chart](https://github.com/prometheus-community/helm-charts/pull/2262) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Arch Linux: Fix package names and set correct php-fpm user (root -&gt; http)](https://github.com/voxpupuli/puppet-php/pull/663) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (3 weeks ago)
 - [Allow unsupported environments](https://github.com/voxpupuli/puppet-php/pull/662) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (3 weeks ago)
 - [Better handing of /tmp files in windows environments.](https://github.com/jkroepke/helm-secrets/pull/232) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
-- [openlens 5.5.4](https://github.com/jkroepke/homebrew-openlens/pull/5) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 month ago)
 
 #### ⭐ Recent Stars
 
