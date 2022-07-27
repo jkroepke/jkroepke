@@ -15,9 +15,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (3 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (1 month ago)
@@ -28,21 +28,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.4](https://github.com/aquasecurity/trivy/releases/tag/v0.30.4), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.96](https://github.com/stakater/Forecastle/releases/tag/v1.0.96), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.15.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.15.1), today) - Terraform provider for Azure Resource Manager
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.2](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.2), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.0), 5 days ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.8), today) - ArgoProj Helm Charts
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.4](https://github.com/aquasecurity/trivy/releases/tag/v0.30.4), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.96](https://github.com/stakater/Forecastle/releases/tag/v1.0.96), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.15.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.15.1), 1 day ago) - Terraform provider for Azure Resource Manager
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.2.2](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.2.2), 2 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.3.0), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.7](https://github.com/argoproj/argo-cd/releases/tag/v2.4.7), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.6.1](https://github.com/grafana/loki/releases/tag/v2.6.1), 1 week ago) - Like Prometheus, but for logs.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.2](https://github.com/aws/karpenter/releases/tag/v0.13.2), 2 weeks ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.3](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.3), 3 weeks ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.3](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.3), 4 weeks ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 
 #### 🔨 My recent Pull Requests
 
-- [Fix: newlines on powershell](https://github.com/jkroepke/helm-secrets/pull/240) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [docs: add chart](https://github.com/prometheus-community/prom-label-proxy/pull/122) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (1 week ago)
+- [Fix: newlines on powershell](https://github.com/jkroepke/helm-secrets/pull/240) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [docs: add chart](https://github.com/prometheus-community/prom-label-proxy/pull/122) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (2 weeks ago)
 - [[prom-label-proxy] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2269) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prom-label-proxy] setup chart](https://github.com/prometheus-community/helm-charts/pull/2262) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Cloud Integration](https://github.com/jkroepke/helm-secrets/pull/235) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
@@ -54,15 +54,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay. (4 days ago)
-- [uli-heller/falsisign](https://github.com/uli-heller/falsisign) - A German fork of https://gitlab.com/edouardklein/falsisign.git (4 days ago)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (4 days ago)
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (4 days ago)
-- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (6 days ago)
+- [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay. (5 days ago)
+- [uli-heller/falsisign](https://github.com/uli-heller/falsisign) - A German fork of https://gitlab.com/edouardklein/falsisign.git (5 days ago)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (5 days ago)
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (5 days ago)
+- [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 week ago)
 - [kris-nova/xpid](https://github.com/kris-nova/xpid) - Linux Process Discovery. C Library, Go bindings, Runtime. (1 week ago)
 - [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation. (1 week ago)
-- [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices. (1 week ago)
+- [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices. (2 weeks ago)
 - [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻 (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
