@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [openlens 6.0.0](https://github.com/jkroepke/homebrew-openlens/pull/6) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [Prefer git for windows shell instead WSL](https://github.com/jkroepke/helm-secrets/pull/243) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [fix cmd errors on windows](https://github.com/jkroepke/helm-secrets/pull/241) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Fix: newlines on powershell](https://github.com/jkroepke/helm-secrets/pull/240) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Cloud Integration](https://github.com/jkroepke/helm-secrets/pull/235) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [feat: Provide label value by http header](https://github.com/prometheus-community/prom-label-proxy/pull/118) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (3 weeks ago)
 - [Release 8.1.0](https://github.com/voxpupuli/puppet-php/pull/665) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (3 weeks ago)
-- [Arch Linux: Fix package names and set correct php-fpm user (root -&gt; http)](https://github.com/voxpupuli/puppet-php/pull/663) on [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
