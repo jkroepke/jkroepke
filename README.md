@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
@@ -22,7 +23,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (3 weeks ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (1 month ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 month ago)
-- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 month ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (1 month ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 month ago)
 
