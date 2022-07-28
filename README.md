@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-3.0.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.14.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.1](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.8), 1 day ago) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.4](https://github.com/aquasecurity/trivy/releases/tag/v0.30.4), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
