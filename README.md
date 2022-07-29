@@ -15,9 +15,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (3 weeks ago)
@@ -28,23 +28,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.0), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.14.0), today) - Prometheus community Helm charts
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.1](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.8), 1 day ago) - ArgoProj Helm Charts
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.4](https://github.com/aquasecurity/trivy/releases/tag/v0.30.4), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.96](https://github.com/stakater/Forecastle/releases/tag/v1.0.96), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.15.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.15.1), 2 days ago) - Terraform provider for Azure Resource Manager
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.14.0), 1 day ago) - Prometheus community Helm charts
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.1](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.1), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.8), 2 days ago) - ArgoProj Helm Charts
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.4](https://github.com/aquasecurity/trivy/releases/tag/v0.30.4), 3 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.96](https://github.com/stakater/Forecastle/releases/tag/v1.0.96), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.15.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.15.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.7](https://github.com/argoproj/argo-cd/releases/tag/v2.4.7), 1 week ago) - Declarative continuous deployment for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.6.1](https://github.com/grafana/loki/releases/tag/v2.6.1), 1 week ago) - Like Prometheus, but for logs.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.13.2](https://github.com/aws/karpenter/releases/tag/v0.13.2), 3 weeks ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
 
-- [openlens 6.0.0](https://github.com/jkroepke/homebrew-openlens/pull/6) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
-- [Prefer git for windows shell instead WSL](https://github.com/jkroepke/helm-secrets/pull/243) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [fix cmd errors on windows](https://github.com/jkroepke/helm-secrets/pull/241) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [Fix: newlines on powershell](https://github.com/jkroepke/helm-secrets/pull/240) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [openlens 6.0.0](https://github.com/jkroepke/homebrew-openlens/pull/6) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
+- [Prefer git for windows shell instead WSL](https://github.com/jkroepke/helm-secrets/pull/243) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [fix cmd errors on windows](https://github.com/jkroepke/helm-secrets/pull/241) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [Fix: newlines on powershell](https://github.com/jkroepke/helm-secrets/pull/240) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [docs: add chart](https://github.com/prometheus-community/prom-label-proxy/pull/122) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (2 weeks ago)
 - [[prom-label-proxy] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2269) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prom-label-proxy] setup chart](https://github.com/prometheus-community/helm-charts/pull/2262) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
@@ -54,15 +54,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [shibayan/appservice-acmebot](https://github.com/shibayan/appservice-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure App Service (Web Apps / Functions / Containers) (today)
-- [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay. (6 days ago)
-- [uli-heller/falsisign](https://github.com/uli-heller/falsisign) - A German fork of https://gitlab.com/edouardklein/falsisign.git (6 days ago)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (6 days ago)
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (6 days ago)
+- [shibayan/appservice-acmebot](https://github.com/shibayan/appservice-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure App Service (Web Apps / Functions / Containers) (1 day ago)
+- [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay. (1 week ago)
+- [uli-heller/falsisign](https://github.com/uli-heller/falsisign) - A German fork of https://gitlab.com/edouardklein/falsisign.git (1 week ago)
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (1 week ago)
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (1 week ago)
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 week ago)
 - [kris-nova/xpid](https://github.com/kris-nova/xpid) - Linux Process Discovery. C Library, Go bindings, Runtime. (1 week ago)
-- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation. (1 week ago)
+- [mineiros-io/terramate](https://github.com/mineiros-io/terramate) - Terramate is a tool for managing multiple Terraform stacks that comes with support for change detection and code generation. (2 weeks ago)
 - [stackrox/kube-linter](https://github.com/stackrox/kube-linter) - KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
