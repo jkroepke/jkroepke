@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.3.7](https://github.com/argoproj/argo-cd/releases/tag/v2.3.7), today) - Declarative continuous deployment for Kubernetes.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.1), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.2), today) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), today) - Declarative continuous deployment for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.1.0), today) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.0.1](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.0.1), today) - See expire date from certificates inside kubernetes secrets.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.16.0), today) - Terraform provider for Azure Resource Manager
