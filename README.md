@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.1.0), today) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.0.1](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.0.1), today) - See expire date from certificates inside kubernetes secrets.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.0.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.16.0), today) - Terraform provider for Azure Resource Manager
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.1](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.1), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
