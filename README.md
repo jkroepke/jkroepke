@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: sha256 for arm64 zip and remove debug code](https://github.com/MuhammedKalkan/OpenLens/pull/17) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [fix: catch all assets on release](https://github.com/MuhammedKalkan/OpenLens/pull/16) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Enable Apple amd64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/15) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Add universal builds for MacOS](https://github.com/MuhammedKalkan/OpenLens/pull/14) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix: newlines on powershell](https://github.com/jkroepke/helm-secrets/pull/240) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [docs: add chart](https://github.com/prometheus-community/prom-label-proxy/pull/122) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (2 weeks ago)
 - [[prom-label-proxy] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2269) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[prom-label-proxy] setup chart](https://github.com/prometheus-community/helm-charts/pull/2262) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
