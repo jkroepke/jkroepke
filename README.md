@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.3), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.2.0), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.14.0-rc.0](https://github.com/aws/karpenter/releases/tag/v0.14.0-rc.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.2), 2 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.1.0), 2 days ago) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.0.1](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.0.1), 2 days ago) - See expire date from certificates inside kubernetes secrets.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.16.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.0), 3 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Enable Apple amd64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/15) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Add universal builds for MacOS](https://github.com/MuhammedKalkan/OpenLens/pull/14) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [openlens 6.0.0](https://github.com/jkroepke/homebrew-openlens/pull/6) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 days ago)
 - [Prefer git for windows shell instead WSL](https://github.com/jkroepke/helm-secrets/pull/243) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prom-label-proxy] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2269) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[prom-label-proxy] setup chart](https://github.com/prometheus-community/helm-charts/pull/2262) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Cloud Integration](https://github.com/jkroepke/helm-secrets/pull/235) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
-- [feat: Provide label value by http header](https://github.com/prometheus-community/prom-label-proxy/pull/118) on [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
