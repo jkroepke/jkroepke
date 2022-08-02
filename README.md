@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [kube-green/kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters (today)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (1 day ago)
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (2 days ago)
 - [shibayan/appservice-acmebot](https://github.com/shibayan/appservice-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure App Service (Web Apps / Functions / Containers) (5 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (1 week ago)
 - [danielfoehrKn/kubeswitch](https://github.com/danielfoehrKn/kubeswitch) - The kubectx  for operators. (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (2 weeks ago)
-- [kris-nova/xpid](https://github.com/kris-nova/xpid) - Linux Process Discovery. C Library, Go bindings, Runtime. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
