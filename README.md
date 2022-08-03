@@ -15,13 +15,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (2 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (3 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (5 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (6 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 - [voxpupuli/puppet-php](https://github.com/voxpupuli/puppet-php) - Generic Puppet module to manage PHP on many platforms (1 month ago)
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/244) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Add code sign and notarization](https://github.com/MuhammedKalkan/OpenLens/pull/21) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [fix(ci): make appBundleId configurable.](https://github.com/lensapp/lens/pull/5964) on [lensapp/lens](https://github.com/lensapp/lens) (2 days ago)
 - [fix: sha256 for arm64 zip and remove debug code](https://github.com/MuhammedKalkan/OpenLens/pull/17) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openlens 6.0.0](https://github.com/jkroepke/homebrew-openlens/pull/6) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (6 days ago)
 - [Prefer git for windows shell instead WSL](https://github.com/jkroepke/helm-secrets/pull/243) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [fix cmd errors on windows](https://github.com/jkroepke/helm-secrets/pull/241) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Fix: newlines on powershell](https://github.com/jkroepke/helm-secrets/pull/240) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
