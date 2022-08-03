@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.9.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.5), 1 day ago) - ArgoProj Helm Charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.1), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.14.0-rc.0](https://github.com/aws/karpenter/releases/tag/v0.14.0-rc.0), 5 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
