@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.3](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.3), today) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.12.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.5), 2 days ago) - ArgoProj Helm Charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.1), 2 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.16.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.0), 1 week ago) - OpenLens Binary Build Repository
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.14.1](https://github.com/jkroepke/helm-secrets/releases/tag/v3.14.1), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.30.4](https://github.com/aquasecurity/trivy/releases/tag/v0.30.4), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 
 #### 🔨 My recent Pull Requests
 
