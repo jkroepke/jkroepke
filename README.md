@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Deprecate vault, doppler and envsubst driver](https://github.com/jkroepke/helm-secrets/pull/246) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update deps](https://github.com/jkroepke/setup-vals/pull/34) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (today)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/244) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [Add code sign and notarization](https://github.com/MuhammedKalkan/OpenLens/pull/21) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Enable Apple amd64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/15) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (6 days ago)
 - [Add universal builds for MacOS](https://github.com/MuhammedKalkan/OpenLens/pull/14) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (6 days ago)
 - [openlens 6.0.0](https://github.com/jkroepke/homebrew-openlens/pull/6) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
-- [Prefer git for windows shell instead WSL](https://github.com/jkroepke/helm-secrets/pull/243) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
