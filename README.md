@@ -16,15 +16,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (today)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (2 days ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (4 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (5 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 week ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [app-sre/aws-resource-exporter](https://github.com/app-sre/aws-resource-exporter) - Prometheus exporter for AWS resource metadata and metrics which are not available in Cloudwatch (today)
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - k8s on oracle cloud 4free (today)
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 days ago)
 - [mgoltzsche/khelm](https://github.com/mgoltzsche/khelm) - A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KRM function (6 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [shibayan/appservice-acmebot](https://github.com/shibayan/appservice-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure App Service (Web Apps / Functions / Containers) (1 week ago)
 - [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay. (2 weeks ago)
 - [uli-heller/falsisign](https://github.com/uli-heller/falsisign) - A German fork of https://gitlab.com/edouardklein/falsisign.git (2 weeks ago)
-- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
