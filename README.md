@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Secret drivers are renamed to secret backends](https://github.com/jkroepke/helm-secrets/pull/247) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Deprecate vault, doppler and envsubst driver](https://github.com/jkroepke/helm-secrets/pull/246) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Update deps](https://github.com/jkroepke/setup-vals/pull/34) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (2 days ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/244) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: catch all assets on release](https://github.com/MuhammedKalkan/OpenLens/pull/16) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [Enable Apple amd64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/15) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [Add universal builds for MacOS](https://github.com/MuhammedKalkan/OpenLens/pull/14) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
-- [openlens 6.0.0](https://github.com/jkroepke/homebrew-openlens/pull/6) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 
 #### ⭐ Recent Stars
 
