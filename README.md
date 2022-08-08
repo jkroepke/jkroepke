@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - k8s on oracle cloud 4free (today)
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 days ago)
 - [mgoltzsche/khelm](https://github.com/mgoltzsche/khelm) - A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KRM function (6 days ago)
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters (6 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [erkin/ponysay](https://github.com/erkin/ponysay) - Pony rewrite of cowsay. (2 weeks ago)
 - [uli-heller/falsisign](https://github.com/uli-heller/falsisign) - A German fork of https://gitlab.com/edouardklein/falsisign.git (2 weeks ago)
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool (2 weeks ago)
-- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
