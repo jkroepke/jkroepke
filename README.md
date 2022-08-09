@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.1-beta.0](https://github.com/lensapp/lens/releases/tag/v6.0.1-beta.0), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.1.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.15.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.15.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.0.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.0.3), 3 days ago) - Github Action for installing vals (https://github.com/variantdev/vals)
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.1), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.14.0-rc.0](https://github.com/aws/karpenter/releases/tag/v0.14.0-rc.0), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.8](https://github.com/argoproj/argo-cd/releases/tag/v2.4.8), 1 week ago) - Declarative continuous deployment for Kubernetes.
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.0.1](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.0.1), 1 week ago) - See expire date from certificates inside kubernetes secrets.
 
 #### 🔨 My recent Pull Requests
 
