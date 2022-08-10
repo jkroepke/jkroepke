@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.6.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.9), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.6.0), today) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.97](https://github.com/stakater/Forecastle/releases/tag/v1.0.97), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.1-beta.0](https://github.com/lensapp/lens/releases/tag/v6.0.1-beta.0), 1 day ago) - Lens - The way the world runs Kubernetes
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.15.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.15.0), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
