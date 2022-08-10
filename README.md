@@ -28,6 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.1), today) - OpenLens Binary Build Repository
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.14.0](https://github.com/aws/karpenter/releases/tag/v0.14.0), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.0), today) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.1](https://github.com/lensapp/lens/releases/tag/v6.0.1), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.9), today) - ArgoProj Helm Charts
@@ -36,11 +38,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.0.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.0.3), 4 days ago) - Github Action for installing vals (https://github.com/variantdev/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.17.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.3](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.3), 6 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.1), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.14.0-rc.0](https://github.com/aws/karpenter/releases/tag/v0.14.0-rc.0), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
 
+- [openlens 6.0.1](https://github.com/jkroepke/homebrew-openlens/pull/7) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [Make client identity key configurable](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/14) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (1 day ago)
 - [helm: Allow additional namespaceSelector for admission controllers](https://github.com/cert-manager/cert-manager/pull/5381) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 day ago)
 - [Allow read data from stdin on Windows](https://github.com/mozilla/sops/pull/1104) on [mozilla/sops](https://github.com/mozilla/sops) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update deps](https://github.com/jkroepke/setup-vals/pull/34) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 days ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/244) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Add code sign and notarization](https://github.com/MuhammedKalkan/OpenLens/pull/21) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
-- [fix(ci): make appBundleId configurable.](https://github.com/lensapp/lens/pull/5964) on [lensapp/lens](https://github.com/lensapp/lens) (1 week ago)
 
 #### ⭐ Recent Stars
 
