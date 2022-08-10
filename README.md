@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.16.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.16.9), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.6.0), today) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.97](https://github.com/stakater/Forecastle/releases/tag/v1.0.97), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.1-beta.0](https://github.com/lensapp/lens/releases/tag/v6.0.1-beta.0), 1 day ago) - Lens - The way the world runs Kubernetes
@@ -35,7 +36,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.0.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.0.3), 4 days ago) - Github Action for installing vals (https://github.com/variantdev/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.17.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.3](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.3), 6 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.5), 1 week ago) - ArgoProj Helm Charts
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.3.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.3.1), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.14.0-rc.0](https://github.com/aws/karpenter/releases/tag/v0.14.0-rc.0), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 
