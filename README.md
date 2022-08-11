@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.9](https://github.com/argoproj/argo-cd/releases/tag/v2.4.9), today) - Declarative continuous deployment for Kubernetes.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.1), 1 day ago) - OpenLens Binary Build Repository
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.14.0](https://github.com/aws/karpenter/releases/tag/v0.14.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.0), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v3.15.0](https://github.com/jkroepke/helm-secrets/releases/tag/v3.15.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.0.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.0.3), 5 days ago) - Github Action for installing vals (https://github.com/variantdev/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.17.0), 6 days ago) - Terraform provider for Azure Resource Manager
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.3](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.3), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 
 #### 🔨 My recent Pull Requests
 
