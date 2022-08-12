@@ -15,14 +15,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 day ago)
 - [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (3 days ago)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (3 days ago)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (4 days ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (4 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (6 days ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (1 week ago)
 
@@ -41,6 +41,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Disable code cign on windows](https://github.com/MuhammedKalkan/OpenLens/pull/32) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
+- [Add homebrew cask](https://github.com/jkroepke/homebrew-openlens/pull/8) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [openlens 6.0.1](https://github.com/jkroepke/homebrew-openlens/pull/7) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (2 days ago)
 - [Make client identity key configurable](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/14) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (3 days ago)
 - [helm: Allow additional namespaceSelector for admission controllers](https://github.com/cert-manager/cert-manager/pull/5381) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 days ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Secret drivers are renamed to secret backends](https://github.com/jkroepke/helm-secrets/pull/247) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
 - [Deprecate vault, doppler and envsubst driver](https://github.com/jkroepke/helm-secrets/pull/246) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [Update deps](https://github.com/jkroepke/setup-vals/pull/34) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (6 days ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/244) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Add code sign and notarization](https://github.com/MuhammedKalkan/OpenLens/pull/21) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 
 #### ⭐ Recent Stars
 
