@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.1.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.4.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.18.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.6), 2 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.9](https://github.com/argoproj/argo-cd/releases/tag/v2.4.9), 2 days ago) - Declarative continuous deployment for Kubernetes.
