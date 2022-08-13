@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove deprecated secret backend](https://github.com/jkroepke/helm-secrets/pull/251) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Disable code cign on windows](https://github.com/MuhammedKalkan/OpenLens/pull/32) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [Add homebrew cask](https://github.com/jkroepke/homebrew-openlens/pull/8) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
 - [openlens 6.0.1](https://github.com/jkroepke/homebrew-openlens/pull/7) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update msal and fix for situations without access_token ](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/13) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (5 days ago)
 - [Secret drivers are renamed to secret backends](https://github.com/jkroepke/helm-secrets/pull/247) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Deprecate vault, doppler and envsubst driver](https://github.com/jkroepke/helm-secrets/pull/246) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Update deps](https://github.com/jkroepke/setup-vals/pull/34) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (1 week ago)
 
 #### ⭐ Recent Stars
 
