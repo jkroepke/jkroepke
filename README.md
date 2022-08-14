@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [First iteration of a summary](https://github.com/jkroepke/klustered/pull/5) on [jkroepke/klustered](https://github.com/jkroepke/klustered) (today)
 - [Support for decrypting files defined via --set-file](https://github.com/jkroepke/helm-secrets/pull/252) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Remove deprecated secret backend](https://github.com/jkroepke/helm-secrets/pull/251) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Disable code cign on windows](https://github.com/MuhammedKalkan/OpenLens/pull/32) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helm: Allow additional namespaceSelector for admission controllers](https://github.com/cert-manager/cert-manager/pull/5381) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (5 days ago)
 - [Allow read data from stdin on Windows](https://github.com/mozilla/sops/pull/1104) on [mozilla/sops](https://github.com/mozilla/sops) (6 days ago)
 - [Update msal and fix for situations without access_token ](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/13) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (6 days ago)
-- [Secret drivers are renamed to secret backends](https://github.com/jkroepke/helm-secrets/pull/247) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 
 #### ⭐ Recent Stars
 
