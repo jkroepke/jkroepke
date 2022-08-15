@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [ExpediaGroup/kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector) - Kuberbetes mutating webhook that injects a sidecar container to a pod (today)
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (4 days ago)
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (1 week ago)
 - [app-sre/aws-resource-exporter](https://github.com/app-sre/aws-resource-exporter) - Prometheus exporter for AWS resource metadata and metrics which are not available in Cloudwatch (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters (1 week ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 weeks ago)
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (2 weeks ago)
-- [shibayan/appservice-acmebot](https://github.com/shibayan/appservice-acmebot) - Automated ACME SSL/TLS certificates issuer for Azure App Service (Web Apps / Functions / Containers) (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
