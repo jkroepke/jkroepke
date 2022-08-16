@@ -15,12 +15,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (today)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (4 days ago)
-- [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (5 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (5 days ago)
 - [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (1 week ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 week ago)
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Writeup CrashBeerBackOff](https://github.com/RawkodeAcademy/klustered/pull/29) on [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) (today)
 - [First iteration of a summary](https://github.com/jkroepke/klustered/pull/5) on [jkroepke/klustered](https://github.com/jkroepke/klustered) (2 days ago)
 - [Support for decrypting files defined via --set-file](https://github.com/jkroepke/helm-secrets/pull/252) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [Remove deprecated secret backend](https://github.com/jkroepke/helm-secrets/pull/251) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Make client identity key configurable](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/14) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (1 week ago)
 - [helm: Allow additional namespaceSelector for admission controllers](https://github.com/cert-manager/cert-manager/pull/5381) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
 - [Allow read data from stdin on Windows](https://github.com/mozilla/sops/pull/1104) on [mozilla/sops](https://github.com/mozilla/sops) (1 week ago)
-- [Update msal and fix for situations without access_token ](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/13) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [supercrafter333](https://github.com/supercrafter333)
 - [manojsnair](https://github.com/manojsnair)
 - [six66vivi](https://github.com/six66vivi)
 - [skoolbagmetuseller](https://github.com/skoolbagmetuseller)
 - [Jayebaby77](https://github.com/Jayebaby77)
-- [Maricle39](https://github.com/Maricle39)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
