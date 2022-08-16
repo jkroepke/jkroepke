@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.1](https://github.com/aquasecurity/trivy/releases/tag/v0.31.1), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.2](https://github.com/aquasecurity/trivy/releases/tag/v0.31.2), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.16.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.18.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.6), 5 days ago) - ArgoProj Helm Charts
