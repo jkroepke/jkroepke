@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (today)
 - [ExpediaGroup/kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector) - Kuberbetes mutating webhook that injects a sidecar container to a pod (2 days ago)
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (6 days ago)
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (1 week ago)
@@ -63,15 +64,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mgoltzsche/khelm](https://github.com/mgoltzsche/khelm) - A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KRM function (2 weeks ago)
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters (2 weeks ago)
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 weeks ago)
-- [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [devina1717](https://github.com/devina1717)
 - [supercrafter333](https://github.com/supercrafter333)
 - [manojsnair](https://github.com/manojsnair)
 - [six66vivi](https://github.com/six66vivi)
 - [skoolbagmetuseller](https://github.com/skoolbagmetuseller)
-- [Jayebaby77](https://github.com/Jayebaby77)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
