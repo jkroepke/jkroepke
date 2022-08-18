@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.0.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.7), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.10](https://github.com/argoproj/argo-cd/releases/tag/v2.4.10), 1 day ago) - Declarative continuous deployment for Kubernetes.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.15.0](https://github.com/aws/karpenter/releases/tag/v0.15.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.8.0), 1 day ago) - Prometheus community Helm charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4-rc1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4-rc1), 2 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.2](https://github.com/aquasecurity/trivy/releases/tag/v0.31.2), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.1), 1 week ago) - OpenLens Binary Build Repository
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Chintus77](https://github.com/Chintus77)
 - [Gaelcollo](https://github.com/Gaelcollo)
 - [sujand](https://github.com/sujand)
 - [devina1717](https://github.com/devina1717)
 - [supercrafter333](https://github.com/supercrafter333)
-- [manojsnair](https://github.com/manojsnair)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
