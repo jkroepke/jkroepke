@@ -41,6 +41,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove sops and secret protocol handler](https://github.com/jkroepke/helm-secrets/pull/256) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [Fix: non yaml files on --set-file=secrets://](https://github.com/jkroepke/helm-secrets/pull/255) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Writeup CrashBeerBackOff](https://github.com/RawkodeAcademy/klustered/pull/29) on [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) (3 days ago)
 - [First iteration of a summary](https://github.com/jkroepke/klustered/pull/5) on [jkroepke/klustered](https://github.com/jkroepke/klustered) (5 days ago)
 - [Support for decrypting files defined via --set-file](https://github.com/jkroepke/helm-secrets/pull/252) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add homebrew cask](https://github.com/jkroepke/homebrew-openlens/pull/8) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 - [openlens 6.0.1](https://github.com/jkroepke/homebrew-openlens/pull/7) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 - [Make client identity key configurable](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/14) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (1 week ago)
-- [helm: Allow additional namespaceSelector for admission controllers](https://github.com/cert-manager/cert-manager/pull/5381) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
-- [Allow read data from stdin on Windows](https://github.com/mozilla/sops/pull/1104) on [mozilla/sops](https://github.com/mozilla/sops) (1 week ago)
 
 #### ⭐ Recent Stars
 
