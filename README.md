@@ -15,7 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
 - [jkroepke/oracle-cloud-free-k8s](https://github.com/jkroepke/oracle-cloud-free-k8s) - Terraform for setup kubernetes in free forever cloud (3 days ago)
 - [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (5 days ago)
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Run tests in parallel](https://github.com/jkroepke/helm-secrets/pull/258) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Test job-summary](https://github.com/jkroepke/helm-secrets/pull/257) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Remove sops and secret protocol handler](https://github.com/jkroepke/helm-secrets/pull/256) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Fix: non yaml files on --set-file=secrets://](https://github.com/jkroepke/helm-secrets/pull/255) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove deprecated secret backend](https://github.com/jkroepke/helm-secrets/pull/251) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Disable code cign on windows](https://github.com/MuhammedKalkan/OpenLens/pull/32) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [Add homebrew cask](https://github.com/jkroepke/homebrew-openlens/pull/8) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
-- [openlens 6.0.1](https://github.com/jkroepke/homebrew-openlens/pull/7) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [aimo84](https://github.com/aimo84)
 - [Ashraf-karmi](https://github.com/Ashraf-karmi)
 - [AlaaAlol](https://github.com/AlaaAlol)
 - [Stephen068](https://github.com/Stephen068)
 - [profmahey](https://github.com/profmahey)
-- [ishrikotkar](https://github.com/ishrikotkar)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
