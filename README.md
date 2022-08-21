@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (today)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (4 days ago)
 - [ExpediaGroup/kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector) - Kuberbetes mutating webhook that injects a sidecar container to a pod (6 days ago)
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (1 week ago)
@@ -63,15 +64,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 weeks ago)
 - [mgoltzsche/khelm](https://github.com/mgoltzsche/khelm) - A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KRM function (2 weeks ago)
 - [kube-green/kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters (2 weeks ago)
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [BlackRockie](https://github.com/BlackRockie)
 - [MasterX2046](https://github.com/MasterX2046)
 - [Nasser-art](https://github.com/Nasser-art)
 - [aimo84](https://github.com/aimo84)
 - [Ashraf-karmi](https://github.com/Ashraf-karmi)
-- [AlaaAlol](https://github.com/AlaaAlol)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
