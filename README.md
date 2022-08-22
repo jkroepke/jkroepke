@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (today)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 day ago)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (5 days ago)
 - [ExpediaGroup/kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector) - Kuberbetes mutating webhook that injects a sidecar container to a pod (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - k8s on oracle cloud 4free (2 weeks ago)
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 weeks ago)
 - [mgoltzsche/khelm](https://github.com/mgoltzsche/khelm) - A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KRM function (2 weeks ago)
-- [kube-green/kube-green](https://github.com/kube-green/kube-green) - A k8s operator to reduce CO2 footprint of your clusters (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
