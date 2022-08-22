@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
 - [jkroepke/oracle-cloud-free-k8s](https://github.com/jkroepke/oracle-cloud-free-k8s) - Terraform for setup kubernetes in free forever cloud (4 days ago)
 - [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (6 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (6 days ago)
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [45938969](https://github.com/45938969)
 - [An-oma](https://github.com/An-oma)
 - [thanhnguye135](https://github.com/thanhnguye135)
 - [satyam797](https://github.com/satyam797)
 - [ifte839](https://github.com/ifte839)
-- [PoorParty](https://github.com/PoorParty)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
