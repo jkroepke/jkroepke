@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-0.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-0.0.1), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.9), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), today) - Declarative continuous deployment for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.9.0), 1 day ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.15.0](https://github.com/aws/karpenter/releases/tag/v0.15.0), 5 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
