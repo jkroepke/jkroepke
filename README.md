@@ -15,10 +15,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
+- [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [jkroepke/oracle-cloud-free-k8s](https://github.com/jkroepke/oracle-cloud-free-k8s) - Terraform for setup kubernetes in free forever cloud (5 days ago)
 - [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.0](https://github.com/aws/karpenter/releases/tag/v0.16.0), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.19.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.19.0), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 1 day ago) - Declarative continuous deployment for Kubernetes.
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.15.0](https://github.com/aws/karpenter/releases/tag/v0.15.0), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4-rc1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4-rc1), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.2](https://github.com/aquasecurity/trivy/releases/tag/v0.31.2), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.1), 1 week ago) - OpenLens Binary Build Repository
