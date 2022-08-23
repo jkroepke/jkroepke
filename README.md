@@ -15,25 +15,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/oracle-cloud-free-k8s](https://github.com/jkroepke/oracle-cloud-free-k8s) - Terraform for setup kubernetes in free forever cloud (4 days ago)
-- [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (6 days ago)
-- [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (6 days ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (6 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/oracle-cloud-free-k8s](https://github.com/jkroepke/oracle-cloud-free-k8s) - Terraform for setup kubernetes in free forever cloud (5 days ago)
+- [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (1 week ago)
+- [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (1 week ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 week ago)
-- [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (1 week ago)
+- [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.0.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.9), today) - ArgoProj Helm Charts
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), today) - Declarative continuous deployment for Kubernetes.
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.15.0](https://github.com/aws/karpenter/releases/tag/v0.15.0), 5 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4-rc1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4-rc1), 6 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.2](https://github.com/aquasecurity/trivy/releases/tag/v0.31.2), 6 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.0.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-4.10.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-4.10.9), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.15.0](https://github.com/aws/karpenter/releases/tag/v0.15.0), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4-rc1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4-rc1), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.2](https://github.com/aquasecurity/trivy/releases/tag/v0.31.2), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.1), 1 week ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.1](https://github.com/lensapp/lens/releases/tag/v6.0.1), 1 week ago) - Lens - The way the world runs Kubernetes
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.97](https://github.com/stakater/Forecastle/releases/tag/v1.0.97), 1 week ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
@@ -41,11 +41,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Run tests in parallel](https://github.com/jkroepke/helm-secrets/pull/258) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [Test job-summary](https://github.com/jkroepke/helm-secrets/pull/257) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [Remove sops and secret protocol handler](https://github.com/jkroepke/helm-secrets/pull/256) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
-- [Fix: non yaml files on --set-file=secrets://](https://github.com/jkroepke/helm-secrets/pull/255) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
-- [Writeup CrashBeerBackOff](https://github.com/RawkodeAcademy/klustered/pull/29) on [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) (6 days ago)
+- [Run tests in parallel](https://github.com/jkroepke/helm-secrets/pull/258) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [Test job-summary](https://github.com/jkroepke/helm-secrets/pull/257) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [Remove sops and secret protocol handler](https://github.com/jkroepke/helm-secrets/pull/256) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [Fix: non yaml files on --set-file=secrets://](https://github.com/jkroepke/helm-secrets/pull/255) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [Writeup CrashBeerBackOff](https://github.com/RawkodeAcademy/klustered/pull/29) on [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) (1 week ago)
 - [First iteration of a summary](https://github.com/jkroepke/klustered/pull/5) on [jkroepke/klustered](https://github.com/jkroepke/klustered) (1 week ago)
 - [Support for decrypting files defined via --set-file](https://github.com/jkroepke/helm-secrets/pull/252) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Remove deprecated secret backend](https://github.com/jkroepke/helm-secrets/pull/251) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -54,16 +54,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (today)
-- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (1 day ago)
-- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (5 days ago)
+- [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (1 day ago)
+- [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (2 days ago)
+- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (6 days ago)
 - [ExpediaGroup/kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector) - Kuberbetes mutating webhook that injects a sidecar container to a pod (1 week ago)
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (1 week ago)
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (2 weeks ago)
 - [app-sre/aws-resource-exporter](https://github.com/app-sre/aws-resource-exporter) - Prometheus exporter for AWS resource metadata and metrics which are not available in Cloudwatch (2 weeks ago)
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - k8s on oracle cloud 4free (2 weeks ago)
 - [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (2 weeks ago)
-- [mgoltzsche/khelm](https://github.com/mgoltzsche/khelm) - A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KRM function (2 weeks ago)
+- [mgoltzsche/khelm](https://github.com/mgoltzsche/khelm) - A Helm chart templating CLI, kustomize plugin and containerized kustomize/kpt KRM function (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
