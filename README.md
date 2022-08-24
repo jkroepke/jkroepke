@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.0.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.0.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.2.0), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.0](https://github.com/aws/karpenter/releases/tag/v0.16.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.19.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.19.0), 1 day ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 2 days ago) - Declarative continuous deployment for Kubernetes.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4-rc1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4-rc1), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.2](https://github.com/aquasecurity/trivy/releases/tag/v0.31.2), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
