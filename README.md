@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.3.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.3.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.17.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.17.1), today) - ArgoProj Helm Charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([helm-chart-aws-cloud-controller-manager-0.0.7](https://github.com/kubernetes/cloud-provider-aws/releases/tag/helm-chart-aws-cloud-controller-manager-0.0.7), today) - 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.0](https://github.com/aws/karpenter/releases/tag/v0.16.0), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 4 days ago) - Declarative continuous deployment for Kubernetes.
