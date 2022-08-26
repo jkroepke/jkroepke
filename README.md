@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.3.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.3.6), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.20.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.20.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.1), today) - Prometheus community Helm charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([helm-chart-aws-cloud-controller-manager-0.0.7](https://github.com/kubernetes/cloud-provider-aws/releases/tag/helm-chart-aws-cloud-controller-manager-0.0.7), today) - 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.0](https://github.com/aws/karpenter/releases/tag/v0.16.0), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Ace74hood](https://github.com/Ace74hood)
+- [GuiFxFarias](https://github.com/GuiFxFarias)
 - [debedo50](https://github.com/debedo50)
 - [45938969](https://github.com/45938969)
 - [An-oma](https://github.com/An-oma)
-- [thanhnguye135](https://github.com/thanhnguye135)
-- [satyam797](https://github.com/satyam797)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
