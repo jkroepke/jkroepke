@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository. (today)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (today)
 - [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (5 days ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (6 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (2 weeks ago)
 - [app-sre/aws-resource-exporter](https://github.com/app-sre/aws-resource-exporter) - Prometheus exporter for AWS resource metadata and metrics which are not available in Cloudwatch (2 weeks ago)
 - [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - k8s on oracle cloud 4free (2 weeks ago)
-- [kedacore/http-add-on](https://github.com/kedacore/http-add-on) - Add-on for KEDA to scale HTTP workloads (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
