@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.1.0), today) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2-alpha.0](https://github.com/lensapp/lens/releases/tag/v6.0.2-alpha.0), 2 days ago) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.20.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.20.0), 2 days ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.1.1), 2 days ago) - Prometheus community Helm charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([helm-chart-aws-cloud-controller-manager-0.0.7](https://github.com/kubernetes/cloud-provider-aws/releases/tag/helm-chart-aws-cloud-controller-manager-0.0.7), 2 days ago) - 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.0](https://github.com/aws/karpenter/releases/tag/v0.16.0), 5 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 6 days ago) - Declarative continuous deployment for Kubernetes.
