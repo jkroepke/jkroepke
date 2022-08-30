@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.0.2-alpha.1), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.0), today) - ArgoProj Helm Charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.4](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.4), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.3](https://github.com/aquasecurity/trivy/releases/tag/v0.31.3), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.1.0), 2 days ago) - Prometheus community Helm charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2-alpha.0](https://github.com/lensapp/lens/releases/tag/v6.0.2-alpha.0), 4 days ago) - Lens - The way the world runs Kubernetes
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([helm-chart-aws-cloud-controller-manager-0.0.7](https://github.com/kubernetes/cloud-provider-aws/releases/tag/helm-chart-aws-cloud-controller-manager-0.0.7), 4 days ago) - 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.0](https://github.com/aws/karpenter/releases/tag/v0.16.0), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.11](https://github.com/argoproj/argo-cd/releases/tag/v2.4.11), 1 week ago) - Declarative continuous deployment for Kubernetes.
