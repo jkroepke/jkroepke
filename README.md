@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.10.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.11.0), today) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.0.2-alpha.1), 1 day ago) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.0), 1 day ago) - ArgoProj Helm Charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.4](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.4), 1 day ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
