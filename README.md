@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
 - [jkroepke/gh-actions-test](https://github.com/jkroepke/gh-actions-test) - Test Repo for new Github Actions (4 days ago)
@@ -22,7 +23,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (1 week ago)
 - [jkroepke/oracle-cloud-free-k8s](https://github.com/jkroepke/oracle-cloud-free-k8s) - Terraform for setup kubernetes in free forever cloud (2 weeks ago)
 - [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (2 weeks ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
 - [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 weeks ago)
 
