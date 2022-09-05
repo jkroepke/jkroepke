@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (today)
 - [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository. (1 week ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (1 week ago)
 - [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (2 weeks ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (3 weeks ago)
 - [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (4 weeks ago)
 - [app-sre/aws-resource-exporter](https://github.com/app-sre/aws-resource-exporter) - Prometheus exporter for AWS resource metadata and metrics which are not available in Cloudwatch (4 weeks ago)
-- [nce/oci-free-cloud-k8s](https://github.com/nce/oci-free-cloud-k8s) - k8s on oracle cloud 4free (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
