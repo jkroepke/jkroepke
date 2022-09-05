@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (today)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (today)
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (today)
 - [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository. (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (2 weeks ago)
 - [ExpediaGroup/kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector) - Kuberbetes mutating webhook that injects a sidecar container to a pod (3 weeks ago)
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (3 weeks ago)
-- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
