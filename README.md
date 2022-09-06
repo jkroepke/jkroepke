@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2-beta.0](https://github.com/lensapp/lens/releases/tag/v6.0.2-beta.0), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.2), today) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.98](https://github.com/stakater/Forecastle/releases/tag/v1.0.98), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.18.0), 2 days ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.1](https://github.com/aws/karpenter/releases/tag/v0.16.1), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.0.2-alpha.1), 1 week ago) - Lens - The way the world runs Kubernetes
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.4](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.4), 1 week ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.3](https://github.com/aquasecurity/trivy/releases/tag/v0.31.3), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([helm-chart-aws-cloud-controller-manager-0.0.7](https://github.com/kubernetes/cloud-provider-aws/releases/tag/helm-chart-aws-cloud-controller-manager-0.0.7), 1 week ago) - 
