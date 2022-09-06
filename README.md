@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (today)
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (1 day ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 day ago)
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (1 day ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (2 weeks ago)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (2 weeks ago)
 - [ExpediaGroup/kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector) - Kuberbetes mutating webhook that injects a sidecar container to a pod (3 weeks ago)
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher &amp; command palette (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
