@@ -15,16 +15,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (today)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (3 days ago)
 - [jkroepke/gh-actions-test](https://github.com/jkroepke/gh-actions-test) - Test Repo for new Github Actions (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 weeks ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (2 weeks ago)
-- [jkroepke/oracle-cloud-free-k8s](https://github.com/jkroepke/oracle-cloud-free-k8s) - Terraform for setup kubernetes in free forever cloud (3 weeks ago)
-- [jkroepke/klustered](https://github.com/jkroepke/klustered) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/37) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [openlens 6.0.2](https://github.com/jkroepke/homebrew-openlens/pull/9) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
 - [update bats](https://github.com/jkroepke/helm-secrets/pull/261) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [cache cygwin](https://github.com/jkroepke/helm-secrets/pull/260) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove sops and secret protocol handler](https://github.com/jkroepke/helm-secrets/pull/256) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [Fix: non yaml files on --set-file=secrets://](https://github.com/jkroepke/helm-secrets/pull/255) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [Writeup CrashBeerBackOff](https://github.com/RawkodeAcademy/klustered/pull/29) on [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) (3 weeks ago)
-- [First iteration of a summary](https://github.com/jkroepke/klustered/pull/5) on [jkroepke/klustered](https://github.com/jkroepke/klustered) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
