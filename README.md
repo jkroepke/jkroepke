@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-39.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-39.12.1), 1 day ago) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2), 3 days ago) - Lens - The way the world runs Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.1](https://github.com/aws/karpenter/releases/tag/v0.16.1), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.4](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.4), 1 week ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.31.3](https://github.com/aquasecurity/trivy/releases/tag/v0.31.3), 2 weeks ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([helm-chart-aws-cloud-controller-manager-0.0.7](https://github.com/kubernetes/cloud-provider-aws/releases/tag/helm-chart-aws-cloud-controller-manager-0.0.7), 2 weeks ago) - 
 
 #### 🔨 My recent Pull Requests
 
