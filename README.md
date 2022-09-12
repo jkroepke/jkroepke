@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.20.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2), 3 days ago) - Lens - The way the world runs Kubernetes
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [larsrh/fizzbuzz-k8s](https://github.com/larsrh/fizzbuzz-k8s) - FizzBuzz on k8s using ingress rules, because why not? (today)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (6 days ago)
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (1 week ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (3 weeks ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (3 weeks ago)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (3 weeks ago)
-- [ExpediaGroup/kubernetes-sidecar-injector](https://github.com/ExpediaGroup/kubernetes-sidecar-injector) - Kuberbetes mutating webhook that injects a sidecar container to a pod (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
