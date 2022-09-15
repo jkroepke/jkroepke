@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.20.1), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.0.0), 1 day ago) - Prometheus community Helm charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 3 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2), 6 days ago) - Lens - The way the world runs Kubernetes
