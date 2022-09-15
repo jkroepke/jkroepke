@@ -15,16 +15,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - Up2date CNCF Shape based on the CNCF landscape (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (6 days ago)
 - [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (6 days ago)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (6 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 week ago)
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 week ago)
 - [jkroepke/gh-actions-test](https://github.com/jkroepke/gh-actions-test) - Test Repo for new Github Actions (2 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 weeks ago)
-- [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
