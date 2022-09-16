@@ -28,14 +28,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.0.2), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.4), today) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.12.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.12.2), today) - Prometheus community Helm charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), today) - Declarative continuous deployment for Kubernetes.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 4 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.0.2](https://github.com/lensapp/lens/releases/tag/v6.0.2), 1 week ago) - Lens - The way the world runs Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.2), 1 week ago) - OpenLens Binary Build Repository
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.3), 1 week ago) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.98](https://github.com/stakater/Forecastle/releases/tag/v1.0.98), 1 week ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.1](https://github.com/aws/karpenter/releases/tag/v0.16.1), 2 weeks ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 
