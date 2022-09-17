@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Support literal secrets through --set](https://github.com/jkroepke/helm-secrets/pull/267) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (1 day ago)
 - [Remove HELM_SECRETS_DRIVER](https://github.com/jkroepke/helm-secrets/pull/265) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [remove debug from tests](https://github.com/jkroepke/helm-secrets/pull/264) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openlens 6.0.2](https://github.com/jkroepke/homebrew-openlens/pull/9) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 - [update bats](https://github.com/jkroepke/helm-secrets/pull/261) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [cache cygwin](https://github.com/jkroepke/helm-secrets/pull/260) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Run tests in parallel](https://github.com/jkroepke/helm-secrets/pull/259) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
