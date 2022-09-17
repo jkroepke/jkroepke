@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (today)
 - [larsrh/fizzbuzz-k8s](https://github.com/larsrh/fizzbuzz-k8s) - FizzBuzz on k8s using ingress rules, because why not? (5 days ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 week ago)
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (3 weeks ago)
 - [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (3 weeks ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (3 weeks ago)
-- [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
