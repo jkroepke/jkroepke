@@ -15,10 +15,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (today)
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - Up2date CNCF Shape based on the CNCF landscape (today)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (1 day ago)
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - Up2date CNCF Shape based on the CNCF landscape (1 day ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 - [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
@@ -28,23 +28,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1), today) - Lens - The way the world runs Kubernetes
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), today) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.3.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.4), today) - ArgoProj Helm Charts
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), today) - Declarative continuous deployment for Kubernetes.
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 4 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1), 1 day ago) - Lens - The way the world runs Kubernetes
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 1 day ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.3.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.4), 1 day ago) - ArgoProj Helm Charts
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 1 day ago) - Declarative continuous deployment for Kubernetes.
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 5 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.2), 1 week ago) - OpenLens Binary Build Repository
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.296.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.296.2), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 
 #### 🔨 My recent Pull Requests
 
-- [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (today)
-- [Remove HELM_SECRETS_DRIVER](https://github.com/jkroepke/helm-secrets/pull/265) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
-- [remove debug from tests](https://github.com/jkroepke/helm-secrets/pull/264) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
-- [Rework encrypt/decrypt commands](https://github.com/jkroepke/helm-secrets/pull/263) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
+- [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (1 day ago)
+- [Remove HELM_SECRETS_DRIVER](https://github.com/jkroepke/helm-secrets/pull/265) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
+- [remove debug from tests](https://github.com/jkroepke/helm-secrets/pull/264) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
+- [Rework encrypt/decrypt commands](https://github.com/jkroepke/helm-secrets/pull/263) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Download arm64 linux binaries](https://github.com/lensapp/lens/pull/6223) on [lensapp/lens](https://github.com/lensapp/lens) (1 week ago)
 - [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/37) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [openlens 6.0.2](https://github.com/jkroepke/homebrew-openlens/pull/9) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
@@ -54,24 +54,24 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [larsrh/fizzbuzz-k8s](https://github.com/larsrh/fizzbuzz-k8s) - FizzBuzz on k8s using ingress rules, because why not? (4 days ago)
+- [larsrh/fizzbuzz-k8s](https://github.com/larsrh/fizzbuzz-k8s) - FizzBuzz on k8s using ingress rules, because why not? (5 days ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 week ago)
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (1 week ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (1 week ago)
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (1 week ago)
-- [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository. (2 weeks ago)
-- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (2 weeks ago)
+- [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository. (3 weeks ago)
+- [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (3 weeks ago)
 - [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (3 weeks ago)
 - [jpillora/chisel](https://github.com/jpillora/chisel) - A fast TCP/UDP tunnel over HTTP (3 weeks ago)
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [SABHINAW](https://github.com/SABHINAW)
 - [StuartAtTG](https://github.com/StuartAtTG)
 - [cumsoft](https://github.com/cumsoft)
 - [NaghmouchiWala](https://github.com/NaghmouchiWala)
 - [kalashnikau](https://github.com/kalashnikau)
-- [VietNam-YoungTiger](https://github.com/VietNam-YoungTiger)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
