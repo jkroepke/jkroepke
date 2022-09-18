@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/268) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Support literal secrets through --set](https://github.com/jkroepke/helm-secrets/pull/267) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Download arm64 linux binaries](https://github.com/lensapp/lens/pull/6223) on [lensapp/lens](https://github.com/lensapp/lens) (1 week ago)
 - [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/37) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [openlens 6.0.2](https://github.com/jkroepke/homebrew-openlens/pull/9) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
-- [update bats](https://github.com/jkroepke/helm-secrets/pull/261) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
