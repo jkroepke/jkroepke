@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Run Openlens builds on PR](https://github.com/MuhammedKalkan/OpenLens/pull/40) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/268) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Support literal secrets through --set](https://github.com/jkroepke/helm-secrets/pull/267) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Rework encrypt/decrypt commands](https://github.com/jkroepke/helm-secrets/pull/263) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Download arm64 linux binaries](https://github.com/lensapp/lens/pull/6223) on [lensapp/lens](https://github.com/lensapp/lens) (1 week ago)
 - [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/37) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
-- [openlens 6.0.2](https://github.com/jkroepke/homebrew-openlens/pull/9) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [ShadowRage2004](https://github.com/ShadowRage2004)
 - [LimeFlare](https://github.com/LimeFlare)
 - [terror6](https://github.com/terror6)
 - [Boraksu](https://github.com/Boraksu)
 - [Santosh-goudar](https://github.com/Santosh-goudar)
-- [shivamchhapola](https://github.com/shivamchhapola)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
