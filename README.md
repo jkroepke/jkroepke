@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.1), today) - Prometheus community Helm charts
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1), 2 days ago) - Lens - The way the world runs Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 2 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.4), 2 days ago) - ArgoProj Helm Charts
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Mohammad800](https://github.com/Mohammad800)
+- [Tbunn1](https://github.com/Tbunn1)
+- [Abdullah-jaaan](https://github.com/Abdullah-jaaan)
 - [jakejhc](https://github.com/jakejhc)
 - [imantrepreneurial](https://github.com/imantrepreneurial)
-- [LahbabiOfficial](https://github.com/LahbabiOfficial)
-- [ramanagali](https://github.com/ramanagali)
-- [SABHINAW](https://github.com/SABHINAW)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
