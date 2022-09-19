@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.18.0), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.7), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1), 3 days ago) - Lens - The way the world runs Kubernetes
