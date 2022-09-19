@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1), 3 days ago) - Lens - The way the world runs Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 3 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.4), 3 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
-- [elle-air](https://github.com/elle-air)
-- [Technologyarticless26](https://github.com/Technologyarticless26)
-- [bonani-mlondo](https://github.com/bonani-mlondo)
-- [SuvarnaCM](https://github.com/SuvarnaCM)
-- [RozarioAnto](https://github.com/RozarioAnto)
+- [CrazyTuesday](https://github.com/CrazyTuesday)
+- [PTO2O](https://github.com/PTO2O)
+- [Devil2024](https://github.com/Devil2024)
+- [Ryanmadani298](https://github.com/Ryanmadani298)
+- [JereFreemanvly](https://github.com/JereFreemanvly)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
