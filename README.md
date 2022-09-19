@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.0.1), 1 day ago) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1), 3 days ago) - Lens - The way the world runs Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 3 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.4), 3 days ago) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 3 days ago) - Declarative continuous deployment for Kubernetes.
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([19.0.2](https://github.com/keycloak/keycloak/releases/tag/19.0.2), 5 days ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.2), 1 week ago) - OpenLens Binary Build Repository
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [ganhuojun](https://github.com/ganhuojun)
 - [UXTQ](https://github.com/UXTQ)
 - [Dudekpob](https://github.com/Dudekpob)
 - [BeyondHard](https://github.com/BeyondHard)
 - [accduarte](https://github.com/accduarte)
-- [Newuser471](https://github.com/Newuser471)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
