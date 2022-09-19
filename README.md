@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [Run Openlens builds on PR](https://github.com/MuhammedKalkan/OpenLens/pull/40) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/268) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [remove debug from tests](https://github.com/jkroepke/helm-secrets/pull/264) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Rework encrypt/decrypt commands](https://github.com/jkroepke/helm-secrets/pull/263) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Download arm64 linux binaries](https://github.com/lensapp/lens/pull/6223) on [lensapp/lens](https://github.com/lensapp/lens) (1 week ago)
-- [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/37) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 
 #### ⭐ Recent Stars
 
