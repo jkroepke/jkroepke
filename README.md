@@ -16,7 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (1 day ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (2 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
@@ -28,6 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.2](https://github.com/aws/karpenter/releases/tag/v0.16.2), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.0), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.13.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.5), today) - ArgoProj Helm Charts
@@ -36,11 +38,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.296.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.296.2), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 
 #### 🔨 My recent Pull Requests
 
+- [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/45) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Fix latest version check](https://github.com/MuhammedKalkan/OpenLens/pull/44) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Create config.yml](https://github.com/MuhammedKalkan/OpenLens/pull/42) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Support literal secrets through --set](https://github.com/jkroepke/helm-secrets/pull/267) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (4 days ago)
 - [Remove HELM_SECRETS_DRIVER](https://github.com/jkroepke/helm-secrets/pull/265) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [remove debug from tests](https://github.com/jkroepke/helm-secrets/pull/264) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [ganeshnethula6](https://github.com/ganeshnethula6)
+- [Anilbollam](https://github.com/Anilbollam)
+- [alphakrishna](https://github.com/alphakrishna)
+- [Rasheedfolarin](https://github.com/Rasheedfolarin)
 - [Ammarmalikh](https://github.com/Ammarmalikh)
-- [lannv528](https://github.com/lannv528)
-- [Toolittle72](https://github.com/Toolittle72)
-- [Eagle-20](https://github.com/Eagle-20)
-- [DriftMark](https://github.com/DriftMark)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
