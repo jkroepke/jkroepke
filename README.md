@@ -15,25 +15,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (today)
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 day ago)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 days ago)
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (1 day ago)
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (2 days ago)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (2 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (3 days ago)
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (4 days ago)
 - [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.7), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.0), today) - Prometheus community Helm charts
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1), 3 days ago) - Lens - The way the world runs Kubernetes
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 3 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 3 days ago) - Declarative continuous deployment for Kubernetes.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.7), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.0), 1 day ago) - Prometheus community Helm charts
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.1.0-alpha.1), 4 days ago) - Lens - The way the world runs Kubernetes
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.2), 1 week ago) - OpenLens Binary Build Repository
@@ -41,12 +41,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
-- [Run Openlens builds on PR](https://github.com/MuhammedKalkan/OpenLens/pull/40) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
-- [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/268) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [Support literal secrets through --set](https://github.com/jkroepke/helm-secrets/pull/267) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (3 days ago)
+- [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
+- [Run Openlens builds on PR](https://github.com/MuhammedKalkan/OpenLens/pull/40) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
+- [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/268) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [Support literal secrets through --set](https://github.com/jkroepke/helm-secrets/pull/267) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (4 days ago)
 - [Remove HELM_SECRETS_DRIVER](https://github.com/jkroepke/helm-secrets/pull/265) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [remove debug from tests](https://github.com/jkroepke/helm-secrets/pull/264) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Rework encrypt/decrypt commands](https://github.com/jkroepke/helm-secrets/pull/263) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -54,10 +54,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (2 days ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (3 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 days ago)
 - [larsrh/fizzbuzz-k8s](https://github.com/larsrh/fizzbuzz-k8s) - FizzBuzz on k8s using ingress rules, because why not? (1 week ago)
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (1 week ago)
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (2 weeks ago)
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (2 weeks ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (2 weeks ago)
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (2 weeks ago)
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Jacksoka](https://github.com/Jacksoka)
 - [JaneT678](https://github.com/JaneT678)
 - [Muze91](https://github.com/Muze91)
 - [Vedant817](https://github.com/Vedant817)
 - [jakjhe](https://github.com/jakjhe)
-- [Akhileswarjonnadula](https://github.com/Akhileswarjonnadula)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
