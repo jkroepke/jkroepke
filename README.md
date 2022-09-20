@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Create config.yml](https://github.com/MuhammedKalkan/OpenLens/pull/42) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
 - [Run Openlens builds on PR](https://github.com/MuhammedKalkan/OpenLens/pull/40) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
 - [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove HELM_SECRETS_DRIVER](https://github.com/jkroepke/helm-secrets/pull/265) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [remove debug from tests](https://github.com/jkroepke/helm-secrets/pull/264) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Rework encrypt/decrypt commands](https://github.com/jkroepke/helm-secrets/pull/263) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Download arm64 linux binaries](https://github.com/lensapp/lens/pull/6223) on [lensapp/lens](https://github.com/lensapp/lens) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [KelvinHawks](https://github.com/KelvinHawks)
 - [Diegodom2004](https://github.com/Diegodom2004)
 - [Nuell009](https://github.com/Nuell009)
 - [Jacksoka](https://github.com/Jacksoka)
 - [JaneT678](https://github.com/JaneT678)
-- [Muze91](https://github.com/Muze91)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
