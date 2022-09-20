@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.5), today) - ArgoProj Helm Charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0](https://github.com/lensapp/lens/releases/tag/v6.1.0), today) - Lens - The way the world runs Kubernetes
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.7), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.0), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 4 days ago) - Declarative continuous deployment for Kubernetes.
