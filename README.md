@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.0), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.13.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.5), today) - ArgoProj Helm Charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0](https://github.com/lensapp/lens/releases/tag/v6.1.0), today) - Lens - The way the world runs Kubernetes
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 4 days ago) - Declarative continuous deployment for Kubernetes.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.0.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.0.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.0.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.0.2), 1 week ago) - OpenLens Binary Build Repository
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.296.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.296.2), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 
 #### 🔨 My recent Pull Requests
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Ammarmalikh](https://github.com/Ammarmalikh)
 - [lannv528](https://github.com/lannv528)
 - [Toolittle72](https://github.com/Toolittle72)
 - [Eagle-20](https://github.com/Eagle-20)
 - [DriftMark](https://github.com/DriftMark)
-- [reaper4327](https://github.com/reaper4327)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
