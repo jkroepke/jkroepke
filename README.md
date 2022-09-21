@@ -28,13 +28,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.0), today) - ArgoProj Helm Charts
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.1](https://github.com/lensapp/lens/releases/tag/v6.1.1), today) - Lens - The way the world runs Kubernetes
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.19.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.19.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.1), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.2](https://github.com/aws/karpenter/releases/tag/v0.16.2), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.0), 1 day ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0](https://github.com/lensapp/lens/releases/tag/v6.1.0), 1 day ago) - Lens - The way the world runs Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 5 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [dannyprardhan](https://github.com/dannyprardhan)
+- [rayobyte](https://github.com/rayobyte)
 - [musa49333](https://github.com/musa49333)
 - [nikijohnson77](https://github.com/nikijohnson77)
 - [YASH-T-0](https://github.com/YASH-T-0)
-- [Abbati202](https://github.com/Abbati202)
-- [BENZAMIN732](https://github.com/BENZAMIN732)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
