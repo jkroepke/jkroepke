@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (2 days ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (3 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.4.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.4.8), today) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.2](https://github.com/aws/karpenter/releases/tag/v0.16.2), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.0), 1 day ago) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.13.0), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.5), 1 day ago) - ArgoProj Helm Charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0](https://github.com/lensapp/lens/releases/tag/v6.1.0), 1 day ago) - Lens - The way the world runs Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 5 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 5 days ago) - Declarative continuous deployment for Kubernetes.
@@ -41,7 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Fix passwords with quotes](https://github.com/jkroepke/helm-secrets/pull/270) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Fix passwords with special characters on vals literal implementation](https://github.com/jkroepke/helm-secrets/pull/270) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/45) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [Fix latest version check](https://github.com/MuhammedKalkan/OpenLens/pull/44) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [Create config.yml](https://github.com/MuhammedKalkan/OpenLens/pull/42) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [BENZAMIN732](https://github.com/BENZAMIN732)
 - [mdmahboobalame](https://github.com/mdmahboobalame)
 - [Jacob637](https://github.com/Jacob637)
 - [Hmoodeswager](https://github.com/Hmoodeswager)
 - [joaoaugust0](https://github.com/joaoaugust0)
-- [kmorepubli](https://github.com/kmorepubli)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
