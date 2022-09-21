@@ -15,47 +15,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (1 day ago)
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (2 days ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (3 days ago)
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (4 days ago)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (2 days ago)
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (3 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (4 days ago)
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker (5 days ago)
 - [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.2](https://github.com/aws/karpenter/releases/tag/v0.16.2), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.0), today) - OpenLens Binary Build Repository
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.13.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.5), today) - ArgoProj Helm Charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0](https://github.com/lensapp/lens/releases/tag/v6.1.0), today) - Lens - The way the world runs Kubernetes
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 4 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 4 days ago) - Declarative continuous deployment for Kubernetes.
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.2](https://github.com/aws/karpenter/releases/tag/v0.16.2), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.0), 1 day ago) - OpenLens Binary Build Repository
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.13.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.5), 1 day ago) - ArgoProj Helm Charts
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.0](https://github.com/lensapp/lens/releases/tag/v6.1.0), 1 day ago) - Lens - The way the world runs Kubernetes
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 5 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
+- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 5 days ago) - Declarative continuous deployment for Kubernetes.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 
 #### 🔨 My recent Pull Requests
 
-- [Fix passwords with quotes](https://github.com/jkroepke/helm-secrets/pull/270) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/45) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
-- [Fix latest version check](https://github.com/MuhammedKalkan/OpenLens/pull/44) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
-- [Create config.yml](https://github.com/MuhammedKalkan/OpenLens/pull/42) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
-- [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
-- [Run Openlens builds on PR](https://github.com/MuhammedKalkan/OpenLens/pull/40) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
-- [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/268) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [Support literal secrets through --set](https://github.com/jkroepke/helm-secrets/pull/267) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
-- [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (4 days ago)
+- [Fix passwords with quotes](https://github.com/jkroepke/helm-secrets/pull/270) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/45) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
+- [Fix latest version check](https://github.com/MuhammedKalkan/OpenLens/pull/44) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
+- [Create config.yml](https://github.com/MuhammedKalkan/OpenLens/pull/42) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
+- [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (2 days ago)
+- [Run Openlens builds on PR](https://github.com/MuhammedKalkan/OpenLens/pull/40) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (3 days ago)
+- [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/268) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [Support literal secrets through --set](https://github.com/jkroepke/helm-secrets/pull/267) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [Add ghcr.io as image mirror](https://github.com/myoung34/docker-github-actions-runner/pull/245) on [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (3 days ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 days ago)
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (4 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (4 days ago)
 - [larsrh/fizzbuzz-k8s](https://github.com/larsrh/fizzbuzz-k8s) - FizzBuzz on k8s using ingress rules, because why not? (1 week ago)
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (2 weeks ago)
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (2 weeks ago)
@@ -63,15 +63,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (2 weeks ago)
 - [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository. (3 weeks ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (3 weeks ago)
-- [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (4 weeks ago)
+- [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [kmorepubli](https://github.com/kmorepubli)
+- [ktscalehealthcaremg](https://github.com/ktscalehealthcaremg)
+- [signcate](https://github.com/signcate)
+- [AriKaatje](https://github.com/AriKaatje)
 - [ganeshnethula6](https://github.com/ganeshnethula6)
-- [Anilbollam](https://github.com/Anilbollam)
-- [alphakrishna](https://github.com/alphakrishna)
-- [Rasheedfolarin](https://github.com/Rasheedfolarin)
-- [Ammarmalikh](https://github.com/Ammarmalikh)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
