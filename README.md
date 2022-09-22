@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.3), today) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.2), 1 day ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.1), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.1](https://github.com/lensapp/lens/releases/tag/v6.1.1), 1 day ago) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0), 1 day ago) - Prometheus community Helm charts
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [SeeSawSee](https://github.com/SeeSawSee)
+- [BenjaminKakai](https://github.com/BenjaminKakai)
 - [Osemudia](https://github.com/Osemudia)
 - [salahudheenbader](https://github.com/salahudheenbader)
 - [saloua88](https://github.com/saloua88)
-- [SoftDick](https://github.com/SoftDick)
-- [luotebo](https://github.com/luotebo)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
