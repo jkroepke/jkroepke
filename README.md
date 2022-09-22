@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [auracriscz](https://github.com/auracriscz)
+- [Sheikhnayem997](https://github.com/Sheikhnayem997)
 - [mykeldee](https://github.com/mykeldee)
 - [Adebobby-tech](https://github.com/Adebobby-tech)
 - [anasntts](https://github.com/anasntts)
-- [ZanyISP](https://github.com/ZanyISP)
-- [finecoloureth](https://github.com/finecoloureth)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
