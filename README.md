@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.1.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.3), today) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.1), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.1](https://github.com/lensapp/lens/releases/tag/v6.1.1), 1 day ago) - Lens - The way the world runs Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-4.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-4.15.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.2](https://github.com/aws/karpenter/releases/tag/v0.16.2), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 6 days ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [wisdomOps1](https://github.com/wisdomOps1)
 - [hagizuka](https://github.com/hagizuka)
 - [SeeSawSee](https://github.com/SeeSawSee)
 - [BenjaminKakai](https://github.com/BenjaminKakai)
 - [Osemudia](https://github.com/Osemudia)
-- [salahudheenbader](https://github.com/salahudheenbader)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
