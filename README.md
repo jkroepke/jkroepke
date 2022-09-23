@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.2), today) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.6.0](https://github.com/databus23/helm-diff/releases/tag/v3.6.0), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.1), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.4), 1 day ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.1), 2 days ago) - OpenLens Binary Build Repository
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [thatcodegal](https://github.com/thatcodegal)
 - [NEHA994](https://github.com/NEHA994)
 - [Uttampatel1](https://github.com/Uttampatel1)
 - [alimou-max](https://github.com/alimou-max)
 - [Obijua](https://github.com/Obijua)
-- [surajlm925](https://github.com/surajlm925)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
