@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.4), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.1.0), 1 day ago) - Prometheus community Helm charts
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.1), 2 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.1](https://github.com/lensapp/lens/releases/tag/v6.1.1), 2 days ago) - Lens - The way the world runs Kubernetes
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.1), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
