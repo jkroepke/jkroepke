@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.6.0](https://github.com/databus23/helm-diff/releases/tag/v3.6.0), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.1), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.4), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.2](https://github.com/aws/karpenter/releases/tag/v0.16.2), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.0](https://github.com/aquasecurity/trivy/releases/tag/v0.32.0), 1 week ago) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.4.12](https://github.com/argoproj/argo-cd/releases/tag/v2.4.12), 1 week ago) - Declarative continuous deployment for Kubernetes.
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.4](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.4), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 
 #### 🔨 My recent Pull Requests
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [NEHA994](https://github.com/NEHA994)
+- [Uttampatel1](https://github.com/Uttampatel1)
 - [alimou-max](https://github.com/alimou-max)
 - [Obijua](https://github.com/Obijua)
 - [surajlm925](https://github.com/surajlm925)
-- [Zacbagans](https://github.com/Zacbagans)
-- [auracriscz](https://github.com/auracriscz)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
