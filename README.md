@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Native support plugin downloaders on Windows](https://github.com/jkroepke/helm-secrets/pull/275) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update lint-test.yaml](https://github.com/jkroepke/helm-charts/pull/20) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 day ago)
 - [Fix comma separated values with --set](https://github.com/jkroepke/helm-secrets/pull/274) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Fix passwords with special characters on vals literal implementation](https://github.com/jkroepke/helm-secrets/pull/270) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (5 days ago)
 - [Run Openlens builds on PR](https://github.com/MuhammedKalkan/OpenLens/pull/40) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (6 days ago)
 - [Update kind version](https://github.com/jkroepke/helm-secrets/pull/269) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/268) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 
 #### ⭐ Recent Stars
 
