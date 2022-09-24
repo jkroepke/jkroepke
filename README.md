@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features (today)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 week ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 week ago)
 - [larsrh/fizzbuzz-k8s](https://github.com/larsrh/fizzbuzz-k8s) - FizzBuzz on k8s using ingress rules, because why not? (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (2 weeks ago)
 - [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository. (4 weeks ago)
 - [samber/awesome-prometheus-alerts](https://github.com/samber/awesome-prometheus-alerts) - 🚨 Collection of Prometheus alerting rules (4 weeks ago)
-- [RawkodeAcademy/klustered](https://github.com/RawkodeAcademy/klustered) -  (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
