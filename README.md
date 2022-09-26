@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (today)
 - [compose-x/ecs_composex](https://github.com/compose-x/ecs_composex) - Manage, Configure and Deploy your services and AWS services and applications from your docker-compose definitions (2 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features (2 days ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (3 weeks ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (3 weeks ago)
 - [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (3 weeks ago)
-- [maintainer-org/maintainer](https://github.com/maintainer-org/maintainer) - :octocat: :man_technologist: :whale: Generate personal daily reports or summary, AUTHORS, CONTRIBUTING, CHANGELOG and so on for GitHub user or repository. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
