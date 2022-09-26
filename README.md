@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.5), 1 day ago) - ArgoProj Helm Charts
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.19.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.19.4), today) - ArgoProj Helm Charts
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.1.2), 3 days ago) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.6.0](https://github.com/databus23/helm-diff/releases/tag/v3.6.0), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.1), 5 days ago) - OpenLens Binary Build Repository
