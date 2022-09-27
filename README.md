@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.19.5](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.19.5), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.19.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.19.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.19.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.297.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.297.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
