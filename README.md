@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.19.1), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.3](https://github.com/aws/karpenter/releases/tag/v0.16.3), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.19.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.19.6), 1 day ago) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.297.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.297.0), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.6.0](https://github.com/databus23/helm-diff/releases/tag/v3.6.0), 5 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
