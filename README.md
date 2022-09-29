@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.21.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.21.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.21.0), today) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.1](https://github.com/aquasecurity/trivy/releases/tag/v0.32.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.3](https://github.com/aws/karpenter/releases/tag/v0.16.3), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
