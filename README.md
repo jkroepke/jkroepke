@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (today)
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (3 days ago)
 - [compose-x/ecs_composex](https://github.com/compose-x/ecs_composex) - Manage, Configure and Deploy your services and AWS services and applications from your docker-compose definitions (5 days ago)
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features (5 days ago)
@@ -63,15 +64,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals (3 weeks ago)
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service (3 weeks ago)
 - [neuvector/neuvector](https://github.com/neuvector/neuvector) -  (3 weeks ago)
-- [paxtonhare/demo-magic](https://github.com/paxtonhare/demo-magic) - A handy shell script that enables you to write repeatable demos in a bash environment. (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [mecsys](https://github.com/mecsys)
 - [zakarialaoui10](https://github.com/zakarialaoui10)
 - [ConnectedTblak](https://github.com/ConnectedTblak)
 - [Tesbarmix1](https://github.com/Tesbarmix1)
 - [0990979219](https://github.com/0990979219)
-- [Diyawalls](https://github.com/Diyawalls)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
