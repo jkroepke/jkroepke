@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.6](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.6), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.2.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.19.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.19.2), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.7), today) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.1](https://github.com/aquasecurity/trivy/releases/tag/v0.32.1), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.3](https://github.com/aws/karpenter/releases/tag/v0.16.3), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 3 days ago) - Open Source Identity and Access Management For Modern Applications and Services
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [igor-queiroz](https://github.com/igor-queiroz)
 - [skuethe](https://github.com/skuethe)
 - [mecsys](https://github.com/mecsys)
 - [zakarialaoui10](https://github.com/zakarialaoui10)
 - [ConnectedTblak](https://github.com/ConnectedTblak)
-- [Tesbarmix1](https://github.com/Tesbarmix1)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
