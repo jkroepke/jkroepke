@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔭 Latest releases I've contributed to
 
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.13](https://github.com/argoproj/argo-cd/releases/tag/v2.2.13), today) - Declarative continuous deployment for Kubernetes.
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.17.0-test13](https://github.com/aws/karpenter/releases/tag/v0.17.0-test13), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.5.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.1), 1 day ago) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.1](https://github.com/aquasecurity/trivy/releases/tag/v0.32.1), 5 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.3](https://github.com/aws/karpenter/releases/tag/v0.16.3), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 6 days ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.297.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.297.0), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.6.0](https://github.com/databus23/helm-diff/releases/tag/v3.6.0), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
