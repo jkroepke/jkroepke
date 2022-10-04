@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.2), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.2](https://github.com/lensapp/lens/releases/tag/v6.1.2), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.8), today) - ArgoProj Helm Charts
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.13](https://github.com/argoproj/argo-cd/releases/tag/v2.2.13), 1 day ago) - Declarative continuous deployment for Kubernetes.
