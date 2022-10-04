@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [openlens-from-source 6.1.1](https://github.com/jkroepke/homebrew-openlens/pull/11) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [Added graalvm](https://github.com/jkroepke/demo-app/pull/12) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (5 days ago)
 - [Add --ignore-missing-values](https://github.com/jkroepke/helm-secrets/pull/277) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Native support plugin downloaders on Windows](https://github.com/jkroepke/helm-secrets/pull/275) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/45) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 - [Fix latest version check](https://github.com/MuhammedKalkan/OpenLens/pull/44) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 - [Create config.yml](https://github.com/MuhammedKalkan/OpenLens/pull/42) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
-- [openlens 6.1.0](https://github.com/jkroepke/homebrew-openlens/pull/10) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
