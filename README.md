@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.2), today) - OpenLens Binary Build Repository
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.2), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.2](https://github.com/lensapp/lens/releases/tag/v6.1.2), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.8), today) - ArgoProj Helm Charts
@@ -37,10 +38,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.16.3](https://github.com/aws/karpenter/releases/tag/v0.16.3), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 week ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.6.0](https://github.com/databus23/helm-diff/releases/tag/v3.6.0), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.1), 1 week ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
+- [openlens-from-source 6.1.2](https://github.com/jkroepke/homebrew-openlens/pull/13) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [openlens-from-source 6.1.1](https://github.com/jkroepke/homebrew-openlens/pull/11) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
 - [Added graalvm](https://github.com/jkroepke/demo-app/pull/12) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (5 days ago)
 - [Add --ignore-missing-values](https://github.com/jkroepke/helm-secrets/pull/277) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix passwords with special characters on vals literal implementation](https://github.com/jkroepke/helm-secrets/pull/270) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/45) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 - [Fix latest version check](https://github.com/MuhammedKalkan/OpenLens/pull/44) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
-- [Create config.yml](https://github.com/MuhammedKalkan/OpenLens/pull/42) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
