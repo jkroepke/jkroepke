@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.9), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.10), today) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([19.0.3](https://github.com/keycloak/keycloak/releases/tag/19.0.3), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.17.0](https://github.com/aws/karpenter/releases/tag/v0.17.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 1 day ago) - Declarative continuous deployment for Kubernetes.
