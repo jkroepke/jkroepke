@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.3](https://github.com/lensapp/lens/releases/tag/v6.1.3), today) - Lens - The way the world runs Kubernetes
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.10](https://github.com/lensapp/lens/releases/tag/v6.1.10), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.12), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.5.0), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.17.0](https://github.com/aws/karpenter/releases/tag/v0.17.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
