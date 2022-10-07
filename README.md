@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.11), 1 day ago) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.17.0](https://github.com/aws/karpenter/releases/tag/v0.17.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 2 days ago) - Declarative continuous deployment for Kubernetes.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-40.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-40.4.0), 2 days ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.2), 3 days ago) - OpenLens Binary Build Repository
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.2), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.2](https://github.com/lensapp/lens/releases/tag/v6.1.2), 3 days ago) - Lens - The way the world runs Kubernetes
