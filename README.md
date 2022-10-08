@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (3 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (3 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
@@ -33,11 +33,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.10), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.10](https://github.com/lensapp/lens/releases/tag/v6.1.10), 1 day ago) - Lens - The way the world runs Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.17.0](https://github.com/aws/karpenter/releases/tag/v0.17.0), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ([v2.2.14](https://github.com/argoproj/argo-cd/releases/tag/v2.2.14), 3 days ago) - Declarative continuous deployment for Kubernetes.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.2), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.1](https://github.com/aquasecurity/trivy/releases/tag/v0.32.1), 1 week ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 1 week ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.6.0](https://github.com/databus23/helm-diff/releases/tag/v3.6.0), 2 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.1), 2 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
