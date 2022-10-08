@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(argo-cd): Make labels for repoServer and notification service accounts configurable](https://github.com/argoproj/argo-helm/pull/1527) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
 - [openlens-from-source 6.1.10](https://github.com/jkroepke/homebrew-openlens/pull/14) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
 - [openlens-from-source 6.1.2](https://github.com/jkroepke/homebrew-openlens/pull/13) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (4 days ago)
 - [openlens-from-source 6.1.1](https://github.com/jkroepke/homebrew-openlens/pull/11) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update lint-test.yaml](https://github.com/jkroepke/helm-charts/pull/20) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 weeks ago)
 - [Fix comma separated values with --set](https://github.com/jkroepke/helm-secrets/pull/274) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Fix passwords with special characters on vals literal implementation](https://github.com/jkroepke/helm-secrets/pull/270) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Build arm64 on linux](https://github.com/MuhammedKalkan/OpenLens/pull/45) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
