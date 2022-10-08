@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for extra secrets](https://github.com/dexidp/helm-charts/pull/98) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (today)
 - [Fix vals version](https://github.com/variantdev/vals/pull/103) on [variantdev/vals](https://github.com/variantdev/vals) (today)
 - [Add support for Azure Workload Identity](https://github.com/variantdev/vals/pull/102) on [variantdev/vals](https://github.com/variantdev/vals) (today)
 - [feat(argo-cd): Make labels for repoServer and notification service accounts configurable](https://github.com/argoproj/argo-helm/pull/1527) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (today)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Added graalvm](https://github.com/jkroepke/demo-app/pull/12) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (1 week ago)
 - [Add --ignore-missing-values](https://github.com/jkroepke/helm-secrets/pull/277) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Native support plugin downloaders on Windows](https://github.com/jkroepke/helm-secrets/pull/275) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Update lint-test.yaml](https://github.com/jkroepke/helm-charts/pull/20) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
