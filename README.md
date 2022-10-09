@@ -16,6 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (4 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (4 days ago)
@@ -24,12 +25,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.15), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.6.2), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.14), 1 day ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.10), 2 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.10](https://github.com/lensapp/lens/releases/tag/v6.1.10), 2 days ago) - Lens - The way the world runs Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.17.0](https://github.com/aws/karpenter/releases/tag/v0.17.0), 4 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
