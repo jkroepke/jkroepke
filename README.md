@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (4 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (4 days ago)
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3074) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [Add support for extra secrets](https://github.com/dexidp/helm-charts/pull/98) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (1 day ago)
 - [Fix vals version](https://github.com/variantdev/vals/pull/103) on [variantdev/vals](https://github.com/variantdev/vals) (1 day ago)
 - [Add support for Azure Workload Identity](https://github.com/variantdev/vals/pull/102) on [variantdev/vals](https://github.com/variantdev/vals) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openlens-from-source 6.1.1](https://github.com/jkroepke/homebrew-openlens/pull/11) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (5 days ago)
 - [Added graalvm](https://github.com/jkroepke/demo-app/pull/12) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (1 week ago)
 - [Add --ignore-missing-values](https://github.com/jkroepke/helm-secrets/pull/277) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Native support plugin downloaders on Windows](https://github.com/jkroepke/helm-secrets/pull/275) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
