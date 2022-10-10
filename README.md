@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix python error if socket path is used](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/17) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (today)
 - [Document additional helm parameters](https://github.com/argoproj-labs/argocd-vault-plugin/pull/409) on [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) (today)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3074) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 day ago)
 - [Add support for extra secrets](https://github.com/dexidp/helm-charts/pull/98) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openlens-from-source 6.1.10](https://github.com/jkroepke/homebrew-openlens/pull/14) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 days ago)
 - [openlens-from-source 6.1.2](https://github.com/jkroepke/homebrew-openlens/pull/13) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (6 days ago)
 - [openlens-from-source 6.1.1](https://github.com/jkroepke/homebrew-openlens/pull/11) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (6 days ago)
-- [Added graalvm](https://github.com/jkroepke/demo-app/pull/12) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (1 week ago)
 
 #### ⭐ Recent Stars
 
