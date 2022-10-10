@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Document additional helm parameters](https://github.com/argoproj-labs/argocd-vault-plugin/pull/409) on [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) (today)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3074) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 day ago)
 - [Add support for extra secrets](https://github.com/dexidp/helm-charts/pull/98) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (2 days ago)
 - [Fix vals version](https://github.com/variantdev/vals/pull/103) on [variantdev/vals](https://github.com/variantdev/vals) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openlens-from-source 6.1.2](https://github.com/jkroepke/homebrew-openlens/pull/13) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (6 days ago)
 - [openlens-from-source 6.1.1](https://github.com/jkroepke/homebrew-openlens/pull/11) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (6 days ago)
 - [Added graalvm](https://github.com/jkroepke/demo-app/pull/12) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (1 week ago)
-- [Add --ignore-missing-values](https://github.com/jkroepke/helm-secrets/pull/277) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
