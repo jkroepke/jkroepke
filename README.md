@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.3.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.24](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.24), today) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.0](https://github.com/aws/karpenter/releases/tag/v0.18.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.11](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.11), 1 day ago) - OpenLens Binary Build Repository
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [helm: allow custom labels on service account](https://github.com/crossplane/crossplane/pull/3374) on [crossplane/crossplane](https://github.com/crossplane/crossplane) (today)
 - [Fix python error if socket path is used](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/17) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (2 days ago)
 - [Document additional helm parameters](https://github.com/argoproj-labs/argocd-vault-plugin/pull/409) on [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) (2 days ago)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3074) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat(argo-cd): Make labels for repoServer and notification service accounts configurable](https://github.com/argoproj/argo-helm/pull/1527) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (4 days ago)
 - [openlens-from-source 6.1.10](https://github.com/jkroepke/homebrew-openlens/pull/14) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (5 days ago)
 - [openlens-from-source 6.1.2](https://github.com/jkroepke/homebrew-openlens/pull/13) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
-- [openlens-from-source 6.1.1](https://github.com/jkroepke/homebrew-openlens/pull/11) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 
 #### ⭐ Recent Stars
 
