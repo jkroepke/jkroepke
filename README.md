@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.23](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.23), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.5.24](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.5.24), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.2), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.0](https://github.com/aws/karpenter/releases/tag/v0.18.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.11](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.11), 1 day ago) - OpenLens Binary Build Repository
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (today)
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more  (4 days ago)
 - [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar (1 week ago)
 - [twiessner/homelab-k8s-crossplane](https://github.com/twiessner/homelab-k8s-crossplane) -  (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js (1 week ago)
 - [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (1 week ago)
 - [neutrinolabs/xrdp](https://github.com/neutrinolabs/xrdp) - xrdp: an open source RDP server (2 weeks ago)
-- [compose-x/ecs_composex](https://github.com/compose-x/ecs_composex) - Manage, Configure and Deploy your services and AWS services and applications from your docker-compose definitions (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
