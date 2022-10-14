@@ -15,19 +15,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 days ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (5 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (2 weeks ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (2 weeks ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.0), today) - Collection of charts used in my projects
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), today) - Export various metrics including insights about github repositories
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.22.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.0), 1 day ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.12), 1 day ago) - OpenLens Binary Build Repository
@@ -36,11 +38,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.2), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.1](https://github.com/aquasecurity/trivy/releases/tag/v0.32.1), 2 weeks ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 2 weeks ago) - Open Source Identity and Access Management For Modern Applications and Services
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.6.0](https://github.com/databus23/helm-diff/releases/tag/v3.6.0), 3 weeks ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.1.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.1.1), 3 weeks ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
+- [Add github_exporter](https://github.com/jkroepke/helm-charts/pull/23) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [helm: allow custom labels on service account](https://github.com/crossplane/crossplane/pull/3374) on [crossplane/crossplane](https://github.com/crossplane/crossplane) (2 days ago)
 - [Fix python error if socket path is used](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/17) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (4 days ago)
 - [Document additional helm parameters](https://github.com/argoproj-labs/argocd-vault-plugin/pull/409) on [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add support for Azure Workload Identity](https://github.com/variantdev/vals/pull/102) on [variantdev/vals](https://github.com/variantdev/vals) (6 days ago)
 - [feat(argo-cd): Make labels for repoServer and notification service accounts configurable](https://github.com/argoproj/argo-helm/pull/1527) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (6 days ago)
 - [openlens-from-source 6.1.10](https://github.com/jkroepke/homebrew-openlens/pull/14) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
-- [openlens-from-source 6.1.2](https://github.com/jkroepke/homebrew-openlens/pull/13) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 
 #### ⭐ Recent Stars
 
