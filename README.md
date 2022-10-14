@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.0), today) - Collection of charts used in my projects
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.1), today) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), today) - Export various metrics including insights about github repositories
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.22.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.0), 1 day ago) - ArgoProj Helm Charts
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add dashboard](https://github.com/jkroepke/helm-charts/pull/24) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [Add github_exporter](https://github.com/jkroepke/helm-charts/pull/23) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [helm: allow custom labels on service account](https://github.com/crossplane/crossplane/pull/3374) on [crossplane/crossplane](https://github.com/crossplane/crossplane) (2 days ago)
 - [Fix python error if socket path is used](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/17) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (4 days ago)
@@ -50,10 +51,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix vals version](https://github.com/variantdev/vals/pull/103) on [variantdev/vals](https://github.com/variantdev/vals) (6 days ago)
 - [Add support for Azure Workload Identity](https://github.com/variantdev/vals/pull/102) on [variantdev/vals](https://github.com/variantdev/vals) (6 days ago)
 - [feat(argo-cd): Make labels for repoServer and notification service accounts configurable](https://github.com/argoproj/argo-helm/pull/1527) on [argoproj/argo-helm](https://github.com/argoproj/argo-helm) (6 days ago)
-- [openlens-from-source 6.1.10](https://github.com/jkroepke/homebrew-openlens/pull/14) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (today)
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (today)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (2 days ago)
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more  (6 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display&#39;s brightness &amp; volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs. (1 week ago)
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications &amp; troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) &amp; Observability tool (1 week ago)
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js (1 week ago)
-- [yannh/kubeconform](https://github.com/yannh/kubeconform) - A FAST Kubernetes manifests validator, with support for Custom Resources! (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
