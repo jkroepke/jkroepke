@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.20.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.20.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-1.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.6.1), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.1), 2 days ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), 2 days ago) - Export various metrics including insights about github repositories
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.0), 3 days ago) - ArgoProj Helm Charts
