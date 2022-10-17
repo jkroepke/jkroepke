@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.102](https://github.com/stakater/Forecastle/releases/tag/v1.0.102), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.103](https://github.com/stakater/Forecastle/releases/tag/v1.0.103), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.5.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.1), 3 days ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), 3 days ago) - Export various metrics including insights about github repositories
