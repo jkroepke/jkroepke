@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.99](https://github.com/stakater/Forecastle/releases/tag/v1.0.99), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-1.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.6.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.1), 3 days ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), 3 days ago) - Export various metrics including insights about github repositories
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.0](https://github.com/aws/karpenter/releases/tag/v0.18.0), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.2), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.1](https://github.com/aquasecurity/trivy/releases/tag/v0.32.1), 2 weeks ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([nightly](https://github.com/keycloak/keycloak/releases/tag/nightly), 2 weeks ago) - Open Source Identity and Access Management For Modern Applications and Services
 
 #### 🔨 My recent Pull Requests
 
