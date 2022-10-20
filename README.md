@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.1), today) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.1](https://github.com/aws/karpenter/releases/tag/v0.18.1), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.9.1), 1 day ago) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.103](https://github.com/stakater/Forecastle/releases/tag/v1.0.103), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.1), 6 days ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), 6 days ago) - Export various metrics including insights about github repositories
