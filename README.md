@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.1), today) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.1](https://github.com/aws/karpenter/releases/tag/v0.18.1), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.9.1), 1 day ago) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.103](https://github.com/stakater/Forecastle/releases/tag/v1.0.103), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.1), 6 days ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), 6 days ago) - Export various metrics including insights about github repositories
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.0), 1 week ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.12), 1 week ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.12](https://github.com/lensapp/lens/releases/tag/v6.1.12), 1 week ago) - Lens - The way the world runs Kubernetes
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.2), 2 weeks ago) - This will run the new self-hosted github actions runners with docker-in-docker
