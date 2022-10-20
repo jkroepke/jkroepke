@@ -16,10 +16,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (1 day ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 week ago)
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7480) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [Bump all dependencies](https://github.com/prometheus-community/jiralert/pull/133) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (today)
 - [[jiralert] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2591) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Create test](https://github.com/jkroepke/actions-test/pull/1) on [jkroepke/actions-test](https://github.com/jkroepke/actions-test) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix python error if socket path is used](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/17) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (1 week ago)
 - [Document additional helm parameters](https://github.com/argoproj-labs/argocd-vault-plugin/pull/409) on [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) (1 week ago)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3074) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
-- [Add support for extra secrets](https://github.com/dexidp/helm-charts/pull/98) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
