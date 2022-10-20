@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Bump all dependencies](https://github.com/prometheus-community/jiralert/pull/133) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (today)
 - [[jiralert] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2591) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Create test](https://github.com/jkroepke/actions-test/pull/1) on [jkroepke/actions-test](https://github.com/jkroepke/actions-test) (1 day ago)
 - [Add dashboard](https://github.com/jkroepke/helm-charts/pull/24) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (6 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Document additional helm parameters](https://github.com/argoproj-labs/argocd-vault-plugin/pull/409) on [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) (1 week ago)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3074) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [Add support for extra secrets](https://github.com/dexidp/helm-charts/pull/98) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (1 week ago)
-- [Fix vals version](https://github.com/variantdev/vals/pull/103) on [variantdev/vals](https://github.com/variantdev/vals) (1 week ago)
 
 #### ⭐ Recent Stars
 
