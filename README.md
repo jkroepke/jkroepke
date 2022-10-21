@@ -1,5 +1,5 @@
 # Jan-Otto Kröpke - @jkroepke
-### Site Reliability Engineer @ [cloudeteer](https://cloudeteer.de)
+### Site Reliability Engineer @ [cloudeteer](https://github.com/adorsys)
 
 Hi, welcome to my GitHub profile! 👋
 
