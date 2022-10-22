@@ -17,17 +17,18 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
-- [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (2 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 days ago)
-- [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (3 days ago)
+- [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (2 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
+- [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (3 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 week ago)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) - ArgoProj Helm Charts (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.0](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.0), today) - A helm plugin for ArgoCD to support the lookup function
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5), 2 days ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.1](https://github.com/aws/karpenter/releases/tag/v0.18.1), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.12), 1 week ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.12](https://github.com/lensapp/lens/releases/tag/v6.1.12), 1 week ago) - Lens - The way the world runs Kubernetes
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.298.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.298.2), 2 weeks ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.32.1](https://github.com/aquasecurity/trivy/releases/tag/v0.32.1), 3 weeks ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
