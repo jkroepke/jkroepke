@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.2), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5), 2 days ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.1](https://github.com/aws/karpenter/releases/tag/v0.18.1), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.103](https://github.com/stakater/Forecastle/releases/tag/v1.0.103), 5 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
