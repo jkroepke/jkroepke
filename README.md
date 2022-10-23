@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications (today)
 - [twiessner/homelab-k8s-crossplane-argocd](https://github.com/twiessner/homelab-k8s-crossplane-argocd) - This repository contains all ArgoCD resources for the HomeLab (2 days ago)
 - [quintush/helm-unittest](https://github.com/quintush/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (4 days ago)
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (5 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (1 week ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more  (2 weeks ago)
-- [leits/MeetingBar](https://github.com/leits/MeetingBar) - 🇺🇦 Your next meeting always before your eyes in the macOS menu bar (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
