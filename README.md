@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7499) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [[kube-prometheus-stack] avoid alerting field in prometheus CR, if alertmanager config is empty](https://github.com/prometheus-community/helm-charts/pull/2600) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7480) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
 - [Bump all dependencies](https://github.com/prometheus-community/jiralert/pull/133) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add github_exporter](https://github.com/jkroepke/helm-charts/pull/23) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
 - [helm: allow custom labels on service account](https://github.com/crossplane/crossplane/pull/3374) on [crossplane/crossplane](https://github.com/crossplane/crossplane) (1 week ago)
 - [Fix python error if socket path is used](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/17) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (1 week ago)
-- [Document additional helm parameters](https://github.com/argoproj-labs/argocd-vault-plugin/pull/409) on [argoproj-labs/argocd-vault-plugin](https://github.com/argoproj-labs/argocd-vault-plugin) (1 week ago)
 
 #### ⭐ Recent Stars
 
