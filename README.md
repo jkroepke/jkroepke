@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration. (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (1 day ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (4 days ago)
 - [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (4 days ago)
@@ -28,7 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.4), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.5), today) - ArgoProj Helm Charts
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.13](https://github.com/lensapp/lens/releases/tag/v6.1.13), today) - Lens - The way the world runs Kubernetes
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.3](https://github.com/kubereboot/charts/releases/tag/kured-4.0.3), 1 day ago) - Helm charts for kubereboot org (kured)
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.0](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.0), 2 days ago) - A helm plugin for ArgoCD to support the lookup function
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.1.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.1.5), 4 days ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.1), 1 week ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), 1 week ago) - Export various metrics including insights about github repositories
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.12), 1 week ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.12](https://github.com/lensapp/lens/releases/tag/v6.1.12), 1 week ago) - Lens - The way the world runs Kubernetes
 
 #### 🔨 My recent Pull Requests
 
