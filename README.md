@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Use - instead /dev/stdin](https://github.com/jkroepke/helm-secrets/pull/282) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [fix wrong indention on skipWaitForDeleteTimeout](https://github.com/kubereboot/charts/pull/17) on [kubereboot/charts](https://github.com/kubereboot/charts) (1 day ago)
 - [[Helm] Add support for azure blob storage](https://github.com/grafana/loki/pull/7500) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
 - [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7499) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[jiralert] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2591) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [Create test](https://github.com/jkroepke/actions-test/pull/1) on [jkroepke/actions-test](https://github.com/jkroepke/actions-test) (5 days ago)
 - [Add dashboard](https://github.com/jkroepke/helm-charts/pull/24) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
-- [Add github_exporter](https://github.com/jkroepke/helm-charts/pull/23) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
