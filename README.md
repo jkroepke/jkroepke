@@ -15,16 +15,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration. (today)
-- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (1 day ago)
-- [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (1 day ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (1 day ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
+- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (1 day ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (4 days ago)
 - [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (4 days ago)
 - [jkroepke/actions-test](https://github.com/jkroepke/actions-test) -  (5 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -41,6 +41,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update CI](https://github.com/jkroepke/helm-secrets/pull/284) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [Support for shell installed via scoop](https://github.com/jkroepke/helm-secrets/pull/283) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Use - instead /dev/stdin](https://github.com/jkroepke/helm-secrets/pull/282) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [fix wrong indention on skipWaitForDeleteTimeout](https://github.com/kubereboot/charts/pull/17) on [kubereboot/charts](https://github.com/kubereboot/charts) (1 day ago)
 - [[Helm] Add support for azure blob storage](https://github.com/grafana/loki/pull/7500) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7480) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
 - [Bump all dependencies](https://github.com/prometheus-community/jiralert/pull/133) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (4 days ago)
 - [[jiralert] Setup chart](https://github.com/prometheus-community/helm-charts/pull/2591) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [Create test](https://github.com/jkroepke/actions-test/pull/1) on [jkroepke/actions-test](https://github.com/jkroepke/actions-test) (5 days ago)
-- [Add dashboard](https://github.com/jkroepke/helm-charts/pull/24) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
