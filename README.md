@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (1 day ago)
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration. (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
@@ -28,7 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.7.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.7.0), today) - ArgoProj Helm Charts
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.33.0](https://github.com/aquasecurity/trivy/releases/tag/v0.33.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.8.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.8.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.6.1), today) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.13), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.13](https://github.com/lensapp/lens/releases/tag/v6.1.13), 1 day ago) - Lens - The way the world runs Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.1](https://github.com/aws/karpenter/releases/tag/v0.18.1), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.103](https://github.com/stakater/Forecastle/releases/tag/v1.0.103), 1 week ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.1](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.1), 1 week ago) - Collection of charts used in my projects
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.5.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.5.0), 1 week ago) - Export various metrics including insights about github repositories
 
 #### 🔨 My recent Pull Requests
 
