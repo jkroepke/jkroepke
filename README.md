@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.6), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.13), today) - OpenLens Binary Build Repository
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.6.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.6.5), 1 day ago) - ArgoProj Helm Charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.13](https://github.com/lensapp/lens/releases/tag/v6.1.13), 1 day ago) - Lens - The way the world runs Kubernetes
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.3](https://github.com/kubereboot/charts/releases/tag/kured-4.0.3), 2 days ago) - Helm charts for kubereboot org (kured)
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.0](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.0), 3 days ago) - A helm plugin for ArgoCD to support the lookup function
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider (today)
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications (2 days ago)
 - [twiessner/homelab-k8s-crossplane-argocd](https://github.com/twiessner/homelab-k8s-crossplane-argocd) - This repository contains all ArgoCD resources for the HomeLab (4 days ago)
 - [quintush/helm-unittest](https://github.com/quintush/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (6 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (1 week ago)
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (1 week ago)
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (1 week ago)
-- [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more  (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
