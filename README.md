@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Support Workload Identity](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1464) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (today)
 - [Fix entrypoint in docker image](https://github.com/crossplane-contrib/provider-azure/pull/356) on [crossplane-contrib/provider-azure](https://github.com/crossplane-contrib/provider-azure) (2 days ago)
 - [Update CI](https://github.com/jkroepke/helm-secrets/pull/284) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Support for shell installed via scoop](https://github.com/jkroepke/helm-secrets/pull/283) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7499) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
 - [[kube-prometheus-stack] avoid alerting field in prometheus CR, if alertmanager config is empty](https://github.com/prometheus-community/helm-charts/pull/2600) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7480) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
-- [Bump all dependencies](https://github.com/prometheus-community/jiralert/pull/133) on [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) (6 days ago)
 
 #### ⭐ Recent Stars
 
