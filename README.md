@@ -15,7 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (3 days ago)
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration. (3 days ago)
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [hipdibby](https://github.com/hipdibby)
 - [KingKaro1](https://github.com/KingKaro1)
 - [AndresBetancourtP](https://github.com/AndresBetancourtP)
 - [oscarmmi](https://github.com/oscarmmi)
 - [RAFAELPOPOVICI](https://github.com/RAFAELPOPOVICI)
-- [Shaik-tanveer](https://github.com/Shaik-tanveer)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
