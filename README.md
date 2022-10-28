@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.8.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.8.5), today) - ArgoProj Helm Charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14), today) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.8.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.8.4), today) - ArgoProj Helm Charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.0), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.7.0), 2 days ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.33.0](https://github.com/aquasecurity/trivy/releases/tag/v0.33.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
