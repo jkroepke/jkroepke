@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Introduce cert-manager-resources helm chart](https://github.com/cert-manager/cert-manager/pull/5542) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
 - [[Helm] Add toggle for MetricsInstance](https://github.com/grafana/loki/pull/7525) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
 - [[helm] Support Workload Identity](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1464) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (2 days ago)
 - [Fix entrypoint in docker image](https://github.com/crossplane-contrib/provider-azure/pull/356) on [crossplane-contrib/provider-azure](https://github.com/crossplane-contrib/provider-azure) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix wrong indention on skipWaitForDeleteTimeout](https://github.com/kubereboot/charts/pull/17) on [kubereboot/charts](https://github.com/kubereboot/charts) (5 days ago)
 - [[Helm] Add support for azure blob storage](https://github.com/grafana/loki/pull/7500) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
 - [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7499) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
-- [[kube-prometheus-stack] avoid alerting field in prometheus CR, if alertmanager config is empty](https://github.com/prometheus-community/helm-charts/pull/2600) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [ayselkarakus](https://github.com/ayselkarakus)
+- [KASHI002](https://github.com/KASHI002)
 - [youxu1995](https://github.com/youxu1995)
 - [yuchenduan](https://github.com/yuchenduan)
 - [cshabai](https://github.com/cshabai)
-- [lynarita](https://github.com/lynarita)
-- [BitSail](https://github.com/BitSail)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
