@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.8.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.8.4), today) - ArgoProj Helm Charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.0), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.8.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.8.3), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.7.0), 2 days ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.33.0](https://github.com/aquasecurity/trivy/releases/tag/v0.33.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.13), 3 days ago) - OpenLens Binary Build Repository
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [tengelngel](https://github.com/tengelngel)
 - [ayselkarakus](https://github.com/ayselkarakus)
 - [KASHI002](https://github.com/KASHI002)
 - [youxu1995](https://github.com/youxu1995)
 - [yuchenduan](https://github.com/yuchenduan)
-- [cshabai](https://github.com/cshabai)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
