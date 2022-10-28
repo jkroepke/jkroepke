@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [briandenicola/azure-aks-java-auth-spn-demo](https://github.com/briandenicola/azure-aks-java-auth-spn-demo) - Demostrate how to authenticate to AKS using an AAD SPN with the Azure Java SDK (today)
 - [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider (3 days ago)
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications (5 days ago)
 - [twiessner/homelab-k8s-crossplane-argocd](https://github.com/twiessner/homelab-k8s-crossplane-argocd) - This repository contains all ArgoCD resources for the HomeLab (1 week ago)
@@ -63,15 +64,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 week ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (2 weeks ago)
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS  (2 weeks ago)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
+- [narou16](https://github.com/narou16)
 - [lehongphathong](https://github.com/lehongphathong)
 - [Omarals12](https://github.com/Omarals12)
 - [sheeplao](https://github.com/sheeplao)
 - [biscuitdelicious](https://github.com/biscuitdelicious)
-- [deepak-79](https://github.com/deepak-79)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
