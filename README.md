@@ -15,50 +15,50 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
-- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration. (4 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (4 days ago)
-- [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (5 days ago)
-- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
+- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration. (5 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (5 days ago)
+- [kubereboot/charts](https://github.com/kubereboot/charts) - Helm charts for kubereboot org (kured) (6 days ago)
+- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (6 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.0), today) - Prometheus community Helm charts
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), today) - OpenLens Binary Build Repository
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.8.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.8.5), today) - ArgoProj Helm Charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14), today) - Lens - The way the world runs Kubernetes
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.0), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.33.0](https://github.com/aquasecurity/trivy/releases/tag/v0.33.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.3](https://github.com/kubereboot/charts/releases/tag/kured-4.0.3), 5 days ago) - Helm charts for kubereboot org (kured)
-- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.0](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.0), 6 days ago) - A helm plugin for ArgoCD to support the lookup function
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.0), 1 day ago) - Prometheus community Helm charts
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), 1 day ago) - OpenLens Binary Build Repository
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.8.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.8.5), 1 day ago) - ArgoProj Helm Charts
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14), 1 day ago) - Lens - The way the world runs Kubernetes
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.0), 2 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.33.0](https://github.com/aquasecurity/trivy/releases/tag/v0.33.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.3](https://github.com/kubereboot/charts/releases/tag/kured-4.0.3), 6 days ago) - Helm charts for kubereboot org (kured)
+- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.0](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.0), 1 week ago) - A helm plugin for ArgoCD to support the lookup function
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.18.1](https://github.com/aws/karpenter/releases/tag/v0.18.1), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.103](https://github.com/stakater/Forecastle/releases/tag/v1.0.103), 1 week ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
-- [[helm] Introduce cert-manager-resources helm chart](https://github.com/cert-manager/cert-manager/pull/5542) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
-- [[Helm] Add toggle for MetricsInstance](https://github.com/grafana/loki/pull/7525) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
-- [[helm] Support Workload Identity](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1464) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (2 days ago)
-- [Fix entrypoint in docker image](https://github.com/crossplane-contrib/provider-azure/pull/356) on [crossplane-contrib/provider-azure](https://github.com/crossplane-contrib/provider-azure) (4 days ago)
-- [Update CI](https://github.com/jkroepke/helm-secrets/pull/284) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
-- [Support for shell installed via scoop](https://github.com/jkroepke/helm-secrets/pull/283) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
-- [Use - instead /dev/stdin](https://github.com/jkroepke/helm-secrets/pull/282) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
-- [fix wrong indention on skipWaitForDeleteTimeout](https://github.com/kubereboot/charts/pull/17) on [kubereboot/charts](https://github.com/kubereboot/charts) (5 days ago)
-- [[Helm] Add support for azure blob storage](https://github.com/grafana/loki/pull/7500) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
-- [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7499) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
+- [[helm] Introduce cert-manager-resources helm chart](https://github.com/cert-manager/cert-manager/pull/5542) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 day ago)
+- [[Helm] Add toggle for MetricsInstance](https://github.com/grafana/loki/pull/7525) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
+- [[helm] Support Workload Identity](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1464) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (3 days ago)
+- [Fix entrypoint in docker image](https://github.com/crossplane-contrib/provider-azure/pull/356) on [crossplane-contrib/provider-azure](https://github.com/crossplane-contrib/provider-azure) (5 days ago)
+- [Update CI](https://github.com/jkroepke/helm-secrets/pull/284) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
+- [Support for shell installed via scoop](https://github.com/jkroepke/helm-secrets/pull/283) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
+- [Use - instead /dev/stdin](https://github.com/jkroepke/helm-secrets/pull/282) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
+- [fix wrong indention on skipWaitForDeleteTimeout](https://github.com/kubereboot/charts/pull/17) on [kubereboot/charts](https://github.com/kubereboot/charts) (6 days ago)
+- [[Helm] Add support for azure blob storage](https://github.com/grafana/loki/pull/7500) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
+- [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7499) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (today)
-- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (today)
-- [briandenicola/azure-aks-java-auth-spn-demo](https://github.com/briandenicola/azure-aks-java-auth-spn-demo) - Demostrate how to authenticate to AKS using an AAD SPN with the Azure Java SDK (today)
-- [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider (3 days ago)
-- [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications (5 days ago)
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (1 day ago)
+- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (1 day ago)
+- [briandenicola/azure-aks-java-auth-spn-demo](https://github.com/briandenicola/azure-aks-java-auth-spn-demo) - Demostrate how to authenticate to AKS using an AAD SPN with the Azure Java SDK (1 day ago)
+- [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider (4 days ago)
+- [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications (6 days ago)
 - [twiessner/homelab-k8s-crossplane-argocd](https://github.com/twiessner/homelab-k8s-crossplane-argocd) - This repository contains all ArgoCD resources for the HomeLab (1 week ago)
 - [quintush/helm-unittest](https://github.com/quintush/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (1 week ago)
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (1 week ago)
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Libfox](https://github.com/Libfox)
+- [DubemAlwel](https://github.com/DubemAlwel)
 - [Pegasusvdg](https://github.com/Pegasusvdg)
 - [Hieu1212](https://github.com/Hieu1212)
 - [cl6udzx](https://github.com/cl6udzx)
-- [sarjo23](https://github.com/sarjo23)
-- [narou16](https://github.com/narou16)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
