@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Test PR](https://github.com/jkroepke/homelab/pull/63) on [jkroepke/homelab](https://github.com/jkroepke/homelab) (today)
 - [[helm] Introduce cert-manager-resources helm chart](https://github.com/cert-manager/cert-manager/pull/5542) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (2 days ago)
 - [[Helm] Add toggle for MetricsInstance](https://github.com/grafana/loki/pull/7525) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
 - [[helm] Support Workload Identity](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1464) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Use - instead /dev/stdin](https://github.com/jkroepke/helm-secrets/pull/282) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [fix wrong indention on skipWaitForDeleteTimeout](https://github.com/kubereboot/charts/pull/17) on [kubereboot/charts](https://github.com/kubereboot/charts) (1 week ago)
 - [[Helm] Add support for azure blob storage](https://github.com/grafana/loki/pull/7500) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
-- [Remove prometheus CRDs](https://github.com/grafana/loki/pull/7499) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Arko2008](https://github.com/Arko2008)
+- [xyzqu](https://github.com/xyzqu)
 - [mandpi](https://github.com/mandpi)
 - [oeyoel](https://github.com/oeyoel)
 - [SaifeddineElhanoune](https://github.com/SaifeddineElhanoune)
-- [viniciustakeuchi](https://github.com/viniciustakeuchi)
-- [xw949](https://github.com/xw949)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
