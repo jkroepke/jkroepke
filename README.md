@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.9.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.9.1), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.10.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.10.0), today) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.4](https://github.com/kubereboot/charts/releases/tag/kured-4.0.4), 1 day ago) - Helm charts for kubereboot org (kured)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.0), 2 days ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), 2 days ago) - OpenLens Binary Build Repository
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (2 days ago)
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (2 days ago)
 - [briandenicola/azure-aks-java-auth-spn-demo](https://github.com/briandenicola/azure-aks-java-auth-spn-demo) - Demostrate how to authenticate to AKS using an AAD SPN with the Azure Java SDK (2 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [quintush/helm-unittest](https://github.com/quintush/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (1 week ago)
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (1 week ago)
 - [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. (1 week ago)
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) - Open Source Identity and Access Management For Modern Applications and Services (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
