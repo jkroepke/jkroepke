@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.12.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.12.2), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), today) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.34.0](https://github.com/aquasecurity/trivy/releases/tag/v0.34.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) ([v0.1.0](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token/releases/tag/v0.1.0), today) - Terraform provider for running commands on private AKS clusters without reach them
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.12.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.12.1), 1 day ago) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.4](https://github.com/kubereboot/charts/releases/tag/kured-4.0.4), 2 days ago) - Helm charts for kubereboot org (kured)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), 3 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14), 3 days ago) - Lens - The way the world runs Kubernetes
