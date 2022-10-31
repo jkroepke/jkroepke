@@ -16,7 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (today)
-- [jkroepke/terraform-provider-azure-aks-command](https://github.com/jkroepke/terraform-provider-azure-aks-command) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
