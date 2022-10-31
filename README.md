@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.21.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.21.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), today) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.34.0](https://github.com/aquasecurity/trivy/releases/tag/v0.34.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) ([v0.1.0](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token/releases/tag/v0.1.0), today) - Terraform provider for running commands on private AKS clusters without reach them
