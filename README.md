@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.0](https://github.com/keycloak/keycloak/releases/tag/20.0.0), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.2), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), 4 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14), 4 days ago) - Lens - The way the world runs Kubernetes
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.0), 5 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.0](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.0), 1 week ago) - A helm plugin for ArgoCD to support the lookup function
 
 #### 🔨 My recent Pull Requests
 
