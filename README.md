@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.3](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.3), today) - Terraform provider for running commands on private AKS clusters without reach them
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.0), today) - ArgoProj Helm Charts
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.1](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.1), today) - Terraform provider for running commands on private AKS clusters without reach them
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.0](https://github.com/keycloak/keycloak/releases/tag/20.0.0), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.2), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
