@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.12.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.12.3), today) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.0](https://github.com/keycloak/keycloak/releases/tag/20.0.0), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.2), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.34.0](https://github.com/aquasecurity/trivy/releases/tag/v0.34.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
