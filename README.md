@@ -15,37 +15,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) - Terraform provider for running commands on private AKS clusters without reach them (today)
-- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) -  (today)
+- [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 day ago)
+- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.12.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.12.2), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.1), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), today) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.34.0](https://github.com/aquasecurity/trivy/releases/tag/v0.34.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) ([v0.1.0](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token/releases/tag/v0.1.0), today) - Terraform provider for running commands on private AKS clusters without reach them
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.4](https://github.com/kubereboot/charts/releases/tag/kured-4.0.4), 2 days ago) - Helm charts for kubereboot org (kured)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), 3 days ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14), 3 days ago) - Lens - The way the world runs Kubernetes
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.0), 4 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.2), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.12.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.12.2), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.34.0](https://github.com/aquasecurity/trivy/releases/tag/v0.34.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) ([v0.1.0](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token/releases/tag/v0.1.0), 1 day ago) - Terraform provider for running commands on private AKS clusters without reach them
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.4](https://github.com/kubereboot/charts/releases/tag/kured-4.0.4), 3 days ago) - Helm charts for kubereboot org (kured)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), 4 days ago) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14), 4 days ago) - Lens - The way the world runs Kubernetes
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.0](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.0), 5 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.0](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.0), 1 week ago) - A helm plugin for ArgoCD to support the lookup function
 
 #### 🔨 My recent Pull Requests
 
-- [openlens-from-source 6.1.14](https://github.com/jkroepke/homebrew-openlens/pull/15) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (today)
-- [Test PR](https://github.com/jkroepke/homelab/pull/63) on [jkroepke/homelab](https://github.com/jkroepke/homelab) (1 day ago)
-- [[helm] Introduce cert-manager-resources helm chart](https://github.com/cert-manager/cert-manager/pull/5542) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 days ago)
-- [[Helm] Add toggle for MetricsInstance](https://github.com/grafana/loki/pull/7525) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
-- [[helm] Support Workload Identity](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1464) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (5 days ago)
+- [openlens-from-source 6.1.14](https://github.com/jkroepke/homebrew-openlens/pull/15) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 day ago)
+- [Test PR](https://github.com/jkroepke/homelab/pull/63) on [jkroepke/homelab](https://github.com/jkroepke/homelab) (2 days ago)
+- [[helm] Introduce cert-manager-resources helm chart](https://github.com/cert-manager/cert-manager/pull/5542) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (4 days ago)
+- [[Helm] Add toggle for MetricsInstance](https://github.com/grafana/loki/pull/7525) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
+- [[helm] Support Workload Identity](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1464) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (6 days ago)
 - [Fix entrypoint in docker image](https://github.com/crossplane-contrib/provider-azure/pull/356) on [crossplane-contrib/provider-azure](https://github.com/crossplane-contrib/provider-azure) (1 week ago)
 - [Update CI](https://github.com/jkroepke/helm-secrets/pull/284) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Support for shell installed via scoop](https://github.com/jkroepke/helm-secrets/pull/283) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -54,16 +54,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (3 days ago)
-- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (3 days ago)
-- [briandenicola/azure-aks-java-auth-spn-demo](https://github.com/briandenicola/azure-aks-java-auth-spn-demo) - Demostrate how to authenticate to AKS using an AAD SPN with the Azure Java SDK (3 days ago)
-- [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider (6 days ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 days ago)
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (4 days ago)
+- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (4 days ago)
+- [briandenicola/azure-aks-java-auth-spn-demo](https://github.com/briandenicola/azure-aks-java-auth-spn-demo) - Demostrate how to authenticate to AKS using an AAD SPN with the Azure Java SDK (4 days ago)
+- [crossplane/terrajet](https://github.com/crossplane/terrajet) - Generate Crossplane Providers from any Terraform Provider (1 week ago)
 - [stashed/stash](https://github.com/stashed/stash) - 🛅 Backup your Kubernetes Stateful Applications (1 week ago)
 - [twiessner/homelab-k8s-crossplane-argocd](https://github.com/twiessner/homelab-k8s-crossplane-argocd) - This repository contains all ArgoCD resources for the HomeLab (1 week ago)
 - [quintush/helm-unittest](https://github.com/quintush/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (1 week ago)
-- [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (1 week ago)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. (1 week ago)
+- [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (2 weeks ago)
+- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
