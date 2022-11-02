@@ -15,16 +15,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
-- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (2 days ago)
+- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [derphilipp/Flachwitze](https://github.com/derphilipp/Flachwitze) - A list of german puns/dad jokes (today)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 days ago)
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (5 days ago)
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (5 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [twiessner/homelab-k8s-crossplane-argocd](https://github.com/twiessner/homelab-k8s-crossplane-argocd) - This repository contains all ArgoCD resources for the HomeLab (1 week ago)
 - [quintush/helm-unittest](https://github.com/quintush/helm-unittest) - BDD styled unit test framework for Kubernetes Helm charts as a Helm plugin. (2 weeks ago)
 - [PrismLauncher/PrismLauncher](https://github.com/PrismLauncher/PrismLauncher) - A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC) (2 weeks ago)
-- [gravitational/teleport](https://github.com/gravitational/teleport) - The easiest, most secure way to access infrastructure. (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
