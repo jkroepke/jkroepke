@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-to-sd-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.1), today) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.299.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.299.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.3), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.1), 1 day ago) - ArgoProj Helm Charts
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.3](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.3), 2 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), 3 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
