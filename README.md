@@ -15,20 +15,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (3 days ago)
 - [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.6.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.6.0), today) - Export various metrics including insights about github repositories
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.2](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.2), today) - Collection of charts used in my projects
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.6.5](https://github.com/jkroepke/github_exporter/releases/tag/v1.6.5), today) - Export various metrics including insights about github repositories
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.2), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-to-sd-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.1), today) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.299.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.299.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -37,10 +38,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.34.0](https://github.com/aquasecurity/trivy/releases/tag/v0.34.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) ([v0.1.0](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token/releases/tag/v0.1.0), 3 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.4](https://github.com/kubereboot/charts/releases/tag/kured-4.0.4), 5 days ago) - Helm charts for kubereboot org (kured)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), 6 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
+- [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/26) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [feat: implement multiple auth strategies](https://github.com/jkroepke/github_exporter/pull/148) on [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) (2 days ago)
 - [openlens-from-source 6.1.14](https://github.com/jkroepke/homebrew-openlens/pull/15) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (3 days ago)
 - [Test PR](https://github.com/jkroepke/homelab/pull/63) on [jkroepke/homelab](https://github.com/jkroepke/homelab) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix entrypoint in docker image](https://github.com/crossplane-contrib/provider-azure/pull/356) on [crossplane-contrib/provider-azure](https://github.com/crossplane-contrib/provider-azure) (1 week ago)
 - [Update CI](https://github.com/jkroepke/helm-secrets/pull/284) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Support for shell installed via scoop](https://github.com/jkroepke/helm-secrets/pull/283) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Use - instead /dev/stdin](https://github.com/jkroepke/helm-secrets/pull/282) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
