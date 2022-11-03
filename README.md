@@ -15,11 +15,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (3 days ago)
 - [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.6.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.6.0), today) - Export various metrics including insights about github repositories
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.2), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-to-sd-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.1), today) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.299.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.299.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) ([v0.1.0](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token/releases/tag/v0.1.0), 3 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.4](https://github.com/kubereboot/charts/releases/tag/kured-4.0.4), 5 days ago) - Helm charts for kubereboot org (kured)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.14), 6 days ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.14](https://github.com/lensapp/lens/releases/tag/v6.1.14), 6 days ago) - Lens - The way the world runs Kubernetes
 
 #### 🔨 My recent Pull Requests
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [BAByGIRl5678](https://github.com/BAByGIRl5678)
 - [akasranjan005](https://github.com/akasranjan005)
 - [Prathmesh-Dhatrak](https://github.com/Prathmesh-Dhatrak)
 - [ckeller1914](https://github.com/ckeller1914)
 - [8358](https://github.com/8358)
-- [Arko2008](https://github.com/Arko2008)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
