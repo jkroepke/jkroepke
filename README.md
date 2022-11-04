@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [variantdev/vals](https://github.com/variantdev/vals) ([v0.19.0](https://github.com/variantdev/vals/releases/tag/v0.19.0), today) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.3), 1 day ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.6.6](https://github.com/jkroepke/github_exporter/releases/tag/v1.6.6), 1 day ago) - Export various metrics including insights about github repositories
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.2), 1 day ago) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), 4 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.34.0](https://github.com/aquasecurity/trivy/releases/tag/v0.34.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) ([v0.1.0](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token/releases/tag/v0.1.0), 4 days ago) - Terraform provider for running commands on private AKS clusters without reach them
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.0.4](https://github.com/kubereboot/charts/releases/tag/kured-4.0.4), 6 days ago) - Helm charts for kubereboot org (kured)
 
 #### 🔨 My recent Pull Requests
 
