@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.15), today) - OpenLens Binary Build Repository
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.1.0](https://github.com/kubereboot/charts/releases/tag/kured-4.1.0), today) - Helm charts for kubereboot org (kured)
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.15](https://github.com/lensapp/lens/releases/tag/v6.1.15), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.18.0), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.2), 1 day ago) - ArgoProj Helm Charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.299.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.299.1), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.3](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.3), 3 days ago) - Terraform provider for running commands on private AKS clusters without reach them
-- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), 4 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 
 #### 🔨 My recent Pull Requests
 
