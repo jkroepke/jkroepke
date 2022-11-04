@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.15](https://github.com/lensapp/lens/releases/tag/v6.1.15), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.18.0), today) - Prometheus community Helm charts
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.19.0](https://github.com/variantdev/vals/releases/tag/v0.19.0), today) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.3), 1 day ago) - Collection of charts used in my projects
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.3](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.3), 3 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.0), 4 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.34.0](https://github.com/aquasecurity/trivy/releases/tag/v0.34.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) ([v0.1.0](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token/releases/tag/v0.1.0), 4 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 
 #### 🔨 My recent Pull Requests
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [YAUNGBYAO](https://github.com/YAUNGBYAO)
+- [jiaxung69](https://github.com/jiaxung69)
 - [hungzhong](https://github.com/hungzhong)
 - [BAByGIRl5678](https://github.com/BAByGIRl5678)
 - [akasranjan005](https://github.com/akasranjan005)
-- [Prathmesh-Dhatrak](https://github.com/Prathmesh-Dhatrak)
-- [ckeller1914](https://github.com/ckeller1914)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
