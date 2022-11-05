@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.3), today) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.15), 1 day ago) - OpenLens Binary Build Repository
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.1.0](https://github.com/kubereboot/charts/releases/tag/kured-4.1.0), 1 day ago) - Helm charts for kubereboot org (kured)
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.15](https://github.com/lensapp/lens/releases/tag/v6.1.15), 1 day ago) - Lens - The way the world runs Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-15.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-15.18.0), 1 day ago) - Prometheus community Helm charts
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.19.0](https://github.com/variantdev/vals/releases/tag/v0.19.0), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.3), 2 days ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.6.6](https://github.com/jkroepke/github_exporter/releases/tag/v1.6.6), 2 days ago) - Export various metrics including insights about github repositories
