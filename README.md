@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.3), 1 day ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.15), 2 days ago) - OpenLens Binary Build Repository
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.1.0](https://github.com/kubereboot/charts/releases/tag/kured-4.1.0), 2 days ago) - Helm charts for kubereboot org (kured)
@@ -35,7 +36,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.19.0](https://github.com/variantdev/vals/releases/tag/v0.19.0), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.3), 3 days ago) - Collection of charts used in my projects
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.6.6](https://github.com/jkroepke/github_exporter/releases/tag/v1.6.6), 3 days ago) - Export various metrics including insights about github repositories
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.2), 3 days ago) - ArgoProj Helm Charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.299.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.299.1), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.3](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.3), 5 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 
