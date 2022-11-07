@@ -28,13 +28,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.7.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.5), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.22.2), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.1](https://github.com/keycloak/keycloak/releases/tag/20.0.1), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.16](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.16), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.16](https://github.com/lensapp/lens/releases/tag/v6.1.16), today) - Lens - The way the world runs Kubernetes
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.1](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.1), today) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.4.0), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.4), 1 day ago) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.1.0](https://github.com/kubereboot/charts/releases/tag/kured-4.1.0), 3 days ago) - Helm charts for kubereboot org (kured)
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.19.0](https://github.com/variantdev/vals/releases/tag/v0.19.0), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.3), 4 days ago) - Collection of charts used in my projects
