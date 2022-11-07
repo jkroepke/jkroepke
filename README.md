@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (1 day ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
@@ -24,7 +25,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
 - [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) - TAP to distribute OpenLens (1 week ago)
-- [jkroepke/terraform-provider-azure-aks-aad-token](https://github.com/jkroepke/terraform-provider-azure-aks-aad-token) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/286) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [[kube-prometheus-stack] Remove ruleSelector from CRD, if set to nil](https://github.com/prometheus-community/helm-charts/pull/2648) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/27) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (4 days ago)
 - [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/26) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Introduce cert-manager-resources helm chart](https://github.com/cert-manager/cert-manager/pull/5542) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
 - [[Helm] Add toggle for MetricsInstance](https://github.com/grafana/loki/pull/7525) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [[helm] Support Workload Identity](https://github.com/Azure/application-gateway-kubernetes-ingress/pull/1464) on [Azure/application-gateway-kubernetes-ingress](https://github.com/Azure/application-gateway-kubernetes-ingress) (1 week ago)
-- [Fix entrypoint in docker image](https://github.com/crossplane-contrib/provider-azure/pull/356) on [crossplane-contrib/provider-azure](https://github.com/crossplane-contrib/provider-azure) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
