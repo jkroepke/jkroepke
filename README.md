@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.22.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.22.3), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.5), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.22.2), 1 day ago) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.1](https://github.com/keycloak/keycloak/releases/tag/20.0.1), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.16](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.16), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.16](https://github.com/lensapp/lens/releases/tag/v6.1.16), 1 day ago) - Lens - The way the world runs Kubernetes
