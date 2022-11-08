@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.17](https://github.com/lensapp/lens/releases/tag/v6.1.17), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.4.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.6), today) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.1](https://github.com/keycloak/keycloak/releases/tag/20.0.1), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.16](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.16), 1 day ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.16](https://github.com/lensapp/lens/releases/tag/v6.1.16), 1 day ago) - Lens - The way the world runs Kubernetes
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.1](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.1), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.4.0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.1.0](https://github.com/kubereboot/charts/releases/tag/kured-4.1.0), 4 days ago) - Helm charts for kubereboot org (kured)
