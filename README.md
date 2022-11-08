@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.17](https://github.com/lensapp/lens/releases/tag/v6.1.17), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-3.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-3.4.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.6), today) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.4.0), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.1.0](https://github.com/kubereboot/charts/releases/tag/kured-4.1.0), 4 days ago) - Helm charts for kubereboot org (kured)
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.19.0](https://github.com/variantdev/vals/releases/tag/v0.19.0), 4 days ago) - Helm-like configuration values loader with support for various sources
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.3](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.3), 5 days ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
 
