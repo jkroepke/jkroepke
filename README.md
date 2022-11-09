@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.18](https://github.com/lensapp/lens/releases/tag/v6.1.18), today) - Lens - The way the world runs Kubernetes
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.1](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.1), today) - A helm plugin for ArgoCD to support the lookup function
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.17](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.17), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.17](https://github.com/lensapp/lens/releases/tag/v6.1.17), 1 day ago) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.6), 1 day ago) - ArgoProj Helm Charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.1](https://github.com/keycloak/keycloak/releases/tag/20.0.1), 2 days ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.1](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.1), 2 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
