@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(chart): Use tpl function for provider extraArgs and extraVolumes](https://github.com/kubernetes-sigs/external-dns/pull/3144) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [Update run.sh](https://github.com/jkroepke/helm-secrets/pull/288) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/286) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [[kube-prometheus-stack] Remove ruleSelector from CRD, if set to nil](https://github.com/prometheus-community/helm-charts/pull/2648) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openlens-from-source 6.1.14](https://github.com/jkroepke/homebrew-openlens/pull/15) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (1 week ago)
 - [Test PR](https://github.com/jkroepke/homelab/pull/63) on [jkroepke/homelab](https://github.com/jkroepke/homelab) (1 week ago)
 - [[helm] Introduce cert-manager-resources helm chart](https://github.com/cert-manager/cert-manager/pull/5542) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
-- [[Helm] Add toggle for MetricsInstance](https://github.com/grafana/loki/pull/7525) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [AdamOswald](https://github.com/AdamOswald)
 - [hungran](https://github.com/hungran)
 - [tuananh](https://github.com/tuananh)
 - [mushfiqweb](https://github.com/mushfiqweb)
 - [venkatamutyala](https://github.com/venkatamutyala)
-- [ukaserge](https://github.com/ukaserge)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
