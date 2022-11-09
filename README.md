@@ -15,10 +15,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
-- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (3 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (4 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
