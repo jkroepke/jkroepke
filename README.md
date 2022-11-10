@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.19](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.19), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.19](https://github.com/lensapp/lens/releases/tag/v6.1.19), today) - Lens - The way the world runs Kubernetes
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.18](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.18), today) - OpenLens Binary Build Repository
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.7), today) - ArgoProj Helm Charts
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.1](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.1), 1 day ago) - A helm plugin for ArgoCD to support the lookup function
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.0), 2 days ago) - Prometheus community Helm charts
