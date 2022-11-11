@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.7.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.7.4), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.5.1), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.0](https://github.com/grafana/loki/releases/tag/v2.7.0), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.8), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.19](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.19), 1 day ago) - OpenLens Binary Build Repository
