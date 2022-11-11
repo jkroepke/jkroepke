@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.7.0](https://github.com/grafana/loki/releases/tag/v2.7.0), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.8), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.23.0), 1 day ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.19](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.19), 1 day ago) - OpenLens Binary Build Repository
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.1](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.1), 4 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.4.0), 4 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.1.0](https://github.com/kubereboot/charts/releases/tag/kured-4.1.0), 1 week ago) - Helm charts for kubereboot org (kured)
-- [variantdev/vals](https://github.com/variantdev/vals) ([v0.19.0](https://github.com/variantdev/vals/releases/tag/v0.19.0), 1 week ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
