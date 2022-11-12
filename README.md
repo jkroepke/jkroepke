@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.5.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.5.0), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-to-sd-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-to-sd-0.4.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.0](https://github.com/grafana/loki/releases/tag/v2.7.0), 1 day ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.8), 1 day ago) - ArgoProj Helm Charts
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.1](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.1), 3 days ago) - A helm plugin for ArgoCD to support the lookup function
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.0), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.1](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.1), 5 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.4.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.4.0), 5 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.1.0](https://github.com/kubereboot/charts/releases/tag/kured-4.1.0), 1 week ago) - Helm charts for kubereboot org (kured)
 
 #### 🔨 My recent Pull Requests
