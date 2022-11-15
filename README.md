@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.0](https://github.com/aws/karpenter/releases/tag/v0.19.0), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.5.2), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.3](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.3), 1 day ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.19](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.19), 5 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.19](https://github.com/lensapp/lens/releases/tag/v6.1.19), 5 days ago) - Lens - The way the world runs Kubernetes
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.1](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.1), 6 days ago) - A helm plugin for ArgoCD to support the lookup function
-- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.2.1](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.2.1), 1 week ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 
 #### 🔨 My recent Pull Requests
 
