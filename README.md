@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.1.0), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.0](https://github.com/aws/karpenter/releases/tag/v0.19.0), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.5.2), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.3](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.3), 1 day ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.8), 1 day ago) - ArgoProj Helm Charts
