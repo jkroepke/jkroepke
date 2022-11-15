@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (today)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (6 days ago)
 - [feat(helm): Optionally use cert-manager instead admission patch](https://github.com/kubernetes/ingress-nginx/pull/9279) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (6 days ago)
 - [feat(chart): Provide config secret and use tpl function for providers and extraArgs](https://github.com/kubernetes-sigs/external-dns/pull/3144) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (6 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/27) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
 - [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/26) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
 - [feat: implement multiple auth strategies](https://github.com/jkroepke/github_exporter/pull/148) on [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) (2 weeks ago)
-- [openlens-from-source 6.1.14](https://github.com/jkroepke/homebrew-openlens/pull/15) on [jkroepke/homebrew-openlens](https://github.com/jkroepke/homebrew-openlens) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
