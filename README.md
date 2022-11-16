@@ -15,12 +15,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
-- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (5 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 days ago)
+- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
@@ -28,23 +28,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.1.0), today) - Prometheus community Helm charts
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.0](https://github.com/aws/karpenter/releases/tag/v0.19.0), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.3](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.3), 1 day ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.8), 1 day ago) - ArgoProj Helm Charts
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.5.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.5.0), 3 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [grafana/loki](https://github.com/grafana/loki) ([v2.7.0](https://github.com/grafana/loki/releases/tag/v2.7.0), 4 days ago) - Like Prometheus, but for logs.
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.19](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.19), 5 days ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.19](https://github.com/lensapp/lens/releases/tag/v6.1.19), 5 days ago) - Lens - The way the world runs Kubernetes
-- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.1](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.1), 6 days ago) - A helm plugin for ArgoCD to support the lookup function
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.1.0), 1 day ago) - Prometheus community Helm charts
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.0](https://github.com/aws/karpenter/releases/tag/v0.19.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.3](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.3), 2 days ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.1), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.8), 2 days ago) - ArgoProj Helm Charts
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.5.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.5.0), 4 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
+- [grafana/loki](https://github.com/grafana/loki) ([v2.7.0](https://github.com/grafana/loki/releases/tag/v2.7.0), 5 days ago) - Like Prometheus, but for logs.
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.1.19](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.1.19), 6 days ago) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.1.19](https://github.com/lensapp/lens/releases/tag/v6.1.19), 6 days ago) - Lens - The way the world runs Kubernetes
+- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.1](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.1), 1 week ago) - A helm plugin for ArgoCD to support the lookup function
 
 #### 🔨 My recent Pull Requests
 
-- [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (today)
-- [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (6 days ago)
-- [feat(helm): Optionally use cert-manager instead admission patch](https://github.com/kubernetes/ingress-nginx/pull/9279) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (6 days ago)
-- [feat(chart): Provide config secret and use tpl function for providers and extraArgs](https://github.com/kubernetes-sigs/external-dns/pull/3144) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (6 days ago)
+- [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 day ago)
+- [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
+- [feat(helm): Optionally use cert-manager instead admission patch](https://github.com/kubernetes/ingress-nginx/pull/9279) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 week ago)
+- [feat(chart): Provide config secret and use tpl function for providers and extraArgs](https://github.com/kubernetes-sigs/external-dns/pull/3144) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [Update run.sh](https://github.com/jkroepke/helm-secrets/pull/288) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/286) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [[kube-prometheus-stack] Remove ruleSelector from CRD, if set to nil](https://github.com/prometheus-community/helm-charts/pull/2648) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -54,12 +54,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (2 days ago)
-- [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (3 days ago)
-- [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter (6 days ago)
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (3 days ago)
+- [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (4 days ago)
+- [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter (1 week ago)
 - [rswrz/k8s-localdev](https://github.com/rswrz/k8s-localdev) - Components to be installed on a Kubernetes cluster for local DevOps development (1 week ago)
 - [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/ (1 week ago)
-- [derphilipp/Flachwitze](https://github.com/derphilipp/Flachwitze) - A list of german puns/dad jokes (1 week ago)
+- [derphilipp/Flachwitze](https://github.com/derphilipp/Flachwitze) - A list of german puns/dad jokes (2 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 weeks ago)
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (2 weeks ago)
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (2 weeks ago)
