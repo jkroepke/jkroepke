@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [twiessner/terraform-azure-devops-project](https://github.com/twiessner/terraform-azure-devops-project) - Terraform module to use Azure Devops services at scale. (today)
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (3 days ago)
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (4 days ago)
 - [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (2 weeks ago)
 - [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (2 weeks ago)
 - [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (2 weeks ago)
-- [briandenicola/azure-aks-java-auth-spn-demo](https://github.com/briandenicola/azure-aks-java-auth-spn-demo) - Demostrate how to authenticate to AKS using an AAD SPN with the Azure Java SDK (2 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
