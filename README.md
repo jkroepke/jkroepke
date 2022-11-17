@@ -15,7 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
@@ -28,16 +28,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.6.0), today) - Prometheus community Helm charts
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.4](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.4), today) - Terraform provider for running commands on private AKS clusters without reach them
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.0), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.0](https://github.com/lensapp/lens/releases/tag/v6.2.0), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.13.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.13.9), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.10.1), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.0](https://github.com/aws/karpenter/releases/tag/v0.19.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.3](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.3), 3 days ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.1), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.5.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.5.0), 5 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.0](https://github.com/grafana/loki/releases/tag/v2.7.0), 6 days ago) - Like Prometheus, but for logs.
-- [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) ([v1.0.1](https://github.com/jkroepke/helm-kubectl/releases/tag/v1.0.1), 1 week ago) - A helm plugin for ArgoCD to support the lookup function
 
 #### 🔨 My recent Pull Requests
 
