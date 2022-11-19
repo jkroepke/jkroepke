@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-16.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-16.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-41.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-41.9.1), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.1](https://github.com/aws/karpenter/releases/tag/v0.19.1), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.4](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.4), 2 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.0), 2 days ago) - OpenLens Binary Build Repository
