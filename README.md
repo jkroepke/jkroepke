@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix performance issues for large sops files](https://github.com/jkroepke/helm-secrets/pull/293) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (4 days ago)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [feat(helm): Optionally use cert-manager instead admission patch](https://github.com/kubernetes/ingress-nginx/pull/9279) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Remove ruleSelector from CRD, if set to nil](https://github.com/prometheus-community/helm-charts/pull/2648) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/27) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 weeks ago)
 - [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/26) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 weeks ago)
-- [feat: implement multiple auth strategies](https://github.com/jkroepke/github_exporter/pull/148) on [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
