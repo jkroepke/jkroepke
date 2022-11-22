@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.0.0), today) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.105](https://github.com/stakater/Forecastle/releases/tag/v1.0.105), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.1), today) - OpenLens Binary Build Repository
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.2](https://github.com/aws/karpenter/releases/tag/v0.19.2), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
