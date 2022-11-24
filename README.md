@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-17.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-17.0.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.9), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.107](https://github.com/stakater/Forecastle/releases/tag/v1.0.107), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-3.3.0), 2 days ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.1), 2 days ago) - OpenLens Binary Build Repository
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.2](https://github.com/aws/karpenter/releases/tag/v0.19.2), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.1](https://github.com/lensapp/lens/releases/tag/v6.2.1), 3 days ago) - Lens - The way the world runs Kubernetes
