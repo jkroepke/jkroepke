@@ -15,33 +15,35 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
-- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (2 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (4 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (3 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 week ago)
 - [jkroepke/helm-kubectl](https://github.com/jkroepke/helm-kubectl) - A helm plugin for ArgoCD to support the lookup function (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 weeks ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.0.2), today) - Prometheus community Helm charts
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.2), today) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.2](https://github.com/lensapp/lens/releases/tag/v6.2.2), today) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.9](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.9), 1 day ago) - ArgoProj Helm Charts
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.107](https://github.com/stakater/Forecastle/releases/tag/v1.0.107), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.2](https://github.com/aws/karpenter/releases/tag/v0.19.2), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.2), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-0.2.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.10](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.10), today) - ArgoProj Helm Charts
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.2), 1 day ago) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.2](https://github.com/lensapp/lens/releases/tag/v6.2.2), 1 day ago) - Lens - The way the world runs Kubernetes
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.107](https://github.com/stakater/Forecastle/releases/tag/v1.0.107), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.2](https://github.com/aws/karpenter/releases/tag/v0.19.2), 4 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.2), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.4](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.4), 1 week ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.3](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.3), 1 week ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.5.0](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.5.0), 1 week ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 
 #### 🔨 My recent Pull Requests
 
-- [fix performance issues for large sops files](https://github.com/jkroepke/helm-secrets/pull/293) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
+- [[jiralert] Standardize labels](https://github.com/prometheus-community/helm-charts/pull/2735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[jiralert] Add ServiceMonitor](https://github.com/prometheus-community/helm-charts/pull/2734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [fix performance issues for large sops files](https://github.com/jkroepke/helm-secrets/pull/293) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 week ago)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 weeks ago)
 - [feat(helm): Optionally use cert-manager instead admission patch](https://github.com/kubernetes/ingress-nginx/pull/9279) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 weeks ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update run.sh](https://github.com/jkroepke/helm-secrets/pull/288) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/286) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [[kube-prometheus-stack] Remove ruleSelector from CRD, if set to nil](https://github.com/prometheus-community/helm-charts/pull/2648) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/27) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (3 weeks ago)
-- [Bump github-exporter](https://github.com/jkroepke/helm-charts/pull/26) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -59,11 +59,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (1 week ago)
 - [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter (2 weeks ago)
 - [rswrz/k8s-localdev](https://github.com/rswrz/k8s-localdev) - Components to be installed on a Kubernetes cluster for local DevOps development (2 weeks ago)
-- [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/ (2 weeks ago)
+- [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/ (3 weeks ago)
 - [derphilipp/Flachwitze](https://github.com/derphilipp/Flachwitze) - A list of german puns/dad jokes (3 weeks ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (3 weeks ago)
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (3 weeks ago)
-- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (3 weeks ago)
+- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (4 weeks ago)
+- [kubevious/kubevious](https://github.com/kubevious/kubevious) - Kubevious - Kubernetes without disasters (4 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
