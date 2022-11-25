@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-0.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.10](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.10), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.2), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.2](https://github.com/lensapp/lens/releases/tag/v6.2.2), 1 day ago) - Lens - The way the world runs Kubernetes
