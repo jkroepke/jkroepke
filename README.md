@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.1.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.11), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-18.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.0.0), today) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.3), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.3](https://github.com/lensapp/lens/releases/tag/v6.2.3), 1 day ago) - Lens - The way the world runs Kubernetes
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.107](https://github.com/stakater/Forecastle/releases/tag/v1.0.107), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
