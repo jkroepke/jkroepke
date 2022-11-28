@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.7.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-18.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.1.0), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.35.0](https://github.com/aquasecurity/trivy/releases/tag/v0.35.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.20.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.20.11), 2 days ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.3), 3 days ago) - OpenLens Binary Build Repository
