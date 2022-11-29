@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [variantdev/vals](https://github.com/variantdev/vals) ([v0.20.0](https://github.com/variantdev/vals/releases/tag/v0.20.0), today) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.14.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.14.3), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-18.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.1.0), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.35.0](https://github.com/aquasecurity/trivy/releases/tag/v0.35.0), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.2](https://github.com/aws/karpenter/releases/tag/v0.19.2), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.2), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.4](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.4), 1 week ago) - Terraform provider for running commands on private AKS clusters without reach them
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) ([v2.0.3](https://github.com/jkroepke/openvpn-auth-azure-ad/releases/tag/v2.0.3), 2 weeks ago) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD.
 
 #### 🔨 My recent Pull Requests
 
