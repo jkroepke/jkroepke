@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.15.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.15.0), today) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.109](https://github.com/stakater/Forecastle/releases/tag/v1.0.109), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-18.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-18.1.1), today) - Prometheus community Helm charts
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.20.0](https://github.com/variantdev/vals/releases/tag/v0.20.0), today) - Helm-like configuration values loader with support for various sources
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.14.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.14.3), 1 day ago) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.35.0](https://github.com/aquasecurity/trivy/releases/tag/v0.35.0), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.3), 4 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.3](https://github.com/lensapp/lens/releases/tag/v6.2.3), 4 days ago) - Lens - The way the world runs Kubernetes
