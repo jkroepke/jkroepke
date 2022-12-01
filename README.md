@@ -15,36 +15,36 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (1 day ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (6 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (2 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (1 week ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.15.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.15.2), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.21.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.21.1), today) - Prometheus community Helm charts
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.111](https://github.com/stakater/Forecastle/releases/tag/v1.0.111), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.4), today) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.4](https://github.com/lensapp/lens/releases/tag/v6.2.4), today) - Lens - The way the world runs Kubernetes
-- [variantdev/vals](https://github.com/variantdev/vals) ([v0.20.0](https://github.com/variantdev/vals/releases/tag/v0.20.0), 1 day ago) - Helm-like configuration values loader with support for various sources
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.35.0](https://github.com/aquasecurity/trivy/releases/tag/v0.35.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.0), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-1.21.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-1.21.1), 1 day ago) - Prometheus community Helm charts
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.111](https://github.com/stakater/Forecastle/releases/tag/v1.0.111), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.4), 1 day ago) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.4](https://github.com/lensapp/lens/releases/tag/v6.2.4), 1 day ago) - Lens - The way the world runs Kubernetes
+- [variantdev/vals](https://github.com/variantdev/vals) ([v0.20.0](https://github.com/variantdev/vals/releases/tag/v0.20.0), 2 days ago) - Helm-like configuration values loader with support for various sources
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.35.0](https://github.com/aquasecurity/trivy/releases/tag/v0.35.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.2](https://github.com/aws/karpenter/releases/tag/v0.19.2), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.2.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.2.2), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.4](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.4), 1 week ago) - Terraform provider for running commands on private AKS clusters without reach them
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.0.4](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.0.4), 2 weeks ago) - Terraform provider for running commands on private AKS clusters without reach them
 
 #### 🔨 My recent Pull Requests
 
-- [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/295) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [Add toggle for persistence disk in single-binary mode](https://github.com/grafana/loki/pull/7778) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
-- [[jiralert] Standardize labels](https://github.com/prometheus-community/helm-charts/pull/2735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[jiralert] Add ServiceMonitor](https://github.com/prometheus-community/helm-charts/pull/2734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/295) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [Add toggle for persistence disk in single-binary mode](https://github.com/grafana/loki/pull/7778) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
+- [[jiralert] Standardize labels](https://github.com/prometheus-community/helm-charts/pull/2735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[jiralert] Add ServiceMonitor](https://github.com/prometheus-community/helm-charts/pull/2734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [fix performance issues for large sops files](https://github.com/jkroepke/helm-secrets/pull/293) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (2 weeks ago)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 weeks ago)
