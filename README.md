@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.21.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.21.0), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.0), today) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.111](https://github.com/stakater/Forecastle/releases/tag/v1.0.111), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.4), 2 days ago) - OpenLens Binary Build Repository
