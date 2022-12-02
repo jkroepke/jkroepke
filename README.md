@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[jiralert] Add annotations for deployment and remove annotation config hash if existingSecret](https://github.com/prometheus-community/helm-charts/pull/2776) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[helm] expose enable-certificate-owner-ref and -dns01-recursive-nameservers as helm value](https://github.com/cert-manager/cert-manager/pull/5614) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
 - [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/295) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [Add toggle for persistence disk in single-binary mode](https://github.com/grafana/loki/pull/7778) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (2 weeks ago)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 weeks ago)
 - [feat(helm): Optionally use cert-manager instead admission patch](https://github.com/kubernetes/ingress-nginx/pull/9279) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (3 weeks ago)
-- [feat(chart): Provide config secret and use tpl function for providers and extraArgs](https://github.com/kubernetes-sigs/external-dns/pull/3144) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
