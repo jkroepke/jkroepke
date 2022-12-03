@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [new resource: `azurerm_resource_tag`](https://github.com/hashicorp/terraform-provider-azurerm/pull/19544) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [[jiralert] Add annotations for deployment and remove annotation config hash if existingSecret](https://github.com/prometheus-community/helm-charts/pull/2776) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[helm] expose enable-certificate-owner-ref and -dns01-recursive-nameservers as helm value](https://github.com/cert-manager/cert-manager/pull/5614) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 day ago)
 - [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/295) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix performance issues for large sops files](https://github.com/jkroepke/helm-secrets/pull/293) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (2 weeks ago)
 - [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 weeks ago)
-- [feat(helm): Optionally use cert-manager instead admission patch](https://github.com/kubernetes/ingress-nginx/pull/9279) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
