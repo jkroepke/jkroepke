@@ -15,10 +15,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
 - [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (4 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (5 days ago)
@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.1), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.19.3](https://github.com/aws/karpenter/releases/tag/v0.19.3), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.1), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.111](https://github.com/stakater/Forecastle/releases/tag/v1.0.111), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
