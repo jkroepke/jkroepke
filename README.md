@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.7), today) - ArgoProj Helm Charts
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.21.0](https://github.com/variantdev/vals/releases/tag/v0.21.0), today) - Helm-like configuration values loader with support for various sources
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.1), today) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.20.0](https://github.com/aws/karpenter/releases/tag/v0.20.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.112](https://github.com/stakater/Forecastle/releases/tag/v1.0.112), 2 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.22.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.22.2), 2 days ago) - Prometheus community Helm charts
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add secretConfiguration.subPath to mount specific files from secret](https://github.com/kubernetes-sigs/external-dns/pull/3227) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [new resource: `azurerm_resource_tag`](https://github.com/hashicorp/terraform-provider-azurerm/pull/19544) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (6 days ago)
 - [[jiralert] Add annotations for deployment and remove annotation config hash if existingSecret](https://github.com/prometheus-community/helm-charts/pull/2776) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[helm] expose enable-certificate-owner-ref and -dns01-recursive-nameservers as helm value](https://github.com/cert-manager/cert-manager/pull/5614) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[jiralert] Add ServiceMonitor](https://github.com/prometheus-community/helm-charts/pull/2734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [fix performance issues for large sops files](https://github.com/jkroepke/helm-secrets/pull/293) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [[*] Fix additional secrets and enable tpl functions for secrets](https://github.com/webdevops/helm-charts/pull/1) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (3 weeks ago)
-- [feat(chart): Added ability to customise the service account labels.](https://github.com/kubernetes-sigs/external-dns/pull/3145) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 month ago)
 
 #### ⭐ Recent Stars
 
