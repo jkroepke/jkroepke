@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-0.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-0.0.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.3.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 1 day ago) - Like Prometheus, but for logs.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.7](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.7), 1 day ago) - ArgoProj Helm Charts
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.21.0](https://github.com/variantdev/vals/releases/tag/v0.21.0), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.20.0](https://github.com/aws/karpenter/releases/tag/v0.20.0), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.112](https://github.com/stakater/Forecastle/releases/tag/v1.0.112), 3 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
