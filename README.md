@@ -15,19 +15,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) - Helm charts for webdevops applications (today)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
-- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), today) - Helm charts for webdevops applications
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-0.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-0.0.5), 2 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.3.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 3 days ago) - Like Prometheus, but for logs.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.5), 5 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.5](https://github.com/lensapp/lens/releases/tag/v6.2.5), 6 days ago) - Lens - The way the world runs Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.0), 6 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.35.0](https://github.com/aquasecurity/trivy/releases/tag/v0.35.0), 2 weeks ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
