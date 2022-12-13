@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add preset for appVersion in helm charts](https://github.com/renovatebot/renovate/pull/19371) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (today)
 - [[*] Use maps for env blocks](https://github.com/webdevops/helm-charts/pull/3) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 day ago)
 - [Add secretConfiguration.subPath to mount specific files from secret](https://github.com/kubernetes-sigs/external-dns/pull/3227) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (4 days ago)
 - [new resource: `azurerm_resource_tag`](https://github.com/hashicorp/terraform-provider-azurerm/pull/19544) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add toggle for persistence disk in single-binary mode](https://github.com/grafana/loki/pull/7778) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 - [[jiralert] Standardize labels](https://github.com/prometheus-community/helm-charts/pull/2735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[jiralert] Add ServiceMonitor](https://github.com/prometheus-community/helm-charts/pull/2734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [fix performance issues for large sops files](https://github.com/jkroepke/helm-secrets/pull/293) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
