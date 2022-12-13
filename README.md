@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.2](https://github.com/keycloak/keycloak/releases/tag/20.0.2), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.113](https://github.com/stakater/Forecastle/releases/tag/v1.0.113), today) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.3), today) - ArgoProj Helm Charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), 1 day ago) - Helm charts for webdevops applications
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 4 days ago) - Like Prometheus, but for logs.
