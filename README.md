@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.3), today) - ArgoProj Helm Charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), 1 day ago) - Helm charts for webdevops applications
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.3.0), 3 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 4 days ago) - Like Prometheus, but for logs.
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.21.0](https://github.com/variantdev/vals/releases/tag/v0.21.0), 4 days ago) - Helm-like configuration values loader with support for various sources
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.20.0](https://github.com/aws/karpenter/releases/tag/v0.20.0), 5 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
