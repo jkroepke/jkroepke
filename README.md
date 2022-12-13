@@ -15,38 +15,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) - Helm charts for webdevops applications (today)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (today)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 day ago)
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) - Helm charts for webdevops applications (1 day ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (6 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
-- [variantdev/vals](https://github.com/variantdev/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), today) - Helm charts for webdevops applications
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-0.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-0.0.5), 2 days ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.3.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 3 days ago) - Like Prometheus, but for logs.
-- [variantdev/vals](https://github.com/variantdev/vals) ([v0.21.0](https://github.com/variantdev/vals/releases/tag/v0.21.0), 3 days ago) - Helm-like configuration values loader with support for various sources
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.20.0](https://github.com/aws/karpenter/releases/tag/v0.20.0), 4 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.112](https://github.com/stakater/Forecastle/releases/tag/v1.0.112), 5 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.5), 5 days ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.5](https://github.com/lensapp/lens/releases/tag/v6.2.5), 6 days ago) - Lens - The way the world runs Kubernetes
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.0), 6 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), 1 day ago) - Helm charts for webdevops applications
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-0.0.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-0.0.5), 3 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-42.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-42.3.0), 3 days ago) - Prometheus community Helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 4 days ago) - Like Prometheus, but for logs.
+- [variantdev/vals](https://github.com/variantdev/vals) ([v0.21.0](https://github.com/variantdev/vals/releases/tag/v0.21.0), 4 days ago) - Helm-like configuration values loader with support for various sources
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.20.0](https://github.com/aws/karpenter/releases/tag/v0.20.0), 5 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.112](https://github.com/stakater/Forecastle/releases/tag/v1.0.112), 6 days ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.5), 6 days ago) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.5](https://github.com/lensapp/lens/releases/tag/v6.2.5), 1 week ago) - Lens - The way the world runs Kubernetes
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.0), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
-- [[*] Use maps for env blocks](https://github.com/webdevops/helm-charts/pull/3) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (today)
-- [Add secretConfiguration.subPath to mount specific files from secret](https://github.com/kubernetes-sigs/external-dns/pull/3227) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 days ago)
+- [[*] Use maps for env blocks](https://github.com/webdevops/helm-charts/pull/3) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 day ago)
+- [Add secretConfiguration.subPath to mount specific files from secret](https://github.com/kubernetes-sigs/external-dns/pull/3227) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (4 days ago)
 - [new resource: `azurerm_resource_tag`](https://github.com/hashicorp/terraform-provider-azurerm/pull/19544) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [[jiralert] Add annotations for deployment and remove annotation config hash if existingSecret](https://github.com/prometheus-community/helm-charts/pull/2776) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[helm] expose enable-certificate-owner-ref and -dns01-recursive-nameservers as helm value](https://github.com/cert-manager/cert-manager/pull/5614) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
-- [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/295) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
+- [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/295) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Add toggle for persistence disk in single-binary mode](https://github.com/grafana/loki/pull/7778) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 - [[jiralert] Standardize labels](https://github.com/prometheus-community/helm-charts/pull/2735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[jiralert] Add ServiceMonitor](https://github.com/prometheus-community/helm-charts/pull/2734) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
@@ -55,7 +55,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### ⭐ Recent Stars
 
 - [twiessner/terraform-azure-devops-project](https://github.com/twiessner/terraform-azure-devops-project) - Terraform module to use Azure Devops services at scale. (3 weeks ago)
-- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (4 weeks ago)
+- [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (1 month ago)
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (1 month ago)
 - [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter (1 month ago)
 - [rswrz/k8s-localdev](https://github.com/rswrz/k8s-localdev) - Components to be installed on a Kubernetes cluster for local DevOps development (1 month ago)
