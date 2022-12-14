@@ -15,22 +15,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) - Helm charts for webdevops applications (2 days ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 days ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (5 days ago)
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) - Helm charts for webdevops applications (2 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.4), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0), 1 day ago) - Prometheus community Helm charts
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.2](https://github.com/keycloak/keycloak/releases/tag/20.0.2), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.113](https://github.com/stakater/Forecastle/releases/tag/v1.0.113), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), 2 days ago) - Helm charts for webdevops applications
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 5 days ago) - Like Prometheus, but for logs.
@@ -38,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.20.0](https://github.com/aws/karpenter/releases/tag/v0.20.0), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.5), 1 week ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.5](https://github.com/lensapp/lens/releases/tag/v6.2.5), 1 week ago) - Lens - The way the world runs Kubernetes
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.0), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
