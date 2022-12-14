@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.5), today) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.2.0](https://github.com/kubereboot/charts/releases/tag/kured-4.2.0), today) - Helm charts for kubereboot org (kured)
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.4), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0), 1 day ago) - Prometheus community Helm charts
 - [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.113](https://github.com/stakater/Forecastle/releases/tag/v1.0.113), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), 2 days ago) - Helm charts for webdevops applications
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Syphdias](https://github.com/Syphdias)
 - [twiessner](https://github.com/twiessner)
 - [Nold360](https://github.com/Nold360)
 - [derjohn](https://github.com/derjohn)
 - [WajahatZubair](https://github.com/WajahatZubair)
-- [KristineFJ](https://github.com/KristineFJ)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
