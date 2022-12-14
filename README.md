@@ -32,12 +32,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.2.0](https://github.com/kubereboot/charts/releases/tag/kured-4.2.0), today) - Helm charts for kubereboot org (kured)
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0), 1 day ago) - Prometheus community Helm charts
-- [stakater/Forecastle](https://github.com/stakater/Forecastle) ([v1.0.113](https://github.com/stakater/Forecastle/releases/tag/v1.0.113), 1 day ago) - Forecastle is a control panel which dynamically discovers and provides a launchpad to access applications deployed on Kubernetes  – [✩Star] if you&#39;re using it!
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), 2 days ago) - Helm charts for webdevops applications
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 5 days ago) - Like Prometheus, but for logs.
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.21.0](https://github.com/variantdev/vals/releases/tag/v0.21.0), 5 days ago) - Helm-like configuration values loader with support for various sources
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.20.0](https://github.com/aws/karpenter/releases/tag/v0.20.0), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.5), 1 week ago) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.2.5](https://github.com/lensapp/lens/releases/tag/v6.2.5), 1 week ago) - Lens - The way the world runs Kubernetes
 
 #### 🔨 My recent Pull Requests
 
