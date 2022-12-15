@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.1.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.0.8](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.0.8), today) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.2.0](https://github.com/kubereboot/charts/releases/tag/kured-4.2.0), 1 day ago) - Helm charts for kubereboot org (kured)
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0), 2 days ago) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.2](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.2), 3 days ago) - Helm charts for webdevops applications
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 6 days ago) - Like Prometheus, but for logs.
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.21.0](https://github.com/variantdev/vals/releases/tag/v0.21.0), 6 days ago) - Helm-like configuration values loader with support for various sources
