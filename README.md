@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.5), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.6), today) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.2.0](https://github.com/kubereboot/charts/releases/tag/kured-4.2.0), 1 day ago) - Helm charts for kubereboot org (kured)
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.0.0), 2 days ago) - Prometheus community Helm charts
