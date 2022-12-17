@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Build MSI package](https://github.com/MuhammedKalkan/OpenLens/pull/79) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [[Helm] Allow single binary with Object Storage](https://github.com/grafana/loki/pull/7942) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
 - [feat: Add preset for appVersion in helm charts](https://github.com/renovatebot/renovate/pull/19371) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (4 days ago)
 - [[*] Use maps for env blocks](https://github.com/webdevops/helm-charts/pull/3) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (5 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] expose enable-certificate-owner-ref and -dns01-recursive-nameservers as helm value](https://github.com/cert-manager/cert-manager/pull/5614) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (2 weeks ago)
 - [fix cygwin](https://github.com/jkroepke/helm-secrets/pull/295) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Add toggle for persistence disk in single-binary mode](https://github.com/grafana/loki/pull/7778) on [grafana/loki](https://github.com/grafana/loki) (3 weeks ago)
-- [[jiralert] Standardize labels](https://github.com/prometheus-community/helm-charts/pull/2735) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
