@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.2), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.3), today) - ArgoProj Helm Charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.0), 3 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.23.0), 3 days ago) - Prometheus community Helm charts
