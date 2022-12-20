@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.8), today) - ArgoProj Helm Charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.2), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.3), 1 day ago) - ArgoProj Helm Charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.0), 4 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.23.0), 4 days ago) - Prometheus community Helm charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.2.0](https://github.com/kubereboot/charts/releases/tag/kured-4.2.0), 6 days ago) - Helm charts for kubereboot org (kured)
