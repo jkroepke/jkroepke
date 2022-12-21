@@ -28,7 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-0.1.0), 1 day ago) - Prometheus community Helm charts
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.3.0](https://github.com/lensapp/lens/releases/tag/v6.3.0), today) - Lens - The way the world runs Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.3), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.9), 1 day ago) - ArgoProj Helm Charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.2), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.0), 5 days ago) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 1 week ago) - Like Prometheus, but for logs.
 - [variantdev/vals](https://github.com/variantdev/vals) ([v0.21.0](https://github.com/variantdev/vals/releases/tag/v0.21.0), 1 week ago) - Helm-like configuration values loader with support for various sources
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.20.0](https://github.com/aws/karpenter/releases/tag/v0.20.0), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.2.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.2.5), 2 weeks ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
