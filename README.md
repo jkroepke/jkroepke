@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.6.1), today) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.3), 1 day ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.3.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.3.0), 1 day ago) - OpenLens Binary Build Repository
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1-rc1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1-rc1), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.3.0](https://github.com/lensapp/lens/releases/tag/v6.3.0), 1 day ago) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.9), 2 days ago) - ArgoProj Helm Charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.2), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.0), 6 days ago) - 
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.2.0](https://github.com/kubereboot/charts/releases/tag/kured-4.2.0), 1 week ago) - Helm charts for kubereboot org (kured)
