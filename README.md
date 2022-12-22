@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-druid-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-1.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.4), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.6.1), today) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.3), 1 day ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.3.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.3.0), 1 day ago) - OpenLens Binary Build Repository
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1-rc1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1-rc1), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
