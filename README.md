@@ -15,10 +15,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (4 days ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (5 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (5 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.1.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.4), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.4), 2 days ago) - ArgoProj Helm Charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.3), 3 days ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.3.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.3.0), 3 days ago) - OpenLens Binary Build Repository
