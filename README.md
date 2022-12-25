@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (today)
 - [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - CLI tool for Kubernetes that provides pretty monitoring for Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metrics (6 days ago)
 - [twiessner/terraform-azure-devops-project](https://github.com/twiessner/terraform-azure-devops-project) - Terraform module to use Azure Devops services at scale. (1 month ago)
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (1 month ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/ (1 month ago)
 - [derphilipp/Flachwitze](https://github.com/derphilipp/Flachwitze) - A list of german puns/dad jokes (1 month ago)
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 month ago)
-- [devtron-labs/devtron](https://github.com/devtron-labs/devtron) - Tool integration platform for Kubernetes (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
