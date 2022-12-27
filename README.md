@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.21.0](https://github.com/aws/karpenter/releases/tag/v0.21.0), today) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.10), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.2.1), 1 day ago) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.3), 6 days ago) - Helm charts for webdevops applications
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.2), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.0](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.0), 1 week ago) - 
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.2.0](https://github.com/kubereboot/charts/releases/tag/kured-4.2.0), 1 week ago) - Helm charts for kubereboot org (kured)
-- [grafana/loki](https://github.com/grafana/loki) ([v2.7.1](https://github.com/grafana/loki/releases/tag/v2.7.1), 2 weeks ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is a unified visual tool for authoring, analysis and deployment of Kubernetes YAML configurations, from manifest to live clusters, with policy validation (today)
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (2 days ago)
 - [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - CLI tool for Kubernetes that provides pretty monitoring for Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metrics (1 week ago)
 - [twiessner/terraform-azure-devops-project](https://github.com/twiessner/terraform-azure-devops-project) - Terraform module to use Azure Devops services at scale. (1 month ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [rswrz/k8s-localdev](https://github.com/rswrz/k8s-localdev) - Components to be installed on a Kubernetes cluster for local DevOps development (1 month ago)
 - [apenwarr/blip](https://github.com/apenwarr/blip) - A tool for seeing your Internet latency.  Try it at http://gfblip.appspot.com/ (1 month ago)
 - [derphilipp/Flachwitze](https://github.com/derphilipp/Flachwitze) - A list of german puns/dad jokes (1 month ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
