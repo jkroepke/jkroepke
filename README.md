@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.4](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.4), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.0](https://github.com/aquasecurity/trivy/releases/tag/v0.36.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.6), 1 day ago) - ArgoProj Helm Charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.2), 1 day ago) - Ingress-NGINX Controller for Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.3), 1 week ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.3.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.3.0), 1 week ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.3.0](https://github.com/lensapp/lens/releases/tag/v6.3.0), 1 week ago) - Lens - The way the world runs Kubernetes
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.300.2](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.300.2), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 
 #### 🔨 My recent Pull Requests
 
