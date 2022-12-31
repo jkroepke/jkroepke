@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (today)
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (3 days ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot (4 days ago)
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is a unified visual tool for authoring, analysis and deployment of Kubernetes YAML configurations, from manifest to live clusters, with policy validation (4 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (1 month ago)
 - [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (1 month ago)
 - [sl1pm4t/k2tf](https://github.com/sl1pm4t/k2tf) - Kubernetes YAML to Terraform HCL converter (1 month ago)
-- [rswrz/k8s-localdev](https://github.com/rswrz/k8s-localdev) - Components to be installed on a Kubernetes cluster for local DevOps development (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
