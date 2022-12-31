@@ -16,8 +16,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.0](https://github.com/aquasecurity/trivy/releases/tag/v0.36.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.6), today) - ArgoProj Helm Charts
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.2), today) - Ingress-NGINX Controller for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1), 1 day ago) - Prometheus community Helm charts
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.21.1](https://github.com/aws/karpenter/releases/tag/v0.21.1), 2 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1-rc3](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1-rc3), 2 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.0](https://github.com/aquasecurity/trivy/releases/tag/v0.36.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.6), 1 day ago) - ArgoProj Helm Charts
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.2), 1 day ago) - Ingress-NGINX Controller for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1), 2 days ago) - Prometheus community Helm charts
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.21.1](https://github.com/aws/karpenter/releases/tag/v0.21.1), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1-rc3](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1-rc3), 3 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.3), 1 week ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.3.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.3.0), 1 week ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.3.0](https://github.com/lensapp/lens/releases/tag/v6.3.0), 1 week ago) - Lens - The way the world runs Kubernetes
@@ -41,23 +41,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Remove dead code](https://github.com/jkroepke/helm-secrets/pull/304) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [Performance issues with large value files on vals backend](https://github.com/jkroepke/helm-secrets/pull/303) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [[azure-resourcegraph-exporter] Add chart](https://github.com/webdevops/helm-charts/pull/7) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (today)
+- [Evaluating helm templates](https://github.com/jkroepke/helm-secrets/pull/306) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/305) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Remove dead code](https://github.com/jkroepke/helm-secrets/pull/304) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Performance issues with large value files on vals backend](https://github.com/jkroepke/helm-secrets/pull/303) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [[azure-resourcegraph-exporter] Add chart](https://github.com/webdevops/helm-charts/pull/7) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 day ago)
 - [ci: Resolve all warnings](https://github.com/jkroepke/helm-secrets/pull/300) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Build MSI package](https://github.com/MuhammedKalkan/OpenLens/pull/79) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
+- [Build MSI package](https://github.com/MuhammedKalkan/OpenLens/pull/79) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 - [[Helm] Allow single binary with Object Storage](https://github.com/grafana/loki/pull/7942) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 - [feat: Add preset for appVersion in helm charts](https://github.com/renovatebot/renovate/pull/19371) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
 - [[*] Use maps for env blocks](https://github.com/webdevops/helm-charts/pull/3) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (2 weeks ago)
-- [Add secretConfiguration.subPath to mount specific files from secret](https://github.com/kubernetes-sigs/external-dns/pull/3227) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 weeks ago)
-- [new resource: `azurerm_resource_tag`](https://github.com/hashicorp/terraform-provider-azurerm/pull/19544) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (2 days ago)
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot (3 days ago)
-- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is a unified visual tool for authoring, analysis and deployment of Kubernetes YAML configurations, from manifest to live clusters, with policy validation (3 days ago)
-- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (5 days ago)
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (3 days ago)
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot (4 days ago)
+- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is a unified visual tool for authoring, analysis and deployment of Kubernetes YAML configurations, from manifest to live clusters, with policy validation (4 days ago)
+- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (6 days ago)
 - [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - CLI tool for Kubernetes that provides pretty monitoring for Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metrics (1 week ago)
 - [twiessner/terraform-azure-devops-project](https://github.com/twiessner/terraform-azure-devops-project) - Terraform module to use Azure Devops services at scale. (1 month ago)
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (1 month ago)
