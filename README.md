@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add posh shell testing](https://github.com/jkroepke/helm-secrets/pull/307) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Evaluating helm templates](https://github.com/jkroepke/helm-secrets/pull/306) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/305) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Remove dead code](https://github.com/jkroepke/helm-secrets/pull/304) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Build MSI package](https://github.com/MuhammedKalkan/OpenLens/pull/79) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 - [[Helm] Allow single binary with Object Storage](https://github.com/grafana/loki/pull/7942) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 - [feat: Add preset for appVersion in helm charts](https://github.com/renovatebot/renovate/pull/19371) on [renovatebot/renovate](https://github.com/renovatebot/renovate) (2 weeks ago)
-- [[*] Use maps for env blocks](https://github.com/webdevops/helm-charts/pull/3) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
