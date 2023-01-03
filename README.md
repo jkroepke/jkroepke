@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Avoid tmp file](https://github.com/jkroepke/helm-secrets/pull/310) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [[kube-prometheus-stack] Allow to define cluster label on all kube-prometheus-stack monitors](https://github.com/prometheus-community/helm-charts/pull/2877) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Add posh shell testing](https://github.com/jkroepke/helm-secrets/pull/307) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Evaluating helm templates](https://github.com/jkroepke/helm-secrets/pull/306) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[azure-resourcegraph-exporter] Add chart](https://github.com/webdevops/helm-charts/pull/7) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (4 days ago)
 - [ci: Resolve all warnings](https://github.com/jkroepke/helm-secrets/pull/300) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Build MSI package](https://github.com/MuhammedKalkan/OpenLens/pull/79) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
-- [[Helm] Allow single binary with Object Storage](https://github.com/grafana/loki/pull/7942) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [fullbl](https://github.com/fullbl)
 - [sheraadams](https://github.com/sheraadams)
 - [christophwille](https://github.com/christophwille)
 - [AroPC](https://github.com/AroPC)
 - [Syphdias](https://github.com/Syphdias)
-- [twiessner](https://github.com/twiessner)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
