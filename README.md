@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.7), today) - ArgoProj Helm Charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.4](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.4), 3 days ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.0](https://github.com/aquasecurity/trivy/releases/tag/v0.36.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.6](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.6), 4 days ago) - ArgoProj Helm Charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.2), 4 days ago) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1), 5 days ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.21.1](https://github.com/aws/karpenter/releases/tag/v0.21.1), 6 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
