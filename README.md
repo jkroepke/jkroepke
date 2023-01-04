@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix test for --evaluate-templates](https://github.com/jkroepke/helm-secrets/pull/312) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Avoid tmp file](https://github.com/jkroepke/helm-secrets/pull/310) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [[kube-prometheus-stack] Allow to define cluster label on all kube-prometheus-stack monitors](https://github.com/prometheus-community/helm-charts/pull/2877) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Add posh shell testing](https://github.com/jkroepke/helm-secrets/pull/307) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Performance issues with large value files on vals backend](https://github.com/jkroepke/helm-secrets/pull/303) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [[azure-resourcegraph-exporter] Add chart](https://github.com/webdevops/helm-charts/pull/7) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (5 days ago)
 - [ci: Resolve all warnings](https://github.com/jkroepke/helm-secrets/pull/300) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Build MSI package](https://github.com/MuhammedKalkan/OpenLens/pull/79) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
