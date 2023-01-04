@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.2), 5 days ago) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.2.1), 6 days ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.21.1](https://github.com/aws/karpenter/releases/tag/v0.21.1), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1-rc3](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1-rc3), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.0.3), 2 weeks ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.3.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.3.0), 2 weeks ago) - OpenLens Binary Build Repository
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1-rc1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1-rc1), 2 weeks ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 
 #### 🔨 My recent Pull Requests
 
