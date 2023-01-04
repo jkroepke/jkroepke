@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.7](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.7), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.14), today) - ArgoProj Helm Charts
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.4](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.4), 4 days ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.0](https://github.com/aquasecurity/trivy/releases/tag/v0.36.0), 5 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.2), 5 days ago) - Ingress-NGINX Controller for Kubernetes
