@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1-rc3](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1-rc3), today) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1), today) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.1](https://github.com/aquasecurity/trivy/releases/tag/v0.36.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.6.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.6.0), 1 day ago) - A proxy that enforces a given label in a given PromQL query.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.14), 1 day ago) - ArgoProj Helm Charts
