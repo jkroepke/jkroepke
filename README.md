@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.3.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.8.0), today) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.22.0](https://github.com/aws/karpenter/releases/tag/v0.22.0), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1), 4 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.1](https://github.com/aquasecurity/trivy/releases/tag/v0.36.1), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
