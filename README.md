@@ -46,7 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-blackbox-exporter] Update blackbox-exporter to 0.23.0](https://github.com/prometheus-community/helm-charts/pull/2886) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [Fix test for --evaluate-templates](https://github.com/jkroepke/helm-secrets/pull/312) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Avoid tmp file](https://github.com/jkroepke/helm-secrets/pull/310) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
-- [[kube-prometheus-stack] Allow to define cluster label on all kube-prometheus-stack monitors](https://github.com/prometheus-community/helm-charts/pull/2877) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-prometheus-stack] Allow to define label on all kube-prometheus-stack monitors](https://github.com/prometheus-community/helm-charts/pull/2877) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Add posh shell testing](https://github.com/jkroepke/helm-secrets/pull/307) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Evaluating helm templates](https://github.com/jkroepke/helm-secrets/pull/306) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/305) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
