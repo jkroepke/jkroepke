@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.8](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.8), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.16.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.16.15), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-1.8.0), 1 day ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.22.0](https://github.com/aws/karpenter/releases/tag/v0.22.0), 4 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1), 5 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
