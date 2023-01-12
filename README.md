@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Support source references in remote values](https://github.com/argoproj/argo-cd/pull/11966) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (today)
 - [Add ps wrapper](https://github.com/jkroepke/helm-secrets/pull/318) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Put Azure Authentication docs back to Azure Key Vault](https://github.com/variantdev/vals/pull/116) on [variantdev/vals](https://github.com/variantdev/vals) (6 days ago)
 - [[prometheus-blackbox-exporter] Update blackbox-exporter to 0.23.0](https://github.com/prometheus-community/helm-charts/pull/2886) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add posh shell testing](https://github.com/jkroepke/helm-secrets/pull/307) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Evaluating helm templates](https://github.com/jkroepke/helm-secrets/pull/306) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/305) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Remove dead code](https://github.com/jkroepke/helm-secrets/pull/304) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
