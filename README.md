@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.3.1), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.3](https://github.com/keycloak/keycloak/releases/tag/20.0.3), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.12.0), 1 day ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.2), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.2](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.2), 1 day ago) - Lens - The way the world runs Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.22.1](https://github.com/aws/karpenter/releases/tag/v0.22.1), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
