@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) - Find similar issues like CVE-2022-24348 (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (4 days ago)
@@ -24,10 +25,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (1 week ago)
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) ([helm-file-get-wrapper-0.2.0](https://github.com/jkroepke/CVE-2022-24348-2/releases/tag/helm-file-get-wrapper-0.2.0), today) - Find similar issues like CVE-2022-24348
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-43.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-43.3.1), 1 day ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.2), 2 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.2](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.2), 2 days ago) - Lens - The way the world runs Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.1](https://github.com/aquasecurity/trivy/releases/tag/v0.36.1), 1 week ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.6.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.6.0), 1 week ago) - A proxy that enforces a given label in a given PromQL query.
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.24.4](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.24.4), 1 week ago) - 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.2), 2 weeks ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
