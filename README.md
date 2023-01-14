@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.3), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.3](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.3), 1 day ago) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.25.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) ([helm-file-get-wrapper-0.2.0](https://github.com/jkroepke/CVE-2022-24348-2/releases/tag/helm-file-get-wrapper-0.2.0), 1 day ago) - Find similar issues like CVE-2022-24348
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.2), 3 days ago) - OpenLens Binary Build Repository
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.22.1](https://github.com/aws/karpenter/releases/tag/v0.22.1), 3 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.17.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.17.1), 3 days ago) - ArgoProj Helm Charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
