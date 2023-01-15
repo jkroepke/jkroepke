@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-44.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.0.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.2), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.3), 1 day ago) - OpenLens Binary Build Repository
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.17.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.17.1), 4 days ago) - ArgoProj Helm Charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.1](https://github.com/aquasecurity/trivy/releases/tag/v0.36.1), 1 week ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.6.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.6.0), 1 week ago) - A proxy that enforces a given label in a given PromQL query.
 
 #### 🔨 My recent Pull Requests
 
