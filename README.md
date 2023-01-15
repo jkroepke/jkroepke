@@ -21,13 +21,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (6 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
-- [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) - A proxy that enforces a given label in a given PromQL query. (1 week ago)
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcegraph-exporter-1.0.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcegraph-exporter-1.0.0), today) - Helm charts for webdevops applications
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-44.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.0.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.2), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.22.1](https://github.com/aws/karpenter/releases/tag/v0.22.1), 4 days ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.17.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.17.1), 4 days ago) - ArgoProj Helm Charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.1](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.1), 1 week ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.36.1](https://github.com/aquasecurity/trivy/releases/tag/v0.36.1), 1 week ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
