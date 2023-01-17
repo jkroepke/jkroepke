@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.1](https://github.com/renovatebot/renovate/releases/tag/34.105.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.2](https://github.com/renovatebot/renovate/releases/tag/34.105.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.1), today) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcegraph-exporter-1.0.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcegraph-exporter-1.0.0), 2 days ago) - Helm charts for webdevops applications
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.2), 2 days ago) - 
