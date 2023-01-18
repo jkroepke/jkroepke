@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.21.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.21.2), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.17.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.17.2), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.3](https://github.com/renovatebot/renovate/releases/tag/34.105.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.1), 1 day ago) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcegraph-exporter-1.0.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcegraph-exporter-1.0.0), 3 days ago) - Helm charts for webdevops applications
