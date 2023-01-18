@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.301.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.301.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.5](https://github.com/renovatebot/renovate/releases/tag/34.105.5), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.17.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.17.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.1), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.3), 4 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.3](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.3), 5 days ago) - Lens - The way the world runs Kubernetes
 - [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) ([helm-file-get-wrapper-0.2.0](https://github.com/jkroepke/CVE-2022-24348-2/releases/tag/helm-file-get-wrapper-0.2.0), 5 days ago) - Find similar issues like CVE-2022-24348
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.22.1](https://github.com/aws/karpenter/releases/tag/v0.22.1), 1 week ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
 
