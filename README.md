@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (today)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (3 days ago)
@@ -24,10 +25,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.1), today) - 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.4), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.21.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.21.3), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.6](https://github.com/renovatebot/renovate/releases/tag/34.105.6), today) - Universal dependency update tool that fits into your workflows.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.301.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.301.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -36,8 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.2), 4 days ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.2), 5 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.3), 5 days ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.3](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.3), 6 days ago) - Lens - The way the world runs Kubernetes
-- [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) ([helm-file-get-wrapper-0.2.0](https://github.com/jkroepke/CVE-2022-24348-2/releases/tag/helm-file-get-wrapper-0.2.0), 6 days ago) - Find similar issues like CVE-2022-24348
 
 #### 🔨 My recent Pull Requests
 
