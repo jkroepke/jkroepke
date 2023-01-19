@@ -28,16 +28,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.4), today) - OpenLens Binary Build Repository
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.106.0](https://github.com/renovatebot/renovate/releases/tag/34.106.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.29.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.1), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.4), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.21.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.21.3), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.105.6](https://github.com/renovatebot/renovate/releases/tag/34.105.6), today) - Universal dependency update tool that fits into your workflows.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.301.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.301.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcegraph-exporter-1.0.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcegraph-exporter-1.0.0), 4 days ago) - Helm charts for webdevops applications
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.2](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.2), 4 days ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.2), 5 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.3), 5 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
