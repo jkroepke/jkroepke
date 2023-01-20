@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.107.1](https://github.com/renovatebot/renovate/releases/tag/34.107.1), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.27.18](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.27.18), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-1.0.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.107.0](https://github.com/renovatebot/renovate/releases/tag/34.107.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.18.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.18.0), 1 day ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.4), 1 day ago) - OpenLens Binary Build Repository
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.1), 1 day ago) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.4), 1 day ago) - Lens - The way the world runs Kubernetes
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.301.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.301.1), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcegraph-exporter-1.0.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcegraph-exporter-1.0.0), 5 days ago) - Helm charts for webdevops applications
