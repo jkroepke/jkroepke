@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.108.2](https://github.com/renovatebot/renovate/releases/tag/34.108.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.108.3](https://github.com/renovatebot/renovate/releases/tag/34.108.3), today) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-0.27.19](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-0.27.19), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.22.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.22.1), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-1.0.0), 1 day ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.4), 2 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.4), 2 days ago) - Lens - The way the world runs Kubernetes
