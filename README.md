@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.4), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.5), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.108.5](https://github.com/renovatebot/renovate/releases/tag/34.108.5), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.2), 1 day ago) - Prometheus community Helm charts
