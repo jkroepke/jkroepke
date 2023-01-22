@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [polarstreams/polar](https://github.com/polarstreams/polar) - Lightweight &amp; elastic kubernetes-native event streaming system (today)
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (2 weeks ago)
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (3 weeks ago)
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (3 weeks ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - CLI tool for Kubernetes that provides pretty monitoring for Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metrics (1 month ago)
 - [twiessner/terraform-azure-devops-project](https://github.com/twiessner/terraform-azure-devops-project) - Terraform module to use Azure Devops services at scale. (2 months ago)
 - [fduran/sadservers](https://github.com/fduran/sadservers) - SadServers.com Public (2 months ago)
-- [rikatz/kubepug](https://github.com/rikatz/kubepug) - Kubernetes PreUpGrade (Checker) (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
