@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.109.2](https://github.com/renovatebot/renovate/releases/tag/34.109.2), today) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.13.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.110.0](https://github.com/renovatebot/renovate/releases/tag/34.110.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.5), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.1), 2 days ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.0.2), 2 days ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.4), 4 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.4), 4 days ago) - Lens - The way the world runs Kubernetes
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.301.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.301.1), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
