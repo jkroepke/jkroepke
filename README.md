@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.1.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.1.4), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.6), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.3.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.3.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.111.1](https://github.com/renovatebot/renovate/releases/tag/34.111.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.4), 5 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.4), 5 days ago) - Lens - The way the world runs Kubernetes
