@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.9](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.9), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-44.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.3.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.112.2](https://github.com/renovatebot/renovate/releases/tag/34.112.2), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.2.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.6), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.4), 5 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v6.4.0-alpha.4), 5 days ago) - Lens - The way the world runs Kubernetes
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Omni-Engineering](https://github.com/Omni-Engineering)
 - [arksec01](https://github.com/arksec01)
 - [MrMoshkovitz](https://github.com/MrMoshkovitz)
 - [rasta-rocket](https://github.com/rasta-rocket)
 - [Cerial1](https://github.com/Cerial1)
-- [fullbl](https://github.com/fullbl)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
