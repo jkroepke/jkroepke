@@ -59,7 +59,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (3 weeks ago)
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (4 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases in one shot (4 weeks ago)
-- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle is a unified visual tool for authoring, analysis and deployment of Kubernetes YAML configurations, from manifest to live clusters, with policy validation (4 weeks ago)
+- [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle streamlines the process of creating, analyzing, and deploying Kubernetes configurations by providing a unified visual tool for authoring YAML manifests, validating policies, and managing live clusters. (4 weeks ago)
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (1 month ago)
 - [eslam-gomaa/kptop](https://github.com/eslam-gomaa/kptop) - CLI tool for Kubernetes that provides pretty monitoring for Nodes, Pods, Containers, and PVCs resources on the terminal through Prometheus metrics (1 month ago)
 - [twiessner/terraform-azure-devops-project](https://github.com/twiessner/terraform-azure-devops-project) - Terraform module to use Azure Devops services at scale. (2 months ago)
