@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.4.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.4.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.3.3), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.4), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.114.0](https://github.com/renovatebot/renovate/releases/tag/34.114.0), today) - Universal dependency update tool that fits into your workflows.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.23.0](https://github.com/aws/karpenter/releases/tag/v0.23.0), 1 day ago) - Kubernetes Node Autoscaling: built for flexibility, performance, and simplicity.
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.3](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.3), 1 day ago) - 
