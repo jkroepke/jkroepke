@@ -15,49 +15,49 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 day ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (1 week ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
-- [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) - Find similar issues like CVE-2022-24348 (1 week ago)
+- [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) - Find similar issues like CVE-2022-24348 (2 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 weeks ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.7.2](https://github.com/grafana/loki/releases/tag/v2.7.2), today) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.1.1), today) - Prometheus community Helm charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.6](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.6), today) - Lens - The way the world runs Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.114.1](https://github.com/renovatebot/renovate/releases/tag/34.114.1), today) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.8), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.4.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.4.1), 1 day ago) - 
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.23.0](https://github.com/aws/karpenter/releases/tag/v0.23.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.3](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.3), 2 days ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.7.2](https://github.com/grafana/loki/releases/tag/v2.7.2), 1 day ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.1.1), 1 day ago) - Prometheus community Helm charts
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.6](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.6), 1 day ago) - Lens - The way the world runs Kubernetes
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.114.1](https://github.com/renovatebot/renovate/releases/tag/34.114.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.8), 1 day ago) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.4.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.4.1), 2 days ago) - 
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.23.0](https://github.com/aws/karpenter/releases/tag/v0.23.0), 3 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.3](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.3), 3 days ago) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.4), 1 week ago) - OpenLens Binary Build Repository
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.301.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.301.1), 1 week ago) - This will run the new self-hosted github actions runners with docker-in-docker
 
 #### 🔨 My recent Pull Requests
 
-- [Fix curl error with files begin with http](https://github.com/jkroepke/helm-secrets/pull/329) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [fix dockerfiles](https://github.com/jkroepke/helm-secrets/pull/327) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [Fix curl error with files begin with http](https://github.com/jkroepke/helm-secrets/pull/329) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [fix dockerfiles](https://github.com/jkroepke/helm-secrets/pull/327) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [[grafana] Add targetLabels to ServiceMonitors](https://github.com/grafana/helm-charts/pull/2130) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [[Helm] Allow node port on single binary service](https://github.com/grafana/loki/pull/8166) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [cmd wrapper Remove enabledelayedexpansion](https://github.com/jkroepke/helm-secrets/pull/322) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Support multiple secret backends](https://github.com/jkroepke/helm-secrets/pull/321) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [fix: Support source references in remote values](https://github.com/argoproj/argo-cd/pull/11966) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (2 weeks ago)
 - [Add ps wrapper](https://github.com/jkroepke/helm-secrets/pull/318) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Put Azure Authentication docs back to Azure Key Vault](https://github.com/variantdev/vals/pull/116) on [variantdev/vals](https://github.com/variantdev/vals) (2 weeks ago)
+- [Put Azure Authentication docs back to Azure Key Vault](https://github.com/variantdev/vals/pull/116) on [variantdev/vals](https://github.com/variantdev/vals) (3 weeks ago)
 - [[prometheus-blackbox-exporter] Update blackbox-exporter to 0.23.0](https://github.com/prometheus-community/helm-charts/pull/2886) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [polarstreams/polar](https://github.com/polarstreams/polar) - Lightweight &amp; elastic kubernetes-native event streaming system (4 days ago)
+- [polarstreams/polar](https://github.com/polarstreams/polar) - Lightweight &amp; elastic kubernetes-native event streaming system (5 days ago)
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (2 weeks ago)
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (3 weeks ago)
-- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (4 weeks ago)
+- [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (1 month ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 month ago)
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle streamlines the process of creating, analyzing, and deploying Kubernetes configurations by providing a unified visual tool for authoring YAML manifests, validating policies, and managing live clusters. (1 month ago)
 - [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (1 month ago)
