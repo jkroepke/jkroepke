@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.7](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.7), today) - Lens - The way the world runs Kubernetes
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.9](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.9), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-1.1.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.115.1](https://github.com/renovatebot/renovate/releases/tag/34.115.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.2), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.2](https://github.com/grafana/loki/releases/tag/v2.7.2), 1 day ago) - Like Prometheus, but for logs.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.6](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.6), 1 day ago) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.8), 1 day ago) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.23.0](https://github.com/aws/karpenter/releases/tag/v0.23.0), 3 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.3](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.3), 3 days ago) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-alpha.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-alpha.4), 1 week ago) - OpenLens Binary Build Repository
