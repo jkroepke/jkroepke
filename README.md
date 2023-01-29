@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.11), 1 day ago) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.1](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.1), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.116.1](https://github.com/renovatebot/renovate/releases/tag/34.116.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.10](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.10), 2 days ago) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.4.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.4.2), 2 days ago) - 
