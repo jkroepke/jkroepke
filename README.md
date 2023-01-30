@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.20](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.20), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.6](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.6), today) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.10), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.0.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.4), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.117.0](https://github.com/renovatebot/renovate/releases/tag/34.117.0), today) - Universal dependency update tool that fits into your workflows.
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Supporting template evaluation in ingress hosts](https://github.com/dexidp/helm-charts/pull/104) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (today)
 - [Fix curl error with files begin with http](https://github.com/jkroepke/helm-secrets/pull/329) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [fix dockerfiles](https://github.com/jkroepke/helm-secrets/pull/327) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [[grafana] Add targetLabels to ServiceMonitors](https://github.com/grafana/helm-charts/pull/2130) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: Support source references in remote values](https://github.com/argoproj/argo-cd/pull/11966) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (2 weeks ago)
 - [Add ps wrapper](https://github.com/jkroepke/helm-secrets/pull/318) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [Put Azure Authentication docs back to Azure Key Vault](https://github.com/variantdev/vals/pull/116) on [variantdev/vals](https://github.com/variantdev/vals) (3 weeks ago)
-- [[prometheus-blackbox-exporter] Update blackbox-exporter to 0.23.0](https://github.com/prometheus-community/helm-charts/pull/2886) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
