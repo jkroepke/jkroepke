@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.10), today) - OpenLens Binary Build Repository
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.19](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.19), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.0.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.4), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.117.0](https://github.com/renovatebot/renovate/releases/tag/34.117.0), today) - Universal dependency update tool that fits into your workflows.
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.9](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.9), today) - OpenLens Binary Build Repository
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-0.0.7](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-0.0.7), 1 day ago) - ArgoProj Helm Charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.10](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.10), 3 days ago) - Lens - The way the world runs Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.4.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.4.2), 3 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.2](https://github.com/grafana/loki/releases/tag/v2.7.2), 4 days ago) - Like Prometheus, but for logs.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.23.0](https://github.com/aws/karpenter/releases/tag/v0.23.0), 6 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.3](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.3), 6 days ago) - 
