@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (5 days ago)
@@ -24,12 +25,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (2 weeks ago)
 - [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) - Find similar issues like CVE-2022-24348 (2 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.118.3](https://github.com/renovatebot/renovate/releases/tag/34.118.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.4.0), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.118.2](https://github.com/renovatebot/renovate/releases/tag/34.118.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.285.3](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.285.3), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.10), 2 days ago) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.0.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.0.4), 2 days ago) - Prometheus community Helm charts
