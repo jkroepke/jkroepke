@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.12](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.12), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.8.4](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.8.4), today) - ArgoProj Helm Charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.11](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.11), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.1.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.119.4](https://github.com/renovatebot/renovate/releases/tag/34.119.4), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.3](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.3), today) - Ingress-NGINX Controller for Kubernetes
