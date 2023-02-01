@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.0](https://github.com/aquasecurity/trivy/releases/tag/v0.37.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.119.1](https://github.com/renovatebot/renovate/releases/tag/34.119.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.4.0), 1 day ago) - 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.285.3](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.285.3), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.10](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.10), 5 days ago) - Lens - The way the world runs Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.2](https://github.com/grafana/loki/releases/tag/v2.7.2), 6 days ago) - Like Prometheus, but for logs.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.23.0](https://github.com/aws/karpenter/releases/tag/v0.23.0), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.25.3](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.25.3), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
