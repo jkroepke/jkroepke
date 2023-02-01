@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.0.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.0.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.0.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.0.0), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.119.3](https://github.com/renovatebot/renovate/releases/tag/34.119.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.3](https://github.com/grafana/loki/releases/tag/v2.7.3), today) - Like Prometheus, but for logs.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.119.2](https://github.com/renovatebot/renovate/releases/tag/34.119.2), today) - Universal dependency update tool that fits into your workflows.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.3.0](https://github.com/kubereboot/charts/releases/tag/kured-4.3.0), today) - Helm charts for kubereboot org (kured)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.0](https://github.com/aquasecurity/trivy/releases/tag/v0.37.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.285.3](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.285.3), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
