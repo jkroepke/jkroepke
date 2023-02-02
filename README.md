@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-44.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.3.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.120.0](https://github.com/renovatebot/renovate/releases/tag/34.120.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.13), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.12), today) - OpenLens Binary Build Repository
