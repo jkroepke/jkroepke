@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.21](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.21), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.10](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.10), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.4.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.120.0](https://github.com/renovatebot/renovate/releases/tag/34.120.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.13), today) - ArgoProj Helm Charts
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Allow to define label on all recording rules](https://github.com/prometheus-community/helm-charts/pull/2982) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Supporting custom labels/annotations on deployment/pod](https://github.com/dexidp/helm-charts/pull/105) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (3 days ago)
 - [Supporting template evaluation in ingress hosts](https://github.com/dexidp/helm-charts/pull/104) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (3 days ago)
 - [Fix curl error with files begin with http](https://github.com/jkroepke/helm-secrets/pull/329) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cmd wrapper Remove enabledelayedexpansion](https://github.com/jkroepke/helm-secrets/pull/322) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Support multiple secret backends](https://github.com/jkroepke/helm-secrets/pull/321) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [fix: Support source references in remote values](https://github.com/argoproj/argo-cd/pull/11966) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (3 weeks ago)
-- [Add ps wrapper](https://github.com/jkroepke/helm-secrets/pull/318) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
