@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.21](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.21), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.4.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.120.0](https://github.com/renovatebot/renovate/releases/tag/34.120.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.13), today) - ArgoProj Helm Charts
@@ -35,7 +36,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.12](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.12), 1 day ago) - Lens - The way the world runs Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.3](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.3), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.1](https://github.com/aquasecurity/trivy/releases/tag/v0.37.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.0.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.0.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.3](https://github.com/grafana/loki/releases/tag/v2.7.3), 1 day ago) - Like Prometheus, but for logs.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.3.0](https://github.com/kubereboot/charts/releases/tag/kured-4.3.0), 1 day ago) - Helm charts for kubereboot org (kured)
 
