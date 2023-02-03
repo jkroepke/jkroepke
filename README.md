@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.7](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.7), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.14), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.10](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.10), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.4.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.120.0](https://github.com/renovatebot/renovate/releases/tag/34.120.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.12), 1 day ago) - OpenLens Binary Build Repository
