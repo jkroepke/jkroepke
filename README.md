@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.121.2](https://github.com/renovatebot/renovate/releases/tag/34.121.2), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.13), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.1), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.2.0), today) - Collection of charts used in my projects
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.121.1](https://github.com/renovatebot/renovate/releases/tag/34.121.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.22](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.22), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.13](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.13), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.14), 1 day ago) - ArgoProj Helm Charts
