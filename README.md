@@ -34,10 +34,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.4.0), 1 day ago) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.12), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.12](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.12), 2 days ago) - Lens - The way the world runs Kubernetes
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.4.3](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.4.3), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.1](https://github.com/aquasecurity/trivy/releases/tag/v0.37.1), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.3](https://github.com/grafana/loki/releases/tag/v2.7.3), 2 days ago) - Like Prometheus, but for logs.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.3.0](https://github.com/kubereboot/charts/releases/tag/kured-4.3.0), 2 days ago) - Helm charts for kubereboot org (kured)
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.285.3](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.285.3), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 
 #### 🔨 My recent Pull Requests
 
