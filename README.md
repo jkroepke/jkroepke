@@ -16,6 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (4 days ago)
@@ -24,20 +25,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows. (2 weeks ago)
-- [jkroepke/CVE-2022-24348-2](https://github.com/jkroepke/CVE-2022-24348-2) - Find similar issues like CVE-2022-24348 (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.13](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.13), today) - Lens - The way the world runs Kubernetes
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.4](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.4), today) - Collection of charts used in my projects
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.4](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.5.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.121.0](https://github.com/renovatebot/renovate/releases/tag/34.121.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.14), 1 day ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.12), 1 day ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.12](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.12), 2 days ago) - Lens - The way the world runs Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.1](https://github.com/aquasecurity/trivy/releases/tag/v0.37.1), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.3](https://github.com/grafana/loki/releases/tag/v2.7.3), 2 days ago) - Like Prometheus, but for logs.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.3.0](https://github.com/kubereboot/charts/releases/tag/kured-4.3.0), 2 days ago) - Helm charts for kubereboot org (kured)
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.285.3](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.285.3), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 
 #### 🔨 My recent Pull Requests
 
