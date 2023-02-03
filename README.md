@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.2.0), today) - Collection of charts used in my projects
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.121.1](https://github.com/renovatebot/renovate/releases/tag/34.121.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.22](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.22), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.13](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.13), today) - Lens - The way the world runs Kubernetes
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.0.4](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.0.4), today) - Collection of charts used in my projects
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.5.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.14), 1 day ago) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.12), 1 day ago) - OpenLens Binary Build Repository
@@ -41,6 +41,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-pushgateway] helm template error](https://github.com/prometheus-community/helm-charts/pull/2985) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[helm] Add support for relabelings and metricRelabelings an serviceMonitor](https://github.com/cert-manager/cert-manager/pull/5778) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
 - [[kube-prometheus-stack] Allow to define label on all recording rules](https://github.com/prometheus-community/helm-charts/pull/2982) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Supporting custom labels/annotations on deployment/pod](https://github.com/dexidp/helm-charts/pull/105) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (4 days ago)
 - [Supporting template evaluation in ingress hosts](https://github.com/dexidp/helm-charts/pull/104) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (4 days ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[grafana] Add targetLabels to ServiceMonitors](https://github.com/grafana/helm-charts/pull/2130) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 - [[Helm] Allow node port on single binary service](https://github.com/grafana/loki/pull/8166) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 - [cmd wrapper Remove enabledelayedexpansion](https://github.com/jkroepke/helm-secrets/pull/322) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Support multiple secret backends](https://github.com/jkroepke/helm-secrets/pull/321) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [fix: Support source references in remote values](https://github.com/argoproj/argo-cd/pull/11966) on [argoproj/argo-cd](https://github.com/argoproj/argo-cd) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
