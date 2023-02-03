@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.2), today) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.121.2](https://github.com/renovatebot/renovate/releases/tag/34.121.2), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.13), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.1), today) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.14), 1 day ago) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.1](https://github.com/aquasecurity/trivy/releases/tag/v0.37.1), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.3](https://github.com/grafana/loki/releases/tag/v2.7.3), 2 days ago) - Like Prometheus, but for logs.
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.3.0](https://github.com/kubereboot/charts/releases/tag/kured-4.3.0), 2 days ago) - Helm charts for kubereboot org (kured)
 
 #### 🔨 My recent Pull Requests
 
