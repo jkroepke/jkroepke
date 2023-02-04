@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Add support for relabelings and metricRelabelings for serviceMonitor/podMonitor](https://github.com/stakater/Reloader/pull/383) on [stakater/Reloader](https://github.com/stakater/Reloader) (today)
 - [[prometheus-pushgateway] helm template error](https://github.com/prometheus-community/helm-charts/pull/2985) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[helm] Add support for relabelings and metricRelabelings an serviceMonitor](https://github.com/cert-manager/cert-manager/pull/5778) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 day ago)
 - [[kube-prometheus-stack] Allow to define label on all recording rules](https://github.com/prometheus-community/helm-charts/pull/2982) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix dockerfiles](https://github.com/jkroepke/helm-secrets/pull/327) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [[grafana] Add targetLabels to ServiceMonitors](https://github.com/grafana/helm-charts/pull/2130) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 - [[Helm] Allow node port on single binary service](https://github.com/grafana/loki/pull/8166) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
-- [cmd wrapper Remove enabledelayedexpansion](https://github.com/jkroepke/helm-secrets/pull/322) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
