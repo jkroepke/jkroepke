@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.122.0](https://github.com/renovatebot/renovate/releases/tag/34.122.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.122.1](https://github.com/renovatebot/renovate/releases/tag/34.122.1), today) - Universal dependency update tool that fits into your workflows.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.2), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.13), 1 day ago) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.1), 1 day ago) - Prometheus community Helm charts
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[bitnami/kubernetes-event-exporter] Add pod monitor](https://github.com/bitnami/charts/pull/14747) on [bitnami/charts](https://github.com/bitnami/charts) (today)
 - [[helm] Add support for relabelings and metricRelabelings at serviceMonitor](https://github.com/kubernetes-sigs/external-dns/pull/3366) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [[helm] Add support for relabelings and metricRelabelings for serviceMonitor/podMonitor](https://github.com/stakater/Reloader/pull/383) on [stakater/Reloader](https://github.com/stakater/Reloader) (today)
 - [[prometheus-pushgateway] helm template error](https://github.com/prometheus-community/helm-charts/pull/2985) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Supporting template evaluation in ingress hosts](https://github.com/dexidp/helm-charts/pull/104) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (5 days ago)
 - [Fix curl error with files begin with http](https://github.com/jkroepke/helm-secrets/pull/329) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [fix dockerfiles](https://github.com/jkroepke/helm-secrets/pull/327) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [[grafana] Add targetLabels to ServiceMonitors](https://github.com/grafana/helm-charts/pull/2130) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
