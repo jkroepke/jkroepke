@@ -68,10 +68,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👯 Check out some of my recent followers
 
 - [lreneral](https://github.com/lreneral)
-- [opuu](https://github.com/opuu)
 - [Omni-Engineering](https://github.com/Omni-Engineering)
 - [arksec01](https://github.com/arksec01)
 - [MrMoshkovitz](https://github.com/MrMoshkovitz)
+- [rasta-rocket](https://github.com/rasta-rocket)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
