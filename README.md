@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.15), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.124.4](https://github.com/renovatebot/renovate/releases/tag/34.124.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.9.9](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.9.9), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.2.0), 2 days ago) - Prometheus community Helm charts
@@ -35,7 +36,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.13), 3 days ago) - OpenLens Binary Build Repository
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.2.0), 3 days ago) - Collection of charts used in my projects
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.13](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.13), 3 days ago) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.14), 4 days ago) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.1](https://github.com/aquasecurity/trivy/releases/tag/v0.37.1), 5 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.3](https://github.com/grafana/loki/releases/tag/v2.7.3), 5 days ago) - Like Prometheus, but for logs.
 
