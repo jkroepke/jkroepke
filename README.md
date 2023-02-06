@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.125.2](https://github.com/renovatebot/renovate/releases/tag/34.125.2), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.5.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.125.1](https://github.com/renovatebot/renovate/releases/tag/34.125.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.15), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.2.0), 2 days ago) - Prometheus community Helm charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.2), 3 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
