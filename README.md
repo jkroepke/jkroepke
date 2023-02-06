@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Add alertmanager.stringConfig](https://github.com/prometheus-community/helm-charts/pull/2992) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[*] Setup renovate](https://github.com/webdevops/helm-charts/pull/9) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (2 days ago)
 - [[bitnami/kubernetes-event-exporter] Add pod monitor](https://github.com/bitnami/charts/pull/14747) on [bitnami/charts](https://github.com/bitnami/charts) (2 days ago)
 - [[helm] Add support for relabelings and metricRelabelings at serviceMonitor](https://github.com/kubernetes-sigs/external-dns/pull/3366) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Allow to define label on all recording rules](https://github.com/prometheus-community/helm-charts/pull/2982) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [Supporting custom labels/annotations on deployment/pod](https://github.com/dexidp/helm-charts/pull/105) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (1 week ago)
 - [Supporting template evaluation in ingress hosts](https://github.com/dexidp/helm-charts/pull/104) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (1 week ago)
-- [Fix curl error with files begin with http](https://github.com/jkroepke/helm-secrets/pull/329) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
