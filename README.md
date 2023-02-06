@@ -28,19 +28,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.5.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.125.1](https://github.com/renovatebot/renovate/releases/tag/34.125.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.15), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.9.9](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.9.9), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.2.0), 2 days ago) - Prometheus community Helm charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.2), 3 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.13), 3 days ago) - OpenLens Binary Build Repository
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-1.2.0), 3 days ago) - Collection of charts used in my projects
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.13](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.13), 3 days ago) - Lens - The way the world runs Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.1](https://github.com/aquasecurity/trivy/releases/tag/v0.37.1), 5 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [grafana/loki](https://github.com/grafana/loki) ([v2.7.3](https://github.com/grafana/loki/releases/tag/v2.7.3), 5 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Support multi-cluster alerting rules for prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/2993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Add alertmanager.stringConfig](https://github.com/prometheus-community/helm-charts/pull/2992) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[*] Setup renovate](https://github.com/webdevops/helm-charts/pull/9) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (2 days ago)
 - [[bitnami/kubernetes-event-exporter] Add pod monitor](https://github.com/bitnami/charts/pull/14747) on [bitnami/charts](https://github.com/bitnami/charts) (2 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Add support for relabelings and metricRelabelings an serviceMonitor](https://github.com/cert-manager/cert-manager/pull/5778) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 days ago)
 - [[kube-prometheus-stack] Allow to define label on all recording rules](https://github.com/prometheus-community/helm-charts/pull/2982) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [Supporting custom labels/annotations on deployment/pod](https://github.com/dexidp/helm-charts/pull/105) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (1 week ago)
-- [Supporting template evaluation in ingress hosts](https://github.com/dexidp/helm-charts/pull/104) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
