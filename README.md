@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[azure-loganalytics-exporter] Add Chart](https://github.com/webdevops/helm-charts/pull/10) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (today)
 - [[kube-prometheus-stack] Support multi-cluster alerting rules for prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/2993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Add alertmanager.stringConfig](https://github.com/prometheus-community/helm-charts/pull/2992) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[*] Setup renovate](https://github.com/webdevops/helm-charts/pull/9) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (2 days ago)
@@ -50,10 +51,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-pushgateway] helm template error](https://github.com/prometheus-community/helm-charts/pull/2985) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[helm] Add support for relabelings and metricRelabelings an serviceMonitor](https://github.com/cert-manager/cert-manager/pull/5778) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 days ago)
 - [[kube-prometheus-stack] Allow to define label on all recording rules](https://github.com/prometheus-community/helm-charts/pull/2982) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [Supporting custom labels/annotations on deployment/pod](https://github.com/dexidp/helm-charts/pull/105) on [dexidp/helm-charts](https://github.com/dexidp/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (today)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (4 days ago)
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl) (5 days ago)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (6 days ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (1 month ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 month ago)
 - [kubeshop/monokle](https://github.com/kubeshop/monokle) - 🧐 Monokle streamlines the process of creating, analyzing, and deploying Kubernetes configurations by providing a unified visual tool for authoring YAML manifests, validating policies, and managing live clusters. (1 month ago)
-- [yashbhutwala/kubectl-df-pv](https://github.com/yashbhutwala/kubectl-df-pv) - kubectl plugin - giving admins df (disk free) like utility for persistent volumes (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
