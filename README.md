@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.5.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.5.1), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.5](https://github.com/stakater/Reloader/releases/tag/v1.0.5), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.0.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.0.1), today) - 
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.0](https://github.com/kubereboot/charts/releases/tag/kured-4.4.0), today) - Helm charts for kubereboot org (kured)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.10](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.10), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-44.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.4.0), today) - Prometheus community Helm charts
