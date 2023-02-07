@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.127.0](https://github.com/renovatebot/renovate/releases/tag/34.127.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-consul-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-consul-exporter-1.0.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.126.0](https://github.com/renovatebot/renovate/releases/tag/34.126.0), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.5.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.19.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.19.15), 1 day ago) - ArgoProj Helm Charts
