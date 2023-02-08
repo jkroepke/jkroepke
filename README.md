@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.2.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.1.0-weekly.224](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.1.0-weekly.224), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.20.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.20.1), today) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.1](https://github.com/kubereboot/charts/releases/tag/kured-4.4.1), 1 day ago) - Helm charts for kubereboot org (kured)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.0](https://github.com/renovatebot/renovate/releases/tag/34.128.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.5.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.5.1), 1 day ago) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.5](https://github.com/stakater/Reloader/releases/tag/v1.0.5), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-44.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-44.4.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.2](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.2), 5 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.13), 5 days ago) - OpenLens Binary Build Repository
