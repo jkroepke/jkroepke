@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.23](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.23), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.2.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.1.0-weekly.224](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.1.0-weekly.224), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.20.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.20.1), today) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.1](https://github.com/kubereboot/charts/releases/tag/kured-4.4.1), 1 day ago) - Helm charts for kubereboot org (kured)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.0](https://github.com/renovatebot/renovate/releases/tag/34.128.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
