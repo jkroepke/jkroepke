@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-2.0.0), today) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.a77c76a](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.a77c76a), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.2](https://github.com/renovatebot/renovate/releases/tag/34.128.2), today) - Universal dependency update tool that fits into your workflows.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.24.0](https://github.com/aws/karpenter/releases/tag/v0.24.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.20.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.20.3), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.5.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.5.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.23.0), 1 day ago) - Prometheus community Helm charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.1](https://github.com/kubereboot/charts/releases/tag/kured-4.4.1), 2 days ago) - Helm charts for kubereboot org (kured)
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.5](https://github.com/stakater/Reloader/releases/tag/v1.0.5), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
