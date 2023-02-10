@@ -15,10 +15,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (6 days ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (6 days ago)
@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.129.0](https://github.com/renovatebot/renovate/releases/tag/34.129.0), today) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.1.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.11), today) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.2](https://github.com/aquasecurity/trivy/releases/tag/v0.37.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.11](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.11), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.3](https://github.com/renovatebot/renovate/releases/tag/34.128.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-2.0.0), 1 day ago) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.a77c76a](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.a77c76a), 1 day ago) - Lens - The way the world runs Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.24.0](https://github.com/aws/karpenter/releases/tag/v0.24.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.1](https://github.com/kubereboot/charts/releases/tag/kured-4.4.1), 3 days ago) - Helm charts for kubereboot org (kured)
