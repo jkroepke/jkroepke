@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.11), today) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.2](https://github.com/aquasecurity/trivy/releases/tag/v0.37.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-0.0.8](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-0.0.8), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.11](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.11), 1 day ago) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.128.3](https://github.com/renovatebot/renovate/releases/tag/34.128.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-2.0.0), 1 day ago) - Prometheus community Helm charts
