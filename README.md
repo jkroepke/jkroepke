@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (today)
 - [[jiralert] Make tplConfig toggable and introduce a value for complex configurations](https://github.com/prometheus-community/helm-charts/pull/3004) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[promtail] Implement config-reloader](https://github.com/grafana/helm-charts/pull/2187) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
 - [[Helm] Allow to configure publishNotReadyAddresses on memberlist service](https://github.com/grafana/loki/pull/8446) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[*] Setup renovate](https://github.com/webdevops/helm-charts/pull/9) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 week ago)
 - [[bitnami/kubernetes-event-exporter] Add pod monitor](https://github.com/bitnami/charts/pull/14747) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 - [[helm] Add support for relabelings and metricRelabelings at serviceMonitor](https://github.com/kubernetes-sigs/external-dns/pull/3366) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
-- [[helm] Add support for relabelings and metricRelabelings for serviceMonitor/podMonitor](https://github.com/stakater/Reloader/pull/383) on [stakater/Reloader](https://github.com/stakater/Reloader) (1 week ago)
 
 #### ⭐ Recent Stars
 
