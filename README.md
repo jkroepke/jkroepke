@@ -18,16 +18,17 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 days ago)
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) - Helm charts for webdevops applications (5 days ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (5 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.0](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.0), today) - Helm charts for webdevops applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.132.2](https://github.com/renovatebot/renovate/releases/tag/34.132.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.4.0), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-alpha.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.a77c76a](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.a77c76a), 3 days ago) - Lens - The way the world runs Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.24.0](https://github.com/aws/karpenter/releases/tag/v0.24.0), 4 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.1](https://github.com/kubereboot/charts/releases/tag/kured-4.4.1), 5 days ago) - Helm charts for kubereboot org (kured)
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.5](https://github.com/stakater/Reloader/releases/tag/v1.0.5), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
