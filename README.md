@@ -15,11 +15,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (4 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (3 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 days ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (5 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
@@ -28,38 +28,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.132.1](https://github.com/renovatebot/renovate/releases/tag/34.132.1), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.2), 1 day ago) - Prometheus community Helm charts
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-alpha.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.1.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.1.0), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.11), 1 day ago) - ArgoProj Helm Charts
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.2](https://github.com/aquasecurity/trivy/releases/tag/v0.37.2), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.a77c76a](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.a77c76a), 2 days ago) - Lens - The way the world runs Kubernetes
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.24.0](https://github.com/aws/karpenter/releases/tag/v0.24.0), 3 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.1](https://github.com/kubereboot/charts/releases/tag/kured-4.4.1), 4 days ago) - Helm charts for kubereboot org (kured)
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.5](https://github.com/stakater/Reloader/releases/tag/v1.0.5), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.132.1](https://github.com/renovatebot/renovate/releases/tag/34.132.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.2), 2 days ago) - Prometheus community Helm charts
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-alpha.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.1.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.1.0), 2 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.11](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.11), 2 days ago) - ArgoProj Helm Charts
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.2](https://github.com/aquasecurity/trivy/releases/tag/v0.37.2), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.a77c76a](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.a77c76a), 3 days ago) - Lens - The way the world runs Kubernetes
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.24.0](https://github.com/aws/karpenter/releases/tag/v0.24.0), 4 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.1](https://github.com/kubereboot/charts/releases/tag/kured-4.4.1), 5 days ago) - Helm charts for kubereboot org (kured)
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.5](https://github.com/stakater/Reloader/releases/tag/v1.0.5), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
-- [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (today)
-- [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (today)
-- [[jiralert] Make tplConfig toggable and introduce a value for complex configurations](https://github.com/prometheus-community/helm-charts/pull/3004) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[promtail] Implement config-reloader](https://github.com/grafana/helm-charts/pull/2187) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
-- [[Helm] Allow to configure publishNotReadyAddresses on memberlist service](https://github.com/grafana/loki/pull/8446) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
-- [[azure-loganalytics-exporter] Add Chart](https://github.com/webdevops/helm-charts/pull/10) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Support multi-cluster alerting rules for prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/2993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Add alertmanager.stringConfig](https://github.com/prometheus-community/helm-charts/pull/2992) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (1 day ago)
+- [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 day ago)
+- [[jiralert] Make tplConfig toggable and introduce a value for complex configurations](https://github.com/prometheus-community/helm-charts/pull/3004) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[promtail] Implement config-reloader](https://github.com/grafana/helm-charts/pull/2187) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (5 days ago)
+- [[Helm] Allow to configure publishNotReadyAddresses on memberlist service](https://github.com/grafana/loki/pull/8446) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
+- [[azure-loganalytics-exporter] Add Chart](https://github.com/webdevops/helm-charts/pull/10) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] Support multi-cluster alerting rules for prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/2993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] Add alertmanager.stringConfig](https://github.com/prometheus-community/helm-charts/pull/2992) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[*] Setup renovate](https://github.com/webdevops/helm-charts/pull/9) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 week ago)
 - [[bitnami/kubernetes-event-exporter] Add pod monitor](https://github.com/bitnami/charts/pull/14747) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (today)
-- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (5 days ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 day ago)
+- [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (6 days ago)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 week ago)
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl) (1 week ago)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (1 week ago)
-- [polarstreams/polar](https://github.com/polarstreams/polar) - Lightweight &amp; elastic kubernetes-native event streaming system (2 weeks ago)
+- [polarstreams/polar](https://github.com/polarstreams/polar) - Lightweight &amp; elastic kubernetes-native event streaming system (3 weeks ago)
 - [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (1 month ago)
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (1 month ago)
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases (1 month ago)
