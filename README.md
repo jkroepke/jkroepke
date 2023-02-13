@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Add support for namespaced scope](https://github.com/kubernetes-sigs/external-dns/pull/3403) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (2 days ago)
 - [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (2 days ago)
 - [[jiralert] Make tplConfig toggable and introduce a value for complex configurations](https://github.com/prometheus-community/helm-charts/pull/3004) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Support multi-cluster alerting rules for prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/2993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Add alertmanager.stringConfig](https://github.com/prometheus-community/helm-charts/pull/2992) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[*] Setup renovate](https://github.com/webdevops/helm-charts/pull/9) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 week ago)
-- [[bitnami/kubernetes-event-exporter] Add pod monitor](https://github.com/bitnami/charts/pull/14747) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
