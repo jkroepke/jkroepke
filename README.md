@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.138.1](https://github.com/renovatebot/renovate/releases/tag/34.138.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.26.0), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.3](https://github.com/aquasecurity/trivy/releases/tag/v0.37.3), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.5](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.5), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.20.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.20.5), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.138.0](https://github.com/renovatebot/renovate/releases/tag/34.138.0), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.0), today) - Ingress-NGINX Controller for Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.949580e](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.949580e), today) - Lens - The way the world runs Kubernetes
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.0](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.0), 2 days ago) - Helm charts for webdevops applications
