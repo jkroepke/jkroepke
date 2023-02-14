@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.1.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.1.1), today) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.0), today) - Ingress-NGINX Controller for Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.949580e](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.949580e), today) - Lens - The way the world runs Kubernetes
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.0](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.0), 2 days ago) - Helm charts for webdevops applications
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
