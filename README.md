@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.137.0](https://github.com/renovatebot/renovate/releases/tag/34.137.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.138.0](https://github.com/renovatebot/renovate/releases/tag/34.138.0), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.0), today) - Ingress-NGINX Controller for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.1.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.1.0), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.949580e](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.949580e), today) - Lens - The way the world runs Kubernetes
