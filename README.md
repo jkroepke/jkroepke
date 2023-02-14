@@ -28,13 +28,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.5](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.5), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.20.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.20.5), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.30.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.138.0](https://github.com/renovatebot/renovate/releases/tag/34.138.0), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.0), today) - Ingress-NGINX Controller for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.1.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.1.0), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.949580e](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.949580e), today) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.20.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.20.4), 1 day ago) - ArgoProj Helm Charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.0](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.0), 2 days ago) - Helm charts for webdevops applications
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.4.0), 2 days ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.2](https://github.com/aquasecurity/trivy/releases/tag/v0.37.2), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.24.0](https://github.com/aws/karpenter/releases/tag/v0.24.0), 6 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
