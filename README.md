@@ -28,14 +28,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.13.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.0), today) - 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.140.0](https://github.com/renovatebot/renovate/releases/tag/34.140.0), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.2), today) - Ingress-NGINX Controller for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.6](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.6), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.15ba5da](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.15ba5da), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.21.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.21.0), today) - ArgoProj Helm Charts
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.3.0), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.3](https://github.com/aquasecurity/trivy/releases/tag/v0.37.3), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.0](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.0), 3 days ago) - Helm charts for webdevops applications
 
