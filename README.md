@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.1.0-weekly.225](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.1.0-weekly.225), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.141.0](https://github.com/renovatebot/renovate/releases/tag/34.141.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.13.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.0), today) - 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.2), today) - Ingress-NGINX Controller for Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.15ba5da](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.15ba5da), today) - Lens - The way the world runs Kubernetes
