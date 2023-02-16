@@ -15,11 +15,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (1 day ago)
-- [jkroepke/proxy-checker](https://github.com/jkroepke/proxy-checker) - personal proxy checker (3 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (2 days ago)
+- [jkroepke/proxy-checker](https://github.com/jkroepke/proxy-checker) - personal proxy checker (4 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) - Helm charts for webdevops applications (1 week ago)
@@ -28,23 +28,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.1.0-weekly.225](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.1.0-weekly.225), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.141.0](https://github.com/renovatebot/renovate/releases/tag/34.141.0), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.13.1), today) - Prometheus community Helm charts
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.2), today) - Ingress-NGINX Controller for Kubernetes
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.15ba5da](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.15ba5da), today) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.21.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.21.0), today) - ArgoProj Helm Charts
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.3](https://github.com/aquasecurity/trivy/releases/tag/v0.37.3), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.0](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.0), 3 days ago) - Helm charts for webdevops applications
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.de6f339](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.de6f339), today) - Lens - The way the world runs Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.1.0-weekly.225](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.1.0-weekly.225), 1 day ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.141.0](https://github.com/renovatebot/renovate/releases/tag/34.141.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.13.1), 1 day ago) - Prometheus community Helm charts
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.2), 1 day ago) - Ingress-NGINX Controller for Kubernetes
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.21.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.21.0), 1 day ago) - ArgoProj Helm Charts
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.3](https://github.com/aquasecurity/trivy/releases/tag/v0.37.3), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.0](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.0), 4 days ago) - Helm charts for webdevops applications
 
 #### 🔨 My recent Pull Requests
 
-- [feat: Implement tplConfig and Azure Workload Identity support](https://github.com/cloudquery/helm-charts/pull/263) on [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) (today)
-- [[helm] Add support for namespaced scope](https://github.com/kubernetes-sigs/external-dns/pull/3403) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 days ago)
-- [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (4 days ago)
-- [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (4 days ago)
+- [feat: Implement tplConfig and Azure Workload Identity support](https://github.com/cloudquery/helm-charts/pull/263) on [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) (1 day ago)
+- [[helm] Add support for namespaced scope](https://github.com/kubernetes-sigs/external-dns/pull/3403) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 days ago)
+- [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (5 days ago)
+- [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (5 days ago)
 - [[jiralert] Make tplConfig toggable and introduce a value for complex configurations](https://github.com/prometheus-community/helm-charts/pull/3004) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[promtail] Implement config-reloader](https://github.com/grafana/helm-charts/pull/2187) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [[Helm] Allow to configure publishNotReadyAddresses on memberlist service](https://github.com/grafana/loki/pull/8446) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
@@ -54,11 +54,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [clouditor/clouditor](https://github.com/clouditor/clouditor) - The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC. (today)
-- [mertguvencli/http-proxy-list](https://github.com/mertguvencli/http-proxy-list) - It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list. (3 days ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (4 days ago)
+- [clouditor/clouditor](https://github.com/clouditor/clouditor) - The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC. (1 day ago)
+- [mertguvencli/http-proxy-list](https://github.com/mertguvencli/http-proxy-list) - It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list. (4 days ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (5 days ago)
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (1 week ago)
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 week ago)
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (2 weeks ago)
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl) (2 weeks ago)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (2 weeks ago)
 - [polarstreams/polar](https://github.com/polarstreams/polar) - Lightweight &amp; elastic kubernetes-native event streaming system (3 weeks ago)
