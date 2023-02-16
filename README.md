@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.142.0](https://github.com/renovatebot/renovate/releases/tag/34.142.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.de6f339](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.de6f339), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.1.0-weekly.225](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.1.0-weekly.225), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.141.0](https://github.com/renovatebot/renovate/releases/tag/34.141.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.13.1), 1 day ago) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.2), 1 day ago) - Ingress-NGINX Controller for Kubernetes
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [ensure values are string before passing to helm templating engine](https://github.com/oauth2-proxy/manifests/pull/134) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (today)
 - [feat: Implement tplConfig and Azure Workload Identity support](https://github.com/cloudquery/helm-charts/pull/263) on [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) (1 day ago)
 - [[helm] Add support for namespaced scope](https://github.com/kubernetes-sigs/external-dns/pull/3403) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 days ago)
 - [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (5 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[Helm] Allow to configure publishNotReadyAddresses on memberlist service](https://github.com/grafana/loki/pull/8446) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [[azure-loganalytics-exporter] Add Chart](https://github.com/webdevops/helm-charts/pull/10) on [webdevops/helm-charts](https://github.com/webdevops/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Support multi-cluster alerting rules for prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/2993) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] Add alertmanager.stringConfig](https://github.com/prometheus-community/helm-charts/pull/2992) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
