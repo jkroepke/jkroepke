@@ -28,6 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) ([v1.3.0](https://github.com/prometheus-community/jiralert/releases/tag/v1.3.0), today) - JIRA integration for Prometheus Alertmanager
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.21.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.21.1), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.144.0](https://github.com/renovatebot/renovate/releases/tag/34.144.0), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.22.0](https://github.com/helmfile/vals/releases/tag/v0.22.0), today) - Helm-like configuration values loader with support for various sources
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.c94dce2](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.c94dce2), today) - Lens - The way the world runs Kubernetes
@@ -35,9 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.1.1), 1 day ago) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.2), 2 days ago) - Ingress-NGINX Controller for Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.21.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.21.0), 2 days ago) - ArgoProj Helm Charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.0), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.37.3](https://github.com/aquasecurity/trivy/releases/tag/v0.37.3), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
