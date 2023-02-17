@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.144.0](https://github.com/renovatebot/renovate/releases/tag/34.144.0), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.22.0](https://github.com/helmfile/vals/releases/tag/v0.22.0), today) - Helm-like configuration values loader with support for various sources
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.c94dce2](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.c94dce2), today) - Lens - The way the world runs Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.143.1](https://github.com/renovatebot/renovate/releases/tag/34.143.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.24](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.24), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.1.1), 1 day ago) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
