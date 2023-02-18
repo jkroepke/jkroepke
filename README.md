@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.146.0](https://github.com/renovatebot/renovate/releases/tag/34.146.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.3.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.3.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.145.1](https://github.com/renovatebot/renovate/releases/tag/34.145.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.22.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.22.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.6.1), 1 day ago) - Prometheus community Helm charts
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) ([v1.3.0](https://github.com/prometheus-community/jiralert/releases/tag/v1.3.0), 1 day ago) - JIRA integration for Prometheus Alertmanager
