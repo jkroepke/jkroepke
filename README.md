@@ -15,19 +15,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 day ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [jkroepke/proxy-checker](https://github.com/jkroepke/proxy-checker) - personal proxy checker (6 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) - Helm charts for webdevops applications (1 week ago)
-- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.3.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.3.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.145.1](https://github.com/renovatebot/renovate/releases/tag/34.145.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.22.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.22.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.6.1), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.24](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.24), 2 days ago) - 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.2), 3 days ago) - Ingress-NGINX Controller for Kubernetes
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.0), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
