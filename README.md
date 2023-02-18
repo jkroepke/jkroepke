@@ -41,7 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Update ArgoCD docs](https://github.com/jkroepke/helm-secrets/pull/340) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [Migrations for ArgoCD multi source application limitations](https://github.com/jkroepke/helm-secrets/pull/340) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update ArgoCD docs](https://github.com/jkroepke/helm-secrets/pull/339) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update Azure SDK and remove workload identity hack](https://github.com/helmfile/vals/pull/133) on [helmfile/vals](https://github.com/helmfile/vals) (today)
 - [ensure values are string before passing to helm templating engine](https://github.com/oauth2-proxy/manifests/pull/134) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (2 days ago)
