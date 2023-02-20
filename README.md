@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.31.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.146.2](https://github.com/renovatebot/renovate/releases/tag/34.146.2), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.2.0), today) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.219a683](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.219a683), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.9.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.9.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.22.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.22.1), 1 day ago) - ArgoProj Helm Charts
