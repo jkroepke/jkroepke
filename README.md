@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way. (today)
 - [cedws/openvpn-mgmt-go](https://github.com/cedws/openvpn-mgmt-go) - Provides an API for connecting to, sending commands to, and receiving messages from an OpenVPN management socket (today)
 - [clouditor/clouditor](https://github.com/clouditor/clouditor) - The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC. (5 days ago)
 - [mertguvencli/http-proxy-list](https://github.com/mertguvencli/http-proxy-list) - It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list. (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl) (2 weeks ago)
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (2 weeks ago)
 - [polarstreams/polar](https://github.com/polarstreams/polar) - Lightweight &amp; elastic kubernetes-native event streaming system (4 weeks ago)
-- [mxssl/sre-interview-prep-guide](https://github.com/mxssl/sre-interview-prep-guide) - Site Reliability Engineer Interview Preparation Guide (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
