@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.2.0), today) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.219a683](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.219a683), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.146.1](https://github.com/renovatebot/renovate/releases/tag/34.146.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.9.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.9.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.22.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.22.1), 1 day ago) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.3.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.3.0), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.6.1), 3 days ago) - Prometheus community Helm charts
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) ([v1.3.0](https://github.com/prometheus-community/jiralert/releases/tag/v1.3.0), 3 days ago) - JIRA integration for Prometheus Alertmanager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.22.0](https://github.com/helmfile/vals/releases/tag/v0.22.0), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), 5 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
