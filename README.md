@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.148.0](https://github.com/renovatebot/renovate/releases/tag/34.148.0), today) - Universal dependency update tool that fits into your workflows.
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.5](https://github.com/keycloak/keycloak/releases/tag/20.0.5), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.3), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.147.0](https://github.com/renovatebot/renovate/releases/tag/34.147.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.26](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.26), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.31.0), 1 day ago) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.219a683](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.219a683), 1 day ago) - Lens - The way the world runs Kubernetes
