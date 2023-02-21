@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([20.0.5](https://github.com/keycloak/keycloak/releases/tag/20.0.5), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.3), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.147.0](https://github.com/renovatebot/renovate/releases/tag/34.147.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.26](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.26), 1 day ago) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) ([v1.3.0](https://github.com/prometheus-community/jiralert/releases/tag/v1.3.0), 4 days ago) - JIRA integration for Prometheus Alertmanager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.22.0](https://github.com/helmfile/vals/releases/tag/v0.22.0), 4 days ago) - Helm-like configuration values loader with support for various sources
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.302.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.302.1), 6 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.5.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.5.2), 6 days ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
