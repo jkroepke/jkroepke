@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (3 days ago)
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add webauth](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/24) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (today)
 - [Migrations for ArgoCD multi source application limitations](https://github.com/jkroepke/helm-secrets/pull/340) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [Update ArgoCD docs](https://github.com/jkroepke/helm-secrets/pull/339) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [Update Azure SDK and remove workload identity hack](https://github.com/helmfile/vals/pull/133) on [helmfile/vals](https://github.com/helmfile/vals) (3 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (1 week ago)
 - [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 week ago)
 - [[jiralert] Make tplConfig toggable and introduce a value for complex configurations](https://github.com/prometheus-community/helm-charts/pull/3004) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[promtail] Implement config-reloader](https://github.com/grafana/helm-charts/pull/2187) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
