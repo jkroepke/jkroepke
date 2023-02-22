@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.50.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.50.8), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.149.1](https://github.com/renovatebot/renovate/releases/tag/34.149.1), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.27](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.27), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1-beta.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.149.0](https://github.com/renovatebot/renovate/releases/tag/34.149.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.25.0](https://github.com/aws/karpenter/releases/tag/v0.25.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.3), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.31.0), 2 days ago) - Prometheus community Helm charts
