@@ -28,13 +28,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.14](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.14), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.4.0](https://github.com/grafana/helm-charts/releases/tag/phlare-0.4.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.150.0](https://github.com/renovatebot/renovate/releases/tag/34.150.0), today) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1-beta.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.25.0](https://github.com/aws/karpenter/releases/tag/v0.25.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.3), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-4.31.0), 2 days ago) - Prometheus community Helm charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.219a683](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.219a683), 2 days ago) - Lens - The way the world runs Kubernetes
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.3.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.3.0), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) ([v1.3.0](https://github.com/prometheus-community/jiralert/releases/tag/v1.3.0), 5 days ago) - JIRA integration for Prometheus Alertmanager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.22.0](https://github.com/helmfile/vals/releases/tag/v0.22.0), 5 days ago) - Helm-like configuration values loader with support for various sources
