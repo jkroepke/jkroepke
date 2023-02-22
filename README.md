@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.15](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.15), today) - Lens - The way the world runs Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.14), today) - OpenLens Binary Build Repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.0](https://github.com/renovatebot/renovate/releases/tag/34.152.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.14.0), today) - Prometheus community Helm charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.14](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.14), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.4.0](https://github.com/grafana/helm-charts/releases/tag/phlare-0.4.0), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1-beta.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.25.0](https://github.com/aws/karpenter/releases/tag/v0.25.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
