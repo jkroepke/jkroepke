@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.0.0](https://github.com/keycloak/keycloak/releases/tag/21.0.0), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.1](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.1), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.1](https://github.com/renovatebot/renovate/releases/tag/34.152.1), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.15), today) - OpenLens Binary Build Repository
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.25.0](https://github.com/aws/karpenter/releases/tag/v0.25.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.3), 2 days ago) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.3.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.3.0), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) ([v1.3.0](https://github.com/prometheus-community/jiralert/releases/tag/v1.3.0), 6 days ago) - JIRA integration for Prometheus Alertmanager
 
 #### 🔨 My recent Pull Requests
 
