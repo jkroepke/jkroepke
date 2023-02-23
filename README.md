@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.0), today) - ArgoProj Helm Charts
 - [coreos/ignition](https://github.com/coreos/ignition) ([v2.15.0](https://github.com/coreos/ignition/releases/tag/v2.15.0), today) - First boot installer and configuration tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.29](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.29), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -37,10 +38,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.f212c90](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.f212c90), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.14.0), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1-beta.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.25.0](https://github.com/aws/karpenter/releases/tag/v0.25.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
 
+- [[jiralert] Bump version to v1.3.0](https://github.com/prometheus-community/helm-charts/pull/3065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Add webauth](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/24) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (2 days ago)
 - [Migrations for ArgoCD multi source application limitations](https://github.com/jkroepke/helm-secrets/pull/340) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Update ArgoCD docs](https://github.com/jkroepke/helm-secrets/pull/339) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Add support for namespaced scope](https://github.com/kubernetes-sigs/external-dns/pull/3403) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (1 week ago)
 - [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 week ago)
-- [[jiralert] Make tplConfig toggable and introduce a value for complex configurations](https://github.com/prometheus-community/helm-charts/pull/3004) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
