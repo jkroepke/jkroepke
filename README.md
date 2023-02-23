@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [coreos/ignition](https://github.com/coreos/ignition) ([v2.15.0](https://github.com/coreos/ignition/releases/tag/v2.15.0), today) - First boot installer and configuration tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.29](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.29), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.2](https://github.com/renovatebot/renovate/releases/tag/34.152.2), today) - Universal dependency update tool that fits into your workflows.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.14.0), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1-beta.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.25.0](https://github.com/aws/karpenter/releases/tag/v0.25.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.3](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.3), 2 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
