@@ -15,20 +15,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (4 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (5 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (6 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/proxy-checker](https://github.com/jkroepke/proxy-checker) - personal proxy checker (1 week ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.0), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.1), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.3.0), today) - Prometheus community Helm charts
 - [coreos/ignition](https://github.com/coreos/ignition) ([v2.15.0](https://github.com/coreos/ignition/releases/tag/v2.15.0), today) - First boot installer and configuration tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.29](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.29), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -36,11 +37,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.0.0](https://github.com/keycloak/keycloak/releases/tag/21.0.0), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.15), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.f212c90](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.f212c90), today) - Lens - The way the world runs Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.14.0), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1-beta.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Introduce failurePolicy &#34;IgnoreOnInstallOnly&#34;](https://github.com/prometheus-community/helm-charts/pull/3066) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[jiralert] Bump version to v1.3.0](https://github.com/prometheus-community/helm-charts/pull/3065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Add webauth](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/24) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (2 days ago)
 - [Migrations for ArgoCD multi source application limitations](https://github.com/jkroepke/helm-secrets/pull/340) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: Implement tplConfig and Azure Workload Identity support](https://github.com/cloudquery/helm-charts/pull/263) on [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) (1 week ago)
 - [[helm] Add support for namespaced scope](https://github.com/kubernetes-sigs/external-dns/pull/3403) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (1 week ago)
-- [Pass oauth2-proxy config through helm templating](https://github.com/oauth2-proxy/manifests/pull/132) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 week ago)
 
 #### ⭐ Recent Stars
 
