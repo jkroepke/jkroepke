@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.16](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.16), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.2550b1e](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.2550b1e), today) - Lens - The way the world runs Kubernetes
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.5](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.5), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.3](https://github.com/renovatebot/renovate/releases/tag/34.152.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
@@ -36,8 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [coreos/ignition](https://github.com/coreos/ignition) ([v2.15.0](https://github.com/coreos/ignition/releases/tag/v2.15.0), 1 day ago) - First boot installer and configuration tool
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.29](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.29), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.0.0](https://github.com/keycloak/keycloak/releases/tag/21.0.0), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.15), 1 day ago) - OpenLens Binary Build Repository
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1-beta.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
