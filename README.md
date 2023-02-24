@@ -28,7 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.7.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.7.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.7.0), today) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.7.4](https://github.com/grafana/loki/releases/tag/v2.7.4), today) - Like Prometheus, but for logs.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.4](https://github.com/renovatebot/renovate/releases/tag/34.152.4), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.16](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.16), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.2550b1e](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.2550b1e), today) - Lens - The way the world runs Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.3.0), 1 day ago) - Prometheus community Helm charts
 - [coreos/ignition](https://github.com/coreos/ignition) ([v2.15.0](https://github.com/coreos/ignition/releases/tag/v2.15.0), 1 day ago) - First boot installer and configuration tool
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1-beta.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
