@@ -41,6 +41,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (today)
+- [Avoid calling API](https://github.com/aquasecurity/tfsec-action/pull/11) on [aquasecurity/tfsec-action](https://github.com/aquasecurity/tfsec-action) (today)
 - [[kube-prometheus-stack] Introduce failurePolicy &#34;IgnoreOnInstallOnly&#34;](https://github.com/prometheus-community/helm-charts/pull/3066) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[jiralert] Bump version to v1.3.0](https://github.com/prometheus-community/helm-charts/pull/3065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Add webauth](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/24) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (3 days ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update Azure SDK and remove workload identity hack](https://github.com/helmfile/vals/pull/133) on [helmfile/vals](https://github.com/helmfile/vals) (6 days ago)
 - [ensure values are string before passing to helm templating engine](https://github.com/oauth2-proxy/manifests/pull/134) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 week ago)
 - [feat: Implement tplConfig and Azure Workload Identity support](https://github.com/cloudquery/helm-charts/pull/263) on [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) (1 week ago)
-- [[helm] Add support for namespaced scope](https://github.com/kubernetes-sigs/external-dns/pull/3403) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
-- [Login: Allow custom name and icon for social providers](https://github.com/grafana/grafana/pull/63297) on [grafana/grafana](https://github.com/grafana/grafana) (1 week ago)
 
 #### ⭐ Recent Stars
 
