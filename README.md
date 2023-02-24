@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.6.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.6.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.7.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.4](https://github.com/renovatebot/renovate/releases/tag/34.152.4), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.16](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.16), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.2550b1e](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.2550b1e), today) - Lens - The way the world runs Kubernetes
