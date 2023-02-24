@@ -42,7 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔨 My recent Pull Requests
 
 - [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (today)
-- [Avoid calling API](https://github.com/aquasecurity/tfsec-action/pull/11) on [aquasecurity/tfsec-action](https://github.com/aquasecurity/tfsec-action) (today)
+- [Rewrite action to an composite action](https://github.com/aquasecurity/tfsec-action/pull/11) on [aquasecurity/tfsec-action](https://github.com/aquasecurity/tfsec-action) (today)
 - [[kube-prometheus-stack] Introduce failurePolicy &#34;IgnoreOnInstallOnly&#34;](https://github.com/prometheus-community/helm-charts/pull/3066) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[jiralert] Bump version to v1.3.0](https://github.com/prometheus-community/helm-charts/pull/3065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Add webauth](https://github.com/jkroepke/openvpn-auth-azure-ad/pull/24) on [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) (3 days ago)
