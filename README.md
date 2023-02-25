@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.17](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.17), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.17](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.17), 1 day ago) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.13), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.7.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.7.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.4](https://github.com/grafana/loki/releases/tag/v2.7.4), 1 day ago) - Like Prometheus, but for logs.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.4](https://github.com/renovatebot/renovate/releases/tag/34.152.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.16](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.16), 1 day ago) - OpenLens Binary Build Repository
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.5](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.5), 2 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.3.0), 2 days ago) - Prometheus community Helm charts
 - [coreos/ignition](https://github.com/coreos/ignition) ([v2.15.0](https://github.com/coreos/ignition/releases/tag/v2.15.0), 2 days ago) - First boot installer and configuration tool
