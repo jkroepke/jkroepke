@@ -15,19 +15,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (4 days ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (4 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [jkroepke/proxy-checker](https://github.com/jkroepke/proxy-checker) - personal proxy checker (1 week ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v0.15.1](https://github.com/aslafy-z/helm-git/releases/tag/v0.15.1), today) - Helm Plugin - Install Helm Charts strait from Git repositories
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.17](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.17), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.17](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.17), 1 day ago) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.13), 1 day ago) - ArgoProj Helm Charts
@@ -37,10 +38,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.5](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.5), 2 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.3.0), 2 days ago) - Prometheus community Helm charts
 - [coreos/ignition](https://github.com/coreos/ignition) ([v2.15.0](https://github.com/coreos/ignition/releases/tag/v2.15.0), 2 days ago) - First boot installer and configuration tool
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.9.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.9.1), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
+- [try fix CI](https://github.com/jkroepke/helm-secrets/pull/343) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [fix: _uri_scheme: is read only](https://github.com/aslafy-z/helm-git/pull/248) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (today)
 - [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (1 day ago)
 - [Rewrite action to an composite action](https://github.com/aquasecurity/tfsec-action/pull/11) on [aquasecurity/tfsec-action](https://github.com/aquasecurity/tfsec-action) (1 day ago)
 - [[kube-prometheus-stack] Introduce failurePolicy &#34;IgnoreOnInstallOnly&#34;](https://github.com/prometheus-community/helm-charts/pull/3066) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -49,8 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Migrations for ArgoCD multi source application limitations](https://github.com/jkroepke/helm-secrets/pull/340) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Update ArgoCD docs](https://github.com/jkroepke/helm-secrets/pull/339) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Update Azure SDK and remove workload identity hack](https://github.com/helmfile/vals/pull/133) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
-- [ensure values are string before passing to helm templating engine](https://github.com/oauth2-proxy/manifests/pull/134) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 week ago)
-- [feat: Implement tplConfig and Azure Workload Identity support](https://github.com/cloudquery/helm-charts/pull/263) on [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
