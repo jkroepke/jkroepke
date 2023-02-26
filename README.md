@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.51.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.51.0), today) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v0.15.1](https://github.com/aslafy-z/helm-git/releases/tag/v0.15.1), 1 day ago) - Helm Plugin - Install Helm Charts strait from Git repositories
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.17](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.17), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.17](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.17), 2 days ago) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.13), 2 days ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.7.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.7.0), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.4](https://github.com/grafana/loki/releases/tag/v2.7.4), 2 days ago) - Like Prometheus, but for logs.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.4](https://github.com/renovatebot/renovate/releases/tag/34.152.4), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.5](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.5), 3 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
