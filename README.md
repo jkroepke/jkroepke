@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.2), today) - ArgoProj Helm Charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.10](https://github.com/stakater/Reloader/releases/tag/v1.0.10), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.4.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.5](https://github.com/renovatebot/renovate/releases/tag/34.152.5), today) - Universal dependency update tool that fits into your workflows.
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v0.15.1](https://github.com/aslafy-z/helm-git/releases/tag/v0.15.1), 1 day ago) - Helm Plugin - Install Helm Charts strait from Git repositories
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.17](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.17), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-beta.17](https://github.com/lensapp/lens/releases/tag/v6.4.0-beta.17), 2 days ago) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.13](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.13), 2 days ago) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.4](https://github.com/grafana/loki/releases/tag/v2.7.4), 2 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
