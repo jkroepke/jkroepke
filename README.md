@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.10](https://github.com/stakater/Reloader/releases/tag/v1.0.10), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.4.0), today) - Prometheus community Helm charts
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.9](https://github.com/stakater/Reloader/releases/tag/v1.0.9), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.5](https://github.com/renovatebot/renovate/releases/tag/34.152.5), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.51.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.51.0), today) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -67,11 +67,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [haomingz](https://github.com/haomingz)
 - [applicato](https://github.com/applicato)
 - [nickyfoster](https://github.com/nickyfoster)
 - [Gaariin](https://github.com/Gaariin)
 - [Weldhappy](https://github.com/Weldhappy)
-- [james-trousdale-lyb](https://github.com/james-trousdale-lyb)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
