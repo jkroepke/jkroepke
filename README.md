@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.7.2), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.2](https://github.com/renovatebot/renovate/releases/tag/34.153.2), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.7.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0-weekly.227](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0-weekly.227), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.1](https://github.com/renovatebot/renovate/releases/tag/34.153.1), today) - Universal dependency update tool that fits into your workflows.
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.3067e82](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.3067e82), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.2), 1 day ago) - ArgoProj Helm Charts
@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) - Kubernetes platform from Flant (today)
 - [quipper/monorepo-deploy-actions](https://github.com/quipper/monorepo-deploy-actions) - Deploy Microservices in Monorepo via GitHub Actions and Argo CD (6 days ago)
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way. (1 week ago)
 - [cedws/openvpn-mgmt-go](https://github.com/cedws/openvpn-mgmt-go) - Provides an API for connecting to, sending commands to, and receiving messages from an OpenVPN management socket (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
 - [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (3 weeks ago)
 - [kudobuilder/kuttl](https://github.com/kudobuilder/kuttl) - KUbernetes Test TooL (kuttl) (3 weeks ago)
-- [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal (3 weeks ago)
 
 #### 👯 Check out some of my recent followers
 
