@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.7.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.7.1), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.1](https://github.com/renovatebot/renovate/releases/tag/34.153.1), today) - Universal dependency update tool that fits into your workflows.
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.3067e82](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.3067e82), today) - Lens - The way the world runs Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.2.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.2.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.4.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.2), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.10](https://github.com/stakater/Reloader/releases/tag/v1.0.10), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
