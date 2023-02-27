@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.0](https://github.com/renovatebot/renovate/releases/tag/34.153.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.3067e82](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.3067e82), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.2.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.2.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.4.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.2), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.10](https://github.com/stakater/Reloader/releases/tag/v1.0.10), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.152.5](https://github.com/renovatebot/renovate/releases/tag/34.152.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.0), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v0.15.1](https://github.com/aslafy-z/helm-git/releases/tag/v0.15.1), 2 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0-beta.17](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0-beta.17), 2 days ago) - OpenLens Binary Build Repository
