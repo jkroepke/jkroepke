@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.1](https://github.com/renovatebot/renovate/releases/tag/34.153.1), today) - Universal dependency update tool that fits into your workflows.
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.0](https://github.com/renovatebot/renovate/releases/tag/34.153.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.3067e82](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.3067e82), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.2.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.2.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.4.0), 1 day ago) - Prometheus community Helm charts
