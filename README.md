@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.7.1), today) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0-weekly.227](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0-weekly.227), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.1](https://github.com/renovatebot/renovate/releases/tag/34.153.1), today) - Universal dependency update tool that fits into your workflows.
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
