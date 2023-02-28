@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.0](https://github.com/renovatebot/renovate/releases/tag/34.154.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.3), today) - ArgoProj Helm Charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.d29615c](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.d29615c), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.7.2), 1 day ago) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0-weekly.227](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0-weekly.227), 1 day ago) - 
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), 1 day ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.10](https://github.com/stakater/Reloader/releases/tag/v1.0.10), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
