@@ -28,13 +28,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.3), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.153.3](https://github.com/renovatebot/renovate/releases/tag/34.153.3), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.d29615c](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.d29615c), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.7.2), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0-weekly.227](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0-weekly.227), 1 day ago) - 
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), 1 day ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.2), 2 days ago) - ArgoProj Helm Charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.10](https://github.com/stakater/Reloader/releases/tag/v1.0.10), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) ([v0.15.1](https://github.com/aslafy-z/helm-git/releases/tag/v0.15.1), 3 days ago) - Helm Plugin - Install Helm Charts strait from Git repositories
