@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.9.1](https://github.com/grafana/helm-charts/releases/tag/promtail-6.9.1), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.3), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.ec81af4](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.ec81af4), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.5), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.8.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.8.0), 1 day ago) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.1](https://github.com/renovatebot/renovate/releases/tag/34.154.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-19.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-19.7.2), 2 days ago) - Prometheus community Helm charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), 2 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
