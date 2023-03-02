@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.5.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.2](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.2), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.6df01ba](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.6df01ba), today) - Lens - The way the world runs Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.26.0](https://github.com/aws/karpenter/releases/tag/v0.26.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0), 1 day ago) - OpenLens Binary Build Repository
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.3.0), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.0](https://github.com/aquasecurity/trivy/releases/tag/v0.38.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.2](https://github.com/renovatebot/renovate/releases/tag/34.154.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
