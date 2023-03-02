@@ -28,15 +28,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.22.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.22.3), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.6.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.3](https://github.com/renovatebot/renovate/releases/tag/34.154.3), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.5.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.2](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.2), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.6df01ba](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.6df01ba), today) - Lens - The way the world runs Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.26.0](https://github.com/aws/karpenter/releases/tag/v0.26.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0), 1 day ago) - OpenLens Binary Build Repository
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.0](https://github.com/aquasecurity/trivy/releases/tag/v0.38.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.23.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.23.5), 2 days ago) - ArgoProj Helm Charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), 3 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 
 #### 🔨 My recent Pull Requests
