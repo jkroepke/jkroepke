@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.4](https://github.com/renovatebot/renovate/releases/tag/34.154.4), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.22.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.22.3), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.6.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.3](https://github.com/renovatebot/renovate/releases/tag/34.154.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.2](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.2), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.6df01ba](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.6df01ba), today) - Lens - The way the world runs Kubernetes
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.26.0](https://github.com/aws/karpenter/releases/tag/v0.26.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
