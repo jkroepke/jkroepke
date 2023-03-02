@@ -15,19 +15,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster (3 days ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (5 days ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 week ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/variantdev/vals) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([example-0.1.0](https://github.com/jkroepke/helm-charts/releases/tag/example-0.1.0), today) - Collection of charts used in my projects
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.26.1](https://github.com/aws/karpenter/releases/tag/v0.26.1), today) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.1](https://github.com/aquasecurity/trivy/releases/tag/v0.38.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.4](https://github.com/renovatebot/renovate/releases/tag/34.154.4), today) - Universal dependency update tool that fits into your workflows.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.0-cron.6df01ba](https://github.com/lensapp/lens/releases/tag/v6.4.0-cron.6df01ba), today) - Lens - The way the world runs Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0), 1 day ago) - OpenLens Binary Build Repository
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.6](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.6), 3 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 
 #### 🔨 My recent Pull Requests
 
