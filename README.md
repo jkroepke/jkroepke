@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.6](https://github.com/renovatebot/renovate/releases/tag/34.154.6), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.4.3](https://github.com/grafana/grafana/releases/tag/v9.4.3), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.5](https://github.com/renovatebot/renovate/releases/tag/34.154.5), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.51.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.51.3), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.ab11b20](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.ab11b20), today) - Lens - The way the world runs Kubernetes
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([example-0.1.0](https://github.com/jkroepke/helm-charts/releases/tag/example-0.1.0), 1 day ago) - Collection of charts used in my projects
