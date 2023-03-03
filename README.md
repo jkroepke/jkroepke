@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.0.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.0.1), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.1](https://github.com/lensapp/lens/releases/tag/v6.4.1), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.154.6](https://github.com/renovatebot/renovate/releases/tag/34.154.6), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.4.3](https://github.com/grafana/grafana/releases/tag/v9.4.3), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.51.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.51.3), today) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([example-0.1.0](https://github.com/jkroepke/helm-charts/releases/tag/example-0.1.0), 1 day ago) - Collection of charts used in my projects
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.26.1](https://github.com/aws/karpenter/releases/tag/v0.26.1), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.1](https://github.com/aquasecurity/trivy/releases/tag/v0.38.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
