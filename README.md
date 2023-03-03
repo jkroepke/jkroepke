@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.11](https://github.com/stakater/Reloader/releases/tag/v1.0.11), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.24.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.24.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([fluent-bit-2.4.0](https://github.com/grafana/helm-charts/releases/tag/fluent-bit-2.4.0), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.1](https://github.com/lensapp/lens/releases/tag/v6.4.1), today) - Lens - The way the world runs Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.26.1](https://github.com/aws/karpenter/releases/tag/v0.26.1), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.1](https://github.com/aquasecurity/trivy/releases/tag/v0.38.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.6.0), 1 day ago) - Prometheus community Helm charts
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.0), 2 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
