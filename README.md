@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.1), today) - OpenLens Binary Build Repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.157.0](https://github.com/renovatebot/renovate/releases/tag/34.157.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.6.1), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.11](https://github.com/stakater/Reloader/releases/tag/v1.0.11), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.4.3](https://github.com/grafana/grafana/releases/tag/v9.4.3), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([example-0.1.0](https://github.com/jkroepke/helm-charts/releases/tag/example-0.1.0), 2 days ago) - Collection of charts used in my projects
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.26.1](https://github.com/aws/karpenter/releases/tag/v0.26.1), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.1](https://github.com/aquasecurity/trivy/releases/tag/v0.38.1), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
