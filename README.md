@@ -54,6 +54,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. (today)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 days ago)
 - [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) - Kubernetes platform from Flant (5 days ago)
 - [quipper/monorepo-deploy-actions](https://github.com/quipper/monorepo-deploy-actions) - Deploy Microservices in Monorepo via GitHub Actions and Argo CD (1 week ago)
@@ -63,7 +64,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mertguvencli/http-proxy-list](https://github.com/mertguvencli/http-proxy-list) - It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list. (2 weeks ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 weeks ago)
 - [k8gb-io/k8gb](https://github.com/k8gb-io/k8gb) - A cloud native Kubernetes Global Balancer (3 weeks ago)
-- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
