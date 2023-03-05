@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.157.1](https://github.com/renovatebot/renovate/releases/tag/34.157.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.11.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.11.0), today) - 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.6.1), today) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.1), 1 day ago) - OpenLens Binary Build Repository
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.157.0](https://github.com/renovatebot/renovate/releases/tag/34.157.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.6.1), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.11](https://github.com/stakater/Reloader/releases/tag/v1.0.11), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.24.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.24.1), 2 days ago) - ArgoProj Helm Charts
