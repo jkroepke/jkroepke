@@ -28,11 +28,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.8.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.8.1), today) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.1), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.13.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.12](https://github.com/stakater/Reloader/releases/tag/v1.0.12), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0-weekly.228](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0-weekly.228), today) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.2), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.2](https://github.com/lensapp/lens/releases/tag/v6.4.2), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.157.1](https://github.com/renovatebot/renovate/releases/tag/34.157.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
