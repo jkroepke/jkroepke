@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.8.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.8.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.14](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.14), today) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.1), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.13.0), today) - Prometheus community Helm charts
