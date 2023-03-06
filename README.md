@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.1.0), today) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.2), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.2](https://github.com/lensapp/lens/releases/tag/v6.4.2), today) - Lens - The way the world runs Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.0.2](https://github.com/grafana/helm-charts/releases/tag/tempo-1.0.2), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.157.1](https://github.com/renovatebot/renovate/releases/tag/34.157.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.6.1), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
