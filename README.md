@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.0.2](https://github.com/grafana/helm-charts/releases/tag/tempo-1.0.2), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.a917494](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.a917494), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.157.1](https://github.com/renovatebot/renovate/releases/tag/34.157.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.11.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.11.0), 1 day ago) - 
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.6.1), 1 day ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.1), 2 days ago) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.6.1), 2 days ago) - Prometheus community Helm charts
