@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.1), today) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.3), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.f88555a](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.f88555a), today) - Lens - The way the world runs Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.14](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.14), 1 day ago) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.13.0), 1 day ago) - Prometheus community Helm charts
