@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.158.2](https://github.com/renovatebot/renovate/releases/tag/34.158.2), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.5), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.158.1](https://github.com/renovatebot/renovate/releases/tag/34.158.1), today) - Universal dependency update tool that fits into your workflows.
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.7](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.7), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.1), today) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.3), today) - OpenLens Binary Build Repository
