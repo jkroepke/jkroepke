@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.0](https://github.com/aws/karpenter/releases/tag/v0.27.0), today) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.4), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.0.0), today) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.4](https://github.com/lensapp/lens/releases/tag/v6.4.4), today) - Lens - The way the world runs Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.7](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.7), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.12](https://github.com/stakater/Reloader/releases/tag/v1.0.12), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.6.1), 2 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
 
 #### 🔨 My recent Pull Requests
 
