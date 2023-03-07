@@ -28,6 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.7](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.7), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.158.0](https://github.com/renovatebot/renovate/releases/tag/34.158.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.1), today) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.3), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.f88555a](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.f88555a), today) - Lens - The way the world runs Kubernetes
@@ -35,9 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.13.0), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.12](https://github.com/stakater/Reloader/releases/tag/v1.0.12), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.157.1](https://github.com/renovatebot/renovate/releases/tag/34.157.1), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) ([v5.6.1](https://github.com/adorsys/keycloak-config-cli/releases/tag/v5.6.1), 2 days ago) - Import YAML/JSON-formatted configuration files into Keycloak - Configuration as Code for Keycloak.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.24.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.24.1), 4 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
