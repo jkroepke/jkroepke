@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.158.1](https://github.com/renovatebot/renovate/releases/tag/34.158.1), today) - Universal dependency update tool that fits into your workflows.
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v0.2.7](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v0.2.7), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.158.0](https://github.com/renovatebot/renovate/releases/tag/34.158.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.1), today) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.3), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.f88555a](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.f88555a), today) - Lens - The way the world runs Kubernetes
