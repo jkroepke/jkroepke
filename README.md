@@ -28,6 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.7.1), today) - Prometheus community Helm charts
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.5), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.5](https://github.com/lensapp/lens/releases/tag/v6.4.5), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.34](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.34), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.159.1](https://github.com/renovatebot/renovate/releases/tag/34.159.1), today) - Universal dependency update tool that fits into your workflows.
@@ -36,8 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.1](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.24.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.24.3), today) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.0](https://github.com/aws/karpenter/releases/tag/v0.27.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.4), 1 day ago) - OpenLens Binary Build Repository
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.0.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
