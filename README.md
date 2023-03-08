@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.9.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.9.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.7.1), today) - Prometheus community Helm charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.5), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.5](https://github.com/lensapp/lens/releases/tag/v6.4.5), today) - Lens - The way the world runs Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.34](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.34), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.159.1](https://github.com/renovatebot/renovate/releases/tag/34.159.1), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.2](https://github.com/aquasecurity/trivy/releases/tag/v0.38.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
