@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.34](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.34), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.159.1](https://github.com/renovatebot/renovate/releases/tag/34.159.1), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.2](https://github.com/aquasecurity/trivy/releases/tag/v0.38.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.0](https://github.com/aws/karpenter/releases/tag/v0.27.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.4), 1 day ago) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.0.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.33](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.33), 1 day ago) - 
 
 #### 🔨 My recent Pull Requests
 
