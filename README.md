@@ -28,8 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.2](https://github.com/aquasecurity/trivy/releases/tag/v0.38.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.1](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.1), today) - 
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.3](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.3), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.159.0](https://github.com/renovatebot/renovate/releases/tag/34.159.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.24.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.24.3), today) - ArgoProj Helm Charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.094758f](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.094758f), today) - Lens - The way the world runs Kubernetes
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.4](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.4), 1 day ago) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.33](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.33), 1 day ago) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.5), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
