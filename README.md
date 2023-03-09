@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.25.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.25.0), today) - ArgoProj Helm Charts
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.6](https://github.com/lensapp/lens/releases/tag/v6.4.6), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.35](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.35), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.24.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.24.4), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.0), today) - Prometheus community Helm charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.48ce558](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.48ce558), today) - Lens - The way the world runs Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.5), 1 day ago) - OpenLens Binary Build Repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.159.1](https://github.com/renovatebot/renovate/releases/tag/34.159.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
