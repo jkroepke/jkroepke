@@ -15,36 +15,36 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (5 days ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (5 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 days ago)
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (6 days ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (6 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 week ago)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster (1 week ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (2 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.9.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.9.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.7.1), today) - Prometheus community Helm charts
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.5), today) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.5](https://github.com/lensapp/lens/releases/tag/v6.4.5), today) - Lens - The way the world runs Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.159.1](https://github.com/renovatebot/renovate/releases/tag/34.159.1), today) - Universal dependency update tool that fits into your workflows.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.2](https://github.com/aquasecurity/trivy/releases/tag/v0.38.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.1](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.1), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.24.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.24.3), today) - ArgoProj Helm Charts
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.0](https://github.com/aws/karpenter/releases/tag/v0.27.0), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.48ce558](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.48ce558), today) - Lens - The way the world runs Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.9.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.9.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.7.1), 1 day ago) - Prometheus community Helm charts
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.5](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.5), 1 day ago) - OpenLens Binary Build Repository
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.159.1](https://github.com/renovatebot/renovate/releases/tag/34.159.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.2](https://github.com/aquasecurity/trivy/releases/tag/v0.38.2), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.1](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.1), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.24.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.24.3), 1 day ago) - ArgoProj Helm Charts
+- [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.0](https://github.com/aws/karpenter/releases/tag/v0.27.0), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Error on custom protocol value files which are not resolving into yaml files](https://github.com/jkroepke/helm-secrets/pull/355) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [fix(arm64): RPM architecture name](https://github.com/electron-userland/electron-builder/pull/7466) on [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) (1 day ago)
-- [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
-- [Fix ArgoCD documentation for multi source applications](https://github.com/jkroepke/helm-secrets/pull/351) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
+- [fix: Error on custom protocol value files which are not resolving into yaml files](https://github.com/jkroepke/helm-secrets/pull/355) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [fix(arm64): RPM architecture name](https://github.com/electron-userland/electron-builder/pull/7466) on [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) (2 days ago)
+- [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
+- [Fix ArgoCD documentation for multi source applications](https://github.com/jkroepke/helm-secrets/pull/351) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/344) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [chore(tests): busybox for tests](https://github.com/aslafy-z/helm-git/pull/251) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 week ago)
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/343) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -54,8 +54,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project] (4 days ago)
-- [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. (4 days ago)
+- [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project] (5 days ago)
+- [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. (5 days ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 week ago)
 - [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) - Kubernetes platform from Flant (1 week ago)
 - [quipper/monorepo-deploy-actions](https://github.com/quipper/monorepo-deploy-actions) - Deploy Microservices in Monorepo via GitHub Actions and Argo CD (2 weeks ago)
