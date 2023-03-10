@@ -28,6 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.10.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.10.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.13](https://github.com/stakater/Reloader/releases/tag/v1.0.13), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([34.160.0](https://github.com/renovatebot/renovate/releases/tag/34.160.0), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.23.0](https://github.com/helmfile/vals/releases/tag/v0.23.0), today) - Helm-like configuration values loader with support for various sources
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.e6d6d1d](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.e6d6d1d), today) - Lens - The way the world runs Kubernetes
@@ -36,8 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.25.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.25.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.0), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.6), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.2](https://github.com/aquasecurity/trivy/releases/tag/v0.38.2), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [kubernetes/cloud-provider-aws](https://github.com/kubernetes/cloud-provider-aws) ([v1.26.1](https://github.com/kubernetes/cloud-provider-aws/releases/tag/v1.26.1), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
