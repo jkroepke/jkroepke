@@ -28,9 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.0.1](https://github.com/renovatebot/renovate/releases/tag/35.0.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.8](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.8), 1 day ago) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.0.0](https://github.com/renovatebot/renovate/releases/tag/35.0.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.303.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.303.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.10.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.10.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.23.0](https://github.com/helmfile/vals/releases/tag/v0.23.0), 1 day ago) - Helm-like configuration values loader with support for various sources
