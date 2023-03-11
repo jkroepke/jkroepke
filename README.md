@@ -15,8 +15,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (4 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (5 days ago)
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (1 week ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.1.2](https://github.com/renovatebot/renovate/releases/tag/35.1.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.2), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.e6d6d1d](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.e6d6d1d), 1 day ago) - Lens - The way the world runs Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.6](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.6), 2 days ago) - OpenLens Binary Build Repository
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.25.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.25.0), 2 days ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
