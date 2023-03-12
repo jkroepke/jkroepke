@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/terraform-module-azurerm-yaml](https://github.com/jkroepke/terraform-module-azurerm-yaml) - Terraform module for describing resources as YAML file (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (6 days ago)
@@ -24,7 +25,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (1 week ago)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster (1 week ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (2 weeks ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
