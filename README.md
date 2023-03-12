@@ -28,8 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.2.0](https://github.com/renovatebot/renovate/releases/tag/35.2.0), today) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.0), today) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.1.2](https://github.com/renovatebot/renovate/releases/tag/35.1.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.2), 1 day ago) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.303.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.303.0), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.23.0](https://github.com/helmfile/vals/releases/tag/v0.23.0), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.e6d6d1d](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.e6d6d1d), 2 days ago) - Lens - The way the world runs Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.6](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.6), 3 days ago) - OpenLens Binary Build Repository
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.25.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.25.0), 3 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
