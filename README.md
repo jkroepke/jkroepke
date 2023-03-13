@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.2.2](https://github.com/renovatebot/renovate/releases/tag/35.2.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.2.3](https://github.com/renovatebot/renovate/releases/tag/35.2.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.3), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.74f679e](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.74f679e), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.0), 1 day ago) - ArgoProj Helm Charts
