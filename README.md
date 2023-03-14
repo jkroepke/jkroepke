@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.4.1](https://github.com/renovatebot/renovate/releases/tag/35.4.1), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.79a4eb3](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.79a4eb3), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0-weekly.229](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0-weekly.229), 1 day ago) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.303.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.303.0), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.10.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.10.1), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.23.0](https://github.com/helmfile/vals/releases/tag/v0.23.0), 4 days ago) - Helm-like configuration values loader with support for various sources
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.6](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.6), 5 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
