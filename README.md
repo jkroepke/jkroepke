@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.1), today) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.4.2](https://github.com/renovatebot/renovate/releases/tag/35.4.2), today) - Universal dependency update tool that fits into your workflows.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.79a4eb3](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.79a4eb3), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0-weekly.229](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0-weekly.229), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.0), 2 days ago) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
