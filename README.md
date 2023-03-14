@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.37](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.37), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.1), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.38](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.38), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.1](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.1), today) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.4.2](https://github.com/renovatebot/renovate/releases/tag/35.4.2), today) - Universal dependency update tool that fits into your workflows.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.0), 2 days ago) - ArgoProj Helm Charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.303.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.303.0), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
