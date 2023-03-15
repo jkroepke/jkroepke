@@ -15,6 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/azure-managed-identity-oidc-demo](https://github.com/jkroepke/azure-managed-identity-oidc-demo) - This repo this for demo purpose. This is a demo demonstrate, how to assume a Azure user managed identity as external user using azure workload identity. (today)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
 - [jkroepke/terraform-module-azurerm-yaml](https://github.com/jkroepke/terraform-module-azurerm-yaml) - Terraform module for describing resources as YAML file (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
@@ -24,14 +25,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/hypixel-skyblock-jacobs-farming-api](https://github.com/jkroepke/hypixel-skyblock-jacobs-farming-api) - API for all Skyblock APIs (2 weeks ago)
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.2), today) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.8.0](https://github.com/renovatebot/renovate/releases/tag/35.8.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.7.0](https://github.com/renovatebot/renovate/releases/tag/35.7.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.572d7ba](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.572d7ba), today) - Lens - The way the world runs Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.1), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.38](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.38), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
