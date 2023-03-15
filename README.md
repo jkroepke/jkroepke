@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.7.0](https://github.com/renovatebot/renovate/releases/tag/35.7.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.572d7ba](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.572d7ba), today) - Lens - The way the world runs Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.6.0](https://github.com/renovatebot/renovate/releases/tag/35.6.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.1), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.38](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.38), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-14.1.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-14.1.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
