@@ -28,16 +28,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.2](https://github.com/kubereboot/charts/releases/tag/kured-4.4.2), today) - Helm charts for kubereboot org (kured)
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.3](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.3), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.8.1](https://github.com/renovatebot/renovate/releases/tag/35.8.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.26.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.26.2), today) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.572d7ba](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.572d7ba), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.38](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.38), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.303.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.303.0), 5 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.10.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.10.1), 5 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
