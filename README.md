@@ -28,12 +28,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.39](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.39), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.9.0](https://github.com/renovatebot/renovate/releases/tag/35.9.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.1a6b115](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.1a6b115), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.0), today) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.2](https://github.com/kubereboot/charts/releases/tag/kured-4.4.2), 1 day ago) - Helm charts for kubereboot org (kured)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.38](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.38), 2 days ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 6 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
