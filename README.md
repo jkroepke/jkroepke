@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.9.1](https://github.com/renovatebot/renovate/releases/tag/35.9.1), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.4), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.10.0](https://github.com/renovatebot/renovate/releases/tag/35.10.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.14), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.0-alpha.3), today) - OpenLens Binary Build Repository
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.1.39](https://github.com/grafana/helm-charts/releases/tag/oncall-1.1.39), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.1a6b115](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.1a6b115), today) - Lens - The way the world runs Kubernetes
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.2](https://github.com/kubereboot/charts/releases/tag/kured-4.4.2), 1 day ago) - Helm charts for kubereboot org (kured)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
