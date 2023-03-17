@@ -15,46 +15,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/azure-managed-identity-oidc-demo](https://github.com/jkroepke/azure-managed-identity-oidc-demo) - This repo this for demo purpose. This is a demo demonstrate, how to assume a Azure user managed identity as external user using azure workload identity. (today)
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (today)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 day ago)
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 day ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
-- [jkroepke/terraform-module-azurerm-yaml](https://github.com/jkroepke/terraform-module-azurerm-yaml) - Terraform module for describing resources as YAML file (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [jkroepke/azure-managed-identity-oidc-demo](https://github.com/jkroepke/azure-managed-identity-oidc-demo) - This repo this for demo purpose. This is a demo demonstrate, how to assume a Azure user managed identity as external user using azure workload identity. (1 day ago)
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (1 day ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 days ago)
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (2 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
+- [jkroepke/terraform-module-azurerm-yaml](https://github.com/jkroepke/terraform-module-azurerm-yaml) - Terraform module for describing resources as YAML file (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
-- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (1 week ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 weeks ago)
+- [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) - Helm Plugin - Install Helm Charts strait from Git repositories (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.4.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.4.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.10.0](https://github.com/renovatebot/renovate/releases/tag/35.10.0), today) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.14), today) - ArgoProj Helm Charts
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.0-alpha.3), today) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.1a6b115](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.1a6b115), today) - Lens - The way the world runs Kubernetes
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.2](https://github.com/kubereboot/charts/releases/tag/kured-4.4.2), 1 day ago) - Helm charts for kubereboot org (kured)
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 6 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.4.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.4.0), 1 day ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.10.0](https://github.com/renovatebot/renovate/releases/tag/35.10.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.14](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.14), 1 day ago) - ArgoProj Helm Charts
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.0-alpha.3), 1 day ago) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.1a6b115](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.1a6b115), 1 day ago) - Lens - The way the world runs Kubernetes
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.2](https://github.com/kubereboot/charts/releases/tag/kured-4.4.2), 2 days ago) - Helm charts for kubereboot org (kured)
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.0), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 1 week ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
 - [fix: Error on custom protocol value files which are not resolving into yaml files](https://github.com/jkroepke/helm-secrets/pull/355) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [fix(arm64): RPM architecture name](https://github.com/electron-userland/electron-builder/pull/7466) on [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) (1 week ago)
-- [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
+- [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [Fix ArgoCD documentation for multi source applications](https://github.com/jkroepke/helm-secrets/pull/351) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/344) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [chore(tests): busybox for tests](https://github.com/aslafy-z/helm-git/pull/251) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/343) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [fix: _uri_scheme: is read only](https://github.com/aslafy-z/helm-git/pull/248) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (2 weeks ago)
-- [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (2 weeks ago)
-- [Rewrite action to an composite action](https://github.com/aquasecurity/tfsec-action/pull/11) on [aquasecurity/tfsec-action](https://github.com/aquasecurity/tfsec-action) (2 weeks ago)
+- [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (3 weeks ago)
+- [Rewrite action to an composite action](https://github.com/aquasecurity/tfsec-action/pull/11) on [aquasecurity/tfsec-action](https://github.com/aquasecurity/tfsec-action) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (today)
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (1 day ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project] (1 week ago)
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. (1 week ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 weeks ago)
@@ -62,7 +62,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [quipper/monorepo-deploy-actions](https://github.com/quipper/monorepo-deploy-actions) - Deploy Microservices in Monorepo via GitHub Actions and Argo CD (3 weeks ago)
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way. (3 weeks ago)
 - [cedws/openvpn-mgmt-go](https://github.com/cedws/openvpn-mgmt-go) - Provides an API for connecting to, sending commands to, and receiving messages from an OpenVPN management socket (3 weeks ago)
-- [clouditor/clouditor](https://github.com/clouditor/clouditor) - The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC. (4 weeks ago)
+- [clouditor/clouditor](https://github.com/clouditor/clouditor) - The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC. (1 month ago)
 - [mertguvencli/http-proxy-list](https://github.com/mertguvencli/http-proxy-list) - It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list. (1 month ago)
 
 #### 👯 Check out some of my recent followers
