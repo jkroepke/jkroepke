@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.10.2](https://github.com/renovatebot/renovate/releases/tag/35.10.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.10.1](https://github.com/renovatebot/renovate/releases/tag/35.10.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.1), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.0-alpha.3](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.0-alpha.3), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.1a6b115](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.1a6b115), 1 day ago) - Lens - The way the world runs Kubernetes
