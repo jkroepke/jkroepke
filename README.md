@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.11.0](https://github.com/renovatebot/renovate/releases/tag/35.11.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.12.0](https://github.com/renovatebot/renovate/releases/tag/35.12.0), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.7](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.7), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.7](https://github.com/lensapp/lens/releases/tag/v6.4.7), 1 day ago) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.3.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.3.0), 1 day ago) - 
