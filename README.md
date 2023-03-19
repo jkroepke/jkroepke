@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.13.0](https://github.com/renovatebot/renovate/releases/tag/35.13.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.0](https://github.com/renovatebot/renovate/releases/tag/35.14.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.9](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.9), today) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.7](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.7), 2 days ago) - OpenLens Binary Build Repository
@@ -41,6 +41,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Replace panics with fatals](https://github.com/webdevops/azure-resourcemanager-exporter/pull/28) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (today)
 - [fix: Error on custom protocol value files which are not resolving into yaml files](https://github.com/jkroepke/helm-secrets/pull/355) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [fix(arm64): RPM architecture name](https://github.com/electron-userland/electron-builder/pull/7466) on [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) (1 week ago)
 - [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
@@ -50,7 +51,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/343) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [fix: _uri_scheme: is read only](https://github.com/aslafy-z/helm-git/pull/248) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
 - [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (3 weeks ago)
-- [Rewrite action to an composite action](https://github.com/aquasecurity/tfsec-action/pull/11) on [aquasecurity/tfsec-action](https://github.com/aquasecurity/tfsec-action) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
