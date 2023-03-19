@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.0](https://github.com/renovatebot/renovate/releases/tag/35.14.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.1](https://github.com/renovatebot/renovate/releases/tag/35.14.1), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.9](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.9), today) - 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.7](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.7), 2 days ago) - OpenLens Binary Build Repository
