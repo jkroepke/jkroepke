@@ -28,8 +28,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.0.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.230](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.230), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.2](https://github.com/renovatebot/renovate/releases/tag/35.14.2), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.5), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.52ede67](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.52ede67), today) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.7](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.7), 3 days ago) - OpenLens Binary Build Repository
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.4.2](https://github.com/kubereboot/charts/releases/tag/kured-4.4.2), 5 days ago) - Helm charts for kubereboot org (kured)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.38.3](https://github.com/aquasecurity/trivy/releases/tag/v0.38.3), 6 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.4.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.4.2), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.15](https://github.com/stakater/Reloader/releases/tag/v1.0.15), 1 week ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
