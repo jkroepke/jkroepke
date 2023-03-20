@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.3](https://github.com/renovatebot/renovate/releases/tag/35.14.3), today) - Universal dependency update tool that fits into your workflows.
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.6](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.6), today) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.3](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.26.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.26.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.2](https://github.com/renovatebot/renovate/releases/tag/35.14.2), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.52ede67](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.52ede67), today) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.7](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.7), 3 days ago) - OpenLens Binary Build Repository
