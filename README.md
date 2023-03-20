@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.0.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.230](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.230), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.3](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.3), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.26.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.26.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.2](https://github.com/renovatebot/renovate/releases/tag/35.14.2), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.52ede67](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.52ede67), today) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
