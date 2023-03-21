@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.14.4](https://github.com/renovatebot/renovate/releases/tag/35.14.4), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.15.0](https://github.com/renovatebot/renovate/releases/tag/35.15.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-cron.df49ff9](https://github.com/lensapp/lens/releases/tag/v6.5.0-cron.df49ff9), today) - Lens - The way the world runs Kubernetes
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.6](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.6), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.3](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.3), 1 day ago) - 
