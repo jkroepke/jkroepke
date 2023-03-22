@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.9](https://github.com/lensapp/lens/releases/tag/v6.4.9), today) - Lens - The way the world runs Kubernetes
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.10](https://github.com/lensapp/lens/releases/tag/v6.4.10), today) - Lens - The way the world runs Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.22](https://github.com/grafana/grafana/releases/tag/v8.5.22), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.18.0](https://github.com/renovatebot/renovate/releases/tag/35.18.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.1), today) - Prometheus community Helm charts
