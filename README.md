@@ -28,6 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.15), today) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.10), 1 day ago) - OpenLens Binary Build Repository
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.10.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.10.0), 1 day ago) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.1), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.3), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.6](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.6), 3 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.1), 6 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
