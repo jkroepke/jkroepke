@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.8.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.27.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.1), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.18.1](https://github.com/renovatebot/renovate/releases/tag/35.18.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.15), today) - ArgoProj Helm Charts
