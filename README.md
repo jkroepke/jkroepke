@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.6), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.15), today) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.10), 1 day ago) - OpenLens Binary Build Repository
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.10.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.10.0), 1 day ago) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.10](https://github.com/lensapp/lens/releases/tag/v6.4.10), 1 day ago) - Lens - The way the world runs Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.22](https://github.com/grafana/grafana/releases/tag/v8.5.22), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.18.0](https://github.com/renovatebot/renovate/releases/tag/35.18.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
