@@ -28,13 +28,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.18.1](https://github.com/renovatebot/renovate/releases/tag/35.18.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.6), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.15), today) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.10), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.10](https://github.com/lensapp/lens/releases/tag/v6.4.10), 1 day ago) - Lens - The way the world runs Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.22](https://github.com/grafana/grafana/releases/tag/v8.5.22), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.18.0](https://github.com/renovatebot/renovate/releases/tag/35.18.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.3.1), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.3), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.6](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.6), 3 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
