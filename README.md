@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.19.0](https://github.com/renovatebot/renovate/releases/tag/35.19.0), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.7), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.27.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.1), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.18.1](https://github.com/renovatebot/renovate/releases/tag/35.18.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.15), today) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.10), 1 day ago) - OpenLens Binary Build Repository
