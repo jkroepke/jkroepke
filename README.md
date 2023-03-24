@@ -28,10 +28,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.20.1](https://github.com/renovatebot/renovate/releases/tag/35.20.1), today) - Universal dependency update tool that fits into your workflows.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.1](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.1), today) - Helm charts for webdevops applications
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.6.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.6.0), today) - Ingress-NGINX Controller for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.20.0](https://github.com/renovatebot/renovate/releases/tag/35.20.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.3), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.7), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
