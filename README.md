@@ -15,10 +15,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 day ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (4 days ago)
-- [jkroepke/terraform-module-azurerm-yaml](https://github.com/jkroepke/terraform-module-azurerm-yaml) - Terraform module for describing resources as YAML file (5 days ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (5 days ago)
+- [jkroepke/terraform-module-azurerm-yaml](https://github.com/jkroepke/terraform-module-azurerm-yaml) - Terraform module for describing resources as YAML file (6 days ago)
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (1 week ago)
 - [jkroepke/azure-managed-identity-oidc-demo](https://github.com/jkroepke/azure-managed-identity-oidc-demo) - This repo this for demo purpose. This is a demo demonstrate, how to assume a Azure user managed identity as external user using azure workload identity. (1 week ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 week ago)
@@ -28,29 +28,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.19.0](https://github.com/renovatebot/renovate/releases/tag/35.19.0), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.7), today) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.27.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.15](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.15), today) - ArgoProj Helm Charts
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.10), 1 day ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.10](https://github.com/lensapp/lens/releases/tag/v6.4.10), 1 day ago) - Lens - The way the world runs Kubernetes
-- [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.22](https://github.com/grafana/grafana/releases/tag/v8.5.22), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.6](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.6), 3 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.2), today) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.19.0](https://github.com/renovatebot/renovate/releases/tag/35.19.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.7), 1 day ago) - 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.27.0), 1 day ago) - Prometheus community Helm charts
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.10), 2 days ago) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.10](https://github.com/lensapp/lens/releases/tag/v6.4.10), 2 days ago) - Lens - The way the world runs Kubernetes
+- [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.22](https://github.com/grafana/grafana/releases/tag/v8.5.22), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.12.6](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.12.6), 4 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 
 #### 🔨 My recent Pull Requests
 
-- [Replace panics with fatals](https://github.com/webdevops/azure-resourcemanager-exporter/pull/28) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 days ago)
+- [Replace panics with fatals](https://github.com/webdevops/azure-resourcemanager-exporter/pull/28) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (5 days ago)
 - [fix: Error on custom protocol value files which are not resolving into yaml files](https://github.com/jkroepke/helm-secrets/pull/355) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [fix(arm64): RPM architecture name](https://github.com/electron-userland/electron-builder/pull/7466) on [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) (2 weeks ago)
-- [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
+- [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [Fix ArgoCD documentation for multi source applications](https://github.com/jkroepke/helm-secrets/pull/351) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/344) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [chore(tests): busybox for tests](https://github.com/aslafy-z/helm-git/pull/251) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/343) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [fix: _uri_scheme: is read only](https://github.com/aslafy-z/helm-git/pull/248) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (3 weeks ago)
-- [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (3 weeks ago)
+- [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
