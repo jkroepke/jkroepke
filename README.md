@@ -28,7 +28,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.21.0](https://github.com/renovatebot/renovate/releases/tag/35.21.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.22.0](https://github.com/renovatebot/renovate/releases/tag/35.22.0), today) - Universal dependency update tool that fits into your workflows.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.1](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.1), 1 day ago) - Helm charts for webdevops applications
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.6.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.6.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
