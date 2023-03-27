@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Added optional claim ipaddr to IDToken struct](https://github.com/AzureAD/microsoft-authentication-library-for-go/pull/401) on [AzureAD/microsoft-authentication-library-for-go](https://github.com/AzureAD/microsoft-authentication-library-for-go) (today)
 - [Replace panics with fatals](https://github.com/webdevops/azure-resourcemanager-exporter/pull/28) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 week ago)
 - [fix: Error on custom protocol value files which are not resolving into yaml files](https://github.com/jkroepke/helm-secrets/pull/355) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [fix(arm64): RPM architecture name](https://github.com/electron-userland/electron-builder/pull/7466) on [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) (2 weeks ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore(tests): busybox for tests](https://github.com/aslafy-z/helm-git/pull/251) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 month ago)
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/343) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 - [fix: _uri_scheme: is read only](https://github.com/aslafy-z/helm-git/pull/248) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 month ago)
-- [Avoid calling API](https://github.com/jkroepke/tfsec-action/pull/1) on [jkroepke/tfsec-action](https://github.com/jkroepke/tfsec-action) (1 month ago)
 
 #### ⭐ Recent Stars
 
