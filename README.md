@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.16](https://github.com/stakater/Reloader/releases/tag/v1.0.16), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.1.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.23.3](https://github.com/renovatebot/renovate/releases/tag/35.23.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.0.1](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.0.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-20.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.0.2), 2 days ago) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([pagerduty-exporter-1.1.1](https://github.com/webdevops/helm-charts/releases/tag/pagerduty-exporter-1.1.1), 3 days ago) - Helm charts for webdevops applications
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.6.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.6.0), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.3), 3 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.7), 4 days ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.4), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.10](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.10), 5 days ago) - OpenLens Binary Build Repository
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.10](https://github.com/lensapp/lens/releases/tag/v6.4.10), 5 days ago) - Lens - The way the world runs Kubernetes
 
 #### 🔨 My recent Pull Requests
 
