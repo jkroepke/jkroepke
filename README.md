@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.11](https://github.com/lensapp/lens/releases/tag/v6.4.11), today) - Lens - The way the world runs Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.4](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.4), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.16](https://github.com/stakater/Reloader/releases/tag/v1.0.16), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.1.0), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.6.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.6.0), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.3), 3 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.7), 4 days ago) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.4), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
