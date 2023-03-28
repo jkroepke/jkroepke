@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.2.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.5), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.3), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.24.3](https://github.com/renovatebot/renovate/releases/tag/35.24.3), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.11](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.11), 1 day ago) - OpenLens Binary Build Repository
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.8.0), 1 day ago) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.11](https://github.com/lensapp/lens/releases/tag/v6.4.11), 1 day ago) - Lens - The way the world runs Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.4](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.4), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.16](https://github.com/stakater/Reloader/releases/tag/v1.0.16), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
