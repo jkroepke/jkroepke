@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.7.5](https://github.com/grafana/loki/releases/tag/v2.7.5), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.6.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.4), today) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.5), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.11](https://github.com/lensapp/lens/releases/tag/v6.4.11), 1 day ago) - Lens - The way the world runs Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.4](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.4), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.16](https://github.com/stakater/Reloader/releases/tag/v1.0.16), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.0.1](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.0.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
