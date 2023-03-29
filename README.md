@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.23.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.23.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.9.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.9.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.24.6](https://github.com/renovatebot/renovate/releases/tag/35.24.6), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.7.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.5](https://github.com/grafana/loki/releases/tag/v2.7.5), 1 day ago) - Like Prometheus, but for logs.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.4), 1 day ago) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.5), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.11](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.11), 2 days ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.11](https://github.com/lensapp/lens/releases/tag/v6.4.11), 2 days ago) - Lens - The way the world runs Kubernetes
