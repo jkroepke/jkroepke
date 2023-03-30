@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.17](https://github.com/stakater/Reloader/releases/tag/v1.0.17), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.1](https://github.com/aws/karpenter/releases/tag/v0.27.1), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.9.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.9.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.5](https://github.com/grafana/loki/releases/tag/v2.7.5), 2 days ago) - Like Prometheus, but for logs.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.5), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.11](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.11), 3 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
