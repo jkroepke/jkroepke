@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.5), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.1.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.25.1](https://github.com/renovatebot/renovate/releases/tag/35.25.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.6), today) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.17](https://github.com/stakater/Reloader/releases/tag/v1.0.17), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.1](https://github.com/aws/karpenter/releases/tag/v0.27.1), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.23.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.23.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.5](https://github.com/grafana/loki/releases/tag/v2.7.5), 2 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
