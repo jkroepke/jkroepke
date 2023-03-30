@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.6), today) - 
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.0.2](https://github.com/keycloak/keycloak/releases/tag/21.0.2), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.17](https://github.com/stakater/Reloader/releases/tag/v1.0.17), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
