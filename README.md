@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.0.2](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.0.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.1](https://github.com/aws/karpenter/releases/tag/v0.27.1), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.8.1), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.25.0](https://github.com/renovatebot/renovate/releases/tag/35.25.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
