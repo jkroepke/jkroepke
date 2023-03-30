@@ -29,6 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.5), today) - 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.0.2](https://github.com/keycloak/keycloak/releases/tag/21.0.2), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.17](https://github.com/stakater/Reloader/releases/tag/v1.0.17), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -36,9 +38,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.8.1), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.25.0](https://github.com/renovatebot/renovate/releases/tag/35.25.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.23.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.23.0), 1 day ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-4.9.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-4.9.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.5](https://github.com/grafana/loki/releases/tag/v2.7.5), 2 days ago) - Like Prometheus, but for logs.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.5), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
