@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.25.1](https://github.com/renovatebot/renovate/releases/tag/35.25.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.6), today) - 
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.0.2](https://github.com/keycloak/keycloak/releases/tag/21.0.2), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.1](https://github.com/aws/karpenter/releases/tag/v0.27.1), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.8.1), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.25.0](https://github.com/renovatebot/renovate/releases/tag/35.25.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.23.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.23.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.5](https://github.com/grafana/loki/releases/tag/v2.7.5), 2 days ago) - Like Prometheus, but for logs.
 
@@ -55,6 +55,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (today)
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (6 days ago)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (2 weeks ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project] (3 weeks ago)
@@ -64,15 +65,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [quipper/monorepo-deploy-actions](https://github.com/quipper/monorepo-deploy-actions) - Deploy Microservices in Monorepo via GitHub Actions and Argo CD (1 month ago)
 - [kluctl/kluctl](https://github.com/kluctl/kluctl) - The missing glue to put together large Kubernetes deployments, composed of multiple smaller parts (Helm/Kustomize/...)  in a manageable and unified way. (1 month ago)
 - [cedws/openvpn-mgmt-go](https://github.com/cedws/openvpn-mgmt-go) - Provides an API for connecting to, sending commands to, and receiving messages from an OpenVPN management socket (1 month ago)
-- [clouditor/clouditor](https://github.com/clouditor/clouditor) - The Clouditor is a tool to support continuous cloud assurance. Developed by Fraunhofer AISEC. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
+- [xingtaiwang2008](https://github.com/xingtaiwang2008)
 - [AquaSecure](https://github.com/AquaSecure)
 - [Quintonke](https://github.com/Quintonke)
 - [nonilnull](https://github.com/nonilnull)
 - [ishuar](https://github.com/ishuar)
-- [mhanci92](https://github.com/mhanci92)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
