@@ -34,11 +34,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.5), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.1.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.6), 1 day ago) - 
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.0.2](https://github.com/keycloak/keycloak/releases/tag/21.0.2), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.2), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.2), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.1](https://github.com/aws/karpenter/releases/tag/v0.27.1), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.5](https://github.com/grafana/loki/releases/tag/v2.7.5), 3 days ago) - Like Prometheus, but for logs.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.5), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
