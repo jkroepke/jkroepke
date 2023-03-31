@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3174) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Use azidentity for authentication](https://github.com/fujiwara/tfstate-lookup/pull/86) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (2 days ago)
 - [azurerm_kubernetes_cluster: Fix maintenance window order](https://github.com/hashicorp/terraform-provider-azurerm/pull/21190) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 days ago)
 - [Added optional claim ipaddr to IDToken struct](https://github.com/AzureAD/microsoft-authentication-library-for-go/pull/401) on [AzureAD/microsoft-authentication-library-for-go](https://github.com/AzureAD/microsoft-authentication-library-for-go) (4 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 weeks ago)
 - [Fix ArgoCD documentation for multi source applications](https://github.com/jkroepke/helm-secrets/pull/351) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 weeks ago)
 - [try fix CI](https://github.com/jkroepke/helm-secrets/pull/344) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
-- [chore(tests): busybox for tests](https://github.com/aslafy-z/helm-git/pull/251) on [aslafy-z/helm-git](https://github.com/aslafy-z/helm-git) (1 month ago)
 
 #### ⭐ Recent Stars
 
