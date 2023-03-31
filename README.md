@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.27.1](https://github.com/renovatebot/renovate/releases/tag/35.27.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.28.0](https://github.com/renovatebot/renovate/releases/tag/35.28.0), today) - Universal dependency update tool that fits into your workflows.
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v1.0.0](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v1.0.0), today) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.18](https://github.com/stakater/Reloader/releases/tag/v1.0.18), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.5), 1 day ago) - ArgoProj Helm Charts
