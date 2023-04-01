@@ -16,6 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (5 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
@@ -25,7 +26,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/azure-managed-identity-oidc-demo](https://github.com/jkroepke/azure-managed-identity-oidc-demo) - This repo this for demo purpose. This is a demo demonstrate, how to assume a Azure user managed identity as external user using azure workload identity. (2 weeks ago)
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (2 weeks ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
