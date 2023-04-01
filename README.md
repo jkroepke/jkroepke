@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.10](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.10), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.39.0](https://github.com/aquasecurity/trivy/releases/tag/v0.39.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.31.0](https://github.com/renovatebot/renovate/releases/tag/35.31.0), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.13), today) - OpenLens Binary Build Repository
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.8](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.8), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.13](https://github.com/lensapp/lens/releases/tag/v6.4.13), 1 day ago) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.3.0), 1 day ago) - Prometheus community Helm charts
