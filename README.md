@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.5), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.31.1](https://github.com/renovatebot/renovate/releases/tag/35.31.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.10](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.10), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.39.0](https://github.com/aquasecurity/trivy/releases/tag/v0.39.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.3.0), 1 day ago) - Prometheus community Helm charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v1.0.0](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v1.0.0), 1 day ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.18](https://github.com/stakater/Reloader/releases/tag/v1.0.18), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.5), 2 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
