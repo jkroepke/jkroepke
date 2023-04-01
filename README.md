@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.0.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.0.3), 1 day ago) - 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.13), today) - OpenLens Binary Build Repository
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.8](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.8), today) - 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.30.0](https://github.com/renovatebot/renovate/releases/tag/35.30.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.13](https://github.com/lensapp/lens/releases/tag/v6.4.13), 1 day ago) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.3.0), 1 day ago) - Prometheus community Helm charts
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.12](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.12), 1 day ago) - OpenLens Binary Build Repository
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v1.0.0](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v1.0.0), 1 day ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.18](https://github.com/stakater/Reloader/releases/tag/v1.0.18), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.27.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.27.5), 2 days ago) - ArgoProj Helm Charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.12.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.12.2), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.2), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
