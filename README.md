@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-20.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.15](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.15), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.31.2](https://github.com/renovatebot/renovate/releases/tag/35.31.2), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.5), 1 day ago) - ArgoProj Helm Charts
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.13](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.13), 1 day ago) - OpenLens Binary Build Repository
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.13](https://github.com/lensapp/lens/releases/tag/v6.4.13), 2 days ago) - Lens - The way the world runs Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.3.0), 2 days ago) - Prometheus community Helm charts
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v1.0.0](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v1.0.0), 2 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.18](https://github.com/stakater/Reloader/releases/tag/v1.0.18), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
