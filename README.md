@@ -16,6 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (3 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (6 days ago)
@@ -25,11 +26,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-module-azurerm-yaml](https://github.com/jkroepke/terraform-module-azurerm-yaml) - Terraform module for describing resources as YAML file (2 weeks ago)
 - [jkroepke/azure-managed-identity-oidc-demo](https://github.com/jkroepke/azure-managed-identity-oidc-demo) - This repo this for demo purpose. This is a demo demonstrate, how to assume a Azure user managed identity as external user using azure workload identity. (2 weeks ago)
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box (2 weeks ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.31.3](https://github.com/renovatebot/renovate/releases/tag/35.31.3), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.31.4](https://github.com/renovatebot/renovate/releases/tag/35.31.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-20.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.15](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.15), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.5), 1 day ago) - ArgoProj Helm Charts
@@ -38,7 +38,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.13](https://github.com/lensapp/lens/releases/tag/v6.4.13), 2 days ago) - Lens - The way the world runs Kubernetes
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v1.0.0](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v1.0.0), 2 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.18](https://github.com/stakater/Reloader/releases/tag/v1.0.18), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.50.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.50.0), 2 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
