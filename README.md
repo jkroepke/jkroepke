@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.9.10](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.9.10), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.31.5](https://github.com/renovatebot/renovate/releases/tag/35.31.5), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-20.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.1.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.5](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.5), 2 days ago) - ArgoProj Helm Charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.39.0](https://github.com/aquasecurity/trivy/releases/tag/v0.39.0), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
