@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.5](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.5), today) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.32.0](https://github.com/renovatebot/renovate/releases/tag/35.32.0), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.14), today) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.14](https://github.com/lensapp/lens/releases/tag/v6.4.14), today) - Lens - The way the world runs Kubernetes
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-20.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.1.0), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.39.0](https://github.com/aquasecurity/trivy/releases/tag/v0.39.0), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.6), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) ([v1.0.0](https://github.com/postfinance/kubelet-csr-approver/releases/tag/v1.0.0), 3 days ago) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks
 
 #### 🔨 My recent Pull Requests
 
