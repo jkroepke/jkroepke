@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Costs: Allow to define own granularity](https://github.com/webdevops/azure-resourcemanager-exporter/pull/34) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (today)
 - [Costs: Allow custom scopes](https://github.com/webdevops/azure-resourcemanager-exporter/pull/33) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (3 days ago)
 - [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3174) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [Use azidentity for authentication](https://github.com/fujiwara/tfstate-lookup/pull/86) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: Error on custom protocol value files which are not resolving into yaml files](https://github.com/jkroepke/helm-secrets/pull/355) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 weeks ago)
 - [fix(arm64): RPM architecture name](https://github.com/electron-userland/electron-builder/pull/7466) on [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) (3 weeks ago)
 - [Fix: Exclamation mark in --set argument result into to backend not found error](https://github.com/jkroepke/helm-secrets/pull/353) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
-- [Fix ArgoCD documentation for multi source applications](https://github.com/jkroepke/helm-secrets/pull/351) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 month ago)
 
 #### ⭐ Recent Stars
 
