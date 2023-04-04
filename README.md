@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.24.0](https://github.com/helmfile/vals/releases/tag/v0.24.0), today) - Helm-like configuration values loader with support for various sources
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.1](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.1), today) - Lookup resource attributes in tfstate.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.16), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.9.0), today) - Prometheus community Helm charts
@@ -38,10 +39,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.14), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.14](https://github.com/lensapp/lens/releases/tag/v6.4.14), 1 day ago) - Lens - The way the world runs Kubernetes
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.39.0](https://github.com/aquasecurity/trivy/releases/tag/v0.39.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
+- [Bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/781) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (today)
 - [Bump github.com/fujiwara/tfstate-lookup](https://github.com/helmfile/vals/pull/140) on [helmfile/vals](https://github.com/helmfile/vals) (today)
 - [Costs: Allow to define own granularity](https://github.com/webdevops/azure-resourcemanager-exporter/pull/34) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 day ago)
 - [Costs: Allow custom scopes](https://github.com/webdevops/azure-resourcemanager-exporter/pull/33) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Added optional claim ipaddr to IDToken struct](https://github.com/AzureAD/microsoft-authentication-library-for-go/pull/401) on [AzureAD/microsoft-authentication-library-for-go](https://github.com/AzureAD/microsoft-authentication-library-for-go) (1 week ago)
 - [Replace panics with fatals](https://github.com/webdevops/azure-resourcemanager-exporter/pull/28) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (2 weeks ago)
 - [fix: Error on custom protocol value files which are not resolving into yaml files](https://github.com/jkroepke/helm-secrets/pull/355) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 weeks ago)
-- [fix(arm64): RPM architecture name](https://github.com/electron-userland/electron-builder/pull/7466) on [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) (4 weeks ago)
 
 #### ⭐ Recent Stars
 
