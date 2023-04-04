@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.32.1](https://github.com/renovatebot/renovate/releases/tag/35.32.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.0.0), 1 day ago) - 
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.5](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.5), 1 day ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.32.0](https://github.com/renovatebot/renovate/releases/tag/35.32.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.14), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.14](https://github.com/lensapp/lens/releases/tag/v6.4.14), 1 day ago) - Lens - The way the world runs Kubernetes
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-alpha.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
