@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.20](https://github.com/stakater/Reloader/releases/tag/v1.0.20), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.3), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.7](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.7), 1 day ago) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.1](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.1), 1 day ago) - Lookup resource attributes in tfstate.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.16), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.9.0), 1 day ago) - Prometheus community Helm charts
-- [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.5](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.5), 2 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
 
 #### 🔨 My recent Pull Requests
 
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [therajatrai](https://github.com/therajatrai)
 - [fiaio](https://github.com/fiaio)
 - [JeremyKinge](https://github.com/JeremyKinge)
 - [merrygogo](https://github.com/merrygogo)
 - [SierraHQ](https://github.com/SierraHQ)
-- [doraa7](https://github.com/doraa7)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
