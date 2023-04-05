@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-20.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.2.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.22](https://github.com/stakater/Reloader/releases/tag/v1.0.22), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.3), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.24.0](https://github.com/helmfile/vals/releases/tag/v0.24.0), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.1](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.1), 1 day ago) - Lookup resource attributes in tfstate.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.16), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.9.0), 1 day ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
