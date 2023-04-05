@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.3), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.7](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.7), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.0](https://github.com/grafana/loki/releases/tag/v2.8.0), 1 day ago) - Like Prometheus, but for logs.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.16), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.9.0), 1 day ago) - Prometheus community Helm charts
 - [aws/amazon-vpc-cni-k8s](https://github.com/aws/amazon-vpc-cni-k8s) ([v1.11.5](https://github.com/aws/amazon-vpc-cni-k8s/releases/tag/v1.11.5), 2 days ago) - Networking plugin repository for pod networking in Kubernetes using Elastic Network Interfaces on AWS
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.14](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.14), 2 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
