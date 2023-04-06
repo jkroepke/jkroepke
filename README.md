@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.8.5](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.8.5), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.28.1), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.15), today) - OpenLens Binary Build Repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.35.0](https://github.com/renovatebot/renovate/releases/tag/35.35.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.15](https://github.com/lensapp/lens/releases/tag/v6.4.15), today) - Lens - The way the world runs Kubernetes
