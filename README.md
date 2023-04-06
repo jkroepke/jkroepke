@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.15), today) - OpenLens Binary Build Repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.35.0](https://github.com/renovatebot/renovate/releases/tag/35.35.0), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.15](https://github.com/lensapp/lens/releases/tag/v6.4.15), today) - Lens - The way the world runs Kubernetes
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.14.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.14.1), today) - Dex Helm chart repository
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.3), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.7), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.0](https://github.com/grafana/loki/releases/tag/v2.8.0), 2 days ago) - Like Prometheus, but for logs.
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.24.0](https://github.com/helmfile/vals/releases/tag/v0.24.0), 2 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
