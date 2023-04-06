@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.28.1), today) - ArgoProj Helm Charts
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.15), today) - OpenLens Binary Build Repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.35.0](https://github.com/renovatebot/renovate/releases/tag/35.35.0), today) - Universal dependency update tool that fits into your workflows.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.8), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.22](https://github.com/stakater/Reloader/releases/tag/v1.0.22), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.1.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.1.3), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.7), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [gclawes](https://github.com/gclawes)
 - [therajatrai](https://github.com/therajatrai)
 - [fiaio](https://github.com/fiaio)
 - [JeremyKinge](https://github.com/JeremyKinge)
 - [merrygogo](https://github.com/merrygogo)
-- [SierraHQ](https://github.com/SierraHQ)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
