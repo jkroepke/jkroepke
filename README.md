@@ -29,6 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.15](https://github.com/lensapp/lens/releases/tag/v6.4.15), today) - Lens - The way the world runs Kubernetes
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.14.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.14.1), today) - Dex Helm chart repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.8), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.34.1](https://github.com/renovatebot/renovate/releases/tag/35.34.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
@@ -37,8 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-15.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-15.0.7), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.0](https://github.com/grafana/loki/releases/tag/v2.8.0), 2 days ago) - Like Prometheus, but for logs.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.24.0](https://github.com/helmfile/vals/releases/tag/v0.24.0), 2 days ago) - Helm-like configuration values loader with support for various sources
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.1](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.1), 2 days ago) - Lookup resource attributes in tfstate.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.22.16](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.22.16), 2 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
