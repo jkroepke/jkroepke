@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.36.0](https://github.com/renovatebot/renovate/releases/tag/35.36.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.51.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.51.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.23.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.23.0), 1 day ago) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.35.1](https://github.com/renovatebot/renovate/releases/tag/35.35.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.15), 1 day ago) - OpenLens Binary Build Repository
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.4.15](https://github.com/lensapp/lens/releases/tag/v6.4.15), 1 day ago) - Lens - The way the world runs Kubernetes
