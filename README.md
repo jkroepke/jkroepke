@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.37.0](https://github.com/renovatebot/renovate/releases/tag/35.37.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.37.1](https://github.com/renovatebot/renovate/releases/tag/35.37.1), today) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.6](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.6), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.9](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.9), 1 day ago) - 
