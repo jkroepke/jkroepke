@@ -16,6 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (5 days ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (5 days ago)
@@ -24,7 +25,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 weeks ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [initial version of provider extension &#43; compose](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities/pull/3) on [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) (today)
 - [PrometheusRule CRD: declare spec.rules optional](https://github.com/prometheus-operator/prometheus-operator/pull/5481) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (2 days ago)
 - [Update prometheusrule_types.go](https://github.com/jkroepke/prometheus-operator/pull/1) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (2 days ago)
 - [Bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/781) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3174) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Use azidentity for authentication](https://github.com/fujiwara/tfstate-lookup/pull/86) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (1 week ago)
 - [azurerm_kubernetes_cluster: Fix maintenance window order](https://github.com/hashicorp/terraform-provider-azurerm/pull/21190) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
-- [Added optional claim ipaddr to IDToken struct](https://github.com/AzureAD/microsoft-authentication-library-for-go/pull/401) on [AzureAD/microsoft-authentication-library-for-go](https://github.com/AzureAD/microsoft-authentication-library-for-go) (1 week ago)
 
 #### ⭐ Recent Stars
 
