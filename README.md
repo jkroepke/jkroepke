@@ -18,8 +18,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
-- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (5 days ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (5 days ago)
+- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (5 days ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
