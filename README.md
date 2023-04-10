@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.1.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.1.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.40.3](https://github.com/renovatebot/renovate/releases/tag/35.40.3), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.1.1), 2 days ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.6](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.6), 3 days ago) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.52.9](https://github.com/grafana/helm-charts/releases/tag/grafana-6.52.9), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.51.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.51.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.0), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.15), 4 days ago) - OpenLens Binary Build Repository
