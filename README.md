@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.23.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.23.1), today) - ArgoProj Helm Charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.233](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.233), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.15.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.41.0](https://github.com/renovatebot/renovate/releases/tag/35.41.0), today) - Universal dependency update tool that fits into your workflows.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.1.6](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.1.6), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.51.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.51.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.0), 5 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.4.15](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.4.15), 5 days ago) - OpenLens Binary Build Repository
