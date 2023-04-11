@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Support custom port configuration for internal service](https://github.com/kubernetes/ingress-nginx/pull/9846) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (today)
 - [Add azure.Meta function to query Azure IMDS endpoint](https://github.com/hairyhenderson/gomplate/pull/1713) on [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) (today)
 - [initial version of provider extension &#43; compose](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities/pull/3) on [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) (2 days ago)
 - [PrometheusRule CRD: declare spec.rules optional](https://github.com/prometheus-operator/prometheus-operator/pull/5481) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (4 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Costs: Allow to define own granularity](https://github.com/webdevops/azure-resourcemanager-exporter/pull/34) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 week ago)
 - [Costs: Allow custom scopes](https://github.com/webdevops/azure-resourcemanager-exporter/pull/33) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 week ago)
 - [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3174) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [Use azidentity for authentication](https://github.com/fujiwara/tfstate-lookup/pull/86) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (1 week ago)
 
 #### ⭐ Recent Stars
 
