@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.6](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.6), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.46.0](https://github.com/renovatebot/renovate/releases/tag/35.46.0), today) - Universal dependency update tool that fits into your workflows.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.5](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.5), today) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.4.2), today) - 
