@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.46.0](https://github.com/renovatebot/renovate/releases/tag/35.46.0), today) - Universal dependency update tool that fits into your workflows.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.5](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.5), today) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.45.0](https://github.com/renovatebot/renovate/releases/tag/35.45.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.1.0), today) - Prometheus community Helm charts
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.4](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.4), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.4.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.23.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.23.2), today) - ArgoProj Helm Charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.2](https://github.com/aws/karpenter/releases/tag/v0.27.2), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
