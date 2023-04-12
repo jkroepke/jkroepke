@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.16.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.41.1](https://github.com/renovatebot/renovate/releases/tag/35.41.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.23.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.23.2), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.28.0), 1 day ago) - Prometheus community Helm charts
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.2](https://github.com/aws/karpenter/releases/tag/v0.27.2), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.233](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.233), 1 day ago) - 
