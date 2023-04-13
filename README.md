@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.29.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.10.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.29.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.29.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.46.1](https://github.com/renovatebot/renovate/releases/tag/35.46.1), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.6](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.6), 1 day ago) - Lens - The way the world runs Kubernetes
