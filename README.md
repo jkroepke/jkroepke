@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.2.0](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.2.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.47.0](https://github.com/renovatebot/renovate/releases/tag/35.47.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.10.0), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.2](https://github.com/aws/karpenter/releases/tag/v0.27.2), 2 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.51.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.51.0), 6 days ago) - Terraform provider for Azure Resource Manager
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.0), 1 week ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
