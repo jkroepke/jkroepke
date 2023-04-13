@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.47.0](https://github.com/renovatebot/renovate/releases/tag/35.47.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.10.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.29.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.29.0), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.46.1](https://github.com/renovatebot/renovate/releases/tag/35.46.1), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.6](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.6), 1 day ago) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.4.2](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.4.2), 1 day ago) - 
@@ -42,6 +42,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [stdlib/env: Add default value](https://github.com/grafana/agent/pull/3540) on [grafana/agent](https://github.com/grafana/agent) (today)
+- [remote.http: Add fail_on_error property](https://github.com/grafana/agent/pull/3539) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [remote.http: Add OS to user agent](https://github.com/grafana/agent/pull/3535) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [remote.http: Define custom http method and headers](https://github.com/grafana/agent/pull/3531) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [[helm] Support custom port configuration for internal service](https://github.com/kubernetes/ingress-nginx/pull/9846) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
@@ -50,8 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [PrometheusRule CRD: declare spec.rules optional](https://github.com/prometheus-operator/prometheus-operator/pull/5481) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (6 days ago)
 - [Update prometheusrule_types.go](https://github.com/jkroepke/prometheus-operator/pull/1) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (6 days ago)
 - [Bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/781) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
-- [Bump github.com/fujiwara/tfstate-lookup](https://github.com/helmfile/vals/pull/140) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
-- [Costs: Allow to define own granularity](https://github.com/webdevops/azure-resourcemanager-exporter/pull/34) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
