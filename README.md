@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.29.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.29.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.29.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.4.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.46.1](https://github.com/renovatebot/renovate/releases/tag/35.46.1), today) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.6](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.6), 1 day ago) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [remote.http: Add OS to user agent](https://github.com/grafana/agent/pull/3535) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [remote.http: Define custom http method and headers](https://github.com/grafana/agent/pull/3531) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [[helm] Support custom port configuration for internal service](https://github.com/kubernetes/ingress-nginx/pull/9846) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
 - [Add azure.Meta function to query Azure IMDS endpoint](https://github.com/hairyhenderson/gomplate/pull/1713) on [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/781) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
 - [Bump github.com/fujiwara/tfstate-lookup](https://github.com/helmfile/vals/pull/140) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
 - [Costs: Allow to define own granularity](https://github.com/webdevops/azure-resourcemanager-exporter/pull/34) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 week ago)
-- [Costs: Allow custom scopes](https://github.com/webdevops/azure-resourcemanager-exporter/pull/33) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
