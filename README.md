@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[flow] prometheus.exporter.blackbox: Support embedded config](https://github.com/grafana/agent/pull/3550) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [[flow] Add prometheus.exporter.windows](https://github.com/grafana/agent/pull/3547) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [stdlib/env: Add default value](https://github.com/grafana/agent/pull/3540) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
 - [remote.http: Add fail_on_error property](https://github.com/grafana/agent/pull/3539) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
@@ -51,10 +52,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add azure.Meta function to query Azure IMDS endpoint](https://github.com/hairyhenderson/gomplate/pull/1713) on [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) (3 days ago)
 - [initial version of provider extension &#43; compose](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities/pull/3) on [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) (5 days ago)
 - [PrometheusRule CRD: declare spec.rules optional](https://github.com/prometheus-operator/prometheus-operator/pull/5481) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (1 week ago)
-- [Update prometheusrule_types.go](https://github.com/jkroepke/prometheus-operator/pull/1) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus (today)
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (1 week ago)
 - [tgenv/tgenv](https://github.com/tgenv/tgenv) - A tool to manage multiples Terragrunt versions (1 week ago)
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (2 weeks ago)
@@ -64,7 +65,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. (1 month ago)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 month ago)
 - [deckhouse/deckhouse](https://github.com/deckhouse/deckhouse) - Kubernetes platform from Flant (1 month ago)
-- [quipper/monorepo-deploy-actions](https://github.com/quipper/monorepo-deploy-actions) - Deploy Microservices in Monorepo via GitHub Actions and Argo CD (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
