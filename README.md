@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.52.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.52.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.25.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.25.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.10](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.10), 1 day ago) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-16.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-16.1.2), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.2](https://github.com/aws/karpenter/releases/tag/v0.27.2), 3 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.1), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.51.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.51.0), 1 week ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
