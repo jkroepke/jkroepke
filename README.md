@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[flow] Add prometheus.exporter.windows](https://github.com/grafana/agent/pull/3547) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [stdlib/env: Add default value](https://github.com/grafana/agent/pull/3540) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
 - [remote.http: Add fail_on_error property](https://github.com/grafana/agent/pull/3539) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
 - [remote.http: Add OS to user agent](https://github.com/grafana/agent/pull/3535) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [initial version of provider extension &#43; compose](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities/pull/3) on [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) (5 days ago)
 - [PrometheusRule CRD: declare spec.rules optional](https://github.com/prometheus-operator/prometheus-operator/pull/5481) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (1 week ago)
 - [Update prometheusrule_types.go](https://github.com/jkroepke/prometheus-operator/pull/1) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (1 week ago)
-- [Bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/781) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
 
 #### ⭐ Recent Stars
 
