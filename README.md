@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.48.1](https://github.com/renovatebot/renovate/releases/tag/35.48.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.53.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.53.0), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.24.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.24.1), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.52.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.52.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.1), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.6](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.6), 4 days ago) - Lens - The way the world runs Kubernetes
