@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.49.0](https://github.com/renovatebot/renovate/releases/tag/35.49.0), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.25.0](https://github.com/helmfile/vals/releases/tag/v0.25.0), today) - Helm-like configuration values loader with support for various sources
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.48.2](https://github.com/renovatebot/renovate/releases/tag/35.48.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.0), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.53.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.53.0), 2 days ago) - 
