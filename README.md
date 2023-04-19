@@ -16,7 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 day ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (5 days ago)
@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.11.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.11.1), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.1.0](https://github.com/keycloak/keycloak/releases/tag/21.1.0), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.13](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.13), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-17.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-17.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
