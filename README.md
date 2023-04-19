@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.11.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.1), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.1.0](https://github.com/keycloak/keycloak/releases/tag/21.1.0), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.13](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.13), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-17.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-17.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
