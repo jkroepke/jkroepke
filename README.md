@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.14](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.14), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.53.1](https://github.com/renovatebot/renovate/releases/tag/35.53.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.1), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.1.0](https://github.com/keycloak/keycloak/releases/tag/21.1.0), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.13](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.13), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-17.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-17.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.7](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.7), 1 day ago) - Lens - The way the world runs Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.53.0](https://github.com/renovatebot/renovate/releases/tag/35.53.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.25.0](https://github.com/helmfile/vals/releases/tag/v0.25.0), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.0), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.52.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.52.0), 5 days ago) - Terraform provider for Azure Resource Manager
