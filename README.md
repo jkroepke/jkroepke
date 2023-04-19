@@ -16,11 +16,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (4 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (4 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (5 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (5 days ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
@@ -29,33 +29,33 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.12](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.12), today) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-17.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-17.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.7](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.7), today) - Lens - The way the world runs Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.53.0](https://github.com/renovatebot/renovate/releases/tag/35.53.0), today) - Universal dependency update tool that fits into your workflows.
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.25.0](https://github.com/helmfile/vals/releases/tag/v0.25.0), 1 day ago) - Helm-like configuration values loader with support for various sources
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.0), 2 days ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.0), 3 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.52.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.52.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.1), 5 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.12](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.12), 1 day ago) - 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-17.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-17.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.7](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.7), 1 day ago) - Lens - The way the world runs Kubernetes
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.53.0](https://github.com/renovatebot/renovate/releases/tag/35.53.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.25.0](https://github.com/helmfile/vals/releases/tag/v0.25.0), 2 days ago) - Helm-like configuration values loader with support for various sources
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.0), 3 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.2.0), 4 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.52.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.52.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.2.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.2.1), 6 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.2](https://github.com/aws/karpenter/releases/tag/v0.27.2), 1 week ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
 
-- [Update Windows exporter](https://github.com/jkroepke/grafana-agent/pull/1) on [jkroepke/grafana-agent](https://github.com/jkroepke/grafana-agent) (1 day ago)
-- [Remove fluent-style kingpin](https://github.com/prometheus-community/windows_exporter/pull/1186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[flow] prometheus.exporter.blackbox: Support embedded config](https://github.com/grafana/agent/pull/3550) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
-- [[flow] Add prometheus.exporter.windows](https://github.com/grafana/agent/pull/3547) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
-- [stdlib/env: Add default value](https://github.com/grafana/agent/pull/3540) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
-- [remote.http: Add fail_on_error property](https://github.com/grafana/agent/pull/3539) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
-- [remote.http: Add OS to user agent](https://github.com/grafana/agent/pull/3535) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
-- [remote.http: Define custom http method and headers](https://github.com/grafana/agent/pull/3531) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
+- [Update Windows exporter](https://github.com/jkroepke/grafana-agent/pull/1) on [jkroepke/grafana-agent](https://github.com/jkroepke/grafana-agent) (2 days ago)
+- [Remove fluent-style kingpin](https://github.com/prometheus-community/windows_exporter/pull/1186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[flow] prometheus.exporter.blackbox: Support embedded config](https://github.com/grafana/agent/pull/3550) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
+- [[flow] Add prometheus.exporter.windows](https://github.com/grafana/agent/pull/3547) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
+- [stdlib/env: Add default value](https://github.com/grafana/agent/pull/3540) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
+- [remote.http: Add fail_on_error property](https://github.com/grafana/agent/pull/3539) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
+- [remote.http: Add OS to user agent](https://github.com/grafana/agent/pull/3535) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
+- [remote.http: Define custom http method and headers](https://github.com/grafana/agent/pull/3531) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
 - [[helm] Support custom port configuration for internal service](https://github.com/kubernetes/ingress-nginx/pull/9846) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 week ago)
 - [Add azure.Meta function to query Azure IMDS endpoint](https://github.com/hairyhenderson/gomplate/pull/1713) on [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus (4 days ago)
+- [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus (5 days ago)
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (2 weeks ago)
 - [tgenv/tgenv](https://github.com/tgenv/tgenv) - A tool to manage multiples Terragrunt versions (2 weeks ago)
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (2 weeks ago)
