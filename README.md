@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-18.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-18.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-18.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-18.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.8](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.8), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.13](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.13), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.17.0), today) - Prometheus community Helm charts
