@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.33.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.33.0-rc.0), today) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-18.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-18.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.8](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.8), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.13](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.13), today) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.3](https://github.com/aws/karpenter/releases/tag/v0.27.3), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.25.0](https://github.com/helmfile/vals/releases/tag/v0.25.0), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-image-updater-0.9.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-image-updater-0.9.0), 4 days ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.52.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.52.0), 6 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
