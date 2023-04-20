@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.15.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-20.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-20.2.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.55.0](https://github.com/renovatebot/renovate/releases/tag/35.55.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-17.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-17.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.3](https://github.com/aws/karpenter/releases/tag/v0.27.3), 1 day ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
