@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.31.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.31.0-rc.1), today) - Vendor-neutral programmable observability pipelines.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.57.0](https://github.com/renovatebot/renovate/releases/tag/35.57.0), today) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.14](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.14), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.53.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.53.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/agent](https://github.com/grafana/agent) ([v0.33.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.33.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-18.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-18.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.8](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.8), 1 day ago) - Lens - The way the world runs Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.11.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.11.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
