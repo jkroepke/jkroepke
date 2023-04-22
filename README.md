@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Add Windows Eventlog logger](https://github.com/go-kit/log/pull/31) on [go-kit/log](https://github.com/go-kit/log) (today)
 - [Allow custom log.Logger](https://github.com/prometheus/common/pull/474) on [prometheus/common](https://github.com/prometheus/common) (today)
 - [Update Windows exporter](https://github.com/jkroepke/grafana-agent/pull/1) on [jkroepke/grafana-agent](https://github.com/jkroepke/grafana-agent) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stdlib/env: Add default value](https://github.com/grafana/agent/pull/3540) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [remote.http: Add fail_on_error property](https://github.com/grafana/agent/pull/3539) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [remote.http: Add OS to user agent](https://github.com/grafana/agent/pull/3535) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
-- [remote.http: Define custom http method and headers](https://github.com/grafana/agent/pull/3531) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
