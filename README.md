@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Allow custom log.Logger](https://github.com/prometheus/common/pull/474) on [prometheus/common](https://github.com/prometheus/common) (today)
 - [Update Windows exporter](https://github.com/jkroepke/grafana-agent/pull/1) on [jkroepke/grafana-agent](https://github.com/jkroepke/grafana-agent) (5 days ago)
 - [Remove fluent-style kingpin](https://github.com/prometheus-community/windows_exporter/pull/1186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [[flow] prometheus.exporter.blackbox: Support embedded config](https://github.com/grafana/agent/pull/3550) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [remote.http: Add OS to user agent](https://github.com/grafana/agent/pull/3535) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [remote.http: Define custom http method and headers](https://github.com/grafana/agent/pull/3531) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [[helm] Support custom port configuration for internal service](https://github.com/kubernetes/ingress-nginx/pull/9846) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 week ago)
-- [Add azure.Meta function to query Azure IMDS endpoint](https://github.com/hairyhenderson/gomplate/pull/1713) on [hairyhenderson/gomplate](https://github.com/hairyhenderson/gomplate) (1 week ago)
 
 #### ⭐ Recent Stars
 
