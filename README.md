@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove fluent-style kingpin](https://github.com/prometheus-community/windows_exporter/pull/1186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [[flow] prometheus.exporter.blackbox: Support embedded config](https://github.com/grafana/agent/pull/3550) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [[flow] Add prometheus.exporter.windows](https://github.com/grafana/agent/pull/3547) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
-- [stdlib/env: Add default value](https://github.com/grafana/agent/pull/3540) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
