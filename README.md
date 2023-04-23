@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.10.1](https://github.com/grafana/helm-charts/releases/tag/promtail-6.10.1), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.57.1](https://github.com/renovatebot/renovate/releases/tag/35.57.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.19.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.33.0-rc.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.14](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.14), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.53.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.53.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-18.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-18.0.1), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.8](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.8), 3 days ago) - Lens - The way the world runs Kubernetes
