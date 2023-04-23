@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.2.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.57.4](https://github.com/renovatebot/renovate/releases/tag/35.57.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.19.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.33.0-rc.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.53.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.53.0), 2 days ago) - Terraform provider for Azure Resource Manager
