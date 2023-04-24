@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.25.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.25.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.2.11](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.2.11), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.12.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.12.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.58.0](https://github.com/renovatebot/renovate/releases/tag/35.58.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.53.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.53.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-18.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-18.0.1), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.8](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.8), 4 days ago) - Lens - The way the world runs Kubernetes
-- [aws/karpenter](https://github.com/aws/karpenter) ([v0.27.3](https://github.com/aws/karpenter/releases/tag/v0.27.3), 5 days ago) - Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.
 
 #### 🔨 My recent Pull Requests
 
