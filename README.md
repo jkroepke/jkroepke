@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.25.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.25.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.26.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.26.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.11.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.11.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.58.2](https://github.com/renovatebot/renovate/releases/tag/35.58.2), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.153.0](https://github.com/helmfile/helmfile/releases/tag/v0.153.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
