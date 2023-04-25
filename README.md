@@ -16,38 +16,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (3 days ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (5 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (4 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (6 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 weeks ago)
-- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 weeks ago)
+- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 weeks ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.1](https://github.com/grafana/loki/releases/tag/v2.8.1), today) - Like Prometheus, but for logs.
-- [grafana/agent](https://github.com/grafana/agent) ([v0.33.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.33.0-rc.2), today) - Vendor-neutral programmable observability pipelines.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.25.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.25.1), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.11.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.11.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.58.2](https://github.com/renovatebot/renovate/releases/tag/35.58.2), today) - Universal dependency update tool that fits into your workflows.
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.153.0](https://github.com/helmfile/helmfile/releases/tag/v0.153.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.12.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.12.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.53.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.53.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.1](https://github.com/grafana/loki/releases/tag/v2.8.1), 1 day ago) - Like Prometheus, but for logs.
+- [grafana/agent](https://github.com/grafana/agent) ([v0.33.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.33.0-rc.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.25.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.25.1), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.11.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.11.0), 1 day ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.58.2](https://github.com/renovatebot/renovate/releases/tag/35.58.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.153.0](https://github.com/helmfile/helmfile/releases/tag/v0.153.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.12.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.12.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.53.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.53.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
-- [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
-- [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
-- [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [Add Windows Eventlog logger](https://github.com/go-kit/log/pull/31) on [go-kit/log](https://github.com/go-kit/log) (2 days ago)
-- [Allow custom log.Logger](https://github.com/prometheus/common/pull/474) on [prometheus/common](https://github.com/prometheus/common) (2 days ago)
+- [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
+- [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
+- [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [Add Windows Eventlog logger](https://github.com/go-kit/log/pull/31) on [go-kit/log](https://github.com/go-kit/log) (3 days ago)
+- [Allow custom log.Logger](https://github.com/prometheus/common/pull/474) on [prometheus/common](https://github.com/prometheus/common) (3 days ago)
 - [Update Windows exporter](https://github.com/jkroepke/grafana-agent/pull/1) on [jkroepke/grafana-agent](https://github.com/jkroepke/grafana-agent) (1 week ago)
 - [Remove fluent-style kingpin](https://github.com/prometheus-community/windows_exporter/pull/1186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [[flow] prometheus.exporter.blackbox: Support embedded config](https://github.com/grafana/agent/pull/3550) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
