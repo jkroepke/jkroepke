@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.235](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.235), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.59.0](https://github.com/renovatebot/renovate/releases/tag/35.59.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.3.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.3.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.64.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.64.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.3.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.3.0), today) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.21.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.15](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.15), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.153.1](https://github.com/helmfile/helmfile/releases/tag/v0.153.1), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.1](https://github.com/grafana/loki/releases/tag/v2.8.1), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.33.0-rc.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.25.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.25.1), 1 day ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
