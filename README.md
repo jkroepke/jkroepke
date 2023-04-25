@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.12.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.12.0), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.0](https://github.com/grafana/agent/releases/tag/v0.33.0), today) - Vendor-neutral programmable observability pipelines.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.235](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.235), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.59.0](https://github.com/renovatebot/renovate/releases/tag/35.59.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.3.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.3.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
