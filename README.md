@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-18.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-18.0.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.64.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.64.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.3.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.3.0), today) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.21.0), today) - Prometheus community Helm charts
