@@ -16,6 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (4 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (6 days ago)
@@ -25,20 +26,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 weeks ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 weeks ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.3.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.3.0), today) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.21.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.15](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.15), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.153.1](https://github.com/helmfile/helmfile/releases/tag/v0.153.1), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.1](https://github.com/grafana/loki/releases/tag/v2.8.1), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.33.0-rc.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.25.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.25.1), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.58.2](https://github.com/renovatebot/renovate/releases/tag/35.58.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.12.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.12.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.53.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.53.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
