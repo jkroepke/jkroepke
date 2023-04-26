@@ -16,11 +16,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (1 day ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 day ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 day ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (5 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (1 week ago)
@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.61.0](https://github.com/renovatebot/renovate/releases/tag/35.61.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-1.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-1.14.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.1.1](https://github.com/keycloak/keycloak/releases/tag/21.1.1), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.24](https://github.com/grafana/grafana/releases/tag/v8.5.24), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.55.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.55.1), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.60.0](https://github.com/renovatebot/renovate/releases/tag/35.60.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.0](https://github.com/grafana/agent/releases/tag/v0.33.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.3.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.3.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
