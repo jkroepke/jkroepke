@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.1.1](https://github.com/keycloak/keycloak/releases/tag/21.1.1), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-3.0.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.24](https://github.com/grafana/grafana/releases/tag/v8.5.24), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.55.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.55.1), today) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.64.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.64.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.3.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.3.0), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.153.1](https://github.com/helmfile/helmfile/releases/tag/v0.153.1), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 #### 🔨 My recent Pull Requests
 
