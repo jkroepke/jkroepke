@@ -16,11 +16,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
-- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (1 day ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 day ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 day ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
+- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (2 days ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (1 week ago)
@@ -29,37 +29,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.304.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.304.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.4.2), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.61.0](https://github.com/renovatebot/renovate/releases/tag/35.61.0), today) - Universal dependency update tool that fits into your workflows.
-- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.1.1](https://github.com/keycloak/keycloak/releases/tag/21.1.1), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.24](https://github.com/grafana/grafana/releases/tag/v8.5.24), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.55.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.55.1), today) - 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.33.0](https://github.com/grafana/agent/releases/tag/v0.33.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.3.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.3.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.64.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.64.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.304.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.304.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.4.2), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.61.0](https://github.com/renovatebot/renovate/releases/tag/35.61.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.1.1](https://github.com/keycloak/keycloak/releases/tag/21.1.1), 1 day ago) - Open Source Identity and Access Management For Modern Applications and Services
+- [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.24](https://github.com/grafana/grafana/releases/tag/v8.5.24), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.55.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.55.1), 1 day ago) - 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.33.0](https://github.com/grafana/agent/releases/tag/v0.33.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.3.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.3.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.64.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.64.1), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/12029) on [helm/helm](https://github.com/helm/helm) (today)
-- [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
-- [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
-- [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
-- [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [Add Windows Eventlog logger](https://github.com/go-kit/log/pull/31) on [go-kit/log](https://github.com/go-kit/log) (4 days ago)
-- [Allow custom log.Logger](https://github.com/prometheus/common/pull/474) on [prometheus/common](https://github.com/prometheus/common) (4 days ago)
+- [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/12029) on [helm/helm](https://github.com/helm/helm) (1 day ago)
+- [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
+- [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
+- [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
+- [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [Add Windows Eventlog logger](https://github.com/go-kit/log/pull/31) on [go-kit/log](https://github.com/go-kit/log) (5 days ago)
+- [Allow custom log.Logger](https://github.com/prometheus/common/pull/474) on [prometheus/common](https://github.com/prometheus/common) (5 days ago)
 - [Update Windows exporter](https://github.com/jkroepke/grafana-agent/pull/1) on [jkroepke/grafana-agent](https://github.com/jkroepke/grafana-agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (today)
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 day ago)
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus (1 week ago)
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (3 weeks ago)
 - [tgenv/tgenv](https://github.com/tgenv/tgenv) - A tool to manage multiples Terragrunt versions (3 weeks ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (3 weeks ago)
+- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (4 weeks ago)
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (1 month ago)
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (1 month ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project] (1 month ago)
