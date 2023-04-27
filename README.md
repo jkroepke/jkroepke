@@ -16,26 +16,26 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (today)
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 days ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (1 week ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.16](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.16), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.63.1](https://github.com/renovatebot/renovate/releases/tag/35.63.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.0.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.0.0), today) - ArgoProj Helm Charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.24](https://github.com/stakater/Reloader/releases/tag/v1.0.24), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.4.3), today) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.304.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.304.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.24](https://github.com/grafana/grafana/releases/tag/v8.5.24), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.55.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.55.1), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.0](https://github.com/grafana/agent/releases/tag/v0.33.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.3.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.3.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
