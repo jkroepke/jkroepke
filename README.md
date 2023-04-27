@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.23](https://github.com/stakater/Reloader/releases/tag/v1.0.23), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.62.0](https://github.com/renovatebot/renovate/releases/tag/35.62.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.4.3), today) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.304.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.304.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.3.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.3.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.0), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.64.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.64.1), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.3.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.3.0), 2 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 
 #### 🔨 My recent Pull Requests
 
