@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.22.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.23.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.26.1), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.64.0](https://github.com/renovatebot/renovate/releases/tag/35.64.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.54.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.54.0), today) - Terraform provider for Azure Resource Manager
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [mdufourneaud](https://github.com/mdufourneaud)
 - [alexbars215](https://github.com/alexbars215)
 - [BlackNerd419](https://github.com/BlackNerd419)
 - [PierreOucif](https://github.com/PierreOucif)
 - [chitrayadav1](https://github.com/chitrayadav1)
-- [gclawes](https://github.com/gclawes)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
