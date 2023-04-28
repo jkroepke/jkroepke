@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.64.0](https://github.com/renovatebot/renovate/releases/tag/35.64.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.54.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.54.0), today) - Terraform provider for Azure Resource Manager
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.63.2](https://github.com/renovatebot/renovate/releases/tag/35.63.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.16](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.16), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.0.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.0.0), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.24](https://github.com/stakater/Reloader/releases/tag/v1.0.24), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [StdlibAdapter: Make file key optional](https://github.com/go-kit/log/pull/33) on [go-kit/log](https://github.com/go-kit/log) (today)
 - [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/12029) on [helm/helm](https://github.com/helm/helm) (2 days ago)
 - [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [Add Windows Eventlog logger](https://github.com/go-kit/log/pull/31) on [go-kit/log](https://github.com/go-kit/log) (6 days ago)
 - [Allow custom log.Logger](https://github.com/prometheus/common/pull/474) on [prometheus/common](https://github.com/prometheus/common) (6 days ago)
-- [Update Windows exporter](https://github.com/jkroepke/grafana-agent/pull/1) on [jkroepke/grafana-agent](https://github.com/jkroepke/grafana-agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
