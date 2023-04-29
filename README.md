@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.65.0](https://github.com/renovatebot/renovate/releases/tag/35.65.0), today) - Universal dependency update tool that fits into your workflows.
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.0](https://github.com/kubereboot/charts/releases/tag/kured-4.5.0), today) - Helm charts for kubereboot org (kured)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-21.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-21.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.3.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.3.0), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.26.1), 1 day ago) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.64.0](https://github.com/renovatebot/renovate/releases/tag/35.64.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.54.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.54.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.24](https://github.com/stakater/Reloader/releases/tag/v1.0.24), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.304.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.304.0), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.24](https://github.com/grafana/grafana/releases/tag/v8.5.24), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.0](https://github.com/grafana/agent/releases/tag/v0.33.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.3.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.3.0), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
