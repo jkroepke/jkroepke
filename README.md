@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.66.0](https://github.com/renovatebot/renovate/releases/tag/35.66.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.66.1](https://github.com/renovatebot/renovate/releases/tag/35.66.1), today) - Universal dependency update tool that fits into your workflows.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.0](https://github.com/kubereboot/charts/releases/tag/kured-4.5.0), today) - Helm charts for kubereboot org (kured)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-21.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-21.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.3.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.3.0), 1 day ago) - 
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [fredrikjonsson](https://github.com/fredrikjonsson)
 - [mdufourneaud](https://github.com/mdufourneaud)
 - [alexbars215](https://github.com/alexbars215)
 - [BlackNerd419](https://github.com/BlackNerd419)
 - [PierreOucif](https://github.com/PierreOucif)
-- [chitrayadav1](https://github.com/chitrayadav1)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
