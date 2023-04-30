@@ -16,46 +16,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 days ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 days ago)
-- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (4 days ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (4 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (4 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 days ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (3 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (3 days ago)
+- [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (5 days ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (5 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (5 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.66.1](https://github.com/renovatebot/renovate/releases/tag/35.66.1), today) - Universal dependency update tool that fits into your workflows.
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.0](https://github.com/kubereboot/charts/releases/tag/kured-4.5.0), today) - Helm charts for kubereboot org (kured)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-21.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-21.1.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.3.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.3.0), 1 day ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.26.1), 1 day ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.54.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.54.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.24](https://github.com/stakater/Reloader/releases/tag/v1.0.24), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.304.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.304.0), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.24](https://github.com/grafana/grafana/releases/tag/v8.5.24), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.33.0](https://github.com/grafana/agent/releases/tag/v0.33.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.66.1](https://github.com/renovatebot/renovate/releases/tag/35.66.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.0](https://github.com/kubereboot/charts/releases/tag/kured-4.5.0), 1 day ago) - Helm charts for kubereboot org (kured)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-21.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-21.1.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.3.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.3.0), 2 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.26.1), 2 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.54.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.54.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.24](https://github.com/stakater/Reloader/releases/tag/v1.0.24), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.304.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.304.0), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
+- [grafana/grafana](https://github.com/grafana/grafana) ([v8.5.24](https://github.com/grafana/grafana/releases/tag/v8.5.24), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.33.0](https://github.com/grafana/agent/releases/tag/v0.33.0), 5 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
-- [StdlibAdapter: Make file key optional](https://github.com/go-kit/log/pull/33) on [go-kit/log](https://github.com/go-kit/log) (1 day ago)
-- [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/12029) on [helm/helm](https://github.com/helm/helm) (3 days ago)
-- [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
-- [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
-- [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
-- [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [StdlibAdapter: Make file key optional](https://github.com/go-kit/log/pull/33) on [go-kit/log](https://github.com/go-kit/log) (2 days ago)
+- [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/12029) on [helm/helm](https://github.com/helm/helm) (4 days ago)
+- [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
+- [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
+- [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
+- [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Add Windows Eventlog logger](https://github.com/go-kit/log/pull/31) on [go-kit/log](https://github.com/go-kit/log) (1 week ago)
 - [Allow custom log.Logger](https://github.com/prometheus/common/pull/474) on [prometheus/common](https://github.com/prometheus/common) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (3 days ago)
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (4 days ago)
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus (2 weeks ago)
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (3 weeks ago)
 - [tgenv/tgenv](https://github.com/tgenv/tgenv) - A tool to manage multiples Terragrunt versions (3 weeks ago)
@@ -64,7 +64,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (1 month ago)
 - [kubearmor/KubeArmor](https://github.com/kubearmor/KubeArmor) - Cloud-native Runtime Security Enforcement System. [CNCF Sandbox Project] (1 month ago)
 - [XenitAB/spegel](https://github.com/XenitAB/spegel) - Stateless cluster local OCI registry mirror. (1 month ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 month ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
