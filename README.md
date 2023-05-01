@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.236](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.236), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.66.3](https://github.com/renovatebot/renovate/releases/tag/35.66.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-21.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-21.1.2), 1 day ago) - Prometheus community Helm charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.0](https://github.com/kubereboot/charts/releases/tag/kured-4.5.0), 2 days ago) - Helm charts for kubereboot org (kured)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.26.1), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.54.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.54.0), 3 days ago) - Terraform provider for Azure Resource Manager
