@@ -29,13 +29,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.30.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.30.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.67.0](https://github.com/renovatebot/renovate/releases/tag/35.67.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.30.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.13.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.13.0), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.1](https://github.com/grafana/agent/releases/tag/v0.33.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.0](https://github.com/kubereboot/charts/releases/tag/kured-4.5.0), 3 days ago) - Helm charts for kubereboot org (kured)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.26.1), 4 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.54.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.54.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.24](https://github.com/stakater/Reloader/releases/tag/v1.0.24), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.304.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.304.0), 6 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
