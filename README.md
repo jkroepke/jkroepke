@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.67.1](https://github.com/renovatebot/renovate/releases/tag/35.67.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.30.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.30.0), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.67.0](https://github.com/renovatebot/renovate/releases/tag/35.67.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.30.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.13.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.13.0), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.1](https://github.com/grafana/agent/releases/tag/v0.33.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
