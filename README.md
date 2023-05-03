@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.0.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.69.4](https://github.com/renovatebot/renovate/releases/tag/35.69.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.17](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.17), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.69.3](https://github.com/renovatebot/renovate/releases/tag/35.69.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.31.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.31.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.1](https://github.com/grafana/agent/releases/tag/v0.33.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
