@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.4.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.4.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.30.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.2](https://github.com/grafana/loki/releases/tag/v2.8.2), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.31.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.31.1), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.69.5](https://github.com/renovatebot/renovate/releases/tag/35.69.5), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.0.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.1](https://github.com/grafana/agent/releases/tag/v0.33.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.0](https://github.com/kubereboot/charts/releases/tag/kured-4.5.0), 4 days ago) - Helm charts for kubereboot org (kured)
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [solyvista](https://github.com/solyvista)
 - [fredrikjonsson](https://github.com/fredrikjonsson)
 - [mdufourneaud](https://github.com/mdufourneaud)
 - [alexbars215](https://github.com/alexbars215)
 - [BlackNerd419](https://github.com/BlackNerd419)
-- [PierreOucif](https://github.com/PierreOucif)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
