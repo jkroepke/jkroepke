@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.30.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.17.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.2](https://github.com/grafana/loki/releases/tag/v2.8.2), today) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.31.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.31.1), today) - ArgoProj Helm Charts
