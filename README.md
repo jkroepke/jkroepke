@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.5.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.5.0), today) - 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.3), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.1](https://github.com/renovatebot/renovate/releases/tag/35.71.1), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.1-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.1-rc.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.2](https://github.com/grafana/loki/releases/tag/v2.8.2), 1 day ago) - Like Prometheus, but for logs.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.31.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.31.1), 1 day ago) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.3), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
