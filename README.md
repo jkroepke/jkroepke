@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Implement multi-cluster alerts](https://github.com/kubernetes/kube-state-metrics/pull/2058) on [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) (today)
 - [Enable Multi Cluster alerts by default](https://github.com/prometheus-operator/kube-prometheus/pull/2099) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (1 day ago)
 - [StdlibAdapter: Make file key optional](https://github.com/go-kit/log/pull/33) on [go-kit/log](https://github.com/go-kit/log) (6 days ago)
 - [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/12029) on [helm/helm](https://github.com/helm/helm) (1 week ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [Add Windows Eventlog logger](https://github.com/go-kit/log/pull/31) on [go-kit/log](https://github.com/go-kit/log) (1 week ago)
 
 #### ⭐ Recent Stars
 
