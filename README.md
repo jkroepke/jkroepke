@@ -16,12 +16,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (3 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 days ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (1 week ago)
@@ -29,7 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.2](https://github.com/renovatebot/renovate/releases/tag/35.71.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.3](https://github.com/renovatebot/renovate/releases/tag/35.71.3), today) - Universal dependency update tool that fits into your workflows.
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.9](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.9), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.5.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.5.0), today) - 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.4.3), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.3), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.1](https://github.com/grafana/agent/releases/tag/v0.33.1), 3 days ago) - Vendor-neutral programmable observability pipelines.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.0](https://github.com/kubereboot/charts/releases/tag/kured-4.5.0), 5 days ago) - Helm charts for kubereboot org (kured)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.54.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.54.0), 6 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
