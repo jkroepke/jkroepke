@@ -55,6 +55,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (today)
 - [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher (today)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (1 day ago)
 - [jonathanlermitage/ij-ilove-devtoys](https://github.com/jonathanlermitage/ij-ilove-devtoys) - 🧩 IntelliJ IDEA based IDEs plugin highly inspired from the DevToys software: hash tools, various data converters and generators, escapers, set diff viewer... (5 days ago)
@@ -64,7 +65,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [tgenv/tgenv](https://github.com/tgenv/tgenv) - A tool to manage multiples Terragrunt versions (1 month ago)
 - [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 month ago)
 - [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (1 month ago)
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
