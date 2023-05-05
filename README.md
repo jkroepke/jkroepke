@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.4](https://github.com/renovatebot/renovate/releases/tag/35.71.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.0.2), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.3](https://github.com/renovatebot/renovate/releases/tag/35.71.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.9](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.9), 1 day ago) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.5.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.5.0), 1 day ago) - 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
