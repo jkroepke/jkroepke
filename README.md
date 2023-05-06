@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.7](https://github.com/renovatebot/renovate/releases/tag/35.71.7), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.32.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.32.0), 1 day ago) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.71.6](https://github.com/renovatebot/renovate/releases/tag/35.71.6), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.1.0), 1 day ago) - Prometheus community Helm charts
