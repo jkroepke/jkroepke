@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.26.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.26.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.2.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.27.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.27.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.72.1](https://github.com/renovatebot/renovate/releases/tag/35.72.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.1), 1 day ago) - 
@@ -55,6 +55,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (today)
+- [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (today)
 - [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (1 day ago)
 - [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher (1 day ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 days ago)
@@ -63,8 +65,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus (3 weeks ago)
 - [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (1 month ago)
 - [tgenv/tgenv](https://github.com/tgenv/tgenv) - A tool to manage multiples Terragrunt versions (1 month ago)
-- [tonistiigi/xx](https://github.com/tonistiigi/xx) - Dockerfile cross-compilation helpers (1 month ago)
-- [ory/hydra](https://github.com/ory/hydra) - OpenID Certified™ OpenID Connect and OAuth Provider written in Go - cloud native, security-first, open source API security for your infrastructure. SDKs for any language. Works with Hardware Security Modules. Compatible with MITREid. (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
