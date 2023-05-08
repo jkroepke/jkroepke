@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.4.1), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.32.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.32.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.15](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.15), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.4.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.74.0](https://github.com/renovatebot/renovate/releases/tag/35.74.0), today) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.3.1](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.3.1), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.1), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.7.1), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.55.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.55.0), 3 days ago) - Terraform provider for Azure Resource Manager
