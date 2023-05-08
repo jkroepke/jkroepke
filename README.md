@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.4.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.32.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.32.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.15](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.15), today) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.55.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.55.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.9](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.9), 4 days ago) - Lens - The way the world runs Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.2](https://github.com/grafana/loki/releases/tag/v2.8.2), 5 days ago) - Like Prometheus, but for logs.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.3), 6 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
