@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.4.0-weekly.237](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.4.0-weekly.237), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.4.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.32.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.32.1), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.15](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.15), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.74.0](https://github.com/renovatebot/renovate/releases/tag/35.74.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.1), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.7.1), 3 days ago) - Ingress-NGINX Controller for Kubernetes
