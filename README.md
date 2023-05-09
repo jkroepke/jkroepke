@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.4.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.4.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.21](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.21), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.75.0](https://github.com/renovatebot/renovate/releases/tag/35.75.0), today) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.2), today) - Automatically provision and manage TLS certificates in Kubernetes
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.26.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.26.3), today) - ArgoProj Helm Charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.1), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.7.1), 4 days ago) - Ingress-NGINX Controller for Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.55.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.55.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
