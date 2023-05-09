@@ -16,29 +16,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (2 weeks ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 weeks ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.10](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.10), today) - Lens - The way the world runs Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.27.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.27.1), today) - Prometheus community Helm charts
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.5), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.56.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.56.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.26.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.26.3), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.74.1](https://github.com/renovatebot/renovate/releases/tag/35.74.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.1.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.1.6), 1 day ago) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.1), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.7.1), 4 days ago) - Ingress-NGINX Controller for Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.55.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.55.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.9](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.9), 5 days ago) - Lens - The way the world runs Kubernetes
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.2](https://github.com/grafana/loki/releases/tag/v2.8.2), 6 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
