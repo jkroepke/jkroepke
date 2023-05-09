@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.10](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.10), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.27.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.27.1), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.1), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.5), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.56.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.56.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.26.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.26.3), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.74.1](https://github.com/renovatebot/renovate/releases/tag/35.74.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
