@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (5 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Use fullname as CN](https://github.com/jkroepke/helm-charts/pull/38) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [azurerm_kubernetes_cluster: Cycle node-pool if node_pool has node level relevant changes](https://github.com/hashicorp/terraform-provider-azurerm/pull/21719) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [Implement multi-cluster alerts](https://github.com/kubernetes/kube-state-metrics/pull/2058) on [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) (5 days ago)
 - [Enable Multi Cluster alerts by default](https://github.com/prometheus-operator/kube-prometheus/pull/2099) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (6 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 - [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 - [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
-- [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
