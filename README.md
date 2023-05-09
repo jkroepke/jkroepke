@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [azurerm_kubernetes_cluster: Cycle node-pool if node_pool has node level relevant changes](https://github.com/hashicorp/terraform-provider-azurerm/pull/21719) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [Implement multi-cluster alerts](https://github.com/kubernetes/kube-state-metrics/pull/2058) on [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) (5 days ago)
 - [Enable Multi Cluster alerts by default](https://github.com/prometheus-operator/kube-prometheus/pull/2099) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (6 days ago)
 - [StdlibAdapter: Make file key optional](https://github.com/go-kit/log/pull/33) on [go-kit/log](https://github.com/go-kit/log) (1 week ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 - [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 - [Move prometheus collector from main to collectors](https://github.com/prometheus-community/windows_exporter/pull/1195) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [switch to go-kit logger](https://github.com/prometheus-community/windows_exporter/pull/1192) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
