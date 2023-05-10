@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.26.4](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.26.4), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.32.2), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.2](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.2), today) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.4](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.4), today) - Collection of charts used in my projects
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.77.0](https://github.com/renovatebot/renovate/releases/tag/35.77.0), today) - Universal dependency update tool that fits into your workflows.
