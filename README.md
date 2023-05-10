@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.76.0](https://github.com/renovatebot/renovate/releases/tag/35.76.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.4.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.4.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.21](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.21), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.75.0](https://github.com/renovatebot/renovate/releases/tag/35.75.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.2), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.10](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.10), 1 day ago) - Lens - The way the world runs Kubernetes
