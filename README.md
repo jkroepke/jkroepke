@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.78.0](https://github.com/renovatebot/renovate/releases/tag/35.78.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.2.18](https://github.com/grafana/grafana/releases/tag/v9.2.18), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.27.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.27.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.0.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.0.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.2](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.2), today) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.4](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.4), today) - Collection of charts used in my projects
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.77.0](https://github.com/renovatebot/renovate/releases/tag/35.77.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.4.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.4.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.2), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
