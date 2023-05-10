@@ -16,11 +16,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 week ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.4](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.4), today) - Collection of charts used in my projects
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.77.0](https://github.com/renovatebot/renovate/releases/tag/35.77.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.4.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.4.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.21](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.21), 1 day ago) - 
@@ -38,10 +39,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.27.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.27.1), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.26.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.26.3), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.1), 5 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.7.1), 5 days ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
+- [kustomize: Add support for OCI based helm repos](https://github.com/kubernetes-sigs/kustomize/pull/5167) on [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) (today)
 - [Use fullname as CN](https://github.com/jkroepke/helm-charts/pull/38) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 day ago)
 - [azurerm_kubernetes_cluster: Cycle node-pool if node_pool has node level relevant changes](https://github.com/hashicorp/terraform-provider-azurerm/pull/21719) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
 - [Implement multi-cluster alerts](https://github.com/kubernetes/kube-state-metrics/pull/2058) on [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) (6 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 - [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
-- [Switch to upstream windows_exporter](https://github.com/grafana/agent/pull/3603) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
