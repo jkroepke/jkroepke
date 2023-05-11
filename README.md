@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove v version prefix from helm chart](https://github.com/stakater/Reloader/pull/447) on [stakater/Reloader](https://github.com/stakater/Reloader) (today)
 - [kustomize: Add support for OCI based helm repos](https://github.com/kubernetes-sigs/kustomize/pull/5167) on [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) (1 day ago)
 - [Use fullname as CN](https://github.com/jkroepke/helm-charts/pull/38) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 days ago)
 - [azurerm_kubernetes_cluster: Cycle node-pool if node_pool has node level relevant changes](https://github.com/hashicorp/terraform-provider-azurerm/pull/21719) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/12029) on [helm/helm](https://github.com/helm/helm) (2 weeks ago)
 - [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
-- [Added coalesce function](https://github.com/grafana/agent/pull/3604) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
