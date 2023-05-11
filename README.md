@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.80.0](https://github.com/renovatebot/renovate/releases/tag/35.80.0), today) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.33.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.33.1), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.5.0), today) - Prometheus community Helm charts
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.11](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.11), today) - Lens - The way the world runs Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.79.1](https://github.com/renovatebot/renovate/releases/tag/35.79.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.2.18](https://github.com/grafana/grafana/releases/tag/v9.2.18), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.2](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.2), 1 day ago) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.4](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.4), 1 day ago) - Collection of charts used in my projects
