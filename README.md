@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.11](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.11), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.79.1](https://github.com/renovatebot/renovate/releases/tag/35.79.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.27.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.27.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-couchdb-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-couchdb-exporter-1.0.0), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.4.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.4.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.2), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.6), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.10](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.10), 2 days ago) - Lens - The way the world runs Kubernetes
 
 #### 🔨 My recent Pull Requests
 
