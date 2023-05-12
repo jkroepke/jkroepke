@@ -19,13 +19,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (1 week ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 week ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 weeks ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (2 weeks ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 weeks ago)
 - [prometheus-community/jiralert](https://github.com/prometheus-community/jiralert) - JIRA integration for Prometheus Alertmanager (2 weeks ago)
-- [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
