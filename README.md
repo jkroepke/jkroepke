@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.3.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.3.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.56.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.56.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.69.16](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.69.16), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.2](https://github.com/grafana/agent/releases/tag/v0.33.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.80.0](https://github.com/renovatebot/renovate/releases/tag/35.80.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.2), 1 day ago) - Prometheus community Helm charts
