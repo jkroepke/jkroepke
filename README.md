@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.33.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.33.3), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.81.0](https://github.com/renovatebot/renovate/releases/tag/35.81.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.22](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.22), 1 day ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.2), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.2.1), 1 day ago) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.33.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.33.2), 1 day ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.56.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.56.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.2](https://github.com/grafana/agent/releases/tag/v0.33.2), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.11](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.11), 2 days ago) - Lens - The way the world runs Kubernetes
