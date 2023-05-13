@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.81.0](https://github.com/renovatebot/renovate/releases/tag/35.81.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.22](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.22), 1 day ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.2), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.2.1), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.33.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.33.2), 1 day ago) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.80.2](https://github.com/renovatebot/renovate/releases/tag/35.80.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.56.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.56.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.2](https://github.com/grafana/agent/releases/tag/v0.33.2), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.11](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.11), 2 days ago) - Lens - The way the world runs Kubernetes
@@ -42,6 +42,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Expose nametables](https://github.com/leoluk/perflib_exporter/pull/45) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (today)
+- [Update dependencies to latest](https://github.com/leoluk/perflib_exporter/pull/44) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (today)
 - [Remove v version prefix from helm chart](https://github.com/stakater/Reloader/pull/447) on [stakater/Reloader](https://github.com/stakater/Reloader) (2 days ago)
 - [kustomize: Add support for OCI based helm repos](https://github.com/kubernetes-sigs/kustomize/pull/5167) on [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) (3 days ago)
 - [Use fullname as CN](https://github.com/jkroepke/helm-charts/pull/38) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (4 days ago)
@@ -50,8 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Enable Multi Cluster alerts by default](https://github.com/prometheus-operator/kube-prometheus/pull/2099) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (1 week ago)
 - [StdlibAdapter: Make file key optional](https://github.com/go-kit/log/pull/33) on [go-kit/log](https://github.com/go-kit/log) (2 weeks ago)
 - [Support for multiple yaml documents in stdin/file](https://github.com/helm/helm/pull/12029) on [helm/helm](https://github.com/helm/helm) (2 weeks ago)
-- [[kube-prometheus-stack] Add the possibility to define fine-granted labels and annotation based on the prometheus group](https://github.com/prometheus-community/helm-charts/pull/3288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [Disable node_exporter on windows](https://github.com/grafana/agent/pull/3637) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
