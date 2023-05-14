@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [flow: Add toggle to enable /debug/pprof endpoint](https://github.com/grafana/agent/pull/3883) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [Update flow-ui dependencies, enable CSP and embed google fonts](https://github.com/grafana/agent/pull/3880) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
 - [Expose nametables](https://github.com/leoluk/perflib_exporter/pull/45) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (1 day ago)
 - [Update dependencies to latest](https://github.com/leoluk/perflib_exporter/pull/44) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [azurerm_kubernetes_cluster: Cycle node-pool if node_pool has node level relevant changes](https://github.com/hashicorp/terraform-provider-azurerm/pull/21719) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (5 days ago)
 - [Implement multi-cluster alerts](https://github.com/kubernetes/kube-state-metrics/pull/2058) on [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) (1 week ago)
 - [Enable Multi Cluster alerts by default](https://github.com/prometheus-operator/kube-prometheus/pull/2099) on [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) (1 week ago)
-- [StdlibAdapter: Make regexp configurable](https://github.com/go-kit/log/pull/33) on [go-kit/log](https://github.com/go-kit/log) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
