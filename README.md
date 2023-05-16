@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.87.2](https://github.com/renovatebot/renovate/releases/tag/35.87.2), today) - Universal dependency update tool that fits into your workflows.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.8), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.12](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.12), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.33.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.33.4), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.87.1](https://github.com/renovatebot/renovate/releases/tag/35.87.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.23](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.23), 1 day ago) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.28.0), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.56.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.56.0), 4 days ago) - Terraform provider for Azure Resource Manager
