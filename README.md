@@ -31,7 +31,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.89.0](https://github.com/renovatebot/renovate/releases/tag/35.89.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.8), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.12](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.12), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.33.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.33.4), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.23](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.23), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.28.0), 1 day ago) - Prometheus community Helm charts
@@ -39,6 +38,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.56.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.56.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.2](https://github.com/grafana/agent/releases/tag/v0.33.2), 5 days ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.2.18](https://github.com/grafana/grafana/releases/tag/v9.2.18), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.4](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.4), 6 days ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
 
