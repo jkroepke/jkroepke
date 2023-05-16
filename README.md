@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [noop driver should do nothing by default](https://github.com/jkroepke/helm-secrets/pull/368) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Add tests for post-renderer with envs](https://github.com/jkroepke/helm-secrets/pull/367) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Implement kubernetes caching backend](https://github.com/webdevops/go-common/pull/4) on [webdevops/go-common](https://github.com/webdevops/go-common) (1 day ago)
 - [flow: Add toggle to enable /debug/pprof endpoint](https://github.com/grafana/agent/pull/3883) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove v version prefix from helm chart](https://github.com/stakater/Reloader/pull/447) on [stakater/Reloader](https://github.com/stakater/Reloader) (5 days ago)
 - [kustomize: Add support for OCI based helm repos](https://github.com/kubernetes-sigs/kustomize/pull/5167) on [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) (6 days ago)
 - [Use fullname as CN](https://github.com/jkroepke/helm-charts/pull/38) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
-- [azurerm_kubernetes_cluster: Cycle node-pool if node_pool has node level relevant changes](https://github.com/hashicorp/terraform-provider-azurerm/pull/21719) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 
 #### ⭐ Recent Stars
 
