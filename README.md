@@ -16,7 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.12](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.12), today) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.33.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.33.4), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.87.1](https://github.com/renovatebot/renovate/releases/tag/35.87.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.23](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.23), 1 day ago) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.56.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.56.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.2](https://github.com/grafana/agent/releases/tag/v0.33.2), 5 days ago) - Vendor-neutral programmable observability pipelines.
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0-alpha.11](https://github.com/lensapp/lens/releases/tag/v6.5.0-alpha.11), 5 days ago) - Lens - The way the world runs Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.2.18](https://github.com/grafana/grafana/releases/tag/v9.2.18), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
