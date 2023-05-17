@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.91.1](https://github.com/renovatebot/renovate/releases/tag/35.91.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.2), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.91.0](https://github.com/renovatebot/renovate/releases/tag/35.91.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.28.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.28.1), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.8), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.2), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
