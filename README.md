@@ -16,10 +16,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [webdevops/go-common](https://github.com/webdevops/go-common) - Common golang library for Prometheus exporters (2 days ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
+- [webdevops/go-common](https://github.com/webdevops/go-common) - Common golang library for Prometheus exporters (3 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) - Add-on agent to generate and expose cluster-level metrics. (2 weeks ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (2 weeks ago)
@@ -29,37 +29,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.26](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.26), today) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.11), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.95.1](https://github.com/renovatebot/renovate/releases/tag/35.95.1), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.1), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.1), 1 day ago) - ArgoProj Helm Charts
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.2), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.56.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.56.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.2), today) - Lookup resource attributes in tfstate.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.26](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.26), 1 day ago) - 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.11), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.95.1](https://github.com/renovatebot/renovate/releases/tag/35.95.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.1), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.1), 2 days ago) - ArgoProj Helm Charts
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.2), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.56.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.56.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.2](https://github.com/grafana/agent/releases/tag/v0.33.2), 1 week ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.2.18](https://github.com/grafana/grafana/releases/tag/v9.2.18), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.4](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.4), 1 week ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
 
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/369) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [noop driver should do nothing by default](https://github.com/jkroepke/helm-secrets/pull/368) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [Add tests for post-renderer with envs](https://github.com/jkroepke/helm-secrets/pull/367) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
-- [Implement kubernetes caching backend](https://github.com/webdevops/go-common/pull/4) on [webdevops/go-common](https://github.com/webdevops/go-common) (3 days ago)
-- [flow: Add toggle to enable /debug/pprof endpoint](https://github.com/grafana/agent/pull/3883) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
-- [Update flow-ui dependencies, enable CSP and embed google fonts](https://github.com/grafana/agent/pull/3880) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
-- [Expose nametables](https://github.com/leoluk/perflib_exporter/pull/45) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (5 days ago)
-- [Update dependencies to latest](https://github.com/leoluk/perflib_exporter/pull/44) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (5 days ago)
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/369) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [noop driver should do nothing by default](https://github.com/jkroepke/helm-secrets/pull/368) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [Add tests for post-renderer with envs](https://github.com/jkroepke/helm-secrets/pull/367) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [Implement kubernetes caching backend](https://github.com/webdevops/go-common/pull/4) on [webdevops/go-common](https://github.com/webdevops/go-common) (4 days ago)
+- [flow: Add toggle to enable /debug/pprof endpoint](https://github.com/grafana/agent/pull/3883) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
+- [Update flow-ui dependencies, enable CSP and embed google fonts](https://github.com/grafana/agent/pull/3880) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
+- [Expose nametables](https://github.com/leoluk/perflib_exporter/pull/45) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (6 days ago)
+- [Update dependencies to latest](https://github.com/leoluk/perflib_exporter/pull/44) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (6 days ago)
 - [Remove v version prefix from helm chart](https://github.com/stakater/Reloader/pull/447) on [stakater/Reloader](https://github.com/stakater/Reloader) (1 week ago)
 - [kustomize: Add support for OCI based helm repos](https://github.com/kubernetes-sigs/kustomize/pull/5167) on [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (2 days ago)
+- [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (3 days ago)
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (1 week ago)
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (1 week ago)
-- [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (1 week ago)
-- [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher (1 week ago)
+- [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (2 weeks ago)
+- [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher (2 weeks ago)
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 weeks ago)
 - [jonathanlermitage/ij-ilove-devtoys](https://github.com/jonathanlermitage/ij-ilove-devtoys) - 🧩 IntelliJ IDEA based IDEs plugin highly inspired from the DevToys software: hash tools, various data converters and generators, escapers, set diff viewer... (2 weeks ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (3 weeks ago)
