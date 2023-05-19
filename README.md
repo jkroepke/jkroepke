@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.96.1](https://github.com/renovatebot/renovate/releases/tag/35.96.1), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.57.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.57.0), today) - Terraform provider for Azure Resource Manager
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.96.0](https://github.com/renovatebot/renovate/releases/tag/35.96.0), today) - Universal dependency update tool that fits into your workflows.
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.2), today) - Lookup resource attributes in tfstate.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.26](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.26), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.11), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
