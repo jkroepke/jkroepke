@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.96.2](https://github.com/renovatebot/renovate/releases/tag/35.96.2), today) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.28.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.28.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.29.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.96.1](https://github.com/renovatebot/renovate/releases/tag/35.96.1), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.57.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.57.0), today) - Terraform provider for Azure Resource Manager
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.2), today) - Lookup resource attributes in tfstate.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.26](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.26), 1 day ago) - 
