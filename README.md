@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.28.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.28.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.29.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.96.1](https://github.com/renovatebot/renovate/releases/tag/35.96.1), today) - Universal dependency update tool that fits into your workflows.
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.2), today) - Lookup resource attributes in tfstate.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.26](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.26), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.11), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0-beta.2), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/agent](https://github.com/grafana/agent) ([v0.33.2](https://github.com/grafana/agent/releases/tag/v0.33.2), 1 week ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.2.18](https://github.com/grafana/grafana/releases/tag/v9.2.18), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
