@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Handle helmfile diff --detailed-exitcode](https://github.com/helmfile/helmfile-action/pull/33) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (today)
 - [Allow 300er HTTP status codes](https://github.com/actions/toolkit/pull/1426) on [actions/toolkit](https://github.com/actions/toolkit) (today)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/369) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [noop driver should do nothing by default](https://github.com/jkroepke/helm-secrets/pull/368) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update flow-ui dependencies, enable CSP and embed google fonts](https://github.com/grafana/agent/pull/3880) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [Expose nametables](https://github.com/leoluk/perflib_exporter/pull/45) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (1 week ago)
 - [Update dependencies to latest](https://github.com/leoluk/perflib_exporter/pull/44) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (1 week ago)
-- [Remove v version prefix from helm chart](https://github.com/stakater/Reloader/pull/447) on [stakater/Reloader](https://github.com/stakater/Reloader) (1 week ago)
 
 #### ⭐ Recent Stars
 
