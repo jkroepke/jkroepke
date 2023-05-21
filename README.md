@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.0](https://github.com/renovatebot/renovate/releases/tag/35.98.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.7.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.1.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.1.1), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) ([v1](https://github.com/jkroepke/setup-helmfile/releases/tag/v1), today) - Github Action for installing helmfile (https://github.com/helmfile/helmfile)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.2.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.2.0), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.97.1](https://github.com/renovatebot/renovate/releases/tag/35.97.1), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.0.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.0.0), 2 days ago) - Collection of charts used in my projects
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.57.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.57.0), 2 days ago) - Terraform provider for Azure Resource Manager
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Avoid GitHub API to accessing latest release](https://github.com/helmfile/helmfile-action/pull/34) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (today)
 - [Handle helmfile diff --detailed-exitcode](https://github.com/helmfile/helmfile-action/pull/33) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (today)
 - [Allow 300er HTTP status codes](https://github.com/actions/toolkit/pull/1426) on [actions/toolkit](https://github.com/actions/toolkit) (today)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/369) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [flow: Add toggle to enable /debug/pprof endpoint](https://github.com/grafana/agent/pull/3883) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [Update flow-ui dependencies, enable CSP and embed google fonts](https://github.com/grafana/agent/pull/3880) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [Expose nametables](https://github.com/leoluk/perflib_exporter/pull/45) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (1 week ago)
-- [Update dependencies to latest](https://github.com/leoluk/perflib_exporter/pull/44) on [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
