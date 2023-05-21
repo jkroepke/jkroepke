@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.1.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.7.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.1.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.1.1), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) ([v1](https://github.com/jkroepke/setup-helmfile/releases/tag/v1), today) - Github Action for installing helmfile (https://github.com/helmfile/helmfile)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.2.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.2.0), today) - ArgoProj Helm Charts
