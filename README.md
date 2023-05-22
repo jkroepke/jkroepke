@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.3](https://github.com/renovatebot/renovate/releases/tag/35.98.3), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.30.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.31.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.4](https://github.com/renovatebot/renovate/releases/tag/35.98.4), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.2), today) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.12), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus/common](https://github.com/prometheus/common) ([v0.44.0](https://github.com/prometheus/common/releases/tag/v0.44.0), today) - Go libraries shared across Prometheus components and libraries.
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Minify Grafana Dashboards](https://github.com/prometheus-community/helm-charts/pull/3416) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Update bashcov](https://github.com/jkroepke/helm-secrets/pull/377) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Avoid GitHub API to accessing latest release](https://github.com/helmfile/helmfile-action/pull/34) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (1 day ago)
 - [Handle helmfile diff --detailed-exitcode](https://github.com/helmfile/helmfile-action/pull/33) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add tests for post-renderer with envs](https://github.com/jkroepke/helm-secrets/pull/367) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Implement kubernetes caching backend](https://github.com/webdevops/go-common/pull/4) on [webdevops/go-common](https://github.com/webdevops/go-common) (1 week ago)
 - [flow: Add toggle to enable /debug/pprof endpoint](https://github.com/grafana/agent/pull/3883) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
-- [Update flow-ui dependencies, enable CSP and embed google fonts](https://github.com/grafana/agent/pull/3880) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
