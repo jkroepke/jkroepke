@@ -42,7 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] Minify Grafana Dashboards](https://github.com/prometheus-community/helm-charts/pull/3416) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] Minify Grafana Dashboards and Update CRDs to 0.65.1](https://github.com/prometheus-community/helm-charts/pull/3416) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Update bashcov](https://github.com/jkroepke/helm-secrets/pull/377) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Avoid GitHub API to accessing latest release](https://github.com/helmfile/helmfile-action/pull/34) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (1 day ago)
 - [Handle helmfile diff --detailed-exitcode](https://github.com/helmfile/helmfile-action/pull/33) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (1 day ago)
