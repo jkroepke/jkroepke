@@ -29,6 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.12), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus/common](https://github.com/prometheus/common) ([v0.44.0](https://github.com/prometheus/common/releases/tag/v0.44.0), today) - Go libraries shared across Prometheus components and libraries.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.1](https://github.com/renovatebot/renovate/releases/tag/35.98.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.30.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.3), today) - 
@@ -37,8 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) ([v1](https://github.com/jkroepke/setup-helmfile/releases/tag/v1), 1 day ago) - Github Action for installing helmfile (https://github.com/helmfile/helmfile)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.2.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.2.0), 1 day ago) - ArgoProj Helm Charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.0.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.0.0), 3 days ago) - Collection of charts used in my projects
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.57.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.57.0), 3 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
