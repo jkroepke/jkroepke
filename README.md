@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.2), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.2](https://github.com/renovatebot/renovate/releases/tag/35.98.2), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.12), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus/common](https://github.com/prometheus/common) ([v0.44.0](https://github.com/prometheus/common/releases/tag/v0.44.0), today) - Go libraries shared across Prometheus components and libraries.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v0.1.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v0.1.0), today) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.1.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.1.1), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) ([v1](https://github.com/jkroepke/setup-helmfile/releases/tag/v1), 1 day ago) - Github Action for installing helmfile (https://github.com/helmfile/helmfile)
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.2.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.2.0), 1 day ago) - ArgoProj Helm Charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.0.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.0.0), 3 days ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
