@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.3](https://github.com/renovatebot/renovate/releases/tag/35.98.3), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-45.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-45.30.1), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.2), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.2](https://github.com/renovatebot/renovate/releases/tag/35.98.2), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.12), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus/common](https://github.com/prometheus/common) ([v0.44.0](https://github.com/prometheus/common/releases/tag/v0.44.0), today) - Go libraries shared across Prometheus components and libraries.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.3), today) - 
