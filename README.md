@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.17.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.3), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.13](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.13), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.27](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.27), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.30.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.30.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.4](https://github.com/renovatebot/renovate/releases/tag/35.98.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
