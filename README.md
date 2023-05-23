@@ -29,7 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-46.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.31.0), today) - Prometheus community Helm charts
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.0-rc.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.0-rc.0), today) - Add-on agent to generate and expose cluster-level metrics.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.13](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.13), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.27](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.27), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.30.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.30.0), today) - ArgoProj Helm Charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v0.1.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v0.1.0), 1 day ago) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.1.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.1.1), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) ([v1](https://github.com/jkroepke/setup-helmfile/releases/tag/v1), 2 days ago) - Github Action for installing helmfile (https://github.com/helmfile/helmfile)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.0.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.0.0), 4 days ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
 
