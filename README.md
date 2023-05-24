@@ -29,13 +29,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.99.0](https://github.com/renovatebot/renovate/releases/tag/35.99.0), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.4](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.6.4), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.98.8](https://github.com/renovatebot/renovate/releases/tag/35.98.8), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.154.0](https://github.com/helmfile/helmfile/releases/tag/v0.154.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.4), 1 day ago) - ArgoProj Helm Charts
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.0-rc.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.0-rc.0), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.13](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.13), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.27](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.27), 1 day ago) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.44.0](https://github.com/prometheus/common/releases/tag/v0.44.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v0.1.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v0.1.0), 2 days ago) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.1.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.1.1), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
