@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.3), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.28.1), today) - ArgoProj Helm Charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.14), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.30](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.30), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.2.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.100.3](https://github.com/renovatebot/renovate/releases/tag/35.100.3), today) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.5), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.25](https://github.com/stakater/Reloader/releases/tag/v1.0.25), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.154.0](https://github.com/helmfile/helmfile/releases/tag/v0.154.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.0-rc.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.0-rc.0), 2 days ago) - Add-on agent to generate and expose cluster-level metrics.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.13](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.13), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus/common](https://github.com/prometheus/common) ([v0.44.0](https://github.com/prometheus/common/releases/tag/v0.44.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v0.1.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v0.1.0), 3 days ago) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant
 
 #### 🔨 My recent Pull Requests
 
