@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.101.0](https://github.com/renovatebot/renovate/releases/tag/35.101.0), today) - Universal dependency update tool that fits into your workflows.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.15](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.15), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.3), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.28.1), today) - ArgoProj Helm Charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.14), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.30](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.30), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.2.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.100.3](https://github.com/renovatebot/renovate/releases/tag/35.100.3), today) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.25](https://github.com/stakater/Reloader/releases/tag/v1.0.25), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.154.0](https://github.com/helmfile/helmfile/releases/tag/v0.154.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.0-rc.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.0-rc.0), 2 days ago) - Add-on agent to generate and expose cluster-level metrics.
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [nickstamat](https://github.com/nickstamat)
 - [K-web04](https://github.com/K-web04)
 - [solyvista](https://github.com/solyvista)
 - [fredrikjonsson](https://github.com/fredrikjonsson)
 - [mdufourneaud](https://github.com/mdufourneaud)
-- [alexbars215](https://github.com/alexbars215)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
