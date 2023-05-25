@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-4.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-4.0.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.5](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.30](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.30), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.2.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.100.3](https://github.com/renovatebot/renovate/releases/tag/35.100.3), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.5), 1 day ago) - ArgoProj Helm Charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.25](https://github.com/stakater/Reloader/releases/tag/v1.0.25), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
