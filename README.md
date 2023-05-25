@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.1), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.6](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.6), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.101.0](https://github.com/renovatebot/renovate/releases/tag/35.101.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.15](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.15), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.3), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.28.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.28.1), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.30](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.30), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.2.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.25](https://github.com/stakater/Reloader/releases/tag/v1.0.25), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.154.0](https://github.com/helmfile/helmfile/releases/tag/v0.154.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
