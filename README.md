@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.5.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.8](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.8), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.58.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.58.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.7](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.7), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.2](https://github.com/renovatebot/renovate/releases/tag/35.102.2), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.28.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.28.2), today) - ArgoProj Helm Charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.5](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.5), 1 day ago) - Collection of charts used in my projects
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Add prometheus.servicemonitor.endpointAdditionalProperties](https://github.com/cert-manager/cert-manager/pull/6110) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
 - [Re-enable publish charts on ghcr.io as OCI artifact](https://github.com/prometheus-community/helm-charts/pull/3433) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] Minify Grafana Dashboards and Update CRDs to 0.65.1](https://github.com/prometheus-community/helm-charts/pull/3416) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [Update bashcov](https://github.com/jkroepke/helm-secrets/pull/377) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/369) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [noop driver should do nothing by default](https://github.com/jkroepke/helm-secrets/pull/368) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Add tests for post-renderer with envs](https://github.com/jkroepke/helm-secrets/pull/367) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Implement kubernetes caching backend](https://github.com/webdevops/go-common/pull/4) on [webdevops/go-common](https://github.com/webdevops/go-common) (1 week ago)
 
 #### ⭐ Recent Stars
 
