@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.31](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.31), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0](https://github.com/lensapp/lens/releases/tag/v6.5.0), today) - Lens - The way the world runs Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.10](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.10), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.4](https://github.com/renovatebot/renovate/releases/tag/35.102.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.58.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.58.0), today) - Terraform provider for Azure Resource Manager
