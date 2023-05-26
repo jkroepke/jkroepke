@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.5.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.58.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.58.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.7](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.7), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.6.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.2](https://github.com/renovatebot/renovate/releases/tag/35.102.2), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.28.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.28.2), today) - ArgoProj Helm Charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.5](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.5), 1 day ago) - Collection of charts used in my projects
