@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0](https://github.com/lensapp/lens/releases/tag/v6.5.0), today) - Lens - The way the world runs Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.10](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.10), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.4](https://github.com/renovatebot/renovate/releases/tag/35.102.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.15](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.15), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.25](https://github.com/stakater/Reloader/releases/tag/v1.0.25), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.154.0](https://github.com/helmfile/helmfile/releases/tag/v0.154.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 #### 🔨 My recent Pull Requests
 
