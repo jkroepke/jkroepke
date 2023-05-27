@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.5](https://github.com/renovatebot/renovate/releases/tag/35.102.5), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.6](https://github.com/renovatebot/renovate/releases/tag/35.102.6), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.31](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.31), 1 day ago) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0](https://github.com/lensapp/lens/releases/tag/v6.5.0), 1 day ago) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6), 1 day ago) - Prometheus community Helm charts
