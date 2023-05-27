@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[grafana] Use tpl in envSecrets](https://github.com/grafana/helm-charts/pull/2434) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [[jiralert] fix podSecurityContext and define defaults](https://github.com/prometheus-community/helm-charts/pull/3438) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[helm] Add prometheus.servicemonitor.endpointAdditionalProperties](https://github.com/cert-manager/cert-manager/pull/6110) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 day ago)
 - [Re-enable publish charts on ghcr.io as OCI artifact](https://github.com/prometheus-community/helm-charts/pull/3433) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Handle helmfile diff --detailed-exitcode](https://github.com/helmfile/helmfile-action/pull/33) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (6 days ago)
 - [Allow 300er HTTP status codes](https://github.com/actions/toolkit/pull/1426) on [actions/toolkit](https://github.com/actions/toolkit) (6 days ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/369) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [noop driver should do nothing by default](https://github.com/jkroepke/helm-secrets/pull/368) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
