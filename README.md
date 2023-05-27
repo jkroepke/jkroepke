@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.8](https://github.com/renovatebot/renovate/releases/tag/35.102.8), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.30.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.30.1), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.102.7](https://github.com/renovatebot/renovate/releases/tag/35.102.7), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.31](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.31), 1 day ago) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0](https://github.com/lensapp/lens/releases/tag/v6.5.0), 1 day ago) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.6), 1 day ago) - Prometheus community Helm charts
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for rush](https://github.com/jkroepke/bats-core/pull/1) on [jkroepke/bats-core](https://github.com/jkroepke/bats-core) (today)
 - [[grafana] Use tpl in envSecrets](https://github.com/grafana/helm-charts/pull/2434) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [[jiralert] fix podSecurityContext and define defaults](https://github.com/prometheus-community/helm-charts/pull/3438) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[helm] Add prometheus.servicemonitor.endpointAdditionalProperties](https://github.com/cert-manager/cert-manager/pull/6110) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Avoid GitHub API to accessing latest release](https://github.com/helmfile/helmfile-action/pull/34) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (6 days ago)
 - [Handle helmfile diff --detailed-exitcode](https://github.com/helmfile/helmfile-action/pull/33) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (6 days ago)
 - [Allow 300er HTTP status codes](https://github.com/actions/toolkit/pull/1426) on [actions/toolkit](https://github.com/actions/toolkit) (6 days ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/369) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
