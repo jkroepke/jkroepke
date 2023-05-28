@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.1), today) - Add-on agent to generate and expose cluster-level metrics.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.103.0](https://github.com/renovatebot/renovate/releases/tag/35.103.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.30.1](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.30.1), 1 day ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.31](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.31), 2 days ago) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.5](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.5), 3 days ago) - Collection of charts used in my projects
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.1), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.15](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.15), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.25](https://github.com/stakater/Reloader/releases/tag/v1.0.25), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
