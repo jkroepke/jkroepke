@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for rush](https://github.com/bats-core/bats-core/pull/729) on [bats-core/bats-core](https://github.com/bats-core/bats-core) (today)
 - [Add support for rush](https://github.com/jkroepke/bats-core/pull/1) on [jkroepke/bats-core](https://github.com/jkroepke/bats-core) (1 day ago)
 - [[grafana] Use tpl in envSecrets](https://github.com/grafana/helm-charts/pull/2434) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
 - [[jiralert] fix podSecurityContext and define defaults](https://github.com/prometheus-community/helm-charts/pull/3438) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update bashcov](https://github.com/jkroepke/helm-secrets/pull/377) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Avoid GitHub API to accessing latest release](https://github.com/helmfile/helmfile-action/pull/34) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (1 week ago)
 - [Handle helmfile diff --detailed-exitcode](https://github.com/helmfile/helmfile-action/pull/33) on [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) (1 week ago)
-- [Allow 300er HTTP status codes](https://github.com/actions/toolkit/pull/1426) on [actions/toolkit](https://github.com/actions/toolkit) (1 week ago)
 
 #### ⭐ Recent Stars
 
