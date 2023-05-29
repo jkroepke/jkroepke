@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.104.0](https://github.com/renovatebot/renovate/releases/tag/35.104.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.0](https://github.com/renovatebot/renovate/releases/tag/35.105.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.3.1), today) - Prometheus community Helm charts
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.1), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
