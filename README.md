@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.0](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.0), today) - OpenLens Binary Build Repository
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.1](https://github.com/lensapp/lens/releases/tag/v6.5.1), today) - Lens - The way the world runs Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.0](https://github.com/renovatebot/renovate/releases/tag/35.105.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.3.1), today) - Prometheus community Helm charts
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.1), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.31](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.31), 3 days ago) - 
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.0](https://github.com/lensapp/lens/releases/tag/v6.5.0), 3 days ago) - Lens - The way the world runs Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.58.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.58.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([values-1.0.5](https://github.com/jkroepke/helm-charts/releases/tag/values-1.0.5), 4 days ago) - Collection of charts used in my projects
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.1), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-19.0.15](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-19.0.15), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
