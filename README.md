@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.2](https://github.com/renovatebot/renovate/releases/tag/35.105.2), today) - Universal dependency update tool that fits into your workflows.
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2.286](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2.286), today) - OpenLens Binary Build Repository
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.0), today) - Ingress-NGINX Controller for Kubernetes
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2), today) - OpenLens Binary Build Repository
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.33](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.33), today) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.2](https://github.com/lensapp/lens/releases/tag/v6.5.2), today) - Lens - The way the world runs Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.3.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.1](https://github.com/renovatebot/renovate/releases/tag/35.105.1), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.5), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.6), 1 day ago) - ArgoProj Helm Charts
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Build MSI and Portable packages for windows](https://github.com/MuhammedKalkan/OpenLens/pull/150) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Implement Build Number](https://github.com/MuhammedKalkan/OpenLens/pull/149) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Remove sha256 checksum check from OpenLens cask](https://github.com/Homebrew/homebrew-cask/pull/148115) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (today)
 - [Run nx instead yarn](https://github.com/MuhammedKalkan/OpenLens/pull/147) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[grafana] Use tpl in envSecrets](https://github.com/grafana/helm-charts/pull/2434) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
 - [[jiralert] fix podSecurityContext and define defaults](https://github.com/prometheus-community/helm-charts/pull/3438) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[helm] Add prometheus.servicemonitor.endpointAdditionalProperties](https://github.com/cert-manager/cert-manager/pull/6110) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (4 days ago)
-- [Re-enable publish charts on ghcr.io as OCI artifact](https://github.com/prometheus-community/helm-charts/pull/3433) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
