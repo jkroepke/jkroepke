@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove sha256 checksum check from OpenLens cask](https://github.com/Homebrew/homebrew-cask/pull/148115) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (today)
 - [Run nx instead yarn](https://github.com/MuhammedKalkan/OpenLens/pull/147) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [Drop NET_BIND_SERVICE for port binding](https://github.com/kubernetes/ingress-nginx/pull/10004) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 day ago)
 - [Add support for rush](https://github.com/bats-core/bats-core/pull/729) on [bats-core/bats-core](https://github.com/bats-core/bats-core) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Add prometheus.servicemonitor.endpointAdditionalProperties](https://github.com/cert-manager/cert-manager/pull/6110) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (4 days ago)
 - [Re-enable publish charts on ghcr.io as OCI artifact](https://github.com/prometheus-community/helm-charts/pull/3433) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack] Minify Grafana Dashboards and Update CRDs to 0.65.1](https://github.com/prometheus-community/helm-charts/pull/3416) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [Update bashcov](https://github.com/jkroepke/helm-secrets/pull/377) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
