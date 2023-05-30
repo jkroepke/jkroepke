@@ -29,19 +29,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.2](https://github.com/lensapp/lens/releases/tag/v6.5.2), today) - Lens - The way the world runs Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.32](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.32), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.3.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.11](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.11), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.1](https://github.com/renovatebot/renovate/releases/tag/35.105.1), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.1](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.1), 1 day ago) - OpenLens Binary Build Repository
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.5), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.1](https://github.com/lensapp/lens/releases/tag/v6.5.1), 1 day ago) - Lens - The way the world runs Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.6), 1 day ago) - ArgoProj Helm Charts
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.1), 2 days ago) - Add-on agent to generate and expose cluster-level metrics.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.58.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.58.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
+- [Implement Build Number](https://github.com/MuhammedKalkan/OpenLens/pull/149) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Remove sha256 checksum check from OpenLens cask](https://github.com/Homebrew/homebrew-cask/pull/148115) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (today)
 - [Run nx instead yarn](https://github.com/MuhammedKalkan/OpenLens/pull/147) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [Drop NET_BIND_SERVICE for port binding](https://github.com/kubernetes/ingress-nginx/pull/10004) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[jiralert] fix podSecurityContext and define defaults](https://github.com/prometheus-community/helm-charts/pull/3438) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[helm] Add prometheus.servicemonitor.endpointAdditionalProperties](https://github.com/cert-manager/cert-manager/pull/6110) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (4 days ago)
 - [Re-enable publish charts on ghcr.io as OCI artifact](https://github.com/prometheus-community/helm-charts/pull/3433) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Minify Grafana Dashboards and Update CRDs to 0.65.1](https://github.com/prometheus-community/helm-charts/pull/3416) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
