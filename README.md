@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.4](https://github.com/renovatebot/renovate/releases/tag/35.105.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.2), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.3](https://github.com/renovatebot/renovate/releases/tag/35.105.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.0-preview](https://github.com/grafana/grafana/releases/tag/v10.0.0-preview), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.7.0), today) - Prometheus community Helm charts
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.2](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.2), today) - Add-on agent to generate and expose cluster-level metrics.
