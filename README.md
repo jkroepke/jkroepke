@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[jiralert] add PodDisruptionBudget and topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3452) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Update @electron/notarize](https://github.com/lensapp/lens/pull/7813) on [lensapp/lens](https://github.com/lensapp/lens) (today)
 - [Implement structured logging](https://github.com/martin-helmich/prometheus-nginxlog-exporter/pull/331) on [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) (today)
 - [Build MSI and Portable packages for windows](https://github.com/MuhammedKalkan/OpenLens/pull/150) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Drop NET_BIND_SERVICE for port binding](https://github.com/kubernetes/ingress-nginx/pull/10004) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
 - [Add support for rush](https://github.com/bats-core/bats-core/pull/729) on [bats-core/bats-core](https://github.com/bats-core/bats-core) (3 days ago)
 - [Add support for rush](https://github.com/jkroepke/bats-core/pull/1) on [jkroepke/bats-core](https://github.com/jkroepke/bats-core) (4 days ago)
-- [[grafana] Use tpl in envSecrets](https://github.com/grafana/helm-charts/pull/2434) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
