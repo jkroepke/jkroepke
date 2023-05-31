@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.0-preview](https://github.com/grafana/grafana/releases/tag/v10.0.0-preview), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.7.0), today) - Prometheus community Helm charts
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.2](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.2), today) - Add-on agent to generate and expose cluster-level metrics.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-weekly.240](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-weekly.240), today) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.2](https://github.com/lensapp/lens/releases/tag/v6.5.2), 1 day ago) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.0), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.5), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
