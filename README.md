@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.26](https://github.com/stakater/Reloader/releases/tag/v1.0.26), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.5.12](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.5.12), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-46.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.5.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.2](https://github.com/renovatebot/renovate/releases/tag/35.105.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2.286](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2.286), 1 day ago) - OpenLens Binary Build Repository
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.33](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.33), 1 day ago) - 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.2](https://github.com/lensapp/lens/releases/tag/v6.5.2), 1 day ago) - Lens - The way the world runs Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.0), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.5), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.34.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.34.6), 2 days ago) - ArgoProj Helm Charts
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.1), 3 days ago) - Add-on agent to generate and expose cluster-level metrics.
 
 #### 🔨 My recent Pull Requests
 
