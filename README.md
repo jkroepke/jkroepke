@@ -18,9 +18,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (today)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (3 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (5 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
