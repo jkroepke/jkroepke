@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.107.0](https://github.com/renovatebot/renovate/releases/tag/35.107.0), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.0), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.6.0), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.12.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.12.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.106.1](https://github.com/renovatebot/renovate/releases/tag/35.106.1), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.2), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.0-preview](https://github.com/grafana/grafana/releases/tag/v10.0.0-preview), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.2](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.2), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.26](https://github.com/stakater/Reloader/releases/tag/v1.0.26), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2.286](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2.286), 2 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
