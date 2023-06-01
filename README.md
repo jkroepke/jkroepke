@@ -29,7 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.106.0](https://github.com/renovatebot/renovate/releases/tag/35.106.0), today) - Universal dependency update tool that fits into your workflows.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.12.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.12.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.106.1](https://github.com/renovatebot/renovate/releases/tag/35.106.1), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.17.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.4), 1 day ago) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.2](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.2), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.26](https://github.com/stakater/Reloader/releases/tag/v1.0.26), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2.286](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2.286), 2 days ago) - OpenLens Binary Build Repository
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.0), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
