@@ -16,42 +16,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (today)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (today)
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (5 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (5 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) -  (1 day ago)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (6 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (6 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.5](https://github.com/renovatebot/renovate/releases/tag/35.105.5), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.34](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.34), today) - 
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.2), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.0-preview](https://github.com/grafana/grafana/releases/tag/v10.0.0-preview), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.7.0), today) - Prometheus community Helm charts
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.2](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.2), today) - Add-on agent to generate and expose cluster-level metrics.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.26](https://github.com/stakater/Reloader/releases/tag/v1.0.26), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2.286](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2.286), 1 day ago) - OpenLens Binary Build Repository
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
-- [lensapp/lens](https://github.com/lensapp/lens) ([v6.5.2](https://github.com/lensapp/lens/releases/tag/v6.5.2), 1 day ago) - Lens - The way the world runs Kubernetes
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.17.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.17.4), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.105.5](https://github.com/renovatebot/renovate/releases/tag/35.105.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.2), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.0-preview](https://github.com/grafana/grafana/releases/tag/v10.0.0-preview), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.2](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.2), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.26](https://github.com/stakater/Reloader/releases/tag/v1.0.26), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2.286](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2.286), 2 days ago) - OpenLens Binary Build Repository
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.0), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [[jiralert] add PodDisruptionBudget and topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3452) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [Update @electron/notarize](https://github.com/lensapp/lens/pull/7813) on [lensapp/lens](https://github.com/lensapp/lens) (today)
-- [Implement structured logging](https://github.com/martin-helmich/prometheus-nginxlog-exporter/pull/331) on [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) (today)
-- [Build MSI and Portable packages for windows](https://github.com/MuhammedKalkan/OpenLens/pull/150) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
-- [Implement Build Number](https://github.com/MuhammedKalkan/OpenLens/pull/149) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
-- [Remove sha256 checksum check from OpenLens cask](https://github.com/Homebrew/homebrew-cask/pull/148115) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 day ago)
-- [Run nx instead yarn](https://github.com/MuhammedKalkan/OpenLens/pull/147) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
-- [Drop NET_BIND_SERVICE for port binding](https://github.com/kubernetes/ingress-nginx/pull/10004) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
-- [Add support for rush](https://github.com/bats-core/bats-core/pull/729) on [bats-core/bats-core](https://github.com/bats-core/bats-core) (3 days ago)
-- [Add support for rush](https://github.com/jkroepke/bats-core/pull/1) on [jkroepke/bats-core](https://github.com/jkroepke/bats-core) (4 days ago)
+- [[jiralert] add PodDisruptionBudget and topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3452) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [Update @electron/notarize](https://github.com/lensapp/lens/pull/7813) on [lensapp/lens](https://github.com/lensapp/lens) (1 day ago)
+- [Implement structured logging](https://github.com/martin-helmich/prometheus-nginxlog-exporter/pull/331) on [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) (1 day ago)
+- [Build MSI and Portable packages for windows](https://github.com/MuhammedKalkan/OpenLens/pull/150) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
+- [Implement Build Number](https://github.com/MuhammedKalkan/OpenLens/pull/149) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
+- [Remove sha256 checksum check from OpenLens cask](https://github.com/Homebrew/homebrew-cask/pull/148115) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (2 days ago)
+- [Run nx instead yarn](https://github.com/MuhammedKalkan/OpenLens/pull/147) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (3 days ago)
+- [Drop NET_BIND_SERVICE for port binding](https://github.com/kubernetes/ingress-nginx/pull/10004) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (3 days ago)
+- [Add support for rush](https://github.com/bats-core/bats-core/pull/729) on [bats-core/bats-core](https://github.com/bats-core/bats-core) (4 days ago)
+- [Add support for rush](https://github.com/jkroepke/bats-core/pull/1) on [jkroepke/bats-core](https://github.com/jkroepke/bats-core) (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -60,7 +60,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (3 weeks ago)
 - [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (3 weeks ago)
 - [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher (3 weeks ago)
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (3 weeks ago)
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (4 weeks ago)
 - [jonathanlermitage/ij-ilove-devtoys](https://github.com/jonathanlermitage/ij-ilove-devtoys) - 🧩 IntelliJ IDEA based IDEs plugin highly inspired from the DevToys software: hash tools, various data converters and generators, escapers, set diff viewer... (1 month ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 month ago)
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus (1 month ago)
