@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-46.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.6.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.6.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-4.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-4.0.2), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.109.0](https://github.com/renovatebot/renovate/releases/tag/35.109.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.59.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.59.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
