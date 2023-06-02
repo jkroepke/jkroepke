@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.59.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.59.0), today) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.108.0](https://github.com/renovatebot/renovate/releases/tag/35.108.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.35](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.35), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.2), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.0-preview](https://github.com/grafana/grafana/releases/tag/v10.0.0-preview), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.2](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.2), 2 days ago) - Add-on agent to generate and expose cluster-level metrics.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.26](https://github.com/stakater/Reloader/releases/tag/v1.0.26), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
