@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-blackbox-exporter] update to 0.24.0 and add topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-crds] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/3456) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[jiralert] add PodDisruptionBudget and topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3452) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Update @electron/notarize](https://github.com/lensapp/lens/pull/7813) on [lensapp/lens](https://github.com/lensapp/lens) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove sha256 checksum check from OpenLens cask](https://github.com/Homebrew/homebrew-cask/pull/148115) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (3 days ago)
 - [Run nx instead yarn](https://github.com/MuhammedKalkan/OpenLens/pull/147) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (4 days ago)
 - [Drop NET_BIND_SERVICE for port binding](https://github.com/kubernetes/ingress-nginx/pull/10004) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (4 days ago)
-- [Add support for rush](https://github.com/bats-core/bats-core/pull/729) on [bats-core/bats-core](https://github.com/bats-core/bats-core) (5 days ago)
 
 #### ⭐ Recent Stars
 
