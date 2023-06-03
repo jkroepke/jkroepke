@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.29.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.29.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.110.1](https://github.com/renovatebot/renovate/releases/tag/35.110.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.9.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.36](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.36), 1 day ago) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.1), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.2), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.0-preview](https://github.com/grafana/grafana/releases/tag/v10.0.0-preview), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.9.2](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.9.2), 3 days ago) - Add-on agent to generate and expose cluster-level metrics.
 
 #### 🔨 My recent Pull Requests
 
@@ -55,6 +55,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
 - [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (2 weeks ago)
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (4 weeks ago)
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (4 weeks ago)
@@ -64,7 +65,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jonathanlermitage/ij-ilove-devtoys](https://github.com/jonathanlermitage/ij-ilove-devtoys) - 🧩 IntelliJ IDEA based IDEs plugin highly inspired from the DevToys software: hash tools, various data converters and generators, escapers, set diff viewer... (1 month ago)
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations (1 month ago)
 - [jacksontj/promxy](https://github.com/jacksontj/promxy) - An aggregating proxy to enable HA prometheus (1 month ago)
-- [dorny/paths-filter](https://github.com/dorny/paths-filter) - Conditionally run actions based on files modified by PR, feature branch or pushed commits (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
