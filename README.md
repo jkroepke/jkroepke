@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Enable OCI chart push](https://github.com/grafana/helm-charts/pull/2443) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [Implement unix socket for syslog](https://github.com/martin-helmich/prometheus-nginxlog-exporter/pull/333) on [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) (today)
 - [[jiralert] fix invalid PodDisruptionBudget](https://github.com/prometheus-community/helm-charts/pull/3458) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[prometheus-blackbox-exporter] update to 0.24.0 and add topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement structured logging](https://github.com/martin-helmich/prometheus-nginxlog-exporter/pull/331) on [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) (3 days ago)
 - [Build MSI and Portable packages for windows](https://github.com/MuhammedKalkan/OpenLens/pull/150) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (4 days ago)
 - [Implement Build Number](https://github.com/MuhammedKalkan/OpenLens/pull/149) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (4 days ago)
-- [Remove sha256 checksum check from OpenLens cask](https://github.com/Homebrew/homebrew-cask/pull/148115) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (4 days ago)
 
 #### ⭐ Recent Stars
 
