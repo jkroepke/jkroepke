@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.12.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.12.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.0), today) - ArgoProj Helm Charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.1.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.1.0), today) - helmfile-action
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.110.1](https://github.com/renovatebot/renovate/releases/tag/35.110.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.9.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.36](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.36), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.59.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.59.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.0), 3 days ago) - Vendor-neutral programmable observability pipelines.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.12.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.12.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
