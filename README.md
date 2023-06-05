@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.110.2](https://github.com/renovatebot/renovate/releases/tag/35.110.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.111.0](https://github.com/renovatebot/renovate/releases/tag/35.111.0), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-305](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-305), today) - OpenLens Binary Build Repository
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.35.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.35.0), today) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.1), today) - Vendor-neutral programmable observability pipelines.
