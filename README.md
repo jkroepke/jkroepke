@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.35.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.35.0), today) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.1), today) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.6.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.6.0), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.0), 1 day ago) - ArgoProj Helm Charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.1.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.1.0), 1 day ago) - helmfile-action
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.110.1](https://github.com/renovatebot/renovate/releases/tag/35.110.1), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.9.0), 3 days ago) - Prometheus community Helm charts
