@@ -16,29 +16,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (4 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (4 days ago)
-- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (5 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (5 days ago)
+- [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes (5 days ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (6 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.110.2](https://github.com/renovatebot/renovate/releases/tag/35.110.2), today) - Universal dependency update tool that fits into your workflows.
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-305](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-305), today) - OpenLens Binary Build Repository
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.35.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.35.0), today) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.1), today) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.6.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.6.0), today) - 
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.1.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.1.0), 1 day ago) - helmfile-action
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.110.1](https://github.com/renovatebot/renovate/releases/tag/35.110.1), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.9.0), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.59.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.59.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.12.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.12.1), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.1), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.65.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.65.2), 5 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
 #### 🔨 My recent Pull Requests
 
