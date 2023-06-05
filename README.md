@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.12.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.12.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.6.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.6.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.0), 1 day ago) - ArgoProj Helm Charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.1.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.1.0), 1 day ago) - helmfile-action
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.110.1](https://github.com/renovatebot/renovate/releases/tag/35.110.1), 2 days ago) - Universal dependency update tool that fits into your workflows.
