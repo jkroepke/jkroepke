@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add loki.memberlistConfig to fully control the memberlist configuration](https://github.com/grafana/loki/pull/9646) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [fix auto updater (again)](https://github.com/MuhammedKalkan/OpenLens/pull/157) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Add --strip-args-values-on-exit-error](https://github.com/helmfile/helmfile/pull/887) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (today)
 - [fix auto updater](https://github.com/MuhammedKalkan/OpenLens/pull/156) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[jiralert] fix invalid PodDisruptionBudget](https://github.com/prometheus-community/helm-charts/pull/3458) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-blackbox-exporter] update to 0.24.0 and add topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[prometheus-operator-crds] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/3456) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[jiralert] add PodDisruptionBudget and topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3452) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
