@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (3 days ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (5 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (5 days ago)
@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.112.1](https://github.com/renovatebot/renovate/releases/tag/35.112.1), today) - Universal dependency update tool that fits into your workflows.
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-307](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-307), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.4.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.112.0](https://github.com/renovatebot/renovate/releases/tag/35.112.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.35.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.35.1), today) - ArgoProj Helm Charts
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-305](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-305), 1 day ago) - OpenLens Binary Build Repository
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.6.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.6.0), 1 day ago) - 
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.1.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.1.0), 2 days ago) - helmfile-action
