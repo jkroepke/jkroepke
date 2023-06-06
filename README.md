@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.35.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.35.1), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.111.0](https://github.com/renovatebot/renovate/releases/tag/35.111.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-305](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-305), 1 day ago) - OpenLens Binary Build Repository
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.35.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.35.0), 1 day ago) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.6.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.6.0), 1 day ago) - 
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.1.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.1.0), 2 days ago) - helmfile-action
