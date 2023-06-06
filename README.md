@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.6.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.6.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-weekly.241](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-weekly.241), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.113.0](https://github.com/renovatebot/renovate/releases/tag/35.113.0), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-307](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-307), today) - OpenLens Binary Build Repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.4.1), today) - Prometheus community Helm charts
