@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add --strip-args-values-on-exit-error](https://github.com/helmfile/helmfile/pull/887) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (today)
 - [fix auto updater](https://github.com/MuhammedKalkan/OpenLens/pull/156) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [Mention binary application builds](https://github.com/MuhammedKalkan/OpenLens/pull/153) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
 - [Enable OCI chart push](https://github.com/grafana/helm-charts/pull/2443) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-operator-crds] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/3456) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[jiralert] add PodDisruptionBudget and topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3452) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [Update @electron/notarize](https://github.com/lensapp/lens/pull/7813) on [lensapp/lens](https://github.com/lensapp/lens) (6 days ago)
-- [Implement structured logging](https://github.com/martin-helmich/prometheus-nginxlog-exporter/pull/331) on [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
