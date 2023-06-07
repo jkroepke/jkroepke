@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (today)
-- [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
+- [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger (1 day ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (4 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (6 days ago)
@@ -29,19 +29,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.0), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-46.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.7.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.114.2](https://github.com/renovatebot/renovate/releases/tag/35.114.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.1), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.13.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.13.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.32.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.32.1), today) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcemanager-exporter-1.2.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcemanager-exporter-1.2.0), today) - Helm charts for webdevops applications
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.0), today) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.0), today) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-309](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-309), 1 day ago) - OpenLens Binary Build Repository
-- [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Add Alertmanager as default data source](https://github.com/prometheus-community/helm-charts/pull/3474) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] bump chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3473) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Add loki.memberlistConfig to fully control the memberlist configuration](https://github.com/grafana/loki/pull/9646) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
 - [fix auto updater (again)](https://github.com/MuhammedKalkan/OpenLens/pull/157) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Enable OCI chart push](https://github.com/grafana/helm-charts/pull/2443) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
 - [Implement unix socket for syslog](https://github.com/martin-helmich/prometheus-nginxlog-exporter/pull/333) on [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) (4 days ago)
 - [[jiralert] fix invalid PodDisruptionBudget](https://github.com/prometheus-community/helm-charts/pull/3458) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-blackbox-exporter] update to 0.24.0 and add topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
