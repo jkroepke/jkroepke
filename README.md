@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.114.2](https://github.com/renovatebot/renovate/releases/tag/35.114.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.1), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.114.1](https://github.com/renovatebot/renovate/releases/tag/35.114.1), today) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.13.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.13.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.32.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.32.1), today) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcemanager-exporter-1.2.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcemanager-exporter-1.2.0), today) - Helm charts for webdevops applications
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] bump chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3473) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Add loki.memberlistConfig to fully control the memberlist configuration](https://github.com/grafana/loki/pull/9646) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
 - [fix auto updater (again)](https://github.com/MuhammedKalkan/OpenLens/pull/157) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [Feat: add --strip-args-values-on-exit-error](https://github.com/helmfile/helmfile/pull/887) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement unix socket for syslog](https://github.com/martin-helmich/prometheus-nginxlog-exporter/pull/333) on [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) (4 days ago)
 - [[jiralert] fix invalid PodDisruptionBudget](https://github.com/prometheus-community/helm-charts/pull/3458) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[prometheus-blackbox-exporter] update to 0.24.0 and add topologySpreadConstraints](https://github.com/prometheus-community/helm-charts/pull/3457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[prometheus-operator-crds] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/3456) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
