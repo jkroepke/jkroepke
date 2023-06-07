@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcemanager-exporter-1.2.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcemanager-exporter-1.2.0), today) - Helm charts for webdevops applications
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.13.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.13.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.32.0), today) - Prometheus community Helm charts
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.0), today) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-309](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-309), 1 day ago) - OpenLens Binary Build Repository
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.34.0-rc.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.2.4](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.2.4), 1 day ago) - 
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.1.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.1.0), 3 days ago) - helmfile-action
 
 #### 🔨 My recent Pull Requests
 
