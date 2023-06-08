@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.15.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.15.0), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.0](https://github.com/grafana/agent/releases/tag/v0.34.0), today) - Vendor-neutral programmable observability pipelines.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.41](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.41), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.115.0](https://github.com/renovatebot/renovate/releases/tag/35.115.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.10.0), today) - Prometheus community Helm charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.1](https://github.com/kubereboot/charts/releases/tag/kured-4.5.1), today) - Helm charts for kubereboot org (kured)
