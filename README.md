@@ -18,17 +18,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (today)
+- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 day ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 day ago)
 - [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger (2 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (5 days ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) ([v0.2.1](https://github.com/leoluk/perflib_exporter/releases/tag/v0.2.1), today) - perflib-based Prometheus exporter for Windows and low-level Go perflib library
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.27](https://github.com/stakater/Reloader/releases/tag/v1.0.27), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-46.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.8.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.114.3](https://github.com/renovatebot/renovate/releases/tag/35.114.3), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.29.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.29.2), today) - ArgoProj Helm Charts
@@ -37,8 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.13.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.13.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcemanager-exporter-1.2.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcemanager-exporter-1.2.0), 1 day ago) - Helm charts for webdevops applications
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.3), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-309](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-309), 2 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
