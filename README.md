@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.34.0](https://github.com/grafana/agent/releases/tag/v0.34.0), today) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.41](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.41), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.115.0](https://github.com/renovatebot/renovate/releases/tag/35.115.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.10.0), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.29.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.29.2), today) - ArgoProj Helm Charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.13.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.13.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcemanager-exporter-1.2.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcemanager-exporter-1.2.0), 1 day ago) - Helm charts for webdevops applications
 
 #### 🔨 My recent Pull Requests
 
