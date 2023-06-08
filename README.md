@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.3](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.3), today) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-46.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-46.7.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.114.2](https://github.com/renovatebot/renovate/releases/tag/35.114.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.1), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.13.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.13.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcemanager-exporter-1.2.0](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcemanager-exporter-1.2.0), 1 day ago) - Helm charts for webdevops applications
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
