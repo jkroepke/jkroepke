@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.5](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.5), today) - Helm charts for webdevops applications
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.1](https://github.com/grafana/agent/releases/tag/v0.34.1), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.2.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.1), 4 days ago) - ArgoProj Helm Charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.1](https://github.com/kubereboot/charts/releases/tag/kured-4.5.1), 4 days ago) - Helm charts for kubereboot org (kured)
 - [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) ([v0.2.1](https://github.com/leoluk/perflib_exporter/releases/tag/v0.2.1), 4 days ago) - perflib-based Prometheus exporter for Windows and low-level Go perflib library
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.27](https://github.com/stakater/Reloader/releases/tag/v1.0.27), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
