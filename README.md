@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-weekly.242](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-weekly.242), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.42](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.42), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.1.3), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.116.6](https://github.com/renovatebot/renovate/releases/tag/35.116.6), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.60.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.60.0), 3 days ago) - Terraform provider for Azure Resource Manager
