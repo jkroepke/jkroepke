@@ -29,13 +29,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.34.1](https://github.com/grafana/agent/releases/tag/v0.34.1), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.2.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.2), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.117.0](https://github.com/renovatebot/renovate/releases/tag/35.117.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.60.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.60.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.1), 4 days ago) - ArgoProj Helm Charts
-- [grafana/agent](https://github.com/grafana/agent) ([v0.34.0](https://github.com/grafana/agent/releases/tag/v0.34.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.1](https://github.com/kubereboot/charts/releases/tag/kured-4.5.1), 4 days ago) - Helm charts for kubereboot org (kured)
 - [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) ([v0.2.1](https://github.com/leoluk/perflib_exporter/releases/tag/v0.2.1), 4 days ago) - perflib-based Prometheus exporter for Windows and low-level Go perflib library
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.27](https://github.com/stakater/Reloader/releases/tag/v1.0.27), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
