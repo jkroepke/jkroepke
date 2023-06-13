@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.3), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.8.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.117.1](https://github.com/renovatebot/renovate/releases/tag/35.117.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.7.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.7.1), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.61.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.61.0), today) - Terraform provider for Azure Resource Manager
