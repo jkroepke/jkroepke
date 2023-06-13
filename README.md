@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.6.0](https://github.com/kubereboot/charts/releases/tag/kured-4.6.0), today) - Helm charts for kubereboot org (kured)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.3), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.6), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.117.1](https://github.com/renovatebot/renovate/releases/tag/35.117.1), today) - Universal dependency update tool that fits into your workflows.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.5](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.5), 1 day ago) - Helm charts for webdevops applications
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.1](https://github.com/grafana/agent/releases/tag/v0.34.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.1), 5 days ago) - ArgoProj Helm Charts
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.5.1](https://github.com/kubereboot/charts/releases/tag/kured-4.5.1), 5 days ago) - Helm charts for kubereboot org (kured)
 - [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) ([v0.2.1](https://github.com/leoluk/perflib_exporter/releases/tag/v0.2.1), 5 days ago) - perflib-based Prometheus exporter for Windows and low-level Go perflib library
 
 #### 🔨 My recent Pull Requests
