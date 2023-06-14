@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([kube-pool-manager-1.0.11](https://github.com/webdevops/helm-charts/releases/tag/kube-pool-manager-1.0.11), today) - Helm charts for webdevops applications
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.66.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.66.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.118.0](https://github.com/renovatebot/renovate/releases/tag/35.118.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.44](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.44), today) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.6.0](https://github.com/kubereboot/charts/releases/tag/kured-4.6.0), 1 day ago) - Helm charts for kubereboot org (kured)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.61.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.61.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.5](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.5), 2 days ago) - Helm charts for webdevops applications
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.1](https://github.com/grafana/agent/releases/tag/v0.34.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
