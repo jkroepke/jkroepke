@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.305.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.305.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.117.3](https://github.com/renovatebot/renovate/releases/tag/35.117.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.5](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.5), 2 days ago) - Helm charts for webdevops applications
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.1](https://github.com/grafana/agent/releases/tag/v0.34.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.1), 6 days ago) - ArgoProj Helm Charts
-- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) ([v0.2.1](https://github.com/leoluk/perflib_exporter/releases/tag/v0.2.1), 6 days ago) - perflib-based Prometheus exporter for Windows and low-level Go perflib library
 
 #### 🔨 My recent Pull Requests
 
