@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] pass service annotations through helm tpl engine](https://github.com/kubernetes/ingress-nginx/pull/10084) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (today)
 - [Debug arm64 build](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (4 days ago)
 - [[prometheus-windows-exporter] Add chart](https://github.com/prometheus-community/helm-charts/pull/3476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [[kube-prometheus-stack] Add Alertmanager as default data source](https://github.com/prometheus-community/helm-charts/pull/3474) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Feat: add --strip-args-values-on-exit-error](https://github.com/helmfile/helmfile/pull/887) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
 - [fix auto updater](https://github.com/MuhammedKalkan/OpenLens/pull/156) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [Mention binary application builds](https://github.com/MuhammedKalkan/OpenLens/pull/153) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
-- [Enable OCI chart push](https://github.com/grafana/helm-charts/pull/2443) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
