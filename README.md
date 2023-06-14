@@ -16,19 +16,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (6 days ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
-- [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger (1 week ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
+- [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.66.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.66.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.118.0](https://github.com/renovatebot/renovate/releases/tag/35.118.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.44](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.44), today) - 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.305.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.305.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.61.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.61.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.5](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.5), 2 days ago) - Helm charts for webdevops applications
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.1](https://github.com/grafana/agent/releases/tag/v0.34.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.1), 6 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
