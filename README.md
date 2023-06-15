@@ -29,7 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.119.0](https://github.com/renovatebot/renovate/releases/tag/35.119.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.119.2](https://github.com/renovatebot/renovate/releases/tag/35.119.2), today) - Universal dependency update tool that fits into your workflows.
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.1), today) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.5.0), today) - Prometheus community Helm charts
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.7.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.7.0), today) - A proxy that enforces a given label in a given PromQL query.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.5](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.5), 1 day ago) - Helm charts for webdevops applications
@@ -37,8 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.44](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.44), 1 day ago) - 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.305.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.305.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.6.0](https://github.com/kubereboot/charts/releases/tag/kured-4.6.0), 2 days ago) - Helm charts for kubereboot org (kured)
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.6), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.61.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.61.0), 2 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
