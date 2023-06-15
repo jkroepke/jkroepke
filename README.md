@@ -16,12 +16,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
-- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (6 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (6 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (6 days ago)
+- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (1 week ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
@@ -29,22 +29,22 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([kube-pool-manager-1.0.11](https://github.com/webdevops/helm-charts/releases/tag/kube-pool-manager-1.0.11), today) - Helm charts for webdevops applications
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.66.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.66.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.118.0](https://github.com/renovatebot/renovate/releases/tag/35.118.0), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.44](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.44), today) - 
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.305.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.305.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.4), today) - Prometheus community Helm charts
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.6.0](https://github.com/kubereboot/charts/releases/tag/kured-4.6.0), 1 day ago) - Helm charts for kubereboot org (kured)
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.61.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.61.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [grafana/agent](https://github.com/grafana/agent) ([v0.34.1](https://github.com/grafana/agent/releases/tag/v0.34.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.5](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.5), 1 day ago) - Helm charts for webdevops applications
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.66.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.66.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.118.0](https://github.com/renovatebot/renovate/releases/tag/35.118.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.44](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.44), 1 day ago) - 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.305.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.305.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.4), 1 day ago) - Prometheus community Helm charts
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.6.0](https://github.com/kubereboot/charts/releases/tag/kured-4.6.0), 2 days ago) - Helm charts for kubereboot org (kured)
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.6), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.61.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.61.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/agent](https://github.com/grafana/agent) ([v0.34.1](https://github.com/grafana/agent/releases/tag/v0.34.1), 3 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
-- [[helm] pass service annotations through helm tpl engine](https://github.com/kubernetes/ingress-nginx/pull/10084) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (today)
-- [Debug arm64 build](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (4 days ago)
-- [[prometheus-windows-exporter] Add chart](https://github.com/prometheus-community/helm-charts/pull/3476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[helm] pass service annotations through helm tpl engine](https://github.com/kubernetes/ingress-nginx/pull/10084) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 day ago)
+- [Debug arm64 build](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (5 days ago)
+- [[prometheus-windows-exporter] Add chart](https://github.com/prometheus-community/helm-charts/pull/3476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Add Alertmanager as default data source](https://github.com/prometheus-community/helm-charts/pull/3474) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3473) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Add loki.memberlistConfig to fully control the memberlist configuration](https://github.com/grafana/loki/pull/9646) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
@@ -56,7 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### ⭐ Recent Stars
 
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
-- [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (4 weeks ago)
+- [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (1 month ago)
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (1 month ago)
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (1 month ago)
 - [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (1 month ago)
