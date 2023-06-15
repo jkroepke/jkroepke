@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.5.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.118.1](https://github.com/renovatebot/renovate/releases/tag/35.118.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.7.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.7.0), today) - A proxy that enforces a given label in a given PromQL query.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-0.33.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-0.33.1), today) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.5](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.5), 1 day ago) - Helm charts for webdevops applications
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.66.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.66.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.44](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.44), 1 day ago) - 
