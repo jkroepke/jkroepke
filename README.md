@@ -17,20 +17,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
-- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (1 week ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [go-kit/log](https://github.com/go-kit/log) - A minimal and extensible structured logger (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcegraph-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcegraph-exporter-1.0.3), today) - Helm charts for webdevops applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.120.0](https://github.com/renovatebot/renovate/releases/tag/35.120.0), today) - Universal dependency update tool that fits into your workflows.
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcemanager-exporter-1.2.1](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcemanager-exporter-1.2.1), today) - Helm charts for webdevops applications
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.1), today) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.5.0), today) - Prometheus community Helm charts
@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔨 My recent Pull Requests
 
 - [[helm] pass service annotations through helm tpl engine](https://github.com/kubernetes/ingress-nginx/pull/10084) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 day ago)
-- [Debug arm64 build](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (5 days ago)
+- [Fix linux arm64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (5 days ago)
 - [[prometheus-windows-exporter] Add chart](https://github.com/prometheus-community/helm-charts/pull/3476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Add Alertmanager as default data source](https://github.com/prometheus-community/helm-charts/pull/3474) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] bump chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3473) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
