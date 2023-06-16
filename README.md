@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.122.0](https://github.com/renovatebot/renovate/releases/tag/35.122.0), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-356](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-356), today) - OpenLens Binary Build Repository
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcegraph-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcegraph-exporter-1.0.3), 1 day ago) - Helm charts for webdevops applications
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.120.0](https://github.com/renovatebot/renovate/releases/tag/35.120.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.1), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.5.0), 1 day ago) - Prometheus community Helm charts
