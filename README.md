@@ -16,8 +16,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (1 week ago)
@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-356](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-356), today) - OpenLens Binary Build Repository
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-resourcegraph-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/azure-resourcegraph-exporter-1.0.3), 1 day ago) - Helm charts for webdevops applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.120.0](https://github.com/renovatebot/renovate/releases/tag/35.120.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.1), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
@@ -38,10 +39,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.66.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.66.0), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.44](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.44), 2 days ago) - 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.305.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.305.0), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.6.0](https://github.com/kubereboot/charts/releases/tag/kured-4.6.0), 3 days ago) - Helm charts for kubereboot org (kured)
 
 #### 🔨 My recent Pull Requests
 
+- [Update main.yml](https://github.com/MuhammedKalkan/OpenLens/pull/162) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [[helm] pass service annotations through helm tpl engine](https://github.com/kubernetes/ingress-nginx/pull/10084) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
 - [Fix linux arm64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (6 days ago)
 - [[prometheus-windows-exporter] Add chart](https://github.com/prometheus-community/helm-charts/pull/3476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix auto updater (again)](https://github.com/MuhammedKalkan/OpenLens/pull/157) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [Feat: add --strip-args-values-on-exit-error](https://github.com/helmfile/helmfile/pull/887) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
 - [fix auto updater](https://github.com/MuhammedKalkan/OpenLens/pull/156) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
-- [Mention binary application builds](https://github.com/MuhammedKalkan/OpenLens/pull/153) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 
 #### ⭐ Recent Stars
 
