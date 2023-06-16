@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.123.0](https://github.com/renovatebot/renovate/releases/tag/35.123.0), today) - Universal dependency update tool that fits into your workflows.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-scheduledevents-manager-1.0.11](https://github.com/webdevops/helm-charts/releases/tag/azure-scheduledevents-manager-1.0.11), today) - Helm charts for webdevops applications
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.2), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.122.0](https://github.com/renovatebot/renovate/releases/tag/35.122.0), today) - Universal dependency update tool that fits into your workflows.
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-356](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-356), today) - OpenLens Binary Build Repository
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.1), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
