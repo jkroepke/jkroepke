@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.2), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.124.1](https://github.com/renovatebot/renovate/releases/tag/35.124.1), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.1.1](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.1.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-scheduledevents-manager-1.0.11](https://github.com/webdevops/helm-charts/releases/tag/azure-scheduledevents-manager-1.0.11), 1 day ago) - Helm charts for webdevops applications
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.1), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.7), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.7.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.7.0), 2 days ago) - A proxy that enforces a given label in a given PromQL query.
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.66.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.66.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
 #### 🔨 My recent Pull Requests
 
