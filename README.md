@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.124.2](https://github.com/renovatebot/renovate/releases/tag/35.124.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.124.4](https://github.com/renovatebot/renovate/releases/tag/35.124.4), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.2), today) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.1.1](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.1.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-scheduledevents-manager-1.0.11](https://github.com/webdevops/helm-charts/releases/tag/azure-scheduledevents-manager-1.0.11), 1 day ago) - Helm charts for webdevops applications
