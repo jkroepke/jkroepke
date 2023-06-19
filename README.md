@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.133.0](https://github.com/renovatebot/renovate/releases/tag/35.133.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.133.1](https://github.com/renovatebot/renovate/releases/tag/35.133.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.6), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.2), 2 days ago) - ArgoProj Helm Charts
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [gntem](https://github.com/gntem)
 - [Rajifatai](https://github.com/Rajifatai)
 - [eva-mueller-coremedia](https://github.com/eva-mueller-coremedia)
 - [SeshatCZ](https://github.com/SeshatCZ)
 - [nickstamat](https://github.com/nickstamat)
-- [K-web04](https://github.com/K-web04)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
