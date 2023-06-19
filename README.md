@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.6](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.6), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.132.0](https://github.com/renovatebot/renovate/releases/tag/35.132.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.5](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.5), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.2), 2 days ago) - ArgoProj Helm Charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-scheduledevents-manager-1.0.11](https://github.com/webdevops/helm-charts/releases/tag/azure-scheduledevents-manager-1.0.11), 3 days ago) - Helm charts for webdevops applications
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.2), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
