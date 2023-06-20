@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingmesh-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingmesh-exporter-0.3.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.4), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.1), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.134.1](https://github.com/renovatebot/renovate/releases/tag/35.134.1), today) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.4), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.3), 1 day ago) - Helm charts for webdevops applications
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [ianmuge](https://github.com/ianmuge)
 - [luisgerhorst](https://github.com/luisgerhorst)
 - [gntem](https://github.com/gntem)
 - [Rajifatai](https://github.com/Rajifatai)
 - [eva-mueller-coremedia](https://github.com/eva-mueller-coremedia)
-- [SeshatCZ](https://github.com/SeshatCZ)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
