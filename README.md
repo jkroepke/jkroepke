@@ -29,13 +29,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.0.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.134.0](https://github.com/renovatebot/renovate/releases/tag/35.134.0), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.1), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.134.1](https://github.com/renovatebot/renovate/releases/tag/35.134.1), today) - Universal dependency update tool that fits into your workflows.
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.4), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-5.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.3), today) - ArgoProj Helm Charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.3), 1 day ago) - Helm charts for webdevops applications
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.3), 1 day ago) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-356](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-356), 4 days ago) - OpenLens Binary Build Repository
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.1), 5 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-20.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-20.0.7), 5 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
