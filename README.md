@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.4.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.4.0), today) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.16.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.16.0), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.2](https://github.com/grafana/agent/releases/tag/v0.34.2), today) - Vendor-neutral programmable observability pipelines.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.6), today) - ArgoProj Helm Charts
@@ -38,10 +39,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.14.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.14.2), 1 day ago) - Dex Helm chart repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.3.0), 1 day ago) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.3), 2 days ago) - Helm charts for webdevops applications
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.0), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
+- [Added json_path function](https://github.com/grafana/agent/pull/4225) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [[*] CI: fail pipeline, if helm push is not successful](https://github.com/prometheus-community/helm-charts/pull/3506) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Add -decode-kubernetes-secrets flag to vals eval](https://github.com/helmfile/vals/pull/150) on [helmfile/vals](https://github.com/helmfile/vals) (3 days ago)
 - [Update main.yml](https://github.com/MuhammedKalkan/OpenLens/pull/162) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Add Alertmanager as default data source](https://github.com/prometheus-community/helm-charts/pull/3474) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3473) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Add loki.memberlistConfig to fully control the memberlist configuration](https://github.com/grafana/loki/pull/9646) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
-- [fix auto updater (again)](https://github.com/MuhammedKalkan/OpenLens/pull/157) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
