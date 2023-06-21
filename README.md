@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.34.2](https://github.com/grafana/agent/releases/tag/v0.34.2), today) - Vendor-neutral programmable observability pipelines.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.6), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.140.0](https://github.com/renovatebot/renovate/releases/tag/35.140.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.3.0), 1 day ago) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.3), 2 days ago) - Helm charts for webdevops applications
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.0), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-356](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-356), 5 days ago) - OpenLens Binary Build Repository
 
 #### 🔨 My recent Pull Requests
 
