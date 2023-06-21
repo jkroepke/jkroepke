@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.138.0](https://github.com/renovatebot/renovate/releases/tag/35.138.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.5), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.16](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.16), 1 day ago) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.3](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.3), 2 days ago) - Helm charts for webdevops applications
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.0), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-356](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-356), 5 days ago) - OpenLens Binary Build Repository
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.6.1](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.6.1), 6 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 
 #### 🔨 My recent Pull Requests
 
