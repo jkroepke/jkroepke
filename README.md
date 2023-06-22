@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.140.2](https://github.com/renovatebot/renovate/releases/tag/35.140.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.46](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.46), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.18.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.140.1](https://github.com/renovatebot/renovate/releases/tag/35.140.1), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.4.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.4.0), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.2](https://github.com/grafana/agent/releases/tag/v0.34.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.6), 1 day ago) - ArgoProj Helm Charts
