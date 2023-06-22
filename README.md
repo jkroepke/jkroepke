@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.2.46](https://github.com/grafana/helm-charts/releases/tag/oncall-1.2.46), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.18.1), today) - Prometheus community Helm charts
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.0](https://github.com/grafana/grafana/releases/tag/v10.0.0), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.140.1](https://github.com/renovatebot/renovate/releases/tag/35.140.1), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.4.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.4.0), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.2](https://github.com/grafana/agent/releases/tag/v0.34.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Revert &#34;Enable OCI chart push&#34;](https://github.com/grafana/helm-charts/pull/2474) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [Added json_path function](https://github.com/grafana/agent/pull/4225) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
 - [[*] CI: fail pipeline, if helm push is not successful](https://github.com/prometheus-community/helm-charts/pull/3506) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [Add -decode-kubernetes-secrets flag to vals eval](https://github.com/helmfile/vals/pull/150) on [helmfile/vals](https://github.com/helmfile/vals) (4 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-windows-exporter] Add chart](https://github.com/prometheus-community/helm-charts/pull/3476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] Add Alertmanager as default data source](https://github.com/prometheus-community/helm-charts/pull/3474) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] bump chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3473) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [Add loki.memberlistConfig to fully control the memberlist configuration](https://github.com/grafana/loki/pull/9646) on [grafana/loki](https://github.com/grafana/loki) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
