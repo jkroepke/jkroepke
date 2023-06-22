@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.4](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.4), today) - 
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.4.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.4.0), 1 day ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.16.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.16.0), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.2](https://github.com/grafana/agent/releases/tag/v0.34.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.6), 1 day ago) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.140.0](https://github.com/renovatebot/renovate/releases/tag/35.140.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
