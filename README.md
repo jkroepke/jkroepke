@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.1), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.7), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-rc.0), today) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.0), today) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.140.3](https://github.com/renovatebot/renovate/releases/tag/35.140.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.18.1), 1 day ago) - Prometheus community Helm charts
