@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.4](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.4), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.0), today) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.140.3](https://github.com/renovatebot/renovate/releases/tag/35.140.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
