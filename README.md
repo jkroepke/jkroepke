@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Chart enchantments](https://github.com/resmoio/kubernetes-event-exporter/pull/97) on [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) (today)
 - [Revert &#34;Enable OCI chart push&#34;](https://github.com/grafana/helm-charts/pull/2474) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
 - [Added json_path function](https://github.com/grafana/agent/pull/4225) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
 - [[*] CI: fail pipeline, if helm push is not successful](https://github.com/prometheus-community/helm-charts/pull/3506) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix linux arm64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [[prometheus-windows-exporter] Add chart](https://github.com/prometheus-community/helm-charts/pull/3476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[kube-prometheus-stack] Add Alertmanager as default data source](https://github.com/prometheus-community/helm-charts/pull/3474) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] bump chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3473) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
