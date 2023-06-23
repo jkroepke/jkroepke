@@ -16,20 +16,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) - Dex Helm chart repository (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (6 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (2 weeks ago)
-- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.4.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.4.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-rc.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.0), today) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.140.3](https://github.com/renovatebot/renovate/releases/tag/35.140.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
