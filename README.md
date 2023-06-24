@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [POC: Implement Auth Basic for Web API](https://github.com/grafana/agent/pull/4258) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [Chart enchantments](https://github.com/resmoio/kubernetes-event-exporter/pull/97) on [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) (1 day ago)
 - [Revert &#34;Enable OCI chart push&#34;](https://github.com/grafana/helm-charts/pull/2474) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
 - [Added json_path function](https://github.com/grafana/agent/pull/4225) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] pass service annotations through helm tpl engine](https://github.com/kubernetes/ingress-nginx/pull/10084) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 week ago)
 - [Fix linux arm64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 - [[prometheus-windows-exporter] Add chart](https://github.com/prometheus-community/helm-charts/pull/3476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[kube-prometheus-stack] Add Alertmanager as default data source](https://github.com/prometheus-community/helm-charts/pull/3474) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
