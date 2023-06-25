@@ -25,7 +25,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System (2 weeks ago)
+- [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Allow to skip diff output on release base](https://github.com/helmfile/helmfile/pull/906) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (today)
 - [Test electron-builder 24.5.1](https://github.com/MuhammedKalkan/OpenLens/pull/163) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (today)
 - [POC: Implement Auth Basic for Web API](https://github.com/grafana/agent/pull/4258) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
 - [Chart enchantments](https://github.com/resmoio/kubernetes-event-exporter/pull/97) on [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add -decode-kubernetes-secrets flag to vals eval](https://github.com/helmfile/vals/pull/150) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
 - [Update main.yml](https://github.com/MuhammedKalkan/OpenLens/pull/162) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [[helm] pass service annotations through helm tpl engine](https://github.com/kubernetes/ingress-nginx/pull/10084) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 week ago)
-- [Fix linux arm64 builds](https://github.com/MuhammedKalkan/OpenLens/pull/160) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
