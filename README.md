@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.141.4](https://github.com/renovatebot/renovate/releases/tag/35.141.4), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.30.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.30.0), 2 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.7), 2 days ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.141.3](https://github.com/renovatebot/renovate/releases/tag/35.141.3), 2 days ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.4.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.4.5), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.4.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.4.0), 5 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
