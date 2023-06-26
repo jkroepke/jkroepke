@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Bump Prometheus and chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3522) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat: Allow to skip diff output on release base](https://github.com/helmfile/helmfile/pull/906) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 day ago)
 - [Test electron-builder 24.5.1](https://github.com/MuhammedKalkan/OpenLens/pull/163) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [POC: Implement Auth Basic for Web API](https://github.com/grafana/agent/pull/4258) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[*] CI: fail pipeline, if helm push is not successful](https://github.com/prometheus-community/helm-charts/pull/3506) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Add -decode-kubernetes-secrets flag to vals eval](https://github.com/helmfile/vals/pull/150) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
 - [Update main.yml](https://github.com/MuhammedKalkan/OpenLens/pull/162) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
-- [[helm] pass service annotations through helm tpl engine](https://github.com/kubernetes/ingress-nginx/pull/10084) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 week ago)
 
 #### ⭐ Recent Stars
 
