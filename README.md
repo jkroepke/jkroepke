@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.4.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.4.6), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.29](https://github.com/stakater/Reloader/releases/tag/v1.0.29), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.144.0](https://github.com/renovatebot/renovate/releases/tag/35.144.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.12.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.4), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.10), 1 day ago) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.1), 4 days ago) - Terraform provider for Azure Resource Manager
