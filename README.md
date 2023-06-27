@@ -29,7 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.143.3](https://github.com/renovatebot/renovate/releases/tag/35.143.3), today) - Universal dependency update tool that fits into your workflows.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.28](https://github.com/stakater/Reloader/releases/tag/v1.0.28), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.144.0](https://github.com/renovatebot/renovate/releases/tag/35.144.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.12.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.4), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.10), 1 day ago) - ArgoProj Helm Charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.4.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.4.0), 6 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.2](https://github.com/grafana/agent/releases/tag/v0.34.2), 6 days ago) - Vendor-neutral programmable observability pipelines.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.0), 6 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
