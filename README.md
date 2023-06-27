@@ -16,10 +16,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) - Dex Helm chart repository (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.12.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.143.1](https://github.com/renovatebot/renovate/releases/tag/35.143.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.4), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.143.0](https://github.com/renovatebot/renovate/releases/tag/35.143.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.10), 1 day ago) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.6.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.6.7), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.1), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [hashicorp/terraform-provider-http](https://github.com/hashicorp/terraform-provider-http) ([v3.4.0](https://github.com/hashicorp/terraform-provider-http/releases/tag/v3.4.0), 6 days ago) - Utility provider for interacting with generic HTTP servers as part of a Terraform configuration.
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [christianknell](https://github.com/christianknell)
 - [schuerg](https://github.com/schuerg)
 - [floweb](https://github.com/floweb)
 - [cubby-dev123](https://github.com/cubby-dev123)
 - [ianmuge](https://github.com/ianmuge)
-- [luisgerhorst](https://github.com/luisgerhorst)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
