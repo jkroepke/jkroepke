@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.143.3](https://github.com/renovatebot/renovate/releases/tag/35.143.3), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-7.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-7.12.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.143.1](https://github.com/renovatebot/renovate/releases/tag/35.143.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.57.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.57.4), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.10), 1 day ago) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
