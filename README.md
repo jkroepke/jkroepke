@@ -16,7 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (5 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (6 days ago)
@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([21.1.2](https://github.com/keycloak/keycloak/releases/tag/21.1.2), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [grafana/agent](https://github.com/grafana/agent) ([v0.34.3](https://github.com/grafana/agent/releases/tag/v0.34.3), today) - Vendor-neutral programmable observability pipelines.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.0.1), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.2), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-weekly.244](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-weekly.244), 1 day ago) - 
