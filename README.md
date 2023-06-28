@@ -16,41 +16,41 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (4 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (5 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (6 days ago)
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) - Dex Helm chart repository (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 - [leoluk/perflib_exporter](https://github.com/leoluk/perflib_exporter) - perflib-based Prometheus exporter for Windows and low-level Go perflib library (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.0.1), today) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-weekly.244](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-weekly.244), today) - 
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.14.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.14.3), today) - Dex Helm chart repository
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.29](https://github.com/stakater/Reloader/releases/tag/v1.0.29), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.144.0](https://github.com/renovatebot/renovate/releases/tag/35.144.0), today) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.10), 1 day ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.1), 4 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.5](https://github.com/grafana/grafana/releases/tag/v9.5.5), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.34.3](https://github.com/grafana/agent/releases/tag/v0.34.3), today) - Vendor-neutral programmable observability pipelines.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.0.1), 1 day ago) - Prometheus community Helm charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.5.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.5.2), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-weekly.244](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-weekly.244), 1 day ago) - 
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.14.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.14.3), 1 day ago) - Dex Helm chart repository
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.29](https://github.com/stakater/Reloader/releases/tag/v1.0.29), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.144.0](https://github.com/renovatebot/renovate/releases/tag/35.144.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.10), 2 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.1), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-blackbox-exporter] Pass ingress hostname through tpl function](https://github.com/prometheus-community/helm-charts/pull/3525) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-blackbox-exporter] Allow to configure probe and metrics path](https://github.com/prometheus-community/helm-charts/pull/3524) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] Bump Prometheus and chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3522) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [feat: Allow to skip diff output on release base](https://github.com/helmfile/helmfile/pull/906) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (2 days ago)
-- [Test electron-builder 24.5.1](https://github.com/MuhammedKalkan/OpenLens/pull/163) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
-- [POC: Implement Auth Basic for Web API](https://github.com/grafana/agent/pull/4258) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
-- [Chart enchantments](https://github.com/resmoio/kubernetes-event-exporter/pull/97) on [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) (4 days ago)
-- [Revert &#34;Enable OCI chart push&#34;](https://github.com/grafana/helm-charts/pull/2474) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (5 days ago)
-- [Added json_path function](https://github.com/grafana/agent/pull/4225) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
+- [[prometheus-blackbox-exporter] Pass ingress hostname through tpl function](https://github.com/prometheus-community/helm-charts/pull/3525) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-blackbox-exporter] Allow to configure probe and metrics path](https://github.com/prometheus-community/helm-charts/pull/3524) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] Bump Prometheus and chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3522) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [feat: Allow to skip diff output on release base](https://github.com/helmfile/helmfile/pull/906) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 days ago)
+- [Test electron-builder 24.5.1](https://github.com/MuhammedKalkan/OpenLens/pull/163) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (3 days ago)
+- [POC: Implement Auth Basic for Web API](https://github.com/grafana/agent/pull/4258) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
+- [Chart enchantments](https://github.com/resmoio/kubernetes-event-exporter/pull/97) on [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) (5 days ago)
+- [Revert &#34;Enable OCI chart push&#34;](https://github.com/grafana/helm-charts/pull/2474) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 days ago)
+- [Added json_path function](https://github.com/grafana/agent/pull/4225) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [[*] CI: fail pipeline, if helm push is not successful](https://github.com/prometheus-community/helm-charts/pull/3506) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
