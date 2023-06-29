@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.146.1](https://github.com/renovatebot/renovate/releases/tag/35.146.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.11), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.145.0](https://github.com/renovatebot/renovate/releases/tag/35.145.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.2), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.0](https://github.com/helmfile/helmfile/releases/tag/v0.155.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
