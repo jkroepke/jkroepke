@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.0](https://github.com/helmfile/helmfile/releases/tag/v0.155.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.4.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.4.7), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.144.2](https://github.com/renovatebot/renovate/releases/tag/35.144.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.14.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.14.3), 2 days ago) - Dex Helm chart repository
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.29](https://github.com/stakater/Reloader/releases/tag/v1.0.29), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.10](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.10), 3 days ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.62.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.62.1), 6 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
