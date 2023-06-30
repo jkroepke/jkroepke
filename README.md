@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Added write_relabel config for prometheus.remote_write](https://github.com/grafana/agent/pull/4312) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [Test electron-builder beforeBuild](https://github.com/MuhammedKalkan/OpenLens/pull/164) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
 - [feat: Allow suppress diff line output by regex](https://github.com/databus23/helm-diff/pull/475) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (2 days ago)
 - [[prometheus-blackbox-exporter] Pass ingress hostname through tpl function](https://github.com/prometheus-community/helm-charts/pull/3525) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Test electron-builder 24.5.1](https://github.com/MuhammedKalkan/OpenLens/pull/163) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (5 days ago)
 - [POC: Implement Auth Basic for Web API](https://github.com/grafana/agent/pull/4258) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
 - [Chart enchantments](https://github.com/resmoio/kubernetes-event-exporter/pull/97) on [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) (1 week ago)
-- [Revert &#34;Enable OCI chart push&#34;](https://github.com/grafana/helm-charts/pull/2474) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
