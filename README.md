@@ -16,9 +16,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (today)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
@@ -29,28 +29,28 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.1), today) - Ingress-NGINX Controller for Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.151.0](https://github.com/renovatebot/renovate/releases/tag/35.151.0), today) - Universal dependency update tool that fits into your workflows.
-- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), today) - OpenLens Binary Build Repository
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.3), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.8](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.8), today) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.63.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.63.0), today) - Terraform provider for Azure Resource Manager
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.11), 1 day ago) - ArgoProj Helm Charts
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.0](https://github.com/helmfile/helmfile/releases/tag/v0.155.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/agent](https://github.com/grafana/agent) ([v0.34.3](https://github.com/grafana/agent/releases/tag/v0.34.3), 2 days ago) - Vendor-neutral programmable observability pipelines.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.151.1](https://github.com/renovatebot/renovate/releases/tag/35.151.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
+- [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), 1 day ago) - OpenLens Binary Build Repository
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.8](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.8), 1 day ago) - 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.63.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.63.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.11), 2 days ago) - ArgoProj Helm Charts
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.0](https://github.com/helmfile/helmfile/releases/tag/v0.155.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 3 days ago) - Prometheus community Helm charts
+- [grafana/agent](https://github.com/grafana/agent) ([v0.34.3](https://github.com/grafana/agent/releases/tag/v0.34.3), 3 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
-- [Added write_relabel config for prometheus.remote_write](https://github.com/grafana/agent/pull/4312) on [grafana/agent](https://github.com/grafana/agent) (today)
-- [Use electron-builder beforeBuild](https://github.com/MuhammedKalkan/OpenLens/pull/164) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 day ago)
-- [feat: Allow suppress diff line output by regex](https://github.com/databus23/helm-diff/pull/475) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (2 days ago)
-- [[prometheus-blackbox-exporter] Pass ingress hostname through tpl function](https://github.com/prometheus-community/helm-charts/pull/3525) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[prometheus-blackbox-exporter] Allow to configure probe and metrics path](https://github.com/prometheus-community/helm-charts/pull/3524) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[kube-prometheus-stack] Bump Prometheus and chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3522) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [feat: Allow to skip diff output on release base](https://github.com/helmfile/helmfile/pull/906) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (5 days ago)
-- [Test electron-builder 24.5.1](https://github.com/MuhammedKalkan/OpenLens/pull/163) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (5 days ago)
-- [POC: Implement Auth Basic for Web API](https://github.com/grafana/agent/pull/4258) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
+- [Added write_relabel config for prometheus.remote_write](https://github.com/grafana/agent/pull/4312) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
+- [Use electron-builder beforeBuild](https://github.com/MuhammedKalkan/OpenLens/pull/164) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (2 days ago)
+- [feat: Allow suppress diff line output by regex](https://github.com/databus23/helm-diff/pull/475) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (3 days ago)
+- [[prometheus-blackbox-exporter] Pass ingress hostname through tpl function](https://github.com/prometheus-community/helm-charts/pull/3525) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[prometheus-blackbox-exporter] Allow to configure probe and metrics path](https://github.com/prometheus-community/helm-charts/pull/3524) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [[kube-prometheus-stack] Bump Prometheus and chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3522) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [feat: Allow to skip diff output on release base](https://github.com/helmfile/helmfile/pull/906) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (6 days ago)
+- [Test electron-builder 24.5.1](https://github.com/MuhammedKalkan/OpenLens/pull/163) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (6 days ago)
+- [POC: Implement Auth Basic for Web API](https://github.com/grafana/agent/pull/4258) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [Chart enchantments](https://github.com/resmoio/kubernetes-event-exporter/pull/97) on [resmoio/kubernetes-event-exporter](https://github.com/resmoio/kubernetes-event-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
@@ -58,7 +58,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (1 week ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (1 week ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 weeks ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 weeks ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (4 weeks ago)
 - [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (1 month ago)
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (1 month ago)
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (1 month ago)
