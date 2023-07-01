@@ -16,12 +16,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (today)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) - Dex Helm chart repository (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.152.0](https://github.com/renovatebot/renovate/releases/tag/35.152.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.151.1](https://github.com/renovatebot/renovate/releases/tag/35.151.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), 1 day ago) - OpenLens Binary Build Repository
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.8](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.8), 1 day ago) - 
