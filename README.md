@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.154.0](https://github.com/renovatebot/renovate/releases/tag/35.154.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.155.0](https://github.com/renovatebot/renovate/releases/tag/35.155.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.4), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), 1 day ago) - OpenLens Binary Build Repository
