@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.157.1](https://github.com/renovatebot/renovate/releases/tag/35.157.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.7.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.13), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.157.0](https://github.com/renovatebot/renovate/releases/tag/35.157.0), today) - Universal dependency update tool that fits into your workflows.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.6](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.6), today) - Helm charts for webdevops applications
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.1), 2 days ago) - Ingress-NGINX Controller for Kubernetes
