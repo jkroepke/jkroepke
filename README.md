@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.6.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.13), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.157.0](https://github.com/renovatebot/renovate/releases/tag/35.157.0), today) - Universal dependency update tool that fits into your workflows.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.6](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.6), today) - Helm charts for webdevops applications
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.8](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.8), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.63.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.63.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.0](https://github.com/helmfile/helmfile/releases/tag/v0.155.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 4 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
