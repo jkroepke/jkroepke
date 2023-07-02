@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.12](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.12), today) - ArgoProj Helm Charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.6](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.6), today) - Helm charts for webdevops applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.156.0](https://github.com/renovatebot/renovate/releases/tag/35.156.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), 2 days ago) - OpenLens Binary Build Repository
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.8](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.8), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.63.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.63.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.11](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.11), 3 days ago) - ArgoProj Helm Charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.0](https://github.com/helmfile/helmfile/releases/tag/v0.155.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.1.0), 4 days ago) - Prometheus community Helm charts
 
