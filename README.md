@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-22.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-22.7.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.13](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.13), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.157.0](https://github.com/renovatebot/renovate/releases/tag/35.157.0), today) - Universal dependency update tool that fits into your workflows.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-keyvault-exporter-1.0.6](https://github.com/webdevops/helm-charts/releases/tag/azure-keyvault-exporter-1.0.6), today) - Helm charts for webdevops applications
