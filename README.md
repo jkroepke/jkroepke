@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Move CRDs into sub-charts](https://github.com/prometheus-community/helm-charts/pull/3547) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Minify windows dashboards](https://github.com/prometheus-community/helm-charts/pull/3546) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Implement ServiceMonitor endpoints for reloader components](https://github.com/prometheus-community/helm-charts/pull/3543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Log errors from probe](https://github.com/prometheus/blackbox_exporter/pull/1091) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: Allow suppress diff line output by regex](https://github.com/databus23/helm-diff/pull/475) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (5 days ago)
 - [[prometheus-blackbox-exporter] Pass ingress hostname through tpl function](https://github.com/prometheus-community/helm-charts/pull/3525) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[prometheus-blackbox-exporter] Allow to configure probe and metrics path](https://github.com/prometheus-community/helm-charts/pull/3524) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] Bump Prometheus and chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3522) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
