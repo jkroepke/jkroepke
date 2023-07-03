@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔨 My recent Pull Requests
 
 - [[kube-prometheus-stack] Minify windows dashboards](https://github.com/prometheus-community/helm-charts/pull/3546) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] Implement ServiceMonitor endpoints for reloader components (&#43; minify windows dashboards)](https://github.com/prometheus-community/helm-charts/pull/3543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[kube-prometheus-stack] Implement ServiceMonitor endpoints for reloader components](https://github.com/prometheus-community/helm-charts/pull/3543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Log errors from probe](https://github.com/prometheus/blackbox_exporter/pull/1091) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (2 days ago)
 - [Support define api-versions for helm scanner](https://github.com/aquasecurity/defsec/pull/1361) on [aquasecurity/defsec](https://github.com/aquasecurity/defsec) (2 days ago)
 - [Added write_relabel config for prometheus.remote_write](https://github.com/grafana/agent/pull/4312) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
