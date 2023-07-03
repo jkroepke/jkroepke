@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Implement ServiceMonitor endpoints for reloader components](https://github.com/prometheus-community/helm-charts/pull/3543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Log errors from probe](https://github.com/prometheus/blackbox_exporter/pull/1091) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (2 days ago)
 - [Support define api-versions for helm scanner](https://github.com/aquasecurity/defsec/pull/1361) on [aquasecurity/defsec](https://github.com/aquasecurity/defsec) (2 days ago)
 - [Added write_relabel config for prometheus.remote_write](https://github.com/grafana/agent/pull/4312) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-blackbox-exporter] Allow to configure probe and metrics path](https://github.com/prometheus-community/helm-charts/pull/3524) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Bump Prometheus and chart dependencies](https://github.com/prometheus-community/helm-charts/pull/3522) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat: Allow to skip diff output on release base](https://github.com/helmfile/helmfile/pull/906) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
-- [Test electron-builder 24.5.1](https://github.com/MuhammedKalkan/OpenLens/pull/163) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 
 #### ⭐ Recent Stars
 
