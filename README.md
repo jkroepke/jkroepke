@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.2.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.3.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.159.4](https://github.com/renovatebot/renovate/releases/tag/35.159.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.14), 1 day ago) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [rouke-broersma](https://github.com/rouke-broersma)
 - [Christoph-Raab](https://github.com/Christoph-Raab)
 - [christianknell](https://github.com/christianknell)
 - [schuerg](https://github.com/schuerg)
 - [floweb](https://github.com/floweb)
-- [cubby-dev123](https://github.com/cubby-dev123)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
