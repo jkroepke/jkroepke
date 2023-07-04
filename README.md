@@ -16,11 +16,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 days ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (3 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) - Dex Helm chart repository (2 weeks ago)
@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.2.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.159.4](https://github.com/renovatebot/renovate/releases/tag/35.159.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.14](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.14), 1 day ago) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.2.0), 1 day ago) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.8](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.8), 2 days ago) - Helm charts for webdevops applications
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.1), 4 days ago) - Ingress-NGINX Controller for Kubernetes
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), 4 days ago) - OpenLens Binary Build Repository
@@ -55,6 +55,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (today)
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 weeks ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (2 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 weeks ago)
@@ -64,7 +65,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (1 month ago)
 - [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (2 months ago)
 - [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher (2 months ago)
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C# (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
