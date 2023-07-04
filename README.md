@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.37.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.37.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([35.159.5](https://github.com/renovatebot/renovate/releases/tag/35.159.5), today) - Universal dependency update tool that fits into your workflows.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.36.15](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.36.15), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.3.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.6), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.8](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.8), 2 days ago) - Helm charts for webdevops applications
