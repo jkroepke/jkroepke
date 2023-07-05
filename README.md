@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] configure allow to configure hostAliases](https://github.com/kubernetes/ingress-nginx/pull/10180) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (today)
 - [[kube-prometheus-stack] Move CRDs into sub-charts](https://github.com/prometheus-community/helm-charts/pull/3547) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Minify windows dashboards](https://github.com/prometheus-community/helm-charts/pull/3546) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Implement ServiceMonitor endpoints for reloader components](https://github.com/prometheus-community/helm-charts/pull/3543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Use electron-builder beforeBuild](https://github.com/MuhammedKalkan/OpenLens/pull/164) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (6 days ago)
 - [feat: Allow suppress diff line output by regex](https://github.com/databus23/helm-diff/pull/475) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (1 week ago)
 - [[prometheus-blackbox-exporter] Pass ingress hostname through tpl function](https://github.com/prometheus-community/helm-charts/pull/3525) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-blackbox-exporter] Allow to configure probe and metrics path](https://github.com/prometheus-community/helm-charts/pull/3524) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
