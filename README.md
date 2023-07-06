@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.1.8](https://github.com/renovatebot/renovate/releases/tag/36.1.8), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.1.10](https://github.com/renovatebot/renovate/releases/tag/36.1.10), today) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.37.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.37.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.5), 1 day ago) - 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.37.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.37.0), 2 days ago) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.6), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.8](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.8), 4 days ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), 6 days ago) - OpenLens Binary Build Repository
