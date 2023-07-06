@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.1.11](https://github.com/renovatebot/renovate/releases/tag/36.1.11), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.1.12](https://github.com/renovatebot/renovate/releases/tag/36.1.12), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.37.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.37.1), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.5), 1 day ago) - 
