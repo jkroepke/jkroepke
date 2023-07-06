@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.0.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.1.7](https://github.com/renovatebot/renovate/releases/tag/36.1.7), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.5), 1 day ago) - 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.37.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.37.0), 2 days ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.3.0), 2 days ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.6), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.8](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.8), 4 days ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), 6 days ago) - OpenLens Binary Build Repository
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [nginx.ingress.kubernetes.io/auth-url: Allow 127.0.0.1 to avoid external hops](https://github.com/kubernetes/ingress-nginx/pull/10183) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (today)
 - [[helm] configure allow to configure hostAliases](https://github.com/kubernetes/ingress-nginx/pull/10180) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 day ago)
 - [[kube-prometheus-stack] Move CRDs into sub-charts](https://github.com/prometheus-community/helm-charts/pull/3547) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[kube-prometheus-stack] Minify windows dashboards](https://github.com/prometheus-community/helm-charts/pull/3546) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Added write_relabel config for prometheus.remote_write](https://github.com/grafana/agent/pull/4312) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
 - [Use electron-builder beforeBuild](https://github.com/MuhammedKalkan/OpenLens/pull/164) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 - [feat: Allow suppress diff line output by regex](https://github.com/databus23/helm-diff/pull/475) on [databus23/helm-diff](https://github.com/databus23/helm-diff) (1 week ago)
-- [[prometheus-blackbox-exporter] Pass ingress hostname through tpl function](https://github.com/prometheus-community/helm-charts/pull/3525) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
