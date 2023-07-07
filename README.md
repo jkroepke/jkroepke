@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.5.2](https://github.com/renovatebot/renovate/releases/tag/36.5.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.8), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.5.0](https://github.com/renovatebot/renovate/releases/tag/36.5.0), today) - Universal dependency update tool that fits into your workflows.
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.0), today) - Dex Helm chart repository
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
