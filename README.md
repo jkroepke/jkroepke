@@ -29,8 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.4.0](https://github.com/renovatebot/renovate/releases/tag/36.4.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-4.5.0-weekly.245](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-4.5.0-weekly.245), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.3.0](https://github.com/renovatebot/renovate/releases/tag/36.3.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.64.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.64.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.37.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.37.1), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.0.0), 1 day ago) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.6), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.8](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.8), 5 days ago) - Helm charts for webdevops applications
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) ([v6.5.2-366](https://github.com/MuhammedKalkan/OpenLens/releases/tag/v6.5.2-366), 1 week ago) - OpenLens Binary Build Repository
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.0](https://github.com/helmfile/helmfile/releases/tag/v0.155.0), 1 week ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 #### 🔨 My recent Pull Requests
 
