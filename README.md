@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for metricNamespace on cross-resource queries](https://github.com/webdevops/azure-metrics-exporter/pull/54) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (today)
 - [Add support for validateDimensions](https://github.com/webdevops/azure-metrics-exporter/pull/53) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (today)
 - [nginx.ingress.kubernetes.io/auth-url: Allow 127.0.0.1 to avoid external hops](https://github.com/kubernetes/ingress-nginx/pull/10183) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 day ago)
 - [[helm] configure allow to configure hostAliases](https://github.com/kubernetes/ingress-nginx/pull/10180) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Log errors from probe](https://github.com/prometheus/blackbox_exporter/pull/1091) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (6 days ago)
 - [Support define api-versions for helm scanner](https://github.com/aquasecurity/defsec/pull/1361) on [aquasecurity/defsec](https://github.com/aquasecurity/defsec) (6 days ago)
 - [Added write_relabel config for prometheus.remote_write](https://github.com/grafana/agent/pull/4312) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
-- [Use electron-builder beforeBuild](https://github.com/MuhammedKalkan/OpenLens/pull/164) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (1 week ago)
 
 #### ⭐ Recent Stars
 
