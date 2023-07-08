@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add log messages from RetryPolicy](https://github.com/webdevops/azure-metrics-exporter/pull/56) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (today)
 - [Add support for metricNamespace on cross-resource queries](https://github.com/webdevops/azure-metrics-exporter/pull/54) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (1 day ago)
 - [Add support for validateDimensions](https://github.com/webdevops/azure-metrics-exporter/pull/53) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (1 day ago)
 - [nginx.ingress.kubernetes.io/auth-url: Allow 127.0.0.1 to avoid external hops](https://github.com/kubernetes/ingress-nginx/pull/10183) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Implement ServiceMonitor endpoints for reloader components](https://github.com/prometheus-community/helm-charts/pull/3543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [Log errors from probe](https://github.com/prometheus/blackbox_exporter/pull/1091) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (1 week ago)
 - [Support define api-versions for helm scanner](https://github.com/aquasecurity/defsec/pull/1361) on [aquasecurity/defsec](https://github.com/aquasecurity/defsec) (1 week ago)
-- [Added write_relabel config for prometheus.remote_write](https://github.com/grafana/agent/pull/4312) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
