@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.8.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.4.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.5.2](https://github.com/renovatebot/renovate/releases/tag/36.5.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.8), 1 day ago) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.0), 1 day ago) - Dex Helm chart repository
