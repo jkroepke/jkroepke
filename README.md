@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.8.2), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.5.2](https://github.com/renovatebot/renovate/releases/tag/36.5.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.8), 1 day ago) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.0), 1 day ago) - Dex Helm chart repository
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.64.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.64.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.37.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.37.1), 2 days ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.0.0), 2 days ago) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.1), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.8](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.8), 6 days ago) - Helm charts for webdevops applications
 
