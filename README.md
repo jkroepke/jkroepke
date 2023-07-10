@@ -29,14 +29,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.6.0](https://github.com/renovatebot/renovate/releases/tag/36.6.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.38.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.38.0), today) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.6.1](https://github.com/renovatebot/renovate/releases/tag/36.6.1), today) - Universal dependency update tool that fits into your workflows.
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.1), 1 day ago) - Dex Helm chart repository
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.4.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.8), 3 days ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.7), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.64.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.64.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.37.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.37.1), 4 days ago) - ArgoProj Helm Charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.1), 5 days ago) - Ingress-NGINX Controller for Kubernetes
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.8](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.8), 1 week ago) - Helm charts for webdevops applications
 
