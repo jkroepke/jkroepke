@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), today) - Dex Helm chart repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.7.0](https://github.com/renovatebot/renovate/releases/tag/36.7.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.7.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.1), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.15.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.15.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.38.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.38.0), today) - ArgoProj Helm Charts
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.1), 1 day ago) - Dex Helm chart repository
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.7), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.64.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.64.0), 3 days ago) - Terraform provider for Azure Resource Manager
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [river: Add various string functions to stdlib](https://github.com/grafana/agent/pull/4388) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [Integrate perflib](https://github.com/prometheus-community/windows_exporter/pull/1241) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[prometheus-blackbox-exporter] Refactor image configuration](https://github.com/prometheus-community/helm-charts/pull/3564) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Add log messages from RetryPolicy](https://github.com/webdevops/azure-metrics-exporter/pull/56) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] configure allow to configure hostAliases](https://github.com/kubernetes/ingress-nginx/pull/10180) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (5 days ago)
 - [[kube-prometheus-stack] Move CRDs into sub-charts](https://github.com/prometheus-community/helm-charts/pull/3547) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Minify windows dashboards](https://github.com/prometheus-community/helm-charts/pull/3546) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] Implement ServiceMonitor endpoints for reloader components](https://github.com/prometheus-community/helm-charts/pull/3543) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
