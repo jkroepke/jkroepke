@@ -16,46 +16,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (4 days ago)
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) - Trivy&#39;s misconfiguration scanning engine (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (5 days ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) - Dex Helm chart repository (2 weeks ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) - Dex Helm chart repository (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), today) - Dex Helm chart repository
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.7.0](https://github.com/renovatebot/renovate/releases/tag/36.7.0), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.7.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.1), today) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.15.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.15.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.38.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.38.0), today) - ArgoProj Helm Charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.7), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.64.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.64.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.1), 5 days ago) - Ingress-NGINX Controller for Kubernetes
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), 1 day ago) - Dex Helm chart repository
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.7.0](https://github.com/renovatebot/renovate/releases/tag/36.7.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.7.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.1), 1 day ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.15.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.15.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.38.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.38.0), 1 day ago) - ArgoProj Helm Charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.7), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.90.3](https://github.com/aquasecurity/defsec/releases/tag/v0.90.3), 4 days ago) - Trivy&#39;s misconfiguration scanning engine
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.64.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.64.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
-- [river: Add various string functions to stdlib](https://github.com/grafana/agent/pull/4388) on [grafana/agent](https://github.com/grafana/agent) (today)
-- [Integrate perflib](https://github.com/prometheus-community/windows_exporter/pull/1241) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[prometheus-blackbox-exporter] Refactor image configuration](https://github.com/prometheus-community/helm-charts/pull/3564) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [Add log messages from RetryPolicy](https://github.com/webdevops/azure-metrics-exporter/pull/56) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 days ago)
-- [Add support for metricNamespace on cross-resource queries](https://github.com/webdevops/azure-metrics-exporter/pull/54) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (3 days ago)
-- [Add support for validateDimensions](https://github.com/webdevops/azure-metrics-exporter/pull/53) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (3 days ago)
-- [nginx.ingress.kubernetes.io/auth-url: Allow 127.0.0.1 to avoid external hops](https://github.com/kubernetes/ingress-nginx/pull/10183) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (4 days ago)
-- [[helm] configure allow to configure hostAliases](https://github.com/kubernetes/ingress-nginx/pull/10180) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (5 days ago)
+- [river: Add various string functions to stdlib](https://github.com/grafana/agent/pull/4388) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
+- [Integrate perflib](https://github.com/prometheus-community/windows_exporter/pull/1241) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[prometheus-blackbox-exporter] Refactor image configuration](https://github.com/prometheus-community/helm-charts/pull/3564) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [Add log messages from RetryPolicy](https://github.com/webdevops/azure-metrics-exporter/pull/56) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (3 days ago)
+- [Add support for metricNamespace on cross-resource queries](https://github.com/webdevops/azure-metrics-exporter/pull/54) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (4 days ago)
+- [Add support for validateDimensions](https://github.com/webdevops/azure-metrics-exporter/pull/53) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (4 days ago)
+- [nginx.ingress.kubernetes.io/auth-url: Allow 127.0.0.1 to avoid external hops](https://github.com/kubernetes/ingress-nginx/pull/10183) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (5 days ago)
+- [[helm] configure allow to configure hostAliases](https://github.com/kubernetes/ingress-nginx/pull/10180) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (6 days ago)
 - [[kube-prometheus-stack] Move CRDs into sub-charts](https://github.com/prometheus-community/helm-charts/pull/3547) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Minify windows dashboards](https://github.com/prometheus-community/helm-charts/pull/3546) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (6 days ago)
+- [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (1 week ago)
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (3 weeks ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (3 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 weeks ago)
