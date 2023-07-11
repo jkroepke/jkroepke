@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.2), today) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), 1 day ago) - Dex Helm chart repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.7.0](https://github.com/renovatebot/renovate/releases/tag/36.7.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
