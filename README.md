@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.6](https://github.com/grafana/grafana/releases/tag/v9.5.6), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.2), today) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), 1 day ago) - Dex Helm chart repository
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.7), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), 4 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.90.3](https://github.com/aquasecurity/defsec/releases/tag/v0.90.3), 4 days ago) - Trivy&#39;s misconfiguration scanning engine
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.64.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.64.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
