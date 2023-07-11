@@ -18,7 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) - Trivy&#39;s misconfiguration scanning engine (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (5 days ago)
@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.4.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.3.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.3.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.1.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([22.0.0](https://github.com/keycloak/keycloak/releases/tag/22.0.0), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.4](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.4), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.15.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.15.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
