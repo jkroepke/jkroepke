@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.3.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.3.0), today) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.1.0), today) - Prometheus community Helm charts
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([22.0.0](https://github.com/keycloak/keycloak/releases/tag/22.0.0), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([phlare-0.5.4](https://github.com/grafana/helm-charts/releases/tag/phlare-0.5.4), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.15.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.15.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.38.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.38.1), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-47.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-47.6.1), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.6](https://github.com/grafana/grafana/releases/tag/v9.5.6), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), 1 day ago) - Dex Helm chart repository
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.7.0](https://github.com/renovatebot/renovate/releases/tag/36.7.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
