@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.15.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.15.2), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.0.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.7.5](https://github.com/renovatebot/renovate/releases/tag/36.7.5), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.9](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.9), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.3.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.3.0), 1 day ago) - ArgoProj Helm Charts
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.15.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.15.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.6](https://github.com/grafana/grafana/releases/tag/v9.5.6), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), 2 days ago) - Dex Helm chart repository
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-21.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-21.0.7), 5 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
