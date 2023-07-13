@@ -16,25 +16,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) - Trivy&#39;s misconfiguration scanning engine (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-4.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-4.8.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.1.1), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.39.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.2](https://github.com/renovatebot/renovate/releases/tag/36.8.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.10](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.10), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.15.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.15.2), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.3.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.3.0), 2 days ago) - ArgoProj Helm Charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.6](https://github.com/grafana/grafana/releases/tag/v9.5.6), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), 3 days ago) - Dex Helm chart repository
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), 6 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
