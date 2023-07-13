@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.1.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.39.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.2](https://github.com/renovatebot/renovate/releases/tag/36.8.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.10](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.10), today) - 
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [priyanshudevd](https://github.com/priyanshudevd)
 - [muyiboysaka123](https://github.com/muyiboysaka123)
 - [TheRealNoob](https://github.com/TheRealNoob)
 - [rouke-broersma](https://github.com/rouke-broersma)
 - [Christoph-Raab](https://github.com/Christoph-Raab)
-- [christianknell](https://github.com/christianknell)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
