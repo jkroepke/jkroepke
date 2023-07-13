@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.0), today) - Vendor-neutral programmable observability pipelines.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.3](https://github.com/renovatebot/renovate/releases/tag/36.8.3), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.2.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.39.0), today) - ArgoProj Helm Charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.6](https://github.com/grafana/grafana/releases/tag/v9.5.6), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.2](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.2), 3 days ago) - Dex Helm chart repository
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.306.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.306.0), 6 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.90.3](https://github.com/aquasecurity/defsec/releases/tag/v0.90.3), 6 days ago) - Trivy&#39;s misconfiguration scanning engine
 
 #### 🔨 My recent Pull Requests
 
