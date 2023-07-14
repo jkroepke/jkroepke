@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.12](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.12), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.6](https://github.com/renovatebot/renovate/releases/tag/36.8.6), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.6](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.6), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.65.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.65.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.2.0), 1 day ago) - Prometheus community Helm charts
