@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.11](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.11), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.65.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.65.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.4](https://github.com/renovatebot/renovate/releases/tag/36.8.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
