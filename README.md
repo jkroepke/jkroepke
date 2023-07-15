@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.7](https://github.com/renovatebot/renovate/releases/tag/36.8.7), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.9](https://github.com/renovatebot/renovate/releases/tag/36.8.9), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.12](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.12), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
