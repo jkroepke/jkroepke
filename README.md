@@ -16,11 +16,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (1 day ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) - Trivy&#39;s misconfiguration scanning engine (5 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.5.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.4), today) - 
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.10.0](https://github.com/bats-core/bats-core/releases/tag/v1.10.0), 1 day ago) - Bash Automated Testing System
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.16.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.16.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) ([v1.11.0](https://github.com/martin-helmich/prometheus-nginxlog-exporter/releases/tag/v1.11.0), 1 day ago) - Export metrics from Nginx access log files to Prometheus
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.11](https://github.com/renovatebot/renovate/releases/tag/36.8.11), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.0.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.12](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.12), 2 days ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.1), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.65.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.65.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.0), 3 days ago) - Vendor-neutral programmable observability pipelines.
