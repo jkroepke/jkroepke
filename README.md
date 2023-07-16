@@ -55,6 +55,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (today)
 - [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (1 week ago)
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (3 weeks ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (4 weeks ago)
@@ -64,7 +65,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (2 months ago)
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (2 months ago)
 - [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (2 months ago)
-- [blendle/kns](https://github.com/blendle/kns) - quick Kubernetes Namespace Switcher (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
