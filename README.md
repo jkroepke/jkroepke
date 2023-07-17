@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.4.10](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.4.10), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.13](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.13), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.40.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.40.0), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.9.0](https://github.com/renovatebot/renovate/releases/tag/36.9.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.0.0), today) - Prometheus community Helm charts
