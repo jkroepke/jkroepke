@@ -16,36 +16,36 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (1 day ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) - Trivy&#39;s misconfiguration scanning engine (5 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (4 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) - Trivy&#39;s misconfiguration scanning engine (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 weeks ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.5.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.4), today) - 
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.10.0](https://github.com/bats-core/bats-core/releases/tag/v1.10.0), 1 day ago) - Bash Automated Testing System
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.16.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.16.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) ([v1.11.0](https://github.com/martin-helmich/prometheus-nginxlog-exporter/releases/tag/v1.11.0), 1 day ago) - Export metrics from Nginx access log files to Prometheus
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.11](https://github.com/renovatebot/renovate/releases/tag/36.8.11), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.1), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.65.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.65.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.0), 3 days ago) - Vendor-neutral programmable observability pipelines.
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.39.0), 3 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.5.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.4), 1 day ago) - 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.10.0](https://github.com/bats-core/bats-core/releases/tag/v1.10.0), 2 days ago) - Bash Automated Testing System
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.16.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.16.1), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) ([v1.11.0](https://github.com/martin-helmich/prometheus-nginxlog-exporter/releases/tag/v1.11.0), 2 days ago) - Export metrics from Nginx access log files to Prometheus
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.11](https://github.com/renovatebot/renovate/releases/tag/36.8.11), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.1), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.65.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.65.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.39.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.39.0), 4 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
-- [[jiralert] Add strategy, priorityClassName, capabilities.drop](https://github.com/prometheus-community/helm-charts/pull/3601) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [Implement dynamic probes](https://github.com/prometheus/blackbox_exporter/pull/1098) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (3 days ago)
-- [river: Add various string functions to stdlib](https://github.com/grafana/agent/pull/4388) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
-- [Integrate perflib](https://github.com/prometheus-community/windows_exporter/pull/1241) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [[jiralert] Add strategy, priorityClassName, capabilities.drop](https://github.com/prometheus-community/helm-charts/pull/3601) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [Implement dynamic probes](https://github.com/prometheus/blackbox_exporter/pull/1098) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (4 days ago)
+- [river: Add various string functions to stdlib](https://github.com/grafana/agent/pull/4388) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
+- [Integrate perflib](https://github.com/prometheus-community/windows_exporter/pull/1241) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [[prometheus-blackbox-exporter] Refactor image configuration](https://github.com/prometheus-community/helm-charts/pull/3564) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Add log messages from RetryPolicy](https://github.com/webdevops/azure-metrics-exporter/pull/56) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (1 week ago)
 - [Add support for metricNamespace on cross-resource queries](https://github.com/webdevops/azure-metrics-exporter/pull/54) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (1 week ago)
@@ -55,9 +55,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (today)
+- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Over 300 popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (1 day ago)
 - [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (1 week ago)
-- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (3 weeks ago)
+- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (4 weeks ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (4 weeks ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 month ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 month ago)
