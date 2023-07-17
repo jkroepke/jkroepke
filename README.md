@@ -29,13 +29,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.0.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.12](https://github.com/renovatebot/renovate/releases/tag/36.8.12), today) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.30](https://github.com/stakater/Reloader/releases/tag/v1.0.30), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.5.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.4), 1 day ago) - 
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.10.0](https://github.com/bats-core/bats-core/releases/tag/v1.10.0), 2 days ago) - Bash Automated Testing System
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.16.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.16.1), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) ([v1.11.0](https://github.com/martin-helmich/prometheus-nginxlog-exporter/releases/tag/v1.11.0), 2 days ago) - Export metrics from Nginx access log files to Prometheus
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.8.11](https://github.com/renovatebot/renovate/releases/tag/36.8.11), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.1), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.65.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.65.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
