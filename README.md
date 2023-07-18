@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-24.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-24.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [keycloak/keycloak](https://github.com/keycloak/keycloak) ([22.0.1](https://github.com/keycloak/keycloak/releases/tag/22.0.1), today) - Open Source Identity and Access Management For Modern Applications and Services
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.9.2](https://github.com/renovatebot/renovate/releases/tag/36.9.2), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.41.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.41.0), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.7](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.7), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-23.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-23.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.0.0), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.30](https://github.com/stakater/Reloader/releases/tag/v1.0.30), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.10.0](https://github.com/bats-core/bats-core/releases/tag/v1.10.0), 3 days ago) - Bash Automated Testing System
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.16.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.16.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) ([v1.11.0](https://github.com/martin-helmich/prometheus-nginxlog-exporter/releases/tag/v1.11.0), 3 days ago) - Export metrics from Nginx access log files to Prometheus
 
 #### 🔨 My recent Pull Requests
 
