@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.10.0](https://github.com/renovatebot/renovate/releases/tag/36.10.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.9](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.9), today) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-24.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-24.0.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([22.0.1](https://github.com/keycloak/keycloak/releases/tag/22.0.1), today) - Open Source Identity and Access Management For Modern Applications and Services
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.9.2](https://github.com/renovatebot/renovate/releases/tag/36.9.2), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.41.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.41.0), today) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.35.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.0.0), 1 day ago) - Prometheus community Helm charts
