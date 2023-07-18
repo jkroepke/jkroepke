@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.14](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.14), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-24.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-24.0.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [keycloak/keycloak](https://github.com/keycloak/keycloak) ([22.0.1](https://github.com/keycloak/keycloak/releases/tag/22.0.1), today) - Open Source Identity and Access Management For Modern Applications and Services
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.0.0), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.30](https://github.com/stakater/Reloader/releases/tag/v1.0.30), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.10.0](https://github.com/bats-core/bats-core/releases/tag/v1.10.0), 3 days ago) - Bash Automated Testing System
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.16.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.16.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
