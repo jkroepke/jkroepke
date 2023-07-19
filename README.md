@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.12.0](https://github.com/renovatebot/renovate/releases/tag/36.12.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.13.0](https://github.com/renovatebot/renovate/releases/tag/36.13.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0](https://github.com/grafana/agent/releases/tag/v0.35.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-24.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-24.0.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
