@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.1.2), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.41.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.41.1), 1 day ago) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.14.0](https://github.com/renovatebot/renovate/releases/tag/36.14.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.15](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.15), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.9.0), 1 day ago) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0](https://github.com/grafana/agent/releases/tag/v0.35.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-24.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-24.0.3), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
