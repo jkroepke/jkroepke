@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.15.0](https://github.com/renovatebot/renovate/releases/tag/36.15.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.8.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.41.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.41.1), 1 day ago) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.14.0](https://github.com/renovatebot/renovate/releases/tag/36.14.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.15](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.15), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.0](https://github.com/grafana/agent/releases/tag/v0.35.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.30](https://github.com/stakater/Reloader/releases/tag/v1.0.30), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
