@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([23.7.1](https://github.com/webdevops/azure-metrics-exporter/releases/tag/23.7.1), today) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.0](https://github.com/helmfile/vals/releases/tag/v0.26.0), today) - Helm-like configuration values loader with support for various sources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.8.11](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.8.11), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.20.1), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.66.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.66.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.0), 1 day ago) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.2), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
