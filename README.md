@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.32](https://github.com/stakater/Reloader/releases/tag/v1.0.32), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.23.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.23.0), today) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.13.0), today) - Prometheus community Helm charts
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.31](https://github.com/stakater/Reloader/releases/tag/v1.0.31), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.18.1](https://github.com/renovatebot/renovate/releases/tag/36.18.1), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.66.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.66.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.0), 1 day ago) - ArgoProj Helm Charts
