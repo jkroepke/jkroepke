@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.18.0](https://github.com/renovatebot/renovate/releases/tag/36.18.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.18.1](https://github.com/renovatebot/renovate/releases/tag/36.18.1), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.66.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.66.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.0), 1 day ago) - ArgoProj Helm Charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.2), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
