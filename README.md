@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.18.3](https://github.com/renovatebot/renovate/releases/tag/36.18.3), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.18.4](https://github.com/renovatebot/renovate/releases/tag/36.18.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.17.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.17.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.3](https://github.com/grafana/loki/releases/tag/v2.8.3), today) - Like Prometheus, but for logs.
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([23.7.1](https://github.com/webdevops/azure-metrics-exporter/releases/tag/23.7.1), today) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
