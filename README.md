@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.19.1](https://github.com/renovatebot/renovate/releases/tag/36.19.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.4.0](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.4.0), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.19.0](https://github.com/renovatebot/renovate/releases/tag/36.19.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.10](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.10), 1 day ago) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.23.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.23.1), 1 day ago) - Prometheus exporter for Windows machines
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.3](https://github.com/grafana/loki/releases/tag/v2.8.3), 1 day ago) - Like Prometheus, but for logs.
