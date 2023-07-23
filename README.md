@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.70.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.70.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.8](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.8), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.7.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.20.1](https://github.com/renovatebot/renovate/releases/tag/36.20.1), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.1](https://github.com/helmfile/vals/releases/tag/v0.26.1), today) - Helm-like configuration values loader with support for various sources
