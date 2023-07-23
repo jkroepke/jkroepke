@@ -29,13 +29,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.20.0](https://github.com/renovatebot/renovate/releases/tag/36.20.0), today) - Universal dependency update tool that fits into your workflows.
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.1](https://github.com/helmfile/vals/releases/tag/v0.26.1), today) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.4.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.4.1), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.19.2](https://github.com/renovatebot/renovate/releases/tag/36.19.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.10](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.10), 2 days ago) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.23.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.23.1), 2 days ago) - Prometheus exporter for Windows machines
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.3](https://github.com/grafana/loki/releases/tag/v2.8.3), 2 days ago) - Like Prometheus, but for logs.
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([23.7.1](https://github.com/webdevops/azure-metrics-exporter/releases/tag/23.7.1), 2 days ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.0](https://github.com/helmfile/vals/releases/tag/v0.26.0), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.20.1), 2 days ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.32](https://github.com/stakater/Reloader/releases/tag/v1.0.32), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.66.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.66.0), 2 days ago) - Terraform provider for Azure Resource Manager
