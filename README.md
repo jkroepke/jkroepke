@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [windows/src/eventlog: Support eventlog events with multiple strings](https://github.com/golang/sys/pull/168) on [golang/sys](https://github.com/golang/sys) (today)
 - [Fix panic with log.file=eventlog](https://github.com/prometheus-community/windows_exporter/pull/1255) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [[jiralert] Add strategy, priorityClassName, capabilities.drop](https://github.com/prometheus-community/helm-charts/pull/3601) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Implement dynamic probes](https://github.com/prometheus/blackbox_exporter/pull/1098) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (1 week ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add log messages from RetryPolicy](https://github.com/webdevops/azure-metrics-exporter/pull/56) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 weeks ago)
 - [Add support for metricNamespace on cross-resource queries](https://github.com/webdevops/azure-metrics-exporter/pull/54) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 weeks ago)
 - [Add support for validateDimensions](https://github.com/webdevops/azure-metrics-exporter/pull/53) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 weeks ago)
-- [nginx.ingress.kubernetes.io/auth-url: Allow 127.0.0.1 to avoid external hops](https://github.com/kubernetes/ingress-nginx/pull/10183) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
