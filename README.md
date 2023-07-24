@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.21.1](https://github.com/renovatebot/renovate/releases/tag/36.21.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.22.0](https://github.com/renovatebot/renovate/releases/tag/36.22.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.6](https://github.com/grafana/loki/releases/tag/v2.7.6), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.70.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.70.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.0), today) - Prometheus community Helm charts
