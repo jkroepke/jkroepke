@@ -29,7 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.22.0](https://github.com/renovatebot/renovate/releases/tag/36.22.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.23.0](https://github.com/renovatebot/renovate/releases/tag/36.23.0), today) - Universal dependency update tool that fits into your workflows.
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.3), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.6](https://github.com/grafana/loki/releases/tag/v2.7.6), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.70.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.70.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.0), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.1](https://github.com/helmfile/vals/releases/tag/v0.26.1), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argocd-apps-1.4.1](https://github.com/argoproj/argo-helm/releases/tag/argocd-apps-1.4.1), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.23.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.23.1), 3 days ago) - Prometheus exporter for Windows machines
-- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([23.7.1](https://github.com/webdevops/azure-metrics-exporter/releases/tag/23.7.1), 3 days ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 
 #### 🔨 My recent Pull Requests
 
