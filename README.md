@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.0), today) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.307.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.307.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.11.9](https://github.com/grafana/helm-charts/releases/tag/promtail-6.11.9), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.21.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.21.0](https://github.com/renovatebot/renovate/releases/tag/36.21.0), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.1](https://github.com/helmfile/vals/releases/tag/v0.26.1), 1 day ago) - Helm-like configuration values loader with support for various sources
