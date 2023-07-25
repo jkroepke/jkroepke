@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.70.3](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.70.3), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.1](https://github.com/helmfile/helmfile/releases/tag/v0.155.1), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.41.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.41.2), today) - ArgoProj Helm Charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.6](https://github.com/grafana/loki/releases/tag/v2.7.6), 1 day ago) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.0), 1 day ago) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.307.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.307.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.1](https://github.com/helmfile/vals/releases/tag/v0.26.1), 2 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
