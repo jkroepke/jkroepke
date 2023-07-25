@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.70.3](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.70.3), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.1](https://github.com/helmfile/helmfile/releases/tag/v0.155.1), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.70.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.70.2), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.41.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.41.2), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.23.0](https://github.com/renovatebot/renovate/releases/tag/36.23.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.3), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
