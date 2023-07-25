@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.2](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.2), today) - ArgoProj Helm Charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.70.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.70.2), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.41.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.41.2), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.23.0](https://github.com/renovatebot/renovate/releases/tag/36.23.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.3), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.6](https://github.com/grafana/loki/releases/tag/v2.7.6), 1 day ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.70.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.70.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.0), 1 day ago) - Prometheus community Helm charts
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.307.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.307.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
