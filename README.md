@@ -16,9 +16,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter (3 days ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (4 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (5 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
@@ -29,6 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.1.0), today) - Prometheus community Helm charts
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.307.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.307.1), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.3), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.9.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.9.1), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.1](https://github.com/helmfile/helmfile/releases/tag/v0.155.1), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
@@ -36,8 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.23.0](https://github.com/renovatebot/renovate/releases/tag/36.23.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.3), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/loki](https://github.com/grafana/loki) ([v2.7.6](https://github.com/grafana/loki/releases/tag/v2.7.6), 1 day ago) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.0), 1 day ago) - Prometheus community Helm charts
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.307.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.307.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.1](https://github.com/helmfile/vals/releases/tag/v0.26.1), 2 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
