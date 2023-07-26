@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.6](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.6), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.1](https://github.com/grafana/agent/releases/tag/v0.35.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.3.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.11), 1 day ago) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.23.2](https://github.com/renovatebot/renovate/releases/tag/36.23.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.307.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.307.1), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
