@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.6](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.6), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.18.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.18.0), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.1](https://github.com/grafana/agent/releases/tag/v0.35.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.3.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.23.2](https://github.com/renovatebot/renovate/releases/tag/36.23.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
