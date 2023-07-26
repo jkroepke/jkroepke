@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.3), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.9.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.9.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.1), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.7](https://github.com/grafana/grafana/releases/tag/v9.5.7), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.155.1](https://github.com/helmfile/helmfile/releases/tag/v0.155.1), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.41.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.41.2), 1 day ago) - ArgoProj Helm Charts
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.3), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
