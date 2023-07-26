@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.9.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.9.2), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.1), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.7](https://github.com/grafana/grafana/releases/tag/v9.5.7), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.2.18](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.2.18), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.1](https://github.com/grafana/agent/releases/tag/v0.35.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.3.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.23.2](https://github.com/renovatebot/renovate/releases/tag/36.23.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.307.1](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.307.1), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.3), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
