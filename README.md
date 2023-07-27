@@ -42,6 +42,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[OpsGenie] Update message on resolve alert](https://github.com/prometheus/alertmanager/pull/3430) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
+- [add optional flag for workspace discovery](https://github.com/webdevops/azure-loganalytics-exporter/pull/10) on [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) (today)
 - [windows/src/eventlog: Support eventlog events with multiple strings](https://github.com/golang/sys/pull/168) on [golang/sys](https://github.com/golang/sys) (4 days ago)
 - [Fix panic with log.file=eventlog](https://github.com/prometheus-community/windows_exporter/pull/1255) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [[jiralert] Add strategy, priorityClassName, capabilities.drop](https://github.com/prometheus-community/helm-charts/pull/3601) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -50,8 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Integrate perflib](https://github.com/prometheus-community/windows_exporter/pull/1241) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [[prometheus-blackbox-exporter] Refactor image configuration](https://github.com/prometheus-community/helm-charts/pull/3564) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Add log messages from RetryPolicy](https://github.com/webdevops/azure-metrics-exporter/pull/56) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 weeks ago)
-- [Add support for metricNamespace on cross-resource queries](https://github.com/webdevops/azure-metrics-exporter/pull/54) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 weeks ago)
-- [Add support for validateDimensions](https://github.com/webdevops/azure-metrics-exporter/pull/53) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
