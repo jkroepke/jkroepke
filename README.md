@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.3.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.3.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.1.0-weekly.248](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.1.0-weekly.248), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.2), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.24.0](https://github.com/renovatebot/renovate/releases/tag/36.24.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.3), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
