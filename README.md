@@ -29,6 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.4.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.4.0](https://github.com/grafana/loki/releases/tag/operator/v0.4.0), today) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.67.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.67.0), today) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.42.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.42.0), 1 day ago) - ArgoProj Helm Charts
@@ -36,9 +38,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.2](https://github.com/grafana/agent/releases/tag/v0.35.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.5), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.25.0](https://github.com/renovatebot/renovate/releases/tag/36.25.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.2.2), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.3), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.7](https://github.com/grafana/grafana/releases/tag/v9.5.7), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
