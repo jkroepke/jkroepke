@@ -42,6 +42,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (today)
+- [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (today)
 - [[OpsGenie] Update message on resolve alert](https://github.com/prometheus/alertmanager/pull/3430) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (2 days ago)
 - [add optional flag for workspace discovery](https://github.com/webdevops/azure-loganalytics-exporter/pull/10) on [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) (2 days ago)
 - [windows/src/eventlog: Support eventlog events with multiple strings](https://github.com/golang/sys/pull/168) on [golang/sys](https://github.com/golang/sys) (6 days ago)
@@ -50,8 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement dynamic probes](https://github.com/prometheus/blackbox_exporter/pull/1098) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (2 weeks ago)
 - [river: Add various string functions to stdlib](https://github.com/grafana/agent/pull/4388) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 - [Integrate perflib](https://github.com/prometheus-community/windows_exporter/pull/1241) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [[prometheus-blackbox-exporter] Refactor image configuration](https://github.com/prometheus-community/helm-charts/pull/3564) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
-- [Add log messages from RetryPolicy](https://github.com/webdevops/azure-metrics-exporter/pull/56) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
