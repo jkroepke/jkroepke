@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix unsafe methods](https://github.com/jkroepke/opsgenie-browser-extension/pull/3) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (today)
 - [Added lint](https://github.com/jkroepke/opsgenie-browser-extension/pull/2) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (today)
 - [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (today)
 - [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (today)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix panic with log.file=eventlog](https://github.com/prometheus-community/windows_exporter/pull/1255) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [[jiralert] Add strategy, priorityClassName, capabilities.drop](https://github.com/prometheus-community/helm-charts/pull/3601) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Implement dynamic probes](https://github.com/prometheus/blackbox_exporter/pull/1098) on [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) (2 weeks ago)
-- [river: Add various string functions to stdlib](https://github.com/grafana/agent/pull/4388) on [grafana/agent](https://github.com/grafana/agent) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
