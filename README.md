@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.25.4](https://github.com/renovatebot/renovate/releases/tag/36.25.4), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.25.5](https://github.com/renovatebot/renovate/releases/tag/36.25.5), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.19](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.19), 1 day ago) - 
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 1 day ago) - Trivy&#39;s misconfiguration scanning engine
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
