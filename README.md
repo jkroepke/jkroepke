@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.5.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.25.5](https://github.com/renovatebot/renovate/releases/tag/36.25.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.19](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.19), 2 days ago) - 
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.4.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.4.0](https://github.com/grafana/loki/releases/tag/operator/v0.4.0), 2 days ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.67.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.67.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.42.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.42.0), 3 days ago) - ArgoProj Helm Charts
