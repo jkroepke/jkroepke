@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.4.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.4.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.26.1](https://github.com/renovatebot/renovate/releases/tag/36.26.1), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.4.14](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.4.14), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.5.0), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 3 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
