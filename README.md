@@ -16,6 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (4 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (5 days ago)
@@ -23,13 +24,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 weeks ago)
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.27.0](https://github.com/renovatebot/renovate/releases/tag/36.27.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.27.1](https://github.com/renovatebot/renovate/releases/tag/36.27.1), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.42.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.42.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-0.2.0](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-0.2.0), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
