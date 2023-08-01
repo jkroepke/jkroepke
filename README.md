@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.42.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.42.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-0.2.0](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-0.2.0), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.26.1](https://github.com/renovatebot/renovate/releases/tag/36.26.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.4.0](https://github.com/grafana/loki/releases/tag/operator/v0.4.0), 4 days ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.67.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.67.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.42.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.42.0), 5 days ago) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.2](https://github.com/grafana/agent/releases/tag/v0.35.2), 5 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
