@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.7.0](https://github.com/kubereboot/charts/releases/tag/kured-4.7.0), today) - Helm charts for kubereboot org (kured)
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.34](https://github.com/stakater/Reloader/releases/tag/v1.0.34), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.7](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.7), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.10), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 5 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), 5 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.4.0](https://github.com/grafana/loki/releases/tag/operator/v0.4.0), 5 days ago) - Like Prometheus, but for logs.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.67.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.67.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
