@@ -16,12 +16,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (today)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (4 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
-- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (5 days ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (1 day ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (5 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (6 days ago)
+- [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (6 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter (1 week ago)
@@ -29,28 +29,28 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.10), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.9.11](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.9.11), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.2.0), today) - Prometheus community Helm charts
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.3), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.27.1](https://github.com/renovatebot/renovate/releases/tag/36.27.1), today) - Universal dependency update tool that fits into your workflows.
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 4 days ago) - Trivy&#39;s misconfiguration scanning engine
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.4.0](https://github.com/grafana/loki/releases/tag/operator/v0.4.0), 4 days ago) - Like Prometheus, but for logs.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.67.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.67.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/agent](https://github.com/grafana/agent) ([v0.35.2](https://github.com/grafana/agent/releases/tag/v0.35.2), 5 days ago) - Vendor-neutral programmable observability pipelines.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.10), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.9.11](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.9.11), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.2.0), 1 day ago) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.3), 1 day ago) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.27.1](https://github.com/renovatebot/renovate/releases/tag/36.27.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 5 days ago) - Trivy&#39;s misconfiguration scanning engine
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), 5 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.4.0](https://github.com/grafana/loki/releases/tag/operator/v0.4.0), 5 days ago) - Like Prometheus, but for logs.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.67.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.67.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/agent](https://github.com/grafana/agent) ([v0.35.2](https://github.com/grafana/agent/releases/tag/v0.35.2), 6 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
-- [use new helm values structure](https://github.com/jkroepke/helm-secrets/pull/388) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/387) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [Remove `helm secrets version` to avoid a conflict with `helm version`](https://github.com/jkroepke/helm-secrets/pull/386) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [fix unsafe methods](https://github.com/jkroepke/opsgenie-browser-extension/pull/3) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (3 days ago)
-- [Added lint](https://github.com/jkroepke/opsgenie-browser-extension/pull/2) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (3 days ago)
-- [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (3 days ago)
-- [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (3 days ago)
-- [[OpsGenie] Update message on resolve alert](https://github.com/prometheus/alertmanager/pull/3430) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (5 days ago)
-- [add optional flag for workspace discovery](https://github.com/webdevops/azure-loganalytics-exporter/pull/10) on [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) (5 days ago)
+- [use new helm values structure](https://github.com/jkroepke/helm-secrets/pull/388) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/387) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Remove `helm secrets version` to avoid a conflict with `helm version`](https://github.com/jkroepke/helm-secrets/pull/386) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [fix unsafe methods](https://github.com/jkroepke/opsgenie-browser-extension/pull/3) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (4 days ago)
+- [Added lint](https://github.com/jkroepke/opsgenie-browser-extension/pull/2) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (4 days ago)
+- [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (4 days ago)
+- [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (4 days ago)
+- [[OpsGenie] Update message on resolve alert](https://github.com/prometheus/alertmanager/pull/3430) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (6 days ago)
+- [add optional flag for workspace discovery](https://github.com/webdevops/azure-loganalytics-exporter/pull/10) on [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) (6 days ago)
 - [windows/src/eventlog: Support eventlog events with multiple strings](https://github.com/golang/sys/pull/168) on [golang/sys](https://github.com/golang/sys) (1 week ago)
 
 #### ⭐ Recent Stars
@@ -60,7 +60,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (1 month ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (1 month ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 month ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 month ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 months ago)
 - [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (2 months ago)
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (2 months ago)
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (2 months ago)
