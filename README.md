@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-4.7.0](https://github.com/kubereboot/charts/releases/tag/kured-4.7.0), today) - Helm charts for kubereboot org (kured)
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.0.0](https://github.com/kubereboot/charts/releases/tag/kured-5.0.0), today) - Helm charts for kubereboot org (kured)
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.34](https://github.com/stakater/Reloader/releases/tag/v1.0.34), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.7](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.7), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.10), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
