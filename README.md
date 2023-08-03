@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.30.1](https://github.com/renovatebot/renovate/releases/tag/36.30.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.14.1](https://github.com/grafana/helm-charts/releases/tag/promtail-6.14.1), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.29.2](https://github.com/renovatebot/renovate/releases/tag/36.29.2), today) - Universal dependency update tool that fits into your workflows.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.1.0](https://github.com/kubereboot/charts/releases/tag/kured-5.1.0), today) - Helm charts for kubereboot org (kured)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.3.1), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.34](https://github.com/stakater/Reloader/releases/tag/v1.0.34), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
