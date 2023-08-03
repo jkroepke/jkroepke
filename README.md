@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.30.1](https://github.com/renovatebot/renovate/releases/tag/36.30.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.31.0](https://github.com/renovatebot/renovate/releases/tag/36.31.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.14.1](https://github.com/grafana/helm-charts/releases/tag/promtail-6.14.1), today) - 
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.1.0](https://github.com/kubereboot/charts/releases/tag/kured-5.1.0), today) - Helm charts for kubereboot org (kured)
