@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.14.1](https://github.com/grafana/helm-charts/releases/tag/promtail-6.14.1), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.29.2](https://github.com/renovatebot/renovate/releases/tag/36.29.2), today) - Universal dependency update tool that fits into your workflows.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.1.0](https://github.com/kubereboot/charts/releases/tag/kured-5.1.0), today) - Helm charts for kubereboot org (kured)
@@ -37,11 +38,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.10), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.3), 2 days ago) - ArgoProj Helm Charts
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 6 days ago) - Trivy&#39;s misconfiguration scanning engine
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.0), 6 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.4.0](https://github.com/grafana/loki/releases/tag/operator/v0.4.0), 6 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
+- [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (today)
+- [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (today)
 - [use new helm values structure](https://github.com/jkroepke/helm-secrets/pull/388) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/387) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
 - [Remove `helm secrets version` to avoid a conflict with `helm version`](https://github.com/jkroepke/helm-secrets/pull/386) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
@@ -50,8 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (5 days ago)
 - [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (5 days ago)
 - [[OpsGenie] Update message on resolve alert](https://github.com/prometheus/alertmanager/pull/3430) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 week ago)
-- [add optional flag for workspace discovery](https://github.com/webdevops/azure-loganalytics-exporter/pull/10) on [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) (1 week ago)
-- [windows/src/eventlog: Support eventlog events with multiple strings](https://github.com/golang/sys/pull/168) on [golang/sys](https://github.com/golang/sys) (1 week ago)
 
 #### ⭐ Recent Stars
 
