@@ -17,40 +17,40 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (today)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (2 days ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (6 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (3 days ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/rpms](https://github.com/jkroepke/rpms) - Provides latest rpms for enterprise linux (1 week ago)
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter (1 week ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.2](https://github.com/helmfile/vals/releases/tag/v0.26.2), today) - Helm-like configuration values loader with support for various sources
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.11), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.14](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.14), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.31.0](https://github.com/renovatebot/renovate/releases/tag/36.31.0), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.1.0](https://github.com/kubereboot/charts/releases/tag/kured-5.1.0), today) - Helm charts for kubereboot org (kured)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.3.1), 1 day ago) - Prometheus community Helm charts
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.34](https://github.com/stakater/Reloader/releases/tag/v1.0.34), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.3), 2 days ago) - ArgoProj Helm Charts
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 6 days ago) - Trivy&#39;s misconfiguration scanning engine
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.2](https://github.com/helmfile/vals/releases/tag/v0.26.2), 1 day ago) - Helm-like configuration values loader with support for various sources
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.11), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.14](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.14), 1 day ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.31.0](https://github.com/renovatebot/renovate/releases/tag/36.31.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.1.0](https://github.com/kubereboot/charts/releases/tag/kured-5.1.0), 1 day ago) - Helm charts for kubereboot org (kured)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.3.1), 2 days ago) - Prometheus community Helm charts
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.34](https://github.com/stakater/Reloader/releases/tag/v1.0.34), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.3](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.3), 3 days ago) - ArgoProj Helm Charts
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.0](https://github.com/aquasecurity/defsec/releases/tag/v0.91.0), 1 week ago) - Trivy&#39;s misconfiguration scanning engine
 
 #### 🔨 My recent Pull Requests
 
-- [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (today)
-- [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (today)
-- [use new helm values structure](https://github.com/jkroepke/helm-secrets/pull/388) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/387) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [Remove `helm secrets version` to avoid a conflict with `helm version`](https://github.com/jkroepke/helm-secrets/pull/386) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [fix unsafe methods](https://github.com/jkroepke/opsgenie-browser-extension/pull/3) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (5 days ago)
-- [Added lint](https://github.com/jkroepke/opsgenie-browser-extension/pull/2) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (5 days ago)
-- [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (5 days ago)
-- [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (5 days ago)
+- [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 day ago)
+- [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (1 day ago)
+- [use new helm values structure](https://github.com/jkroepke/helm-secrets/pull/388) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [Update bats](https://github.com/jkroepke/helm-secrets/pull/387) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [Remove `helm secrets version` to avoid a conflict with `helm version`](https://github.com/jkroepke/helm-secrets/pull/386) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [fix unsafe methods](https://github.com/jkroepke/opsgenie-browser-extension/pull/3) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (6 days ago)
+- [Added lint](https://github.com/jkroepke/opsgenie-browser-extension/pull/2) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (6 days ago)
+- [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (6 days ago)
+- [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (6 days ago)
 - [[OpsGenie] Update message on resolve alert](https://github.com/prometheus/alertmanager/pull/3430) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 week ago)
 
 #### ⭐ Recent Stars
@@ -62,8 +62,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 month ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 months ago)
 - [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (2 months ago)
-- [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (2 months ago)
-- [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (2 months ago)
+- [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (3 months ago)
+- [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (3 months ago)
 - [atamanroman/ymc](https://github.com/atamanroman/ymc) - Yamaha MusicCast CLI in Go (3 months ago)
 
 #### 👯 Check out some of my recent followers
