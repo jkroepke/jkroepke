@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.35](https://github.com/stakater/Reloader/releases/tag/v1.0.35), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.4](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.4), 1 day ago) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.33.5](https://github.com/renovatebot/renovate/releases/tag/36.33.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.1.2), 1 day ago) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.11), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.67.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.67.1), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.1.0](https://github.com/kubereboot/charts/releases/tag/kured-5.1.0), 3 days ago) - Helm charts for kubereboot org (kured)
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.34](https://github.com/stakater/Reloader/releases/tag/v1.0.34), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
