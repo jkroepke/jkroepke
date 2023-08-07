@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.22.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.35.0](https://github.com/renovatebot/renovate/releases/tag/36.35.0), today) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.35](https://github.com/stakater/Reloader/releases/tag/v1.0.35), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.4](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.4), 2 days ago) - ArgoProj Helm Charts
