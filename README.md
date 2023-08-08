@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.38.1](https://github.com/renovatebot/renovate/releases/tag/36.38.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.39.0](https://github.com/renovatebot/renovate/releases/tag/36.39.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.0), today) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.12), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.0), today) - Contains Helm charts for Kubernetes related open source tools
