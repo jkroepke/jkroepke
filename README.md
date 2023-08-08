@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.38.0](https://github.com/renovatebot/renovate/releases/tag/36.38.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.38.1](https://github.com/renovatebot/renovate/releases/tag/36.38.1), today) - Universal dependency update tool that fits into your workflows.
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.0), today) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.12), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.42.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.42.3), today) - ArgoProj Helm Charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.35](https://github.com/stakater/Reloader/releases/tag/v1.0.35), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [vsramalwan](https://github.com/vsramalwan)
 - [igor-nikiforov](https://github.com/igor-nikiforov)
 - [EzequielLG](https://github.com/EzequielLG)
 - [MuhammadMujtabaa](https://github.com/MuhammadMujtabaa)
 - [priyanshudevd](https://github.com/priyanshudevd)
-- [TheRealNoob](https://github.com/TheRealNoob)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
