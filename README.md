@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.42.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.42.3), today) - ArgoProj Helm Charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.36.0](https://github.com/renovatebot/renovate/releases/tag/36.36.0), today) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.35.1](https://github.com/renovatebot/renovate/releases/tag/36.35.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.35](https://github.com/stakater/Reloader/releases/tag/v1.0.35), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.4](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.4), 3 days ago) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.0.15](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.0.15), 4 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.68.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.68.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.26.2](https://github.com/helmfile/vals/releases/tag/v0.26.2), 5 days ago) - Helm-like configuration values loader with support for various sources
