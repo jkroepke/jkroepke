@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.40.3](https://github.com/renovatebot/renovate/releases/tag/36.40.3), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.2), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.40.2](https://github.com/renovatebot/renovate/releases/tag/36.40.2), today) - Universal dependency update tool that fits into your workflows.
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.1](https://github.com/aquasecurity/defsec/releases/tag/v0.91.1), today) - Trivy&#39;s misconfiguration scanning engine
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.8), today) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.1), today) - Contains Helm charts for Kubernetes related open source tools
