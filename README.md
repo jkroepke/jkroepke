@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.20.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.20.0), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.3](https://github.com/grafana/agent/releases/tag/v0.35.3), today) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.14), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.40.3](https://github.com/renovatebot/renovate/releases/tag/36.40.3), today) - Universal dependency update tool that fits into your workflows.
