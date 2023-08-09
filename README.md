@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.13](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.13), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.40.3](https://github.com/renovatebot/renovate/releases/tag/36.40.3), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.2), today) - ArgoProj Helm Charts
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.1](https://github.com/aquasecurity/defsec/releases/tag/v0.91.1), today) - Trivy&#39;s misconfiguration scanning engine
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.58.8](https://github.com/grafana/helm-charts/releases/tag/grafana-6.58.8), today) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.12), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0), 2 days ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.35](https://github.com/stakater/Reloader/releases/tag/v1.0.35), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.68.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.68.0), 5 days ago) - Terraform provider for Azure Resource Manager
