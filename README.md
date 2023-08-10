@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), today) - Terraform provider for Azure Resource Manager
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.0](https://github.com/renovatebot/renovate/releases/tag/36.42.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.23](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.23), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.36](https://github.com/stakater/Reloader/releases/tag/v1.0.36), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.41.0](https://github.com/renovatebot/renovate/releases/tag/36.41.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.3), 1 day ago) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.3](https://github.com/grafana/agent/releases/tag/v0.35.3), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.14), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.1](https://github.com/aquasecurity/defsec/releases/tag/v0.91.1), 1 day ago) - Trivy&#39;s misconfiguration scanning engine
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-23.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-23.3.0), 3 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.68.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.68.0), 6 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
