@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.2), today) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.0](https://github.com/renovatebot/renovate/releases/tag/36.42.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.23](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.23), 1 day ago) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.36](https://github.com/stakater/Reloader/releases/tag/v1.0.36), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.3), 2 days ago) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.3](https://github.com/grafana/agent/releases/tag/v0.35.3), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.14), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.1](https://github.com/aquasecurity/defsec/releases/tag/v0.91.1), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
