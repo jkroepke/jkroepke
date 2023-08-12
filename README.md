@@ -16,8 +16,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 days ago)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (4 days ago)
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 days ago)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (5 days ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
@@ -29,29 +29,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.7.7](https://github.com/grafana/loki/releases/tag/v2.7.7), today) - Like Prometheus, but for logs.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.3](https://github.com/renovatebot/renovate/releases/tag/36.42.3), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.8.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.8.0), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.2), today) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.36](https://github.com/stakater/Reloader/releases/tag/v1.0.36), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/agent](https://github.com/grafana/agent) ([v0.35.3](https://github.com/grafana/agent/releases/tag/v0.35.3), 2 days ago) - Vendor-neutral programmable observability pipelines.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.14), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.1](https://github.com/aquasecurity/defsec/releases/tag/v0.91.1), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.1), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.4](https://github.com/grafana/loki/releases/tag/v2.8.4), 1 day ago) - Like Prometheus, but for logs.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.3](https://github.com/renovatebot/renovate/releases/tag/36.42.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.8.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.8.0), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.2), 1 day ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.36](https://github.com/stakater/Reloader/releases/tag/v1.0.36), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/agent](https://github.com/grafana/agent) ([v0.35.3](https://github.com/grafana/agent/releases/tag/v0.35.3), 3 days ago) - Vendor-neutral programmable observability pipelines.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.14), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.1](https://github.com/aquasecurity/defsec/releases/tag/v0.91.1), 3 days ago) - Trivy&#39;s misconfiguration scanning engine
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-4.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-4.4.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
-- [[velero] Add toggle to disable annotations](https://github.com/vmware-tanzu/helm-charts/pull/487) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (5 days ago)
+- [[velero] Add toggle to disable annotations](https://github.com/vmware-tanzu/helm-charts/pull/487) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (6 days ago)
 - [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
 - [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
 - [use new helm values structure](https://github.com/jkroepke/helm-secrets/pull/388) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Update bats](https://github.com/jkroepke/helm-secrets/pull/387) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Remove `helm secrets version` to avoid a conflict with `helm version`](https://github.com/jkroepke/helm-secrets/pull/386) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [fix unsafe methods](https://github.com/jkroepke/opsgenie-browser-extension/pull/3) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (1 week ago)
-- [Added lint](https://github.com/jkroepke/opsgenie-browser-extension/pull/2) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (1 week ago)
-- [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (1 week ago)
-- [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (1 week ago)
+- [fix unsafe methods](https://github.com/jkroepke/opsgenie-browser-extension/pull/3) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (2 weeks ago)
+- [Added lint](https://github.com/jkroepke/opsgenie-browser-extension/pull/2) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (2 weeks ago)
+- [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (2 weeks ago)
+- [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
