@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.4](https://github.com/renovatebot/renovate/releases/tag/36.42.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.4](https://github.com/grafana/loki/releases/tag/v2.8.4), 2 days ago) - Like Prometheus, but for logs.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.3](https://github.com/renovatebot/renovate/releases/tag/36.42.3), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.8.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.8.0), 2 days ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.2), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 3 days ago) - Terraform provider for Azure Resource Manager
