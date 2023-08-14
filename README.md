@@ -16,8 +16,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (4 days ago)
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (6 days ago)
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (5 days ago)
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.5.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.4](https://github.com/renovatebot/renovate/releases/tag/36.42.4), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.4](https://github.com/grafana/loki/releases/tag/v2.8.4), 2 days ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.8.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.8.0), 2 days ago) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.2), 2 days ago) - ArgoProj Helm Charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.36](https://github.com/stakater/Reloader/releases/tag/v1.0.36), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/agent](https://github.com/grafana/agent) ([v0.35.3](https://github.com/grafana/agent/releases/tag/v0.35.3), 4 days ago) - Vendor-neutral programmable observability pipelines.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.14), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.1](https://github.com/aquasecurity/defsec/releases/tag/v0.91.1), 4 days ago) - Trivy&#39;s misconfiguration scanning engine
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.5.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.42.4](https://github.com/renovatebot/renovate/releases/tag/36.42.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.4](https://github.com/grafana/loki/releases/tag/v2.8.4), 3 days ago) - Like Prometheus, but for logs.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.8.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.8.0), 3 days ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.2), 3 days ago) - ArgoProj Helm Charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.36](https://github.com/stakater/Reloader/releases/tag/v1.0.36), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/agent](https://github.com/grafana/agent) ([v0.35.3](https://github.com/grafana/agent/releases/tag/v0.35.3), 5 days ago) - Vendor-neutral programmable observability pipelines.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.14), 5 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.91.1](https://github.com/aquasecurity/defsec/releases/tag/v0.91.1), 5 days ago) - Trivy&#39;s misconfiguration scanning engine
 
 #### 🔨 My recent Pull Requests
 
@@ -60,9 +60,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (1 month ago)
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (1 month ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (1 month ago)
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 month ago)
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 months ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 months ago)
-- [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (2 months ago)
+- [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (3 months ago)
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (3 months ago)
 - [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (3 months ago)
 
