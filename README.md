@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.35.4](https://github.com/grafana/agent/releases/tag/v0.35.4), today) - Vendor-neutral programmable observability pipelines.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.44.0](https://github.com/renovatebot/renovate/releases/tag/36.44.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-modbus-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-modbus-exporter-0.1.0), today) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.2](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.2), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.36](https://github.com/stakater/Reloader/releases/tag/v1.0.36), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/agent](https://github.com/grafana/agent) ([v0.35.3](https://github.com/grafana/agent/releases/tag/v0.35.3), 5 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
