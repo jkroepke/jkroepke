@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.43.2](https://github.com/renovatebot/renovate/releases/tag/36.43.2), today) - Universal dependency update tool that fits into your workflows.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.308.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.308.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.43.1](https://github.com/renovatebot/renovate/releases/tag/36.43.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.5.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.11.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.11.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.4](https://github.com/grafana/loki/releases/tag/v2.8.4), 3 days ago) - Like Prometheus, but for logs.
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add HELM_SECRETS_DECRYPT_SECRETS_IN_TMP_DIR](https://github.com/jkroepke/helm-secrets/pull/390) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [[velero] Add toggle to disable annotations](https://github.com/vmware-tanzu/helm-charts/pull/487) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
 - [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
 - [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix unsafe methods](https://github.com/jkroepke/opsgenie-browser-extension/pull/3) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (2 weeks ago)
 - [Added lint](https://github.com/jkroepke/opsgenie-browser-extension/pull/2) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (2 weeks ago)
 - [v2](https://github.com/jkroepke/opsgenie-browser-extension/pull/1) on [jkroepke/opsgenie-browser-extension](https://github.com/jkroepke/opsgenie-browser-extension) (2 weeks ago)
-- [v2](https://github.com/cemkucuk/opsgenie-chrome-extension/pull/4) on [cemkucuk/opsgenie-chrome-extension](https://github.com/cemkucuk/opsgenie-chrome-extension) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
