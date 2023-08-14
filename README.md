@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.44.0](https://github.com/renovatebot/renovate/releases/tag/36.44.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-modbus-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-modbus-exporter-0.1.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.43.2](https://github.com/renovatebot/renovate/releases/tag/36.43.2), today) - Universal dependency update tool that fits into your workflows.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.308.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.308.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.11.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.11.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.4](https://github.com/grafana/loki/releases/tag/v2.8.4), 3 days ago) - Like Prometheus, but for logs.
