@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.15](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.15), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-5.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-5.0.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.4), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.44.1](https://github.com/renovatebot/renovate/releases/tag/36.44.1), today) - Universal dependency update tool that fits into your workflows.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.11.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.11.0), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.4](https://github.com/grafana/loki/releases/tag/v2.8.4), 4 days ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.36](https://github.com/stakater/Reloader/releases/tag/v1.0.36), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
