@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.12.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.12.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.49.0](https://github.com/renovatebot/renovate/releases/tag/36.49.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.31.6](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.31.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.5.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.1), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.17), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.4](https://github.com/grafana/agent/releases/tag/v0.35.4), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.0), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
