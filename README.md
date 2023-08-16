@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.13.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.13.0), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.3), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.12.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.12.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.49.0](https://github.com/renovatebot/renovate/releases/tag/36.49.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.5.0), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.17), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
