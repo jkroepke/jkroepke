@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.46.1](https://github.com/renovatebot/renovate/releases/tag/36.46.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.5.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.1), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.46.0](https://github.com/renovatebot/renovate/releases/tag/36.46.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.17), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.4), 1 day ago) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.35.4](https://github.com/grafana/agent/releases/tag/v0.35.4), 2 days ago) - Vendor-neutral programmable observability pipelines.
