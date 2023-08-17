@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.2), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.2.0), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.32.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.32.3), 1 day ago) - ArgoProj Helm Charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.308.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.308.0), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.4](https://github.com/grafana/loki/releases/tag/v2.8.4), 6 days ago) - Like Prometheus, but for logs.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.69.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.69.0), 1 week ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
