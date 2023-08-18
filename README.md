@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.24](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.24), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.156.0](https://github.com/helmfile/helmfile/releases/tag/v0.156.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.52.1](https://github.com/renovatebot/renovate/releases/tag/36.52.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0), today) - Prometheus community Helm charts
