@@ -16,37 +16,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
-- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
+- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (2 weeks ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 weeks ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (2 weeks ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (3 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.51.2](https://github.com/renovatebot/renovate/releases/tag/36.51.2), today) - Universal dependency update tool that fits into your workflows.
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.3), today) - Dex Helm chart repository
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.21.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.21.0), today) - 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.8](https://github.com/grafana/grafana/releases/tag/v9.5.8), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.0), today) - ArgoProj Helm Charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.2.0), 1 day ago) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.17), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/agent](https://github.com/grafana/agent) ([v0.35.4](https://github.com/grafana/agent/releases/tag/v0.35.4), 3 days ago) - Vendor-neutral programmable observability pipelines.
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.4), 1 day ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.51.2](https://github.com/renovatebot/renovate/releases/tag/36.51.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.3), 1 day ago) - Dex Helm chart repository
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.8](https://github.com/grafana/grafana/releases/tag/v9.5.8), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.0), 1 day ago) - ArgoProj Helm Charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.2.0), 2 days ago) - Prometheus community Helm charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.17), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [grafana/agent](https://github.com/grafana/agent) ([v0.35.4](https://github.com/grafana/agent/releases/tag/v0.35.4), 4 days ago) - Vendor-neutral programmable observability pipelines.
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.0), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
-- [[helm] Use the correct name of the service inside the ingress.](https://github.com/grafana/loki/pull/10290) on [grafana/loki](https://github.com/grafana/loki) (today)
-- [[helm] Make table_manager configuration toggle.](https://github.com/grafana/loki/pull/10288) on [grafana/loki](https://github.com/grafana/loki) (today)
-- [[Windows Service] Inherit exit code from agent](https://github.com/grafana/agent/pull/4824) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
-- [Use vals --decode-kubernetes-secrets](https://github.com/jkroepke/helm-secrets/pull/391) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
-- [Add HELM_SECRETS_DECRYPT_SECRETS_IN_TMP_DIR](https://github.com/jkroepke/helm-secrets/pull/390) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [[helm] Use the correct name of the service inside the ingress.](https://github.com/grafana/loki/pull/10290) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
+- [[helm] Make table_manager configuration toggle.](https://github.com/grafana/loki/pull/10288) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
+- [[Windows Service] Inherit exit code from agent](https://github.com/grafana/agent/pull/4824) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
+- [Use vals --decode-kubernetes-secrets](https://github.com/jkroepke/helm-secrets/pull/391) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [Add HELM_SECRETS_DECRYPT_SECRETS_IN_TMP_DIR](https://github.com/jkroepke/helm-secrets/pull/390) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
 - [[velero] Add toggle to disable annotations](https://github.com/vmware-tanzu/helm-charts/pull/487) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
 - [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (2 weeks ago)
 - [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (2 weeks ago)
@@ -55,10 +55,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (1 week ago)
+- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (2 weeks ago)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (1 month ago)
 - [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (1 month ago)
-- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (1 month ago)
+- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 months ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (2 months ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 months ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 months ago)
