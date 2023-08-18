@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([snyk-exporter-0.1.0](https://github.com/grafana/helm-charts/releases/tag/snyk-exporter-0.1.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.51.3](https://github.com/renovatebot/renovate/releases/tag/36.51.3), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.14.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.14.1), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.52.0](https://github.com/renovatebot/renovate/releases/tag/36.52.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.70.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.70.0), today) - Terraform provider for Azure Resource Manager
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.1), today) - Contains Helm charts for Kubernetes related open source tools
