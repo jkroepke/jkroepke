@@ -16,7 +16,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.0.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.0.0-rc.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.51.3](https://github.com/renovatebot/renovate/releases/tag/36.51.3), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.70.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.70.0), today) - Terraform provider for Azure Resource Manager
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.4), 1 day ago) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.3), 1 day ago) - Dex Helm chart repository
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.8](https://github.com/grafana/grafana/releases/tag/v9.5.8), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.0), 1 day ago) - ArgoProj Helm Charts
