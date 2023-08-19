@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.1), today) - ArgoProj Helm Charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.25](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.25), 1 day ago) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.52.2](https://github.com/renovatebot/renovate/releases/tag/36.52.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.156.0](https://github.com/helmfile/helmfile/releases/tag/v0.156.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.3), 2 days ago) - Dex Helm chart repository
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.8](https://github.com/grafana/grafana/releases/tag/v9.5.8), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.0), 2 days ago) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.17), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
