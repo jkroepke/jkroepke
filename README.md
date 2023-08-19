@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade to Spring 3](https://github.com/jkroepke/demo-app/pull/28) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (today)
 - [[helm] Use the correct name of the service inside the ingress.](https://github.com/grafana/loki/pull/10290) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
 - [[helm] Make table_manager configuration toggle.](https://github.com/grafana/loki/pull/10288) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
 - [[Windows Service] Inherit exit code from agent](https://github.com/grafana/agent/pull/4824) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (2 weeks ago)
 - [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (2 weeks ago)
 - [use new helm values structure](https://github.com/jkroepke/helm-secrets/pull/388) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Update bats](https://github.com/jkroepke/helm-secrets/pull/387) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
