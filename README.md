@@ -16,10 +16,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
@@ -29,24 +29,24 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.25](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.25), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.52.2](https://github.com/renovatebot/renovate/releases/tag/36.52.2), today) - Universal dependency update tool that fits into your workflows.
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.156.0](https://github.com/helmfile/helmfile/releases/tag/v0.156.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.70.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.70.0), today) - Terraform provider for Azure Resource Manager
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.3), 1 day ago) - Dex Helm chart repository
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.8](https://github.com/grafana/grafana/releases/tag/v9.5.8), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.0), 1 day ago) - ArgoProj Helm Charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.17), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.25](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.25), 1 day ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.52.2](https://github.com/renovatebot/renovate/releases/tag/36.52.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.156.0](https://github.com/helmfile/helmfile/releases/tag/v0.156.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.70.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.70.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.3), 2 days ago) - Dex Helm chart repository
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.8](https://github.com/grafana/grafana/releases/tag/v9.5.8), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.0](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.0), 2 days ago) - ArgoProj Helm Charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.17), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
-- [[helm] Use the correct name of the service inside the ingress.](https://github.com/grafana/loki/pull/10290) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
-- [[helm] Make table_manager configuration toggle.](https://github.com/grafana/loki/pull/10288) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
-- [[Windows Service] Inherit exit code from agent](https://github.com/grafana/agent/pull/4824) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
-- [Use vals --decode-kubernetes-secrets](https://github.com/jkroepke/helm-secrets/pull/391) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
-- [Add HELM_SECRETS_DECRYPT_SECRETS_IN_TMP_DIR](https://github.com/jkroepke/helm-secrets/pull/390) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [[helm] Use the correct name of the service inside the ingress.](https://github.com/grafana/loki/pull/10290) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
+- [[helm] Make table_manager configuration toggle.](https://github.com/grafana/loki/pull/10288) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
+- [[Windows Service] Inherit exit code from agent](https://github.com/grafana/agent/pull/4824) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
+- [Use vals --decode-kubernetes-secrets](https://github.com/jkroepke/helm-secrets/pull/391) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
+- [Add HELM_SECRETS_DECRYPT_SECRETS_IN_TMP_DIR](https://github.com/jkroepke/helm-secrets/pull/390) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [[velero] Add toggle to disable annotations](https://github.com/vmware-tanzu/helm-charts/pull/487) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
 - [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (2 weeks ago)
 - [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (2 weeks ago)
