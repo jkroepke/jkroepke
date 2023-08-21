@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.53.0](https://github.com/renovatebot/renovate/releases/tag/36.53.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.2), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.52.4](https://github.com/renovatebot/renovate/releases/tag/36.52.4), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.18](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.18), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.6), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.38](https://github.com/stakater/Reloader/releases/tag/v1.0.38), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Upgrade azidentity](https://github.com/fujiwara/tfstate-lookup/pull/133) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (today)
 - [Upgrade to Spring 3](https://github.com/jkroepke/demo-app/pull/28) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (2 days ago)
 - [[helm] Use the correct name of the service inside the ingress.](https://github.com/grafana/loki/pull/10290) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
 - [[helm] Make table_manager configuration toggle.](https://github.com/grafana/loki/pull/10288) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[velero] Add toggle to disable annotations](https://github.com/vmware-tanzu/helm-charts/pull/487) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (2 weeks ago)
 - [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (2 weeks ago)
 - [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (2 weeks ago)
-- [use new helm values structure](https://github.com/jkroepke/helm-secrets/pull/388) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
