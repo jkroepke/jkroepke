@@ -29,7 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.53.0](https://github.com/renovatebot/renovate/releases/tag/36.53.0), today) - Universal dependency update tool that fits into your workflows.
+- [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.2.0](https://github.com/kubereboot/charts/releases/tag/kured-5.2.0), today) - Helm charts for kubereboot org (kured)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.53.1](https://github.com/renovatebot/renovate/releases/tag/36.53.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.2), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.18](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.18), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.6), today) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.156.0](https://github.com/helmfile/helmfile/releases/tag/v0.156.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.70.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.70.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.15.3](https://github.com/dexidp/helm-charts/releases/tag/dex-0.15.3), 4 days ago) - Dex Helm chart repository
 
 #### 🔨 My recent Pull Requests
 
