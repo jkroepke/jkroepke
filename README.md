@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.1), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.54.0](https://github.com/renovatebot/renovate/releases/tag/36.54.0), today) - Universal dependency update tool that fits into your workflows.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.2.0](https://github.com/kubereboot/charts/releases/tag/kured-5.2.0), today) - Helm charts for kubereboot org (kured)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.53.1](https://github.com/renovatebot/renovate/releases/tag/36.53.1), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.2), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.18](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.18), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.6), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.38](https://github.com/stakater/Reloader/releases/tag/v1.0.38), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -55,6 +55,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (today)
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (2 weeks ago)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (1 month ago)
 - [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (1 month ago)
@@ -64,7 +65,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 months ago)
 - [andrea-falco/lens-multi-pod-logs](https://github.com/andrea-falco/lens-multi-pod-logs) - Multi pod and container logs for Lens (3 months ago)
 - [jdorn/json-editor](https://github.com/jdorn/json-editor) - JSON Schema Based Editor (3 months ago)
-- [jsonform/jsonform](https://github.com/jsonform/jsonform) - Build forms from JSON Schema. Easily template-able. Compatible with Bootstrap 3 out of the box. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
