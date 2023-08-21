@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.2), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.52.4](https://github.com/renovatebot/renovate/releases/tag/36.52.4), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.18](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.18), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.6), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.38](https://github.com/stakater/Reloader/releases/tag/v1.0.38), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.1.1), 1 day ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.1), 2 days ago) - ArgoProj Helm Charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.156.0](https://github.com/helmfile/helmfile/releases/tag/v0.156.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.70.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.70.0), 3 days ago) - Terraform provider for Azure Resource Manager
