@@ -17,20 +17,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (today)
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (today)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 day ago)
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (4 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (2 weeks ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 weeks ago)
+- [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-druid-exporter-1.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-druid-exporter-1.1.0), today) - Prometheus community Helm charts
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.27.1](https://github.com/helmfile/vals/releases/tag/v0.27.1), today) - Helm-like configuration values loader with support for various sources
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.3), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.55.0](https://github.com/renovatebot/renovate/releases/tag/36.55.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.2), today) - 
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.3](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.3), today) - Lookup resource attributes in tfstate.
