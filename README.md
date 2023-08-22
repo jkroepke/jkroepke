@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update tfstate-lookup and remove Workload Identity hack](https://github.com/helmfile/vals/pull/161) on [helmfile/vals](https://github.com/helmfile/vals) (today)
 - [Upgrade azidentity](https://github.com/fujiwara/tfstate-lookup/pull/133) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (1 day ago)
 - [Upgrade to Spring 3](https://github.com/jkroepke/demo-app/pull/28) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (3 days ago)
 - [[helm] Use the correct name of the service inside the ingress.](https://github.com/grafana/loki/pull/10290) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add HELM_SECRETS_DECRYPT_SECRETS_IN_TMP_DIR](https://github.com/jkroepke/helm-secrets/pull/390) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [[velero] Add toggle to disable annotations](https://github.com/vmware-tanzu/helm-charts/pull/487) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (2 weeks ago)
 - [Implement --diff-args](https://github.com/helmfile/helmfile/pull/959) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (2 weeks ago)
-- [fix encode multiple docs](https://github.com/helmfile/vals/pull/159) on [helmfile/vals](https://github.com/helmfile/vals) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
