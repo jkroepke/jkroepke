@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.27.1](https://github.com/helmfile/vals/releases/tag/v0.27.1), today) - Helm-like configuration values loader with support for various sources
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.3), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.55.0](https://github.com/renovatebot/renovate/releases/tag/36.55.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.2), today) - 
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.27.0](https://github.com/helmfile/vals/releases/tag/v0.27.0), today) - Helm-like configuration values loader with support for various sources
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.3](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.3), today) - Lookup resource attributes in tfstate.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.4.1), 1 day ago) - Prometheus community Helm charts
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.2.0](https://github.com/kubereboot/charts/releases/tag/kured-5.2.0), 1 day ago) - Helm charts for kubereboot org (kured)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.18](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.18), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.38](https://github.com/stakater/Reloader/releases/tag/v1.0.38), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/982) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (today)
 - [Updating azsecrets to the stable SDK version.](https://github.com/helmfile/vals/pull/162) on [helmfile/vals](https://github.com/helmfile/vals) (today)
 - [Update tfstate-lookup and remove Workload Identity hack](https://github.com/helmfile/vals/pull/161) on [helmfile/vals](https://github.com/helmfile/vals) (today)
 - [Upgrade azidentity](https://github.com/fujiwara/tfstate-lookup/pull/133) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[Windows Service] Inherit exit code from agent](https://github.com/grafana/agent/pull/4824) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
 - [Use vals --decode-kubernetes-secrets](https://github.com/jkroepke/helm-secrets/pull/391) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Add HELM_SECRETS_DECRYPT_SECRETS_IN_TMP_DIR](https://github.com/jkroepke/helm-secrets/pull/390) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [[velero] Add toggle to disable annotations](https://github.com/vmware-tanzu/helm-charts/pull/487) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
