@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.5), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.2](https://github.com/renovatebot/renovate/releases/tag/36.57.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.71.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.71.2), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.10.0), 1 day ago) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.2.0](https://github.com/kubereboot/charts/releases/tag/kured-5.2.0), 2 days ago) - Helm charts for kubereboot org (kured)
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.18](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.18), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.38](https://github.com/stakater/Reloader/releases/tag/v1.0.38), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.1](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.1), 4 days ago) - ArgoProj Helm Charts
 
 #### 🔨 My recent Pull Requests
 
