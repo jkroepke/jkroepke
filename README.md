@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.1.0-weekly.252](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.1.0-weekly.252), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.3](https://github.com/renovatebot/renovate/releases/tag/36.57.3), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.6.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.5), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.71.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.71.2), 1 day ago) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.27.1](https://github.com/helmfile/vals/releases/tag/v0.27.1), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.3](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.3), 1 day ago) - Lookup resource attributes in tfstate.
