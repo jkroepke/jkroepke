@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.0](https://github.com/grafana/grafana/releases/tag/v10.1.0), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.4](https://github.com/renovatebot/renovate/releases/tag/36.57.4), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.4), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.15.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.15.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.3](https://github.com/renovatebot/renovate/releases/tag/36.57.3), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.5), today) - ArgoProj Helm Charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.27.1](https://github.com/helmfile/vals/releases/tag/v0.27.1), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.3](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.3), 1 day ago) - Lookup resource attributes in tfstate.
 - [kubereboot/charts](https://github.com/kubereboot/charts) ([kured-5.2.0](https://github.com/kubereboot/charts/releases/tag/kured-5.2.0), 2 days ago) - Helm charts for kubereboot org (kured)
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.18](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.18), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
