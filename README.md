@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.5](https://github.com/renovatebot/renovate/releases/tag/36.57.5), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.6), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.9](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.9), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.0](https://github.com/grafana/grafana/releases/tag/v10.1.0), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.4](https://github.com/renovatebot/renovate/releases/tag/36.57.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.4), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.5), 1 day ago) - ArgoProj Helm Charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Farfaday](https://github.com/Farfaday)
 - [qunxa88](https://github.com/qunxa88)
 - [hamidreza-hosseini](https://github.com/hamidreza-hosseini)
 - [yuri-1987](https://github.com/yuri-1987)
 - [vsramalwan](https://github.com/vsramalwan)
-- [igor-nikiforov](https://github.com/igor-nikiforov)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
