@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.5), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-48.3.6](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-48.3.6), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.9](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.9), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.0](https://github.com/grafana/grafana/releases/tag/v10.1.0), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.57.4](https://github.com/renovatebot/renovate/releases/tag/36.57.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
