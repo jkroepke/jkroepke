@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.59.0](https://github.com/renovatebot/renovate/releases/tag/36.59.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.60.0](https://github.com/renovatebot/renovate/releases/tag/36.60.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.6), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.11.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.71.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.71.0), today) - Terraform provider for Azure Resource Manager
