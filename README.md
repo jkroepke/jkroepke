@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.60.1](https://github.com/renovatebot/renovate/releases/tag/36.60.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.61.0](https://github.com/renovatebot/renovate/releases/tag/36.61.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.19](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.19), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.7), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.11.0), today) - Prometheus community Helm charts
@@ -68,11 +68,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [ironmano-csco](https://github.com/ironmano-csco)
 - [Farfaday](https://github.com/Farfaday)
 - [qunxa88](https://github.com/qunxa88)
 - [hamidreza-hosseini](https://github.com/hamidreza-hosseini)
 - [yuri-1987](https://github.com/yuri-1987)
-- [vsramalwan](https://github.com/vsramalwan)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
