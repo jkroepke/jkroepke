@@ -42,6 +42,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Add tpl function to config and ingress for supporting umbrella charts](https://github.com/kubernetes/dashboard/pull/8225) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (today)
+- [[helm] Enable issuer, if scope is set to default](https://github.com/kubernetes/dashboard/pull/8223) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (today)
 - [[helm] Allow to configure additional RBAC cluster role-bindings](https://github.com/kubernetes/dashboard/pull/8222) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (today)
 - [[helm] Add ServiceMonitor relabel Configs](https://github.com/kubernetes/dashboard/pull/8221) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (today)
 - [bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/982) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 days ago)
@@ -50,8 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Upgrade azidentity](https://github.com/fujiwara/tfstate-lookup/pull/133) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (4 days ago)
 - [Upgrade to Spring 3](https://github.com/jkroepke/demo-app/pull/28) on [jkroepke/demo-app](https://github.com/jkroepke/demo-app) (6 days ago)
 - [[helm] Use the correct name of the service inside the ingress.](https://github.com/grafana/loki/pull/10290) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
-- [[helm] Make table_manager configuration toggle.](https://github.com/grafana/loki/pull/10288) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
-- [[Windows Service] Inherit exit code from agent](https://github.com/grafana/agent/pull/4824) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
