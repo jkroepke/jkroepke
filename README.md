@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.13), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.59.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.59.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.64.1](https://github.com/renovatebot/renovate/releases/tag/36.64.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.20](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.20), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.7), 1 day ago) - ArgoProj Helm Charts
