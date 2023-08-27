@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.64.7](https://github.com/renovatebot/renovate/releases/tag/36.64.7), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.8), today) - ArgoProj Helm Charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.64.6](https://github.com/renovatebot/renovate/releases/tag/36.64.6), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.6.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.59.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.59.0), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.20](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.20), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
