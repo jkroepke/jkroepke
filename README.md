@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.8](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.8), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.64.6](https://github.com/renovatebot/renovate/releases/tag/36.64.6), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.6.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.59.0](https://github.com/grafana/helm-charts/releases/tag/grafana-6.59.0), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-25.0.20](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-25.0.20), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.43.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.43.7), 2 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.71.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.71.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.0](https://github.com/grafana/grafana/releases/tag/v10.1.0), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.4), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
