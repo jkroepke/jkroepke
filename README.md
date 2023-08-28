@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.36.0-rc.3](https://github.com/grafana/agent/releases/tag/v0.36.0-rc.3), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.22.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.22.1), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.0), today) - ArgoProj Helm Charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.0](https://github.com/grafana/grafana/releases/tag/v10.1.0), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.4), 5 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.27.1](https://github.com/helmfile/vals/releases/tag/v0.27.1), 6 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
