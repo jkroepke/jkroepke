@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-49.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-49.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.0.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.0.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-24.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-24.0.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.68.1](https://github.com/renovatebot/renovate/releases/tag/36.68.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.36.0-rc.3](https://github.com/grafana/agent/releases/tag/v0.36.0-rc.3), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
