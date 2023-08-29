@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.71.1](https://github.com/renovatebot/renovate/releases/tag/36.71.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.72.0](https://github.com/renovatebot/renovate/releases/tag/36.72.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.29](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.29), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.3), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-49.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-49.2.0), today) - Prometheus community Helm charts
