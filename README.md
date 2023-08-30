@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.74.1](https://github.com/renovatebot/renovate/releases/tag/36.74.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.74.2](https://github.com/renovatebot/renovate/releases/tag/36.74.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.3](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.3), today) - 
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.92.0](https://github.com/aquasecurity/defsec/releases/tag/v0.92.0), today) - Trivy&#39;s misconfiguration scanning engine
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
