@@ -29,8 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.39](https://github.com/stakater/Reloader/releases/tag/v1.0.39), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.74.0](https://github.com/renovatebot/renovate/releases/tag/36.74.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.5), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.73.0](https://github.com/renovatebot/renovate/releases/tag/36.73.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.29](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.29), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-49.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-49.2.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.36.0-rc.3](https://github.com/grafana/agent/releases/tag/v0.36.0-rc.3), 2 days ago) - Vendor-neutral programmable observability pipelines.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.71.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.71.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.0](https://github.com/grafana/grafana/releases/tag/v10.1.0), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.4), 1 week ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.0.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.0.2), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
