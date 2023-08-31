@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.74.3](https://github.com/renovatebot/renovate/releases/tag/36.74.3), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-24.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-24.1.0), today) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.4](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.4), today) - Helm charts for webdevops applications
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.74.2](https://github.com/renovatebot/renovate/releases/tag/36.74.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.3](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.3), 1 day ago) - 
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.92.0](https://github.com/aquasecurity/defsec/releases/tag/v0.92.0), 1 day ago) - Trivy&#39;s misconfiguration scanning engine
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
