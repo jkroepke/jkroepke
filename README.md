@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-24.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-24.1.0), today) - Prometheus community Helm charts
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.4](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.4), today) - Helm charts for webdevops applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.74.2](https://github.com/renovatebot/renovate/releases/tag/36.74.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.3](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.3), 1 day ago) - 
@@ -36,7 +37,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/agent](https://github.com/grafana/agent) ([v0.36.0](https://github.com/grafana/agent/releases/tag/v0.36.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.39](https://github.com/stakater/Reloader/releases/tag/v1.0.39), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-49.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-49.2.0), 2 days ago) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.0), 3 days ago) - ArgoProj Helm Charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.71.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.71.0), 6 days ago) - Terraform provider for Azure Resource Manager
 
