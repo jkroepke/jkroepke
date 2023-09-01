@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.0-beta.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.7](https://github.com/renovatebot/renovate/releases/tag/36.78.7), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.8), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.1](https://github.com/grafana/grafana/releases/tag/v10.1.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.4](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.4), 1 day ago) - Helm charts for webdevops applications
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.92.0](https://github.com/aquasecurity/defsec/releases/tag/v0.92.0), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [grafana/agent](https://github.com/grafana/agent) ([v0.36.0](https://github.com/grafana/agent/releases/tag/v0.36.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.39](https://github.com/stakater/Reloader/releases/tag/v1.0.39), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
