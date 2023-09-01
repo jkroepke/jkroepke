@@ -29,12 +29,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.11.5](https://github.com/cert-manager/cert-manager/releases/tag/v1.11.5), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.72.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.72.0), today) - 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.4), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.7](https://github.com/renovatebot/renovate/releases/tag/36.78.7), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.8), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.1](https://github.com/grafana/grafana/releases/tag/v10.1.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.12.1), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.30](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.30), 1 day ago) - 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.0), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.4](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.4), 1 day ago) - Helm charts for webdevops applications
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.92.0](https://github.com/aquasecurity/defsec/releases/tag/v0.92.0), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
