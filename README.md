@@ -16,38 +16,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (1 week ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 week ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.12.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.3](https://github.com/renovatebot/renovate/releases/tag/36.78.3), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.30](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.30), today) - 
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.0), today) - Add-on agent to generate and expose cluster-level metrics.
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.4](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.4), today) - Helm charts for webdevops applications
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.92.0](https://github.com/aquasecurity/defsec/releases/tag/v0.92.0), 1 day ago) - Trivy&#39;s misconfiguration scanning engine
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/agent](https://github.com/grafana/agent) ([v0.36.0](https://github.com/grafana/agent/releases/tag/v0.36.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.39](https://github.com/stakater/Reloader/releases/tag/v1.0.39), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.0), 3 days ago) - ArgoProj Helm Charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.8), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.1](https://github.com/grafana/grafana/releases/tag/v10.1.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.12.1), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.3](https://github.com/renovatebot/renovate/releases/tag/36.78.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.30](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.30), 1 day ago) - 
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.0), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.4](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.4), 1 day ago) - Helm charts for webdevops applications
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.92.0](https://github.com/aquasecurity/defsec/releases/tag/v0.92.0), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
+- [grafana/agent](https://github.com/grafana/agent) ([v0.36.0](https://github.com/grafana/agent/releases/tag/v0.36.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.39](https://github.com/stakater/Reloader/releases/tag/v1.0.39), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
-- [Manifest sign by jkroepke](https://github.com/opentffoundation/manifesto/pull/818) on [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) (2 days ago)
-- [[prometheus-node-exporter] bump version](https://github.com/prometheus-community/helm-charts/pull/3731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[helm] Add tpl function to config and ingress for supporting umbrella charts](https://github.com/kubernetes/dashboard/pull/8225) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (6 days ago)
-- [[helm] Enable issuer, if scope is set to default](https://github.com/kubernetes/dashboard/pull/8223) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (6 days ago)
-- [[helm] Allow to configure additional RBAC cluster role-bindings](https://github.com/kubernetes/dashboard/pull/8222) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (6 days ago)
-- [[helm] Add ServiceMonitor relabel Configs](https://github.com/kubernetes/dashboard/pull/8221) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (6 days ago)
+- [Manifest sign by jkroepke](https://github.com/opentffoundation/manifesto/pull/818) on [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) (3 days ago)
+- [[prometheus-node-exporter] bump version](https://github.com/prometheus-community/helm-charts/pull/3731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[helm] Add tpl function to config and ingress for supporting umbrella charts](https://github.com/kubernetes/dashboard/pull/8225) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (1 week ago)
+- [[helm] Enable issuer, if scope is set to default](https://github.com/kubernetes/dashboard/pull/8223) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (1 week ago)
+- [[helm] Allow to configure additional RBAC cluster role-bindings](https://github.com/kubernetes/dashboard/pull/8222) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (1 week ago)
+- [[helm] Add ServiceMonitor relabel Configs](https://github.com/kubernetes/dashboard/pull/8221) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (1 week ago)
 - [bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/982) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (1 week ago)
 - [Updating azsecrets to the stable SDK version.](https://github.com/helmfile/vals/pull/162) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
 - [Update tfstate-lookup and remove Workload Identity hack](https://github.com/helmfile/vals/pull/161) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
@@ -55,16 +55,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 days ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (4 days ago)
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 days ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (5 days ago)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (1 week ago)
-- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (3 weeks ago)
+- [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (4 weeks ago)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (1 month ago)
 - [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (1 month ago)
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 months ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (2 months ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 months ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 months ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
