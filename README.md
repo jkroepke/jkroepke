@@ -29,8 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.23.0), today) - Prometheus community Helm charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-events-2.4.1](https://github.com/argoproj/argo-helm/releases/tag/argo-events-2.4.1), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.78.8](https://github.com/renovatebot/renovate/releases/tag/36.78.8), 2 days ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-50.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-50.0.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.72.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.72.0), 3 days ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.4), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.8), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.0), 4 days ago) - Add-on agent to generate and expose cluster-level metrics.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.4](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.4), 4 days ago) - Helm charts for webdevops applications
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.92.0](https://github.com/aquasecurity/defsec/releases/tag/v0.92.0), 5 days ago) - Trivy&#39;s misconfiguration scanning engine
-- [grafana/agent](https://github.com/grafana/agent) ([v0.36.0](https://github.com/grafana/agent/releases/tag/v0.36.0), 5 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
