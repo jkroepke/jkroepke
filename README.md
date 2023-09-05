@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.10), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.4.0), today) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.9](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.9), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.35](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.35), today) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.5](https://github.com/grafana/grafana/releases/tag/v10.0.5), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.82.0](https://github.com/renovatebot/renovate/releases/tag/36.82.0), today) - Universal dependency update tool that fits into your workflows.
