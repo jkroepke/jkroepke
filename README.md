@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.4.14](https://github.com/grafana/grafana/releases/tag/v9.4.14), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.9](https://github.com/grafana/grafana/releases/tag/v9.5.9), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.33](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.33), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-24.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-24.3.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.82.0](https://github.com/renovatebot/renovate/releases/tag/36.82.0), today) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.17.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.32](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.32), today) - 
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.2.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.2.0), today) - helmfile-action
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.1), 1 day ago) - ArgoProj Helm Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.4), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
