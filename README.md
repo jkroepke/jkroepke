@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-50.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-50.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-24.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-24.2.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-simple-1.3.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-simple-1.3.0), today) - 
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.2.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.2.0), today) - helmfile-action
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.81.0](https://github.com/renovatebot/renovate/releases/tag/36.81.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.31](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.31), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.1), 1 day ago) - ArgoProj Helm Charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.4), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.8), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
