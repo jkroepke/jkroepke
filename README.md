@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.2.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.2.0), today) - helmfile-action
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.81.0](https://github.com/renovatebot/renovate/releases/tag/36.81.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.31](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.31), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.1](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.1), 1 day ago) - ArgoProj Helm Charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.1](https://github.com/grafana/grafana/releases/tag/v10.1.1), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.0), 5 days ago) - Add-on agent to generate and expose cluster-level metrics.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.4](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.4), 5 days ago) - Helm charts for webdevops applications
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.92.0](https://github.com/aquasecurity/defsec/releases/tag/v0.92.0), 6 days ago) - Trivy&#39;s misconfiguration scanning engine
 
 #### 🔨 My recent Pull Requests
 
