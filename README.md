@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.0](https://github.com/renovatebot/renovate/releases/tag/36.87.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.1](https://github.com/renovatebot/renovate/releases/tag/36.87.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), today) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.40](https://github.com/stakater/Reloader/releases/tag/v1.0.40), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.6](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.6), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
