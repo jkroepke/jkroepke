@@ -29,7 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.17.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.17.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.23.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.23.0), today) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.0](https://github.com/grafana/loki/releases/tag/v2.9.0), today) - Like Prometheus, but for logs.
+- [grafana/agent](https://github.com/grafana/agent) ([v0.36.1](https://github.com/grafana/agent/releases/tag/v0.36.1), today) - Vendor-neutral programmable observability pipelines.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.1](https://github.com/renovatebot/renovate/releases/tag/36.87.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), today) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.40](https://github.com/stakater/Reloader/releases/tag/v1.0.40), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -37,8 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.10), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.4.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.5](https://github.com/grafana/grafana/releases/tag/v10.0.5), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.17.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.2.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.2.0), 1 day ago) - helmfile-action
 
 #### 🔨 My recent Pull Requests
 
