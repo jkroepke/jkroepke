@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.83.1](https://github.com/renovatebot/renovate/releases/tag/36.83.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.84.0](https://github.com/renovatebot/renovate/releases/tag/36.84.0), today) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.40](https://github.com/stakater/Reloader/releases/tag/v1.0.40), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.6](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.6), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.10), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
