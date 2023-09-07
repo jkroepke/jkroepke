@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.19.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.19.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.13.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.59.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.59.4), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.2), today) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.11), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.6](https://github.com/renovatebot/renovate/releases/tag/36.87.6), today) - Universal dependency update tool that fits into your workflows.
