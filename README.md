@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.11), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.6](https://github.com/renovatebot/renovate/releases/tag/36.87.6), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.1.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.1.0), 1 day ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.16), 1 day ago) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-operator/kube-prometheus](https://github.com/prometheus-operator/kube-prometheus) ([v0.13.0](https://github.com/prometheus-operator/kube-prometheus/releases/tag/v0.13.0), 1 day ago) - Use Prometheus to monitor Kubernetes and applications running on Kubernetes
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.40](https://github.com/stakater/Reloader/releases/tag/v1.0.40), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.13.6](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.13.6), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.10](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.10), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.4.0), 2 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
