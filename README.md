@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.1.0-weekly.254](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.1.0-weekly.254), today) - 
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.309.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.309.0), today) - This will run the new self-hosted github actions runners with docker-in-docker
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.12), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.19.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.19.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.13.0), today) - Prometheus community Helm charts
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.2), today) - ArgoProj Helm Charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.6](https://github.com/renovatebot/renovate/releases/tag/36.87.6), today) - Universal dependency update tool that fits into your workflows.
