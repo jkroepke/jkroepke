@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.3](https://github.com/renovatebot/renovate/releases/tag/36.87.3), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.1.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.1.0), 1 day ago) - Terraform provider for running commands on private AKS clusters without reach them
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.2](https://github.com/renovatebot/renovate/releases/tag/36.87.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.1.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.1.16), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.0](https://github.com/grafana/loki/releases/tag/v2.9.0), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.36.1](https://github.com/grafana/agent/releases/tag/v0.36.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
