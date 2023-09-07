@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-rollouts-2.32.0](https://github.com/argoproj/argo-helm/releases/tag/argo-rollouts-2.32.0), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.18.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.18.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.59.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.59.4), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.2), today) - ArgoProj Helm Charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.11](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.11), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.87.6](https://github.com/renovatebot/renovate/releases/tag/36.87.6), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.1.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.1.0), 1 day ago) - Terraform provider for running commands on private AKS clusters without reach them
