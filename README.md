@@ -16,29 +16,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (6 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 weeks ago)
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (2 weeks ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.4), today) - ArgoProj Helm Charts
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.45.5](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.45.5), today) - ArgoProj Helm Charts
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.24.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.24.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.88.1](https://github.com/renovatebot/renovate/releases/tag/36.88.1), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.0), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.72.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.72.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.309.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.309.0), 1 day ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.12), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.13.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.1.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.1.0), 2 days ago) - Terraform provider for running commands on private AKS clusters without reach them
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.0](https://github.com/grafana/loki/releases/tag/v2.9.0), 2 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
