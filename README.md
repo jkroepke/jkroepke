@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update ArgoCD Integration.md](https://github.com/jkroepke/helm-secrets/pull/401) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [`secrets&#43;*-import://` added syntax checks](https://github.com/jkroepke/helm-secrets/pull/400) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Manifest sign by jkroepke](https://github.com/opentffoundation/manifesto/pull/818) on [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) (1 week ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Allow to configure additional RBAC cluster role-bindings](https://github.com/kubernetes/dashboard/pull/8222) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 - [[helm] Add ServiceMonitor relabel Configs](https://github.com/kubernetes/dashboard/pull/8221) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 - [bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/982) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (2 weeks ago)
-- [Updating azsecrets to the stable SDK version.](https://github.com/helmfile/vals/pull/162) on [helmfile/vals](https://github.com/helmfile/vals) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
