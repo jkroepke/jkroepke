@@ -29,7 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.0), today) - 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.2](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.2), today) - Ingress-NGINX Controller for Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.0), today) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.2), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.89.0](https://github.com/renovatebot/renovate/releases/tag/36.89.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.72.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.72.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.309.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.309.0), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.12), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.1.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.1.0), 3 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 
 #### 🔨 My recent Pull Requests
 
