@@ -22,9 +22,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 weeks ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (2 weeks ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 weeks ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
