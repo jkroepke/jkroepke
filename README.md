@@ -29,7 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-logs-2.5.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-logs-2.5.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-metrics-1.10.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-metrics-1.10.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.91.0](https://github.com/renovatebot/renovate/releases/tag/36.91.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.3), today) - ArgoProj Helm Charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.2), 1 day ago) - Ingress-NGINX Controller for Kubernetes
