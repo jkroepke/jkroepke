@@ -16,10 +16,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (1 day ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (2 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (2 weeks ago)
@@ -29,22 +29,22 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.2), today) - Ingress-NGINX Controller for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.1), today) - 
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.0), today) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.2), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.89.0](https://github.com/renovatebot/renovate/releases/tag/36.89.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.72.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.72.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.309.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.309.0), 2 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.12), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.2), 1 day ago) - Ingress-NGINX Controller for Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.1), 1 day ago) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.0](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.0), 1 day ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.2), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.89.0](https://github.com/renovatebot/renovate/releases/tag/36.89.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.72.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.72.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.309.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.309.0), 3 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.12](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.12), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
-- [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [Update ArgoCD Integration.md](https://github.com/jkroepke/helm-secrets/pull/401) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [`secrets&#43;*-import://` added syntax checks](https://github.com/jkroepke/helm-secrets/pull/400) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Update ArgoCD Integration.md](https://github.com/jkroepke/helm-secrets/pull/401) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [`secrets&#43;*-import://` added syntax checks](https://github.com/jkroepke/helm-secrets/pull/400) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Manifest sign by jkroepke](https://github.com/opentffoundation/manifesto/pull/818) on [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) (1 week ago)
 - [[prometheus-node-exporter] bump version](https://github.com/prometheus-community/helm-charts/pull/3731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[helm] Add tpl function to config and ingress for supporting umbrella charts](https://github.com/kubernetes/dashboard/pull/8225) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
@@ -55,9 +55,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (5 days ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (6 days ago)
 - [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 week ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 week ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 weeks ago)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (2 weeks ago)
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (1 month ago)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (1 month ago)
