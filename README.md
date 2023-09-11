@@ -29,11 +29,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([enterprise-metrics-1.10.0](https://github.com/grafana/helm-charts/releases/tag/enterprise-metrics-1.10.0), 1 day ago) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.91.0](https://github.com/renovatebot/renovate/releases/tag/36.91.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-workflows-0.33.3](https://github.com/argoproj/argo-helm/releases/tag/argo-workflows-0.33.3), 1 day ago) - ArgoProj Helm Charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.2), 2 days ago) - Ingress-NGINX Controller for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.2), 2 days ago) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.72.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.72.0), 4 days ago) - Terraform provider for Azure Resource Manager
