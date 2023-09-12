@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.37](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.37), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.2), today) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.13](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.13), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.1.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.1.0-rc.0), today) - 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.14), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.6.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.1](https://github.com/renovatebot/renovate/releases/tag/36.93.1), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.157.0](https://github.com/helmfile/helmfile/releases/tag/v0.157.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.2), 1 day ago) - ArgoProj Helm Charts
