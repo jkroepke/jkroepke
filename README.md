@@ -29,7 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.4.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.2), today) - Prometheus community Helm charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.13](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.13), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.1](https://github.com/renovatebot/renovate/releases/tag/36.93.1), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.157.0](https://github.com/helmfile/helmfile/releases/tag/v0.157.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.2), 1 day ago) - ArgoProj Helm Charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.72.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.72.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) ([2.309.0](https://github.com/myoung34/docker-github-actions-runner/releases/tag/2.309.0), 5 days ago) - This will run the new self-hosted github actions runners with docker-in-docker
 
 #### 🔨 My recent Pull Requests
 
