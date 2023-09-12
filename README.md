@@ -16,16 +16,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-auth2 is an external binary for OpenVPN to handle an OAuth2 Auth Flow using device code grant (4 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (1 week ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 weeks ago)
-- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD. (3 weeks ago)
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (3 weeks ago)
+- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add tpl function to ingress and config](https://github.com/vouch/helm-charts/pull/39) on [vouch/helm-charts](https://github.com/vouch/helm-charts) (today)
 - [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [Update ArgoCD Integration.md](https://github.com/jkroepke/helm-secrets/pull/401) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
 - [`secrets&#43;*-import://` added syntax checks](https://github.com/jkroepke/helm-secrets/pull/400) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Enable issuer, if scope is set to default](https://github.com/kubernetes/dashboard/pull/8223) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 - [[helm] Allow to configure additional RBAC cluster role-bindings](https://github.com/kubernetes/dashboard/pull/8222) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 - [[helm] Add ServiceMonitor relabel Configs](https://github.com/kubernetes/dashboard/pull/8221) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
-- [bump github.com/helmfile/vals](https://github.com/helmfile/helmfile/pull/982) on [helmfile/helmfile](https://github.com/helmfile/helmfile) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
