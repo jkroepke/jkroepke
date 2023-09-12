@@ -29,9 +29,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.0](https://github.com/renovatebot/renovate/releases/tag/36.93.0), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.2), 1 day ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-24.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-24.4.0), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.92.1](https://github.com/renovatebot/renovate/releases/tag/36.92.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.0.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.0.2), 1 day ago) - 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.2), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
