@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.0), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.1.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.1.0-rc.0), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.14), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-5.6.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.1](https://github.com/renovatebot/renovate/releases/tag/36.93.1), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.157.0](https://github.com/helmfile/helmfile/releases/tag/v0.157.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.2](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.2), 1 day ago) - ArgoProj Helm Charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.2), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.72.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.72.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
