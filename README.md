@@ -29,10 +29,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.21.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.21.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.3), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.7](https://github.com/renovatebot/renovate/releases/tag/36.93.7), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.3), today) - ArgoProj Helm Charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.2), 1 day ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.14), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.157.0](https://github.com/helmfile/helmfile/releases/tag/v0.157.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Support in-cluster configuration](https://github.com/kvaps/kubectl-node-shell/pull/55) on [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) (today)
 - [Add tpl function to ingress and config](https://github.com/vouch/helm-charts/pull/39) on [vouch/helm-charts](https://github.com/vouch/helm-charts) (2 days ago)
 - [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 - [Update ArgoCD Integration.md](https://github.com/jkroepke/helm-secrets/pull/401) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Add tpl function to config and ingress for supporting umbrella charts](https://github.com/kubernetes/dashboard/pull/8225) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 - [[helm] Enable issuer, if scope is set to default](https://github.com/kubernetes/dashboard/pull/8223) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 - [[helm] Allow to configure additional RBAC cluster role-bindings](https://github.com/kubernetes/dashboard/pull/8222) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
-- [[helm] Add ServiceMonitor relabel Configs](https://github.com/kubernetes/dashboard/pull/8221) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
