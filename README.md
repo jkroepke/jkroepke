@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.22.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.22.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.5](https://github.com/grafana/loki/releases/tag/v2.8.5), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.0.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.0.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.3), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.7](https://github.com/renovatebot/renovate/releases/tag/36.93.7), today) - Universal dependency update tool that fits into your workflows.
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.3](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.3), today) - ArgoProj Helm Charts
@@ -42,7 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [fix multiline commands](https://github.com/jkroepke/helm-secrets/pull/405) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [fix multiline parameter values](https://github.com/jkroepke/helm-secrets/pull/405) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Support in-cluster configuration](https://github.com/kvaps/kubectl-node-shell/pull/55) on [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) (today)
 - [Add tpl function to ingress and config](https://github.com/vouch/helm-charts/pull/39) on [vouch/helm-charts](https://github.com/vouch/helm-charts) (2 days ago)
 - [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
