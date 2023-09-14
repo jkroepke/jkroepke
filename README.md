@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.5](https://github.com/grafana/loki/releases/tag/v2.8.5), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.0.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.0.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.3), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.93.7](https://github.com/renovatebot/renovate/releases/tag/36.93.7), today) - Universal dependency update tool that fits into your workflows.
@@ -38,10 +39,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.157.0](https://github.com/helmfile/helmfile/releases/tag/v0.157.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.2), 5 days ago) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), 6 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.13.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.13.1), 6 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
+- [fix multiline commands](https://github.com/jkroepke/helm-secrets/pull/405) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Support in-cluster configuration](https://github.com/kvaps/kubectl-node-shell/pull/55) on [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) (today)
 - [Add tpl function to ingress and config](https://github.com/vouch/helm-charts/pull/39) on [vouch/helm-charts](https://github.com/vouch/helm-charts) (2 days ago)
 - [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-node-exporter] bump version](https://github.com/prometheus-community/helm-charts/pull/3731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [[helm] Add tpl function to config and ingress for supporting umbrella charts](https://github.com/kubernetes/dashboard/pull/8225) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 - [[helm] Enable issuer, if scope is set to default](https://github.com/kubernetes/dashboard/pull/8223) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
-- [[helm] Allow to configure additional RBAC cluster role-bindings](https://github.com/kubernetes/dashboard/pull/8222) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
