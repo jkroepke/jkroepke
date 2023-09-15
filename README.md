@@ -29,6 +29,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.73.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.73.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.3), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.5](https://github.com/grafana/loki/releases/tag/v2.8.5), 1 day ago) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.0.3), 1 day ago) - Prometheus community Helm charts
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.14), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.157.0](https://github.com/helmfile/helmfile/releases/tag/v0.157.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.8.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.8.2), 6 days ago) - Ingress-NGINX Controller for Kubernetes
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.68.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.68.0), 1 week ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
 #### 🔨 My recent Pull Requests
 
