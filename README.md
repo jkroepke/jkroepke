@@ -17,52 +17,52 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (4 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (5 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (6 days ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (2 weeks ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 weeks ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.0.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.0.0), today) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.0](https://github.com/renovatebot/renovate/releases/tag/36.96.0), today) - Universal dependency update tool that fits into your workflows.
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.0), today) - Collection of charts used in my projects
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.4), 1 day ago) - ArgoProj Helm Charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.73.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.73.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.3), 2 days ago) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.5](https://github.com/grafana/loki/releases/tag/v2.8.5), 2 days ago) - Like Prometheus, but for logs.
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.14), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.1.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.1.0), today) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.0](https://github.com/renovatebot/renovate/releases/tag/36.96.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.0), 1 day ago) - Collection of charts used in my projects
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.4), 2 days ago) - ArgoProj Helm Charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.2.0), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.73.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.73.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.3), 3 days ago) - 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.5](https://github.com/grafana/loki/releases/tag/v2.8.5), 3 days ago) - Like Prometheus, but for logs.
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.14), 5 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
-- [Finish Management Client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/10) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [fix multiline parameter values](https://github.com/jkroepke/helm-secrets/pull/405) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [Support in-cluster configuration](https://github.com/kvaps/kubectl-node-shell/pull/55) on [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) (2 days ago)
-- [Add tpl function to ingress and config](https://github.com/vouch/helm-charts/pull/39) on [vouch/helm-charts](https://github.com/vouch/helm-charts) (4 days ago)
+- [Better docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/14) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Better docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/13) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Finish Management Client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/10) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [fix multiline parameter values](https://github.com/jkroepke/helm-secrets/pull/405) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [Support in-cluster configuration](https://github.com/kvaps/kubectl-node-shell/pull/55) on [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) (3 days ago)
+- [Add tpl function to ingress and config](https://github.com/vouch/helm-charts/pull/39) on [vouch/helm-charts](https://github.com/vouch/helm-charts) (5 days ago)
 - [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Update ArgoCD Integration.md](https://github.com/jkroepke/helm-secrets/pull/401) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [`secrets&#43;*-import://` added syntax checks](https://github.com/jkroepke/helm-secrets/pull/400) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Manifest sign by jkroepke](https://github.com/opentffoundation/manifesto/pull/818) on [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) (2 weeks ago)
-- [[prometheus-node-exporter] bump version](https://github.com/prometheus-community/helm-charts/pull/3731) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[helm] Add tpl function to config and ingress for supporting umbrella charts](https://github.com/kubernetes/dashboard/pull/8225) on [kubernetes/dashboard](https://github.com/kubernetes/dashboard) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 week ago)
 - [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (2 weeks ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 weeks ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 weeks ago)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (3 weeks ago)
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (1 month ago)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (2 months ago)
 - [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (2 months ago)
-- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 months ago)
+- [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (3 months ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (3 months ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (3 months ago)
 
