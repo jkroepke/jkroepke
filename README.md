@@ -29,8 +29,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.2](https://github.com/renovatebot/renovate/releases/tag/36.96.2), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.1.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.1.0), today) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.0](https://github.com/renovatebot/renovate/releases/tag/36.96.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.0), 1 day ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.4), 2 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.2.0), 2 days ago) - Prometheus community Helm charts
@@ -42,6 +42,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Better docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/15) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Better docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/14) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Better docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/13) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Finish Management Client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/10) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -51,7 +52,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [bats](https://github.com/jkroepke/helm-secrets/pull/402) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Update ArgoCD Integration.md](https://github.com/jkroepke/helm-secrets/pull/401) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [`secrets&#43;*-import://` added syntax checks](https://github.com/jkroepke/helm-secrets/pull/400) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Manifest sign by jkroepke](https://github.com/opentffoundation/manifesto/pull/818) on [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
