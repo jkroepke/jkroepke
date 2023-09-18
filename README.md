@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.2), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.5](https://github.com/renovatebot/renovate/releases/tag/36.96.5), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.2.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.2.0), 1 day ago) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.0), 2 days ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.4), 3 days ago) - ArgoProj Helm Charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.2.0), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.73.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.73.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.3), 4 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.5](https://github.com/grafana/loki/releases/tag/v2.8.5), 4 days ago) - Like Prometheus, but for logs.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.0), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.14), 6 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
-- [hiamsule](https://github.com/hiamsule)
 - [DrFaust92](https://github.com/DrFaust92)
 - [Chikita12345](https://github.com/Chikita12345)
 - [GeorgeHarbor](https://github.com/GeorgeHarbor)
 - [ironmano-csco](https://github.com/ironmano-csco)
+- [Farfaday](https://github.com/Farfaday)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
