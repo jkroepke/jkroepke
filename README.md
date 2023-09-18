@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.8.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.8.0-beta.0), today) - Ingress-NGINX Controller for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.2), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.5](https://github.com/renovatebot/renovate/releases/tag/36.96.5), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.2.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.2.0), 1 day ago) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.73.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.73.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.5](https://github.com/grafana/loki/releases/tag/v2.8.5), 4 days ago) - Like Prometheus, but for logs.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.0), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.14](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.14), 6 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
