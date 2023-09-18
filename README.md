@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.7](https://github.com/renovatebot/renovate/releases/tag/36.96.7), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.8.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.8.0-beta.0), today) - Ingress-NGINX Controller for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.2), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.96.5](https://github.com/renovatebot/renovate/releases/tag/36.96.5), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.2.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.2.0), 1 day ago) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.0), 2 days ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.4](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.4), 3 days ago) - ArgoProj Helm Charts
