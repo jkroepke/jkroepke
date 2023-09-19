@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.97.2](https://github.com/renovatebot/renovate/releases/tag/36.97.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.38](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.38), today) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.1), today) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.6), today) - ArgoProj Helm Charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.2](https://github.com/grafana/grafana/releases/tag/v10.1.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.97.1](https://github.com/renovatebot/renovate/releases/tag/36.97.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.0.0), today) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0-beta.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.5](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.5), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
