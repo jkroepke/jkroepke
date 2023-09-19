@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.38](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.38), today) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.1), today) - Collection of charts used in my projects
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.1.0-weekly.256](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.1.0-weekly.256), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.6), today) - ArgoProj Helm Charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.2](https://github.com/grafana/grafana/releases/tag/v10.1.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.97.1](https://github.com/renovatebot/renovate/releases/tag/36.97.1), today) - Universal dependency update tool that fits into your workflows.
