@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows (2 days ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [add client connect tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/20) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/19) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Add codecov in CI](https://github.com/jkroepke/openvpn-auth-oauth2/pull/18) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Use crypto from zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/17) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Finish Management Client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/10) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [fix multiline parameter values](https://github.com/jkroepke/helm-secrets/pull/405) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [Support in-cluster configuration](https://github.com/kvaps/kubectl-node-shell/pull/55) on [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) (6 days ago)
-- [Add tpl function to ingress and config](https://github.com/vouch/helm-charts/pull/39) on [vouch/helm-charts](https://github.com/vouch/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
