@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.14.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.14.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.97.3](https://github.com/renovatebot/renovate/releases/tag/36.97.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.38](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.38), 1 day ago) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.1), 1 day ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.6), 1 day ago) - ArgoProj Helm Charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.2](https://github.com/grafana/grafana/releases/tag/v10.1.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -58,7 +58,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (3 days ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (2 weeks ago)
-- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 weeks ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 weeks ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (3 weeks ago)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (1 month ago)
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (1 month ago)
