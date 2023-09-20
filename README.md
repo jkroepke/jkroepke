@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.98.0](https://github.com/renovatebot/renovate/releases/tag/36.98.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.14.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.14.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.97.3](https://github.com/renovatebot/renovate/releases/tag/36.97.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.1), 1 day ago) - Collection of charts used in my projects
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.6), 1 day ago) - ArgoProj Helm Charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.2](https://github.com/grafana/grafana/releases/tag/v10.1.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
