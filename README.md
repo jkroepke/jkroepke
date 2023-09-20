@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.15](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.15), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.98.0](https://github.com/renovatebot/renovate/releases/tag/36.98.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.14.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.14.0), today) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.1), 1 day ago) - Collection of charts used in my projects
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0-beta.0), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.5](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.5), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.2.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.2.0), 3 days ago) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.73.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.73.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
