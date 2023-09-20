@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.41](https://github.com/stakater/Reloader/releases/tag/v1.0.41), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.99.0](https://github.com/renovatebot/renovate/releases/tag/36.99.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.15](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.15), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-canary-0.14.0](https://github.com/grafana/helm-charts/releases/tag/loki-canary-0.14.0), today) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.0.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0-beta.0), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.6.5](https://github.com/electron-userland/electron-builder/releases/tag/v24.6.5), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.2.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.2.0), 3 days ago) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
 
 #### 🔨 My recent Pull Requests
 
