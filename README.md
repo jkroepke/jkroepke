@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.5), today) - 
+- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), today) - ArgoProj Helm Charts
+- [grafana/agent](https://github.com/grafana/agent) ([v0.36.2](https://github.com/grafana/agent/releases/tag/v0.36.2), today) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.2), today) - Collection of charts used in my projects
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.17), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.103.0](https://github.com/renovatebot/renovate/releases/tag/36.103.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.1.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.59.5](https://github.com/grafana/helm-charts/releases/tag/grafana-6.59.5), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.74.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.74.0), today) - Terraform provider for Azure Resource Manager
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.41](https://github.com/stakater/Reloader/releases/tag/v1.0.41), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.6](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.6), 3 days ago) - ArgoProj Helm Charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.2](https://github.com/grafana/grafana/releases/tag/v10.1.2), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0-beta.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0-beta.0), 4 days ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
