@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.9.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.9.1), today) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), today) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.36.2](https://github.com/grafana/agent/releases/tag/v0.36.2), today) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.2), today) - Collection of charts used in my projects
