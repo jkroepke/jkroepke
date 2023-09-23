@@ -30,19 +30,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.1.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.1.2), today) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.104.0](https://github.com/renovatebot/renovate/releases/tag/36.104.0), today) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.10.1), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.105.0](https://github.com/renovatebot/renovate/releases/tag/36.105.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.1), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.9.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.9.1), 1 day ago) - 
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), 1 day ago) - ArgoProj Helm Charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.36.2](https://github.com/grafana/agent/releases/tag/v0.36.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.2), 1 day ago) - Collection of charts used in my projects
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.17](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.17), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.1.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.74.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.74.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.41](https://github.com/stakater/Reloader/releases/tag/v1.0.41), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
+- [update action](https://github.com/jkroepke/setup-vals/pull/61) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (today)
 - [update action](https://github.com/jkroepke/setup-vals/pull/60) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (today)
 - [add client connect tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/20) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Add tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/19) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Better docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/14) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Better docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/13) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Finish Management Client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/10) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [fix multiline parameter values](https://github.com/jkroepke/helm-secrets/pull/405) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
