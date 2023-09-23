@@ -19,8 +19,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows (1 day ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.60.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.60.1), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.106.1](https://github.com/renovatebot/renovate/releases/tag/36.106.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.10.1), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.1), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
