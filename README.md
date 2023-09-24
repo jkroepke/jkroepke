@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.3.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.3.1), today) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.106.2](https://github.com/renovatebot/renovate/releases/tag/36.106.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.2.0), 1 day ago) - Prometheus community Helm charts
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.3.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.3.0), 1 day ago) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.60.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.60.1), 1 day ago) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix race](https://github.com/jkroepke/openvpn-auth-oauth2/pull/26) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix timeout with OpenVPN password protected management interfaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/25) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Add more tests and fix openvpn.bypass is nil](https://github.com/jkroepke/openvpn-auth-oauth2/pull/24) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/22) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/19) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add codecov in CI](https://github.com/jkroepke/openvpn-auth-oauth2/pull/18) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Use crypto from zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/17) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Improvements](https://github.com/jkroepke/openvpn-auth-oauth2/pull/15) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
