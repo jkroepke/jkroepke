@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.4.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.4.0), today) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.17.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.17.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.107.0](https://github.com/renovatebot/renovate/releases/tag/36.107.0), today) - Universal dependency update tool that fits into your workflows.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.3.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.3.1), today) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.2.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.60.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.60.1), 1 day ago) - 
