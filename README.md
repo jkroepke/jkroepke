@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.4.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.4.0), today) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.5.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.5.0), today) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.17.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.17.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.107.0](https://github.com/renovatebot/renovate/releases/tag/36.107.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.2.0), 1 day ago) - Prometheus community Helm charts
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add auth-token-username](https://github.com/jkroepke/openvpn-auth-oauth2/pull/30) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Added github provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/28) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/27) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix race](https://github.com/jkroepke/openvpn-auth-oauth2/pull/26) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [update action](https://github.com/jkroepke/setup-vals/pull/61) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (1 day ago)
 - [update action](https://github.com/jkroepke/setup-vals/pull/60) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (1 day ago)
 - [add client connect tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/20) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Add tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/19) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
