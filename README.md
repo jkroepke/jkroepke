@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.257](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.257), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.5), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.107.1](https://github.com/renovatebot/renovate/releases/tag/36.107.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.7.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.7.0), 1 day ago) - Export various metrics including insights about github repositories
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.5.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.5.0), 1 day ago) - openvpn-auth-oauth2 is a management client for OpenVPN to handle an OIDC auth flows
