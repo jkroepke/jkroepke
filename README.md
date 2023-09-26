@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.0](https://github.com/aquasecurity/defsec/releases/tag/v0.93.0), today) - Trivy&#39;s misconfiguration scanning engine
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.18](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.18), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.6](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.6), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.108.0](https://github.com/renovatebot/renovate/releases/tag/36.108.0), today) - Universal dependency update tool that fits into your workflows.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.7.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.7.0), 2 days ago) - Export various metrics including insights about github repositories
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.17.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.17.1), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0), 3 days ago) - Ingress-NGINX Controller for Kubernetes
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.1), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
