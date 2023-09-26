@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.24.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.24.0), today) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.0.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.107.2](https://github.com/renovatebot/renovate/releases/tag/36.107.2), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.5.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.5.1), 1 day ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.5.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.5.1), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [argoproj/argo-helm](https://github.com/argoproj/argo-helm) ([argo-cd-5.46.7](https://github.com/argoproj/argo-helm/releases/tag/argo-cd-5.46.7), 4 days ago) - ArgoProj Helm Charts
-- [grafana/agent](https://github.com/grafana/agent) ([v0.36.2](https://github.com/grafana/agent/releases/tag/v0.36.2), 4 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
