@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.107.3](https://github.com/renovatebot/renovate/releases/tag/36.107.3), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.74.6](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.74.6), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([36.108.0](https://github.com/renovatebot/renovate/releases/tag/36.108.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.24.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.24.0), today) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.0.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.5.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.5.1), 1 day ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.5), 1 day ago) - 
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.7.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.7.0), 2 days ago) - Export various metrics including insights about github repositories
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.17.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.17.1), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.0), 3 days ago) - Ingress-NGINX Controller for Kubernetes
