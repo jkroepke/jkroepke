@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.6.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.6.0), today) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.1.2](https://github.com/renovatebot/renovate/releases/tag/37.1.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.7.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.21](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.21), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.7.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.7.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.0](https://github.com/aquasecurity/defsec/releases/tag/v0.93.0), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.24.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.24.0), 2 days ago) - Prometheus exporter for Windows machines
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.5.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.5.1), 3 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.7.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.7.0), 4 days ago) - Export various metrics including insights about github repositories
 
 #### 🔨 My recent Pull Requests
