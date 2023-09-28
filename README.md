@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows (2 days ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (3 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (4 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows (3 days ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (4 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (2 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
@@ -30,35 +30,35 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.6), today) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.20](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.20), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.0.1](https://github.com/renovatebot/renovate/releases/tag/37.0.1), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.7.0), today) - Prometheus community Helm charts
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.1), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.7.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.7.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.0](https://github.com/aquasecurity/defsec/releases/tag/v0.93.0), 1 day ago) - Trivy&#39;s misconfiguration scanning engine
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.24.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.24.0), 1 day ago) - Prometheus exporter for Windows machines
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.5.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.5.1), 2 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.7.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.7.0), 3 days ago) - Export various metrics including insights about github repositories
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-5.1.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.6), 1 day ago) - 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.20](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.20), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.0.1](https://github.com/renovatebot/renovate/releases/tag/37.0.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.7.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.7.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.0](https://github.com/aquasecurity/defsec/releases/tag/v0.93.0), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.24.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.24.0), 2 days ago) - Prometheus exporter for Windows machines
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.5.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.5.1), 3 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) ([v1.7.0](https://github.com/jkroepke/github_exporter/releases/tag/v1.7.0), 4 days ago) - Export various metrics including insights about github repositories
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor config](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Add PR label checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/32) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Add auth-token-username](https://github.com/jkroepke/openvpn-auth-oauth2/pull/30) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Added github provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/28) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/27) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [fix race](https://github.com/jkroepke/openvpn-auth-oauth2/pull/26) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Fix timeout with OpenVPN password protected management interfaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/25) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Add more tests and fix openvpn.bypass is nil](https://github.com/jkroepke/openvpn-auth-oauth2/pull/24) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/22) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [update action](https://github.com/jkroepke/setup-vals/pull/61) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 days ago)
+- [Refactor config](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Add PR label checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/32) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Add auth-token-username](https://github.com/jkroepke/openvpn-auth-oauth2/pull/30) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Added github provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/28) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/27) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [fix race](https://github.com/jkroepke/openvpn-auth-oauth2/pull/26) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Fix timeout with OpenVPN password protected management interfaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/25) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Add more tests and fix openvpn.bypass is nil](https://github.com/jkroepke/openvpn-auth-oauth2/pull/24) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/22) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [update action](https://github.com/jkroepke/setup-vals/pull/61) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (5 days ago)
 
 #### ⭐ Recent Stars
 
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (1 week ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (3 weeks ago)
-- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (4 weeks ago)
+- [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 month ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (1 month ago)
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (1 month ago)
