@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor config](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Read CHANGELOG](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Add PR label checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/32) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Add auth-token-username](https://github.com/jkroepke/openvpn-auth-oauth2/pull/30) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Added github provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/28) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
