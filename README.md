@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.4](https://github.com/grafana/grafana/releases/tag/v10.1.4), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.8](https://github.com/grafana/grafana/releases/tag/v10.0.8), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.6.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.23](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.23), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.75.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.75.0), today) - Terraform provider for Azure Resource Manager
