@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.22](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.22), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.75.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.75.0), today) - Terraform provider for Azure Resource Manager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.28.0](https://github.com/helmfile/vals/releases/tag/v0.28.0), today) - Helm-like configuration values loader with support for various sources
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.1.3](https://github.com/renovatebot/renovate/releases/tag/37.1.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.6.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.6.0), 1 day ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.7.0), 1 day ago) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.21](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.21), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.6), 2 days ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.7.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.7.0), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
