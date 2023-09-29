@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.4](https://github.com/grafana/grafana/releases/tag/v10.1.4), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.6.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.23](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.23), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.75.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.75.0), today) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.6), 2 days ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.7.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.7.0), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.0](https://github.com/aquasecurity/defsec/releases/tag/v0.93.0), 3 days ago) - Trivy&#39;s misconfiguration scanning engine
 
 #### 🔨 My recent Pull Requests
 
