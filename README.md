@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove zap logger](https://github.com/jkroepke/openvpn-auth-oauth2/pull/36) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix docs CONFIG_HTTP_BASEURL](https://github.com/jkroepke/openvpn-auth-oauth2/pull/35) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Read CHANGELOG](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Add PR label checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/32) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix race](https://github.com/jkroepke/openvpn-auth-oauth2/pull/26) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Fix timeout with OpenVPN password protected management interfaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/25) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add more tests and fix openvpn.bypass is nil](https://github.com/jkroepke/openvpn-auth-oauth2/pull/24) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/22) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
