@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows (today)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 day ago)
-- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (5 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (6 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows (1 day ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 days ago)
+- [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (6 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/demo-app](https://github.com/jkroepke/demo-app) - demo-app (2 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
@@ -30,29 +30,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.8](https://github.com/grafana/grafana/releases/tag/v10.0.8), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.6.0), today) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.23](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.23), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.75.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.75.0), today) - Terraform provider for Azure Resource Manager
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.28.0](https://github.com/helmfile/vals/releases/tag/v0.28.0), today) - Helm-like configuration values loader with support for various sources
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.1.3](https://github.com/renovatebot/renovate/releases/tag/37.1.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.6.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.6.0), 1 day ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.6), 2 days ago) - 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.7.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.7.0), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.8](https://github.com/grafana/grafana/releases/tag/v10.0.8), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.6.0), 1 day ago) - Prometheus community Helm charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.23](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.23), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.75.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.75.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.28.0](https://github.com/helmfile/vals/releases/tag/v0.28.0), 1 day ago) - Helm-like configuration values loader with support for various sources
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.1.3](https://github.com/renovatebot/renovate/releases/tag/37.1.3), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.6.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.6.0), 2 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.6), 3 days ago) - 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.1), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.7.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.7.0), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
-- [fix docs CONFIG_HTTP_BASEURL](https://github.com/jkroepke/openvpn-auth-oauth2/pull/35) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Read CHANGELOG](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Add PR label checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/32) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Add auth-token-username](https://github.com/jkroepke/openvpn-auth-oauth2/pull/30) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Added github provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/28) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/27) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [fix race](https://github.com/jkroepke/openvpn-auth-oauth2/pull/26) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Fix timeout with OpenVPN password protected management interfaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/25) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [Add more tests and fix openvpn.bypass is nil](https://github.com/jkroepke/openvpn-auth-oauth2/pull/24) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/22) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [fix docs CONFIG_HTTP_BASEURL](https://github.com/jkroepke/openvpn-auth-oauth2/pull/35) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Read CHANGELOG](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Add PR label checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/32) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Add auth-token-username](https://github.com/jkroepke/openvpn-auth-oauth2/pull/30) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Added github provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/28) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/27) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [fix race](https://github.com/jkroepke/openvpn-auth-oauth2/pull/26) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Fix timeout with OpenVPN password protected management interfaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/25) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
+- [Add more tests and fix openvpn.bypass is nil](https://github.com/jkroepke/openvpn-auth-oauth2/pull/24) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
+- [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/22) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [MakkambaevDastan](https://github.com/MakkambaevDastan)
 - [Tonur](https://github.com/Tonur)
 - [shakiliitju](https://github.com/shakiliitju)
 - [DrFaust92](https://github.com/DrFaust92)
 - [GeorgeHarbor](https://github.com/GeorgeHarbor)
-- [ironmano-csco](https://github.com/ironmano-csco)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
