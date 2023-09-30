@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.1.4](https://github.com/renovatebot/renovate/releases/tag/37.1.4), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.1.5](https://github.com/renovatebot/renovate/releases/tag/37.1.5), today) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.23.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.23.2), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.8](https://github.com/grafana/grafana/releases/tag/v10.0.8), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.6.0), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.23](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.23), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.75.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.75.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.28.0](https://github.com/helmfile/vals/releases/tag/v0.28.0), 1 day ago) - Helm-like configuration values loader with support for various sources
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [root: More test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/38) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Remove gorilla/mux dependency](https://github.com/jkroepke/openvpn-auth-oauth2/pull/37) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Remove zap logger](https://github.com/jkroepke/openvpn-auth-oauth2/pull/36) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix docs CONFIG_HTTP_BASEURL](https://github.com/jkroepke/openvpn-auth-oauth2/pull/35) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Added github provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/28) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/27) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [fix race](https://github.com/jkroepke/openvpn-auth-oauth2/pull/26) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [Fix timeout with OpenVPN password protected management interfaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/25) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
