@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
-- [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows (1 day ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows (2 days ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (1 week ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
@@ -30,25 +30,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.2.0](https://github.com/renovatebot/renovate/releases/tag/37.2.0), today) - Universal dependency update tool that fits into your workflows.
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.1.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.1.0), today) - Collection of charts used in my projects
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.24](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.24), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.23.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.23.2), 1 day ago) - Prometheus community Helm charts
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.8](https://github.com/grafana/grafana/releases/tag/v10.0.8), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.75.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.75.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.28.0](https://github.com/helmfile/vals/releases/tag/v0.28.0), 2 days ago) - Helm-like configuration values loader with support for various sources
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.6.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.6.0), 3 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.6), 4 days ago) - 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.1), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.2.0](https://github.com/renovatebot/renovate/releases/tag/37.2.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.1.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.1.0), 1 day ago) - Collection of charts used in my projects
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.24](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.24), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.23.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.23.2), 2 days ago) - Prometheus community Helm charts
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.8](https://github.com/grafana/grafana/releases/tag/v10.0.8), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.75.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.75.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.28.0](https://github.com/helmfile/vals/releases/tag/v0.28.0), 3 days ago) - Helm-like configuration values loader with support for various sources
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.6.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.6.0), 4 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.6), 5 days ago) - 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.1), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [root: More test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/38) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Remove gorilla/mux dependency](https://github.com/jkroepke/openvpn-auth-oauth2/pull/37) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Remove zap logger](https://github.com/jkroepke/openvpn-auth-oauth2/pull/36) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [fix docs CONFIG_HTTP_BASEURL](https://github.com/jkroepke/openvpn-auth-oauth2/pull/35) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Read CHANGELOG](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Add PR label checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/32) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [root: More test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/38) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Remove gorilla/mux dependency](https://github.com/jkroepke/openvpn-auth-oauth2/pull/37) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Remove zap logger](https://github.com/jkroepke/openvpn-auth-oauth2/pull/36) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [fix docs CONFIG_HTTP_BASEURL](https://github.com/jkroepke/openvpn-auth-oauth2/pull/35) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Read CHANGELOG](https://github.com/jkroepke/openvpn-auth-oauth2/pull/33) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Add PR label checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/32) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add auth-token-username](https://github.com/jkroepke/openvpn-auth-oauth2/pull/30) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Added github provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/28) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add more tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/27) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -57,13 +57,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### ⭐ Recent Stars
 
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (2 weeks ago)
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (3 weeks ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (4 weeks ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 month ago)
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 month ago)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (1 month ago)
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (1 month ago)
 - [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (2 months ago)
-- [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (2 months ago)
+- [fstaudt/helm-values](https://github.com/fstaudt/helm-values) - Generate JSON schemas to help writing values for Helm charts. (3 months ago)
 - [martin-helmich/prometheus-nginxlog-exporter](https://github.com/martin-helmich/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (3 months ago)
 - [itaysk/kubectl-neat](https://github.com/itaysk/kubectl-neat) - Clean up Kubernetes yaml and json output to make it readable (3 months ago)
 
