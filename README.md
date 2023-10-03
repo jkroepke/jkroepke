@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.7](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.7), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.5.2](https://github.com/renovatebot/renovate/releases/tag/37.5.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.8.1), today) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.1), today) - Ingress-NGINX Controller for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.8](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.8), today) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.7.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.7.0), 1 day ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.1.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.1.0), 2 days ago) - Collection of charts used in my projects
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.24](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.24), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
