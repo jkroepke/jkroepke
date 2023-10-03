@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.4.0](https://github.com/renovatebot/renovate/releases/tag/37.4.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.4.1](https://github.com/renovatebot/renovate/releases/tag/37.4.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.1.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.7), 1 day ago) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.7.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.7.0), 1 day ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
