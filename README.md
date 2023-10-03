@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.7.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.5.0](https://github.com/renovatebot/renovate/releases/tag/37.5.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.258](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.258), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.1.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.7.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.7.0), 1 day ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.1.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.1.0), 2 days ago) - Collection of charts used in my projects
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.24](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.24), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
