@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.5.3](https://github.com/renovatebot/renovate/releases/tag/37.5.3), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.3.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.3.0), today) - helmfile-action
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.60.2](https://github.com/grafana/helm-charts/releases/tag/grafana-6.60.2), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.5.2](https://github.com/renovatebot/renovate/releases/tag/37.5.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.8.1), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.7.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.7.0), 2 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
