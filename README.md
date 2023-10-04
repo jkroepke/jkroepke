@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.8.0-rc.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.8.0-rc.0), today) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.10](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.10), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.6.0](https://github.com/renovatebot/renovate/releases/tag/37.6.0), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.3.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.3.0), today) - helmfile-action
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.8.1), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.7.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.7.0), 2 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.1.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.1.0), 3 days ago) - Collection of charts used in my projects
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.24](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.24), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.0.8](https://github.com/grafana/grafana/releases/tag/v10.0.8), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
