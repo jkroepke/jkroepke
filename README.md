@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), today) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.37.0-rc.0), today) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.25.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.25.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.6.2](https://github.com/renovatebot/renovate/releases/tag/37.6.2), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.25](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.25), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.8.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.8.0), 1 day ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.14.0), 1 day ago) - Prometheus community Helm charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.3.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.3.0), 1 day ago) - helmfile-action
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.1), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.1.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.1.0), 4 days ago) - Collection of charts used in my projects
