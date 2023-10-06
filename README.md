@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.6.3](https://github.com/renovatebot/renovate/releases/tag/37.6.3), today) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.42](https://github.com/stakater/Reloader/releases/tag/v1.0.42), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.4](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.4), today) - Lookup resource attributes in tfstate.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.25](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.25), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.8.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.8.0), 2 days ago) - openvpn-auth-oauth2 is a management interface client for OpenVPN server to handle an OIDC auth flows
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.3.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.3.0), 2 days ago) - helmfile-action
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.1), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
