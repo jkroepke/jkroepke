@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.1](https://github.com/aquasecurity/defsec/releases/tag/v0.93.1), today) - Trivy&#39;s misconfiguration scanning engine
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.37.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.6.3](https://github.com/renovatebot/renovate/releases/tag/37.6.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.25.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.25.0), 2 days ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.25](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.25), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.8.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.8.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.3.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.3.0), 3 days ago) - helmfile-action
 
 #### 🔨 My recent Pull Requests
 
