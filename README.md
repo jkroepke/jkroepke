@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.8), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.7.1](https://github.com/renovatebot/renovate/releases/tag/37.7.1), today) - Universal dependency update tool that fits into your workflows.
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.1](https://github.com/aquasecurity/defsec/releases/tag/v0.93.1), today) - Trivy&#39;s misconfiguration scanning engine
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.37.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.42](https://github.com/stakater/Reloader/releases/tag/v1.0.42), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.4](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.4), 1 day ago) - Lookup resource attributes in tfstate.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.25.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.25.0), 2 days ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.25](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.25), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.8.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.8.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 
