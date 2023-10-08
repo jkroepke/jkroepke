@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.8.0](https://github.com/renovatebot/renovate/releases/tag/37.8.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.8), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.7.1](https://github.com/renovatebot/renovate/releases/tag/37.7.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.1](https://github.com/aquasecurity/defsec/releases/tag/v0.93.1), 1 day ago) - Trivy&#39;s misconfiguration scanning engine
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.37.0-rc.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
