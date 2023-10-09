@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.60.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.60.4), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.9.1](https://github.com/renovatebot/renovate/releases/tag/37.9.1), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.259](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.259), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.0), today) - Prometheus community Helm charts
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.1](https://github.com/aquasecurity/defsec/releases/tag/v0.93.1), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.37.0-rc.1), 3 days ago) - Vendor-neutral programmable observability pipelines.
