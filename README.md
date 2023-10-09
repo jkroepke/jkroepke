@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.8.1](https://github.com/renovatebot/renovate/releases/tag/37.8.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.60.3](https://github.com/grafana/helm-charts/releases/tag/grafana-6.60.3), 1 day ago) - 
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.1](https://github.com/aquasecurity/defsec/releases/tag/v0.93.1), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.42](https://github.com/stakater/Reloader/releases/tag/v1.0.42), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.4](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.4), 3 days ago) - Lookup resource attributes in tfstate.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.3.0), 4 days ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.25](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.25), 5 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.8.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.8.0), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 
