@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (3 days ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (5 days ago)
@@ -26,14 +27,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/setup-helmfile](https://github.com/jkroepke/setup-helmfile) - Github Action for installing helmfile (https://github.com/helmfile/helmfile) (1 week ago)
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - Export various metrics including insights about github repositories (2 weeks ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.1), today) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.0](https://github.com/grafana/agent/releases/tag/v0.37.0), today) - Vendor-neutral programmable observability pipelines.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.12.1](https://github.com/renovatebot/renovate/releases/tag/37.12.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.60.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.60.4), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.0), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.1](https://github.com/aquasecurity/defsec/releases/tag/v0.93.1), 3 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.42](https://github.com/stakater/Reloader/releases/tag/v1.0.42), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Bump dependencies](https://github.com/prometheus-community/helm-charts/pull/3876) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Add openvpn.auth-pending-timeout flag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/46) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Manual configuration of token url](https://github.com/jkroepke/openvpn-auth-oauth2/pull/45) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [tests: more coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/44) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: Prepare OpenVPN server plugin](https://github.com/jkroepke/openvpn-auth-oauth2/pull/40) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Add graceful shutdown to http listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/39) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [general: Refactor code, enable more linters](https://github.com/jkroepke/openvpn-auth-oauth2/pull/38) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Remove gorilla/mux dependency](https://github.com/jkroepke/openvpn-auth-oauth2/pull/37) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
