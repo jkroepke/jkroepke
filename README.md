@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.4.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.1), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.0](https://github.com/renovatebot/renovate/releases/tag/37.13.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.0](https://github.com/grafana/agent/releases/tag/v0.37.0), today) - Vendor-neutral programmable observability pipelines.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.12.1](https://github.com/renovatebot/renovate/releases/tag/37.12.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.60.4](https://github.com/grafana/helm-charts/releases/tag/grafana-6.60.4), 1 day ago) - 
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.1](https://github.com/aquasecurity/defsec/releases/tag/v0.93.1), 3 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
