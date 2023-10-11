@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.2), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.28.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.28.0), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.43](https://github.com/stakater/Reloader/releases/tag/v1.0.43), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.26.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.26.0), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.1](https://github.com/grafana/agent/releases/tag/v0.37.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.1), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.0](https://github.com/renovatebot/renovate/releases/tag/37.13.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.93.1](https://github.com/aquasecurity/defsec/releases/tag/v0.93.1), 4 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
