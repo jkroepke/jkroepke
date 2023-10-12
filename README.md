@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.4.17](https://github.com/grafana/grafana/releases/tag/v9.4.17), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.13](https://github.com/grafana/grafana/releases/tag/v9.5.13), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.5](https://github.com/renovatebot/renovate/releases/tag/37.13.5), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.29.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.29.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.4](https://github.com/renovatebot/renovate/releases/tag/37.13.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.3), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.43](https://github.com/stakater/Reloader/releases/tag/v1.0.43), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.1](https://github.com/grafana/agent/releases/tag/v0.37.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
