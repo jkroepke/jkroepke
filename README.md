@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.13](https://github.com/grafana/grafana/releases/tag/v9.5.13), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.5](https://github.com/renovatebot/renovate/releases/tag/37.13.5), today) - Universal dependency update tool that fits into your workflows.
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.5](https://github.com/grafana/grafana/releases/tag/v10.1.5), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.7](https://github.com/renovatebot/renovate/releases/tag/37.13.7), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.29.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.29.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.3), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.43](https://github.com/stakater/Reloader/releases/tag/v1.0.43), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] hack: fix etcd mixin](https://github.com/prometheus-community/helm-charts/pull/3880) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Bump dependencies](https://github.com/prometheus-community/helm-charts/pull/3876) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Add openvpn.auth-pending-timeout flag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/46) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Manual configuration of token url](https://github.com/jkroepke/openvpn-auth-oauth2/pull/45) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [OpenVPN Plugin](https://github.com/jkroepke/openvpn-auth-oauth2/pull/41) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [feat: Prepare OpenVPN server plugin](https://github.com/jkroepke/openvpn-auth-oauth2/pull/40) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add graceful shutdown to http listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/39) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [general: Refactor code, enable more linters](https://github.com/jkroepke/openvpn-auth-oauth2/pull/38) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
