@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.4.17](https://github.com/grafana/grafana/releases/tag/v9.4.17), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.29.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.29.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.4](https://github.com/renovatebot/renovate/releases/tag/37.13.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.3), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.0), 6 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.4](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.4), 6 days ago) - Lookup resource attributes in tfstate.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.25](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.25), 1 week ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.8.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.8.0), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 
 #### 🔨 My recent Pull Requests
 
