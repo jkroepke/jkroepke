@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.2](https://github.com/renovatebot/renovate/releases/tag/37.13.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.13.3](https://github.com/renovatebot/renovate/releases/tag/37.13.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.75.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.75.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.5.3), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.43](https://github.com/stakater/Reloader/releases/tag/v1.0.43), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
