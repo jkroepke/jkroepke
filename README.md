@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (6 days ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 week ago)
@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.1.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.18.4](https://github.com/renovatebot/renovate/releases/tag/37.18.4), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.76.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.76.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.30.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.30.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.6.1), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.26](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.26), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.3](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.3), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.5](https://github.com/grafana/grafana/releases/tag/v10.1.5), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
