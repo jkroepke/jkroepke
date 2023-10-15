@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.19.3](https://github.com/renovatebot/renovate/releases/tag/37.19.3), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.7.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.7](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.7), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.19.2](https://github.com/renovatebot/renovate/releases/tag/37.19.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.28.1](https://github.com/helmfile/vals/releases/tag/v0.28.1), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.27](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.27), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.76.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.76.0), 2 days ago) - Terraform provider for Azure Resource Manager
