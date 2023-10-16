@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.8.1), today) - Prometheus community Helm charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.28](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.28), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.22.0](https://github.com/renovatebot/renovate/releases/tag/37.22.0), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.8.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.7](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.7), 2 days ago) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.28.1](https://github.com/helmfile/vals/releases/tag/v0.28.1), 2 days ago) - Helm-like configuration values loader with support for various sources
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.27](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.27), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.76.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.76.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.3](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.3), 4 days ago) - Ingress-NGINX Controller for Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.1.5](https://github.com/grafana/grafana/releases/tag/v10.1.5), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
