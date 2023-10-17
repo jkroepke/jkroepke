@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.10](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.10), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.15.3](https://github.com/grafana/helm-charts/releases/tag/promtail-6.15.3), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.26.4](https://github.com/renovatebot/renovate/releases/tag/37.26.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.6](https://github.com/grafana/loki/releases/tag/v2.8.6), today) - Like Prometheus, but for logs.
