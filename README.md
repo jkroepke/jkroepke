@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.26.0](https://github.com/renovatebot/renovate/releases/tag/37.26.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.26.1](https://github.com/renovatebot/renovate/releases/tag/37.26.1), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.30](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.30), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.9.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.9.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.43](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.43), 1 day ago) - 
