@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.32.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.32.0), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.26.4](https://github.com/renovatebot/renovate/releases/tag/37.26.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.6](https://github.com/grafana/loki/releases/tag/v2.8.6), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.27.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.27.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.8), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.30](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.30), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.9.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.9.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
