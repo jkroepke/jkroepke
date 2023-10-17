@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.25.0](https://github.com/renovatebot/renovate/releases/tag/37.25.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.9.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.9.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.24.0](https://github.com/renovatebot/renovate/releases/tag/37.24.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.43](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.43), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.9.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.2](https://github.com/grafana/agent/releases/tag/v0.37.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
