@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.8](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.8), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.33.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.33.0), today) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.45.0](https://github.com/prometheus/common/releases/tag/v0.45.0), today) - Go libraries shared across Prometheus components and libraries.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.9.1), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.27.0](https://github.com/renovatebot/renovate/releases/tag/37.27.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
