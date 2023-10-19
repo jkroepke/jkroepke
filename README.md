@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.33](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.33), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.9.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.9.4), 1 day ago) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.32](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.32), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.61.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.61.1), 1 day ago) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.27.1](https://github.com/renovatebot/renovate/releases/tag/37.27.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.44](https://github.com/stakater/Reloader/releases/tag/v1.0.44), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
