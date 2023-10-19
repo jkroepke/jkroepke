@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 week ago)
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (1 week ago)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 weeks ago)
@@ -30,25 +30,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.9.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.9.4), today) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.32](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.32), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.61.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.61.1), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.27.1](https://github.com/renovatebot/renovate/releases/tag/37.27.1), today) - Universal dependency update tool that fits into your workflows.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.44](https://github.com/stakater/Reloader/releases/tag/v1.0.44), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus/common](https://github.com/prometheus/common) ([v0.45.0](https://github.com/prometheus/common/releases/tag/v0.45.0), today) - Go libraries shared across Prometheus components and libraries.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.6](https://github.com/grafana/loki/releases/tag/v2.8.6), 1 day ago) - Like Prometheus, but for logs.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.9.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.9.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
-- [grafana/agent](https://github.com/grafana/agent) ([v0.37.2](https://github.com/grafana/agent/releases/tag/v0.37.2), 2 days ago) - Vendor-neutral programmable observability pipelines.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.9.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.9.4), 1 day ago) - Prometheus community Helm charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.32](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.32), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-6.61.1](https://github.com/grafana/helm-charts/releases/tag/grafana-6.61.1), 1 day ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.27.1](https://github.com/renovatebot/renovate/releases/tag/37.27.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.44](https://github.com/stakater/Reloader/releases/tag/v1.0.44), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus/common](https://github.com/prometheus/common) ([v0.45.0](https://github.com/prometheus/common/releases/tag/v0.45.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.6](https://github.com/grafana/loki/releases/tag/v2.8.6), 2 days ago) - Like Prometheus, but for logs.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.9.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.9.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
+- [grafana/agent](https://github.com/grafana/agent) ([v0.37.2](https://github.com/grafana/agent/releases/tag/v0.37.2), 3 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] Fix etcd dashboard cluster label](https://github.com/prometheus-community/helm-charts/pull/3907) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[kube-prometheus-stack] Fix IO panels in Cluster Overview](https://github.com/prometheus-community/helm-charts/pull/3902) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [Fix IOPS panel](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/876) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (4 days ago)
-- [[kube-prometheus-stack] Allow to configure keep_firing_for for all Prometheus rules](https://github.com/prometheus-community/helm-charts/pull/3890) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Configure additional aggregation labels](https://github.com/prometheus-community/helm-charts/pull/3883) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[kube-prometheus-stack] hack: fix etcd mixin](https://github.com/prometheus-community/helm-charts/pull/3880) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] Fix etcd dashboard cluster label](https://github.com/prometheus-community/helm-charts/pull/3907) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[kube-prometheus-stack] Fix IO panels in Cluster Overview](https://github.com/prometheus-community/helm-charts/pull/3902) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [Fix IOPS panel](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/876) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (5 days ago)
+- [[kube-prometheus-stack] Allow to configure keep_firing_for for all Prometheus rules](https://github.com/prometheus-community/helm-charts/pull/3890) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[kube-prometheus-stack] Configure additional aggregation labels](https://github.com/prometheus-community/helm-charts/pull/3883) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [[kube-prometheus-stack] hack: fix etcd mixin](https://github.com/prometheus-community/helm-charts/pull/3880) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Bump dependencies](https://github.com/prometheus-community/helm-charts/pull/3876) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Add openvpn.auth-pending-timeout flag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/46) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Manual configuration of token url](https://github.com/jkroepke/openvpn-auth-oauth2/pull/45) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -56,7 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (1 week ago)
+- [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (2 weeks ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (1 month ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based VPN server and firewall (1 month ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (1 month ago)
