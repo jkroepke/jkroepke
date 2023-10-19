@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.7.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.7.3), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.45](https://github.com/stakater/Reloader/releases/tag/v1.0.45), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.35.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.35.0), today) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.33](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.33), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.9.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.9.4), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.27.1](https://github.com/renovatebot/renovate/releases/tag/37.27.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus/common](https://github.com/prometheus/common) ([v0.45.0](https://github.com/prometheus/common/releases/tag/v0.45.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
