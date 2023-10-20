@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 day ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-51.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-51.10.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.260](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.260), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.29.0](https://github.com/renovatebot/renovate/releases/tag/37.29.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.0-rc.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.0-rc.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.77.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.77.0), today) - Terraform provider for Azure Resource Manager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.2.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.2.1), 1 day ago) - Customization of kubernetes YAML configurations
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.34](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.34), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
