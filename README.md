@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-1.1.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-1.1.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.260](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.260), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.29.0](https://github.com/renovatebot/renovate/releases/tag/37.29.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.0-rc.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.0-rc.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.77.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.77.0), today) - Terraform provider for Azure Resource Manager
