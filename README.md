@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.28.1](https://github.com/renovatebot/renovate/releases/tag/37.28.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.2.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.2.1), 1 day ago) - Customization of kubernetes YAML configurations
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.45](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.45), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.34](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.34), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.28.0](https://github.com/renovatebot/renovate/releases/tag/37.28.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.46](https://github.com/stakater/Reloader/releases/tag/v1.0.46), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/common](https://github.com/prometheus/common) ([v0.45.0](https://github.com/prometheus/common/releases/tag/v0.45.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.0), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
