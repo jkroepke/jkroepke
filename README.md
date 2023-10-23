@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.31.4](https://github.com/renovatebot/renovate/releases/tag/37.31.4), today) - Universal dependency update tool that fits into your workflows.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.10](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.10), today) - Helm charts for webdevops applications
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.31.3](https://github.com/renovatebot/renovate/releases/tag/37.31.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-1.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-1.2.0), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.0](https://github.com/helmfile/helmfile/releases/tag/v0.158.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.8.0), 1 day ago) - Prometheus community Helm charts
