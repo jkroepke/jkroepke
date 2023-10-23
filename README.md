@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.0](https://github.com/helmfile/helmfile/releases/tag/v0.158.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.12), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.31.2](https://github.com/renovatebot/renovate/releases/tag/37.31.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.8.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.34](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.34), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.0), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.46](https://github.com/stakater/Reloader/releases/tag/v1.0.46), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus/common](https://github.com/prometheus/common) ([v0.45.0](https://github.com/prometheus/common/releases/tag/v0.45.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
