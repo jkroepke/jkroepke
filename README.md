@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.12), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.31.2](https://github.com/renovatebot/renovate/releases/tag/37.31.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.8.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.13](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.13), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.31.1](https://github.com/renovatebot/renovate/releases/tag/37.31.1), 3 days ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.0-rc.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.0-rc.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.77.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.77.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.2.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.2.1), 4 days ago) - Customization of kubernetes YAML configurations
