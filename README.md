@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.0.10](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.0.10), today) - Helm charts for webdevops applications
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.31.3](https://github.com/renovatebot/renovate/releases/tag/37.31.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-1.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-1.2.0), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.0](https://github.com/helmfile/helmfile/releases/tag/v0.158.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.2.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.2.1), 4 days ago) - Customization of kubernetes YAML configurations
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-26.0.34](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-26.0.34), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.0), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.46](https://github.com/stakater/Reloader/releases/tag/v1.0.46), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
