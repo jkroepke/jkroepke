@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.31.6](https://github.com/renovatebot/renovate/releases/tag/37.31.6), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.0](https://github.com/grafana/grafana/releases/tag/v10.2.0), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.31.5](https://github.com/renovatebot/renovate/releases/tag/37.31.5), today) - Universal dependency update tool that fits into your workflows.
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.2.1](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.2.1), today) - Helm charts for webdevops applications
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([23.10.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/23.10.0), 1 day ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-1.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-1.2.0), 1 day ago) - 
