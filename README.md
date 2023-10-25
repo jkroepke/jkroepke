@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.32.0](https://github.com/renovatebot/renovate/releases/tag/37.32.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.32.1](https://github.com/renovatebot/renovate/releases/tag/37.32.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.3.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.0](https://github.com/grafana/grafana/releases/tag/v10.2.0), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.2.1](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.2.1), 1 day ago) - Helm charts for webdevops applications
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [pixiono](https://github.com/pixiono)
 - [jBouyoud](https://github.com/jBouyoud)
 - [cybrwshl](https://github.com/cybrwshl)
 - [kehoecj](https://github.com/kehoecj)
 - [odnanref](https://github.com/odnanref)
-- [MakkambaevDastan](https://github.com/MakkambaevDastan)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
