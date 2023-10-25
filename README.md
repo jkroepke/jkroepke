@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.48](https://github.com/stakater/Reloader/releases/tag/v1.0.48), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.33.1](https://github.com/renovatebot/renovate/releases/tag/37.33.1), today) - Universal dependency update tool that fits into your workflows.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.47](https://github.com/stakater/Reloader/releases/tag/v1.0.47), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.0.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.0](https://github.com/grafana/grafana/releases/tag/v10.2.0), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.2.1](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.2.1), 1 day ago) - Helm charts for webdevops applications
