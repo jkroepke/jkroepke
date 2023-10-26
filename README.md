@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.33.2](https://github.com/renovatebot/renovate/releases/tag/37.33.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.33.3](https://github.com/renovatebot/renovate/releases/tag/37.33.3), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) ([v1.0.0](https://github.com/jkroepke/aad-group-msteams-tag-sync/releases/tag/v1.0.0), 1 day ago) - Tool for sync AAD Groups with MS Teams Tags
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.4), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.0.1), 1 day ago) - Prometheus community Helm charts
