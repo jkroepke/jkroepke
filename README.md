@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.1), today) - Contains Helm charts for Kubernetes related open source tools
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.78.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.78.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.1.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.33.6](https://github.com/renovatebot/renovate/releases/tag/37.33.6), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.27.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.27.1), 1 day ago) - 
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.4), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.5.0](https://github.com/grafana/loki/releases/tag/operator/v0.5.0), 2 days ago) - Like Prometheus, but for logs.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.48](https://github.com/stakater/Reloader/releases/tag/v1.0.48), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.0](https://github.com/grafana/grafana/releases/tag/v10.2.0), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.2.1](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.2.1), 3 days ago) - Helm charts for webdevops applications
 
 #### 🔨 My recent Pull Requests
 
