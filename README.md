@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.34.1](https://github.com/renovatebot/renovate/releases/tag/37.34.1), today) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.2), today) - Contains Helm charts for Kubernetes related open source tools
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.34.0](https://github.com/renovatebot/renovate/releases/tag/37.34.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.78.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.78.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.1.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.27.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.27.1), 1 day ago) - 
