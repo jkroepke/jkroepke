@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (2 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.34.2](https://github.com/renovatebot/renovate/releases/tag/37.34.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.2.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.2.13), today) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.2), today) - Contains Helm charts for Kubernetes related open source tools
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) ([v1.0.0](https://github.com/jkroepke/aad-group-msteams-tag-sync/releases/tag/v1.0.0), 2 days ago) - Tool for sync AAD Groups with MS Teams Tags
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.4), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.5.0](https://github.com/grafana/loki/releases/tag/operator/v0.5.0), 2 days ago) - Like Prometheus, but for logs.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.48](https://github.com/stakater/Reloader/releases/tag/v1.0.48), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
+- [Fixed go panic with GitHub provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/52) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/51) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[blackbox] Allow helm values in extraArgs](https://github.com/prometheus-community/helm-charts/pull/3937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[jiralert] Fix template error in ingress](https://github.com/prometheus-community/helm-charts/pull/3936) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [docs: Add label to prometheus.exporter.unix](https://github.com/grafana/agent/pull/5542) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [[kube-prometheus-stack] Allow to directly config prometheus.spec and  alertmanager.spec](https://github.com/prometheus-community/helm-charts/pull/3920) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Fix etcd dashboard cluster label](https://github.com/prometheus-community/helm-charts/pull/3907) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] Fix IO panels in Cluster Overview](https://github.com/prometheus-community/helm-charts/pull/3902) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
