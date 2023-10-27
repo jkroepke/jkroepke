@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (6 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (3 weeks ago)
@@ -30,24 +30,24 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.1.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.33.6](https://github.com/renovatebot/renovate/releases/tag/37.33.6), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.27.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.27.1), today) - 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.37.3](https://github.com/grafana/agent/releases/tag/v0.37.3), today) - Vendor-neutral programmable observability pipelines.
-- [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) ([v1.0.0](https://github.com/jkroepke/aad-group-msteams-tag-sync/releases/tag/v1.0.0), 1 day ago) - Tool for sync AAD Groups with MS Teams Tags
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.4), 1 day ago) - Ingress-NGINX Controller for Kubernetes
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.5.0](https://github.com/grafana/loki/releases/tag/operator/v0.5.0), 1 day ago) - Like Prometheus, but for logs.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.48](https://github.com/stakater/Reloader/releases/tag/v1.0.48), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.0](https://github.com/grafana/grafana/releases/tag/v10.2.0), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.2.1](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.2.1), 2 days ago) - Helm charts for webdevops applications
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.1.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.33.6](https://github.com/renovatebot/renovate/releases/tag/37.33.6), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.27.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.27.1), 1 day ago) - 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.37.3](https://github.com/grafana/agent/releases/tag/v0.37.3), 1 day ago) - Vendor-neutral programmable observability pipelines.
+- [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) ([v1.0.0](https://github.com/jkroepke/aad-group-msteams-tag-sync/releases/tag/v1.0.0), 2 days ago) - Tool for sync AAD Groups with MS Teams Tags
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.4](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.4), 2 days ago) - Ingress-NGINX Controller for Kubernetes
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.5.0](https://github.com/grafana/loki/releases/tag/operator/v0.5.0), 2 days ago) - Like Prometheus, but for logs.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.48](https://github.com/stakater/Reloader/releases/tag/v1.0.48), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.0](https://github.com/grafana/grafana/releases/tag/v10.2.0), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-metrics-exporter-1.2.1](https://github.com/webdevops/helm-charts/releases/tag/azure-metrics-exporter-1.2.1), 3 days ago) - Helm charts for webdevops applications
 
 #### 🔨 My recent Pull Requests
 
-- [[blackbox] Allow helm values in extraArgs](https://github.com/prometheus-community/helm-charts/pull/3937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[jiralert] Fix template error in ingress](https://github.com/prometheus-community/helm-charts/pull/3936) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [Publish helm chart as OCI chart](https://github.com/stakater/Reloader/pull/561) on [stakater/Reloader](https://github.com/stakater/Reloader) (1 day ago)
-- [Initial Release](https://github.com/jkroepke/aad-group-msteams-tag-sync/pull/3) on [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) (1 day ago)
-- [Added data in ISO format as label](https://github.com/webdevops/azure-resourcemanager-exporter/pull/66) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (3 days ago)
+- [[blackbox] Allow helm values in extraArgs](https://github.com/prometheus-community/helm-charts/pull/3937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[jiralert] Fix template error in ingress](https://github.com/prometheus-community/helm-charts/pull/3936) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [Publish helm chart as OCI chart](https://github.com/stakater/Reloader/pull/561) on [stakater/Reloader](https://github.com/stakater/Reloader) (2 days ago)
+- [Initial Release](https://github.com/jkroepke/aad-group-msteams-tag-sync/pull/3) on [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) (2 days ago)
+- [Added data in ISO format as label](https://github.com/webdevops/azure-resourcemanager-exporter/pull/66) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (4 days ago)
 - [docs: Add label to prometheus.exporter.unix](https://github.com/grafana/agent/pull/5542) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [[kube-prometheus-stack] Allow to directly config prometheus.spec and  alertmanager.spec](https://github.com/prometheus-community/helm-charts/pull/3920) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Fix etcd dashboard cluster label](https://github.com/prometheus-community/helm-charts/pull/3907) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
