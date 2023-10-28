@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (3 days ago)
@@ -25,14 +26,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (3 weeks ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 weeks ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.34.3](https://github.com/renovatebot/renovate/releases/tag/37.34.3), today) - Universal dependency update tool that fits into your workflows.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.1-rc.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.1-rc.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.76.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.76.1), today) - 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.34.2](https://github.com/renovatebot/renovate/releases/tag/37.34.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.78.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.78.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-52.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-52.1.0), 2 days ago) - Prometheus community Helm charts
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix goreleaser tag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/56) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix --html.template option](https://github.com/jkroepke/openvpn-auth-oauth2/pull/55) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Restructure internal packages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/53) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fixed go panic with GitHub provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/52) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Publish helm chart as OCI chart](https://github.com/stakater/Reloader/pull/561) on [stakater/Reloader](https://github.com/stakater/Reloader) (3 days ago)
 - [Initial Release](https://github.com/jkroepke/aad-group-msteams-tag-sync/pull/3) on [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) (3 days ago)
 - [Added data in ISO format as label](https://github.com/webdevops/azure-resourcemanager-exporter/pull/66) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (5 days ago)
-- [docs: Add label to prometheus.exporter.unix](https://github.com/grafana/agent/pull/5542) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
