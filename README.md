@@ -19,6 +19,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (3 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (4 days ago)
@@ -26,7 +27,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
 - [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - openvpn-auth-azure-ad connects to the OpenVPN management interface and handle the authentication ageist Azure AD. (3 weeks ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
