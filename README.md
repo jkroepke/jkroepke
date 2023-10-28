@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Restructure internal packages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/53) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fixed go panic with GitHub provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/52) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/51) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [[blackbox] Allow helm values in extraArgs](https://github.com/prometheus-community/helm-charts/pull/3937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Added data in ISO format as label](https://github.com/webdevops/azure-resourcemanager-exporter/pull/66) on [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) (5 days ago)
 - [docs: Add label to prometheus.exporter.unix](https://github.com/grafana/agent/pull/5542) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [[kube-prometheus-stack] Allow to directly config prometheus.spec and  alertmanager.spec](https://github.com/prometheus-community/helm-charts/pull/3920) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[kube-prometheus-stack] Fix etcd dashboard cluster label](https://github.com/prometheus-community/helm-charts/pull/3907) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
