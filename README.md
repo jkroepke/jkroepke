@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.35.1](https://github.com/renovatebot/renovate/releases/tag/37.35.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.1](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.35.0](https://github.com/renovatebot/renovate/releases/tag/37.35.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.78.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.78.0), 2 days ago) - Terraform provider for Azure Resource Manager
