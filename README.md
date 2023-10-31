@@ -17,42 +17,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (5 days ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (6 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (2 weeks ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.3.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.3.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.36.2](https://github.com/renovatebot/renovate/releases/tag/37.36.2), today) - Universal dependency update tool that fits into your workflows.
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.6](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.6), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.50](https://github.com/stakater/Reloader/releases/tag/v1.0.50), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0), 1 day ago) - Prometheus community Helm charts
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.1), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.2), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.78.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.78.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/agent](https://github.com/grafana/agent) ([v0.37.3](https://github.com/grafana/agent/releases/tag/v0.37.3), 4 days ago) - Vendor-neutral programmable observability pipelines.
-- [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) ([v1.0.0](https://github.com/jkroepke/aad-group-msteams-tag-sync/releases/tag/v1.0.0), 5 days ago) - Tool for sync AAD Groups with MS Teams Tags
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.3.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.3.0), 1 day ago) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.36.2](https://github.com/renovatebot/renovate/releases/tag/37.36.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.6](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.6), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.50](https://github.com/stakater/Reloader/releases/tag/v1.0.50), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.4.0), 2 days ago) - Prometheus community Helm charts
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.10.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.10.1), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.2), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.78.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.78.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/agent](https://github.com/grafana/agent) ([v0.37.3](https://github.com/grafana/agent/releases/tag/v0.37.3), 5 days ago) - Vendor-neutral programmable observability pipelines.
+- [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) ([v1.0.0](https://github.com/jkroepke/aad-group-msteams-tag-sync/releases/tag/v1.0.0), 6 days ago) - Tool for sync AAD Groups with MS Teams Tags
 
 #### 🔨 My recent Pull Requests
 
-- [Add default scopes based on provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/58) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Update PULL_REQUEST_TEMPLATE.md](https://github.com/jkroepke/repository-template-go/pull/2) on [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) (1 day ago)
-- [fix goreleaser tag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/56) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Fix --html.template option](https://github.com/jkroepke/openvpn-auth-oauth2/pull/55) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Restructure internal packages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/53) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Fixed go panic with GitHub provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/52) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/51) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [[blackbox] Allow helm values in extraArgs](https://github.com/prometheus-community/helm-charts/pull/3937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[jiralert] Fix template error in ingress](https://github.com/prometheus-community/helm-charts/pull/3936) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [Publish helm chart as OCI chart](https://github.com/stakater/Reloader/pull/561) on [stakater/Reloader](https://github.com/stakater/Reloader) (5 days ago)
+- [Add default scopes based on provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/58) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Update PULL_REQUEST_TEMPLATE.md](https://github.com/jkroepke/repository-template-go/pull/2) on [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) (2 days ago)
+- [fix goreleaser tag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/56) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Fix --html.template option](https://github.com/jkroepke/openvpn-auth-oauth2/pull/55) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Restructure internal packages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/53) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Fixed go panic with GitHub provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/52) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/51) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [[blackbox] Allow helm values in extraArgs](https://github.com/prometheus-community/helm-charts/pull/3937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [[jiralert] Fix template error in ingress](https://github.com/prometheus-community/helm-charts/pull/3936) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [Publish helm chart as OCI chart](https://github.com/stakater/Reloader/pull/561) on [stakater/Reloader](https://github.com/stakater/Reloader) (6 days ago)
 
 #### ⭐ Recent Stars
 
