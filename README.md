@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [NSIS: Add /CONFIG and /DISABLEREPORTING flag](https://github.com/grafana/agent/pull/5666) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [chore: fix build agent under Windows](https://github.com/grafana/agent/pull/5664) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [Add default scopes based on provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/58) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Update PULL_REQUEST_TEMPLATE.md](https://github.com/jkroepke/repository-template-go/pull/2) on [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fixed go panic with GitHub provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/52) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/51) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [[blackbox] Allow helm values in extraArgs](https://github.com/prometheus-community/helm-charts/pull/3937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[jiralert] Fix template error in ingress](https://github.com/prometheus-community/helm-charts/pull/3936) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
