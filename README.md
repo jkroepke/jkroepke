@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: jira integration](https://github.com/prometheus/alertmanager/pull/3590) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [NSIS: Add /CONFIG and /DISABLEREPORTING flag](https://github.com/grafana/agent/pull/5666) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
 - [chore: fix build agent under Windows](https://github.com/grafana/agent/pull/5664) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
 - [Add default scopes based on provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/58) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Restructure internal packages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/53) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Fixed go panic with GitHub provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/52) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/51) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [[blackbox] Allow helm values in extraArgs](https://github.com/prometheus-community/helm-charts/pull/3937) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
