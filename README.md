@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
@@ -26,12 +27,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.14](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.14), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.40.0](https://github.com/renovatebot/renovate/releases/tag/37.40.0), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.36.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.36.1), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.1](https://github.com/helmfile/helmfile/releases/tag/v0.158.1), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.6](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.6), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.50](https://github.com/stakater/Reloader/releases/tag/v1.0.50), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
