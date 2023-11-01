@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.41.0](https://github.com/renovatebot/renovate/releases/tag/37.41.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.42.0](https://github.com/renovatebot/renovate/releases/tag/37.42.0), today) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.3), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.6.14](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.6.14), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.1](https://github.com/helmfile/helmfile/releases/tag/v0.158.1), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
