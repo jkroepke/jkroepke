@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.43.0](https://github.com/renovatebot/renovate/releases/tag/37.43.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.3), today) - Collection of charts used in my projects
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.7.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.0), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.42.0](https://github.com/renovatebot/renovate/releases/tag/37.42.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.3), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.1](https://github.com/helmfile/helmfile/releases/tag/v0.158.1), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.6](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.6), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
