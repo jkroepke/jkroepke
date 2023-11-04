@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.45.0](https://github.com/renovatebot/renovate/releases/tag/37.45.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.36.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.36.3), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.44.0](https://github.com/renovatebot/renovate/releases/tag/37.44.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.4.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.4.0), 1 day ago) - helmfile-action
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.79.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.79.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.3), 2 days ago) - Collection of charts used in my projects
