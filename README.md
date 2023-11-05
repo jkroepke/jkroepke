@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [[CI] Fix linter job](https://github.com/prometheus-community/helm-charts/pull/3962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[CI] Fix linter job: Unable to validate cosign version: &#39;v2.0.0&#39;](https://github.com/prometheus-community/helm-charts/pull/3962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Add cross OS Dockerfile](https://github.com/prometheus-community/windows_exporter/pull/1326) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Refactor collectors](https://github.com/prometheus-community/windows_exporter/pull/1324) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Provide Windows builds and refactor CI](https://github.com/bloomberg/goldpinger/pull/140) on [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) (3 days ago)
