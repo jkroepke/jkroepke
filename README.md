@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.47.0](https://github.com/renovatebot/renovate/releases/tag/37.47.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.36.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.36.3), 2 days ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.3), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.1](https://github.com/helmfile/helmfile/releases/tag/v0.158.1), 5 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.6](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.6), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.50](https://github.com/stakater/Reloader/releases/tag/v1.0.50), 1 week ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
