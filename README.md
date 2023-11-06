@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.48.2](https://github.com/renovatebot/renovate/releases/tag/37.48.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.48.0](https://github.com/renovatebot/renovate/releases/tag/37.48.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.0), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.36.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.36.3), 2 days ago) - 
