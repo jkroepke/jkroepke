@@ -17,47 +17,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (4 days ago)
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (4 days ago)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (6 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (6 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (5 days ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (5 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/aad-group-msteams-tag-sync](https://github.com/jkroepke/aad-group-msteams-tag-sync) - Tool for sync AAD Groups with MS Teams Tags (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.46.0](https://github.com/renovatebot/renovate/releases/tag/37.46.0), today) - Universal dependency update tool that fits into your workflows.
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.36.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.36.3), 1 day ago) - 
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.4.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.4.0), 2 days ago) - helmfile-action
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.79.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.79.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.3), 3 days ago) - Collection of charts used in my projects
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.3), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.1](https://github.com/helmfile/helmfile/releases/tag/v0.158.1), 4 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.6](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.6), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.50](https://github.com/stakater/Reloader/releases/tag/v1.0.50), 6 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.46.0](https://github.com/renovatebot/renovate/releases/tag/37.46.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.36.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.36.3), 2 days ago) - 
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.4.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.4.0), 3 days ago) - helmfile-action
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.79.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.79.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.3), 4 days ago) - Collection of charts used in my projects
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.3), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.158.1](https://github.com/helmfile/helmfile/releases/tag/v0.158.1), 5 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.6](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.6), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.50](https://github.com/stakater/Reloader/releases/tag/v1.0.50), 1 week ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
-- [[CI] Fix linter job: Unable to validate cosign version: &#39;v2.0.0&#39;](https://github.com/prometheus-community/helm-charts/pull/3962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [Add cross OS Dockerfile](https://github.com/prometheus-community/windows_exporter/pull/1326) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Refactor collectors](https://github.com/prometheus-community/windows_exporter/pull/1324) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Provide Windows builds and refactor CI](https://github.com/bloomberg/goldpinger/pull/140) on [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) (3 days ago)
-- [jira integration](https://github.com/prometheus/alertmanager/pull/3590) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (4 days ago)
-- [NSIS: Add /CONFIG and /DISABLEREPORTING flag](https://github.com/grafana/agent/pull/5666) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
-- [chore: fix build agent under Windows](https://github.com/grafana/agent/pull/5664) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
+- [Test lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/62) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [[CI] Fix linter job: Unable to validate cosign version: &#39;v2.0.0&#39;](https://github.com/prometheus-community/helm-charts/pull/3962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [Add cross OS Dockerfile](https://github.com/prometheus-community/windows_exporter/pull/1326) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [Refactor collectors](https://github.com/prometheus-community/windows_exporter/pull/1324) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Provide Windows builds and refactor CI](https://github.com/bloomberg/goldpinger/pull/140) on [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) (4 days ago)
+- [jira integration](https://github.com/prometheus/alertmanager/pull/3590) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (5 days ago)
+- [NSIS: Add /CONFIG and /DISABLEREPORTING flag](https://github.com/grafana/agent/pull/5666) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
+- [chore: fix build agent under Windows](https://github.com/grafana/agent/pull/5664) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
 - [Add default scopes based on provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/58) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Update PULL_REQUEST_TEMPLATE.md](https://github.com/jkroepke/repository-template-go/pull/2) on [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) (1 week ago)
-- [fix goreleaser tag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/56) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (today)
-- [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (5 days ago)
+- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 day ago)
+- [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (6 days ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (1 month ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (1 month ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform (2 months ago)
