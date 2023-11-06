@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.46.0](https://github.com/renovatebot/renovate/releases/tag/37.46.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.47.0](https://github.com/renovatebot/renovate/releases/tag/37.47.0), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.36.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.36.3), 2 days ago) - 
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.4.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.4.0), 3 days ago) - helmfile-action
