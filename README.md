@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.27.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.27.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.10](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.10), today) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.0), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.50.1](https://github.com/renovatebot/renovate/releases/tag/37.50.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.4](https://github.com/grafana/agent/releases/tag/v0.37.4), 1 day ago) - Vendor-neutral programmable observability pipelines.
