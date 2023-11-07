@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [discovery/azure: Support default SDK authentication](https://github.com/prometheus/prometheus/pull/13099) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
+- [{discovery,remote_write}/azure: Support default SDK authentication](https://github.com/prometheus/prometheus/pull/13099) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
 - [Test lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/62) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [[CI] Fix linter job: Unable to validate cosign version: &#39;v2.0.0&#39;](https://github.com/prometheus-community/helm-charts/pull/3962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Add cross OS Dockerfile](https://github.com/prometheus-community/windows_exporter/pull/1326) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
