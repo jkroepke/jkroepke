@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.49.1](https://github.com/renovatebot/renovate/releases/tag/37.49.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.49.3](https://github.com/renovatebot/renovate/releases/tag/37.49.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.4](https://github.com/grafana/agent/releases/tag/v0.37.4), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.0), 1 day ago) - Prometheus community Helm charts
