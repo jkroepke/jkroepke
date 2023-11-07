@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.10](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.10), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.50.2](https://github.com/renovatebot/renovate/releases/tag/37.50.2), today) - Universal dependency update tool that fits into your workflows.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.0), today) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.0), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.50.1](https://github.com/renovatebot/renovate/releases/tag/37.50.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.4](https://github.com/grafana/agent/releases/tag/v0.37.4), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.0), 1 day ago) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.4.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.4.0), 4 days ago) - helmfile-action
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.79.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.79.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.1.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.1.3), 5 days ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
 
