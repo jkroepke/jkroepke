@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (2 days ago)
@@ -26,10 +27,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (1 week ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.6.1), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.51](https://github.com/stakater/Reloader/releases/tag/v1.0.51), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.1), 1 day ago) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.4](https://github.com/grafana/agent/releases/tag/v0.37.4), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.0), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.0), 2 days ago) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.1), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
