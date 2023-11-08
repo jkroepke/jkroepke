@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Refactor Azure support](https://github.com/sunny0826/kubecm/pull/800) on [sunny0826/kubecm](https://github.com/sunny0826/kubecm) (today)
 - [{discovery,remote_write}/azure: Support default SDK authentication](https://github.com/prometheus/prometheus/pull/13099) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [Test lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/62) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [[CI] Fix linter job: Unable to validate cosign version: &#39;v2.0.0&#39;](https://github.com/prometheus-community/helm-charts/pull/3962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jira integration](https://github.com/prometheus/alertmanager/pull/3590) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 week ago)
 - [NSIS: Add /CONFIG and /DISABLEREPORTING flag](https://github.com/grafana/agent/pull/5666) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 - [chore: fix build agent under Windows](https://github.com/grafana/agent/pull/5664) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
-- [Add default scopes based on provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/58) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
