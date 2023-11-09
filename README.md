@@ -24,12 +24,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (4 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
-- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (1 week ago)
+- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster. (6 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.9.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.9.0), today) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.51.3](https://github.com/renovatebot/renovate/releases/tag/37.51.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-2.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-2.0.0), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.0), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/agent](https://github.com/grafana/agent) ([v0.37.4](https://github.com/grafana/agent/releases/tag/v0.37.4), 3 days ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.8.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.8.1), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
