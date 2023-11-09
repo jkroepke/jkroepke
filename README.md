@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.53.0](https://github.com/renovatebot/renovate/releases/tag/37.53.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.1), today) - Add-on agent to generate and expose cluster-level metrics.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.52.0](https://github.com/renovatebot/renovate/releases/tag/37.52.0), today) - Universal dependency update tool that fits into your workflows.
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.9.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.9.0), today) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-2.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-2.0.0), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.0), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
