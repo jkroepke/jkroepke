@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.54.1](https://github.com/renovatebot/renovate/releases/tag/37.54.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.54.3](https://github.com/renovatebot/renovate/releases/tag/37.54.3), today) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.2.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.1), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.1), 1 day ago) - Prometheus community Helm charts
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.9.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.9.0), 1 day ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-2.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-2.0.0), 2 days ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.0), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
