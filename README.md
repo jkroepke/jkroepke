@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), today) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.53.0](https://github.com/renovatebot/renovate/releases/tag/37.53.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.1), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.0), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.51](https://github.com/stakater/Reloader/releases/tag/v1.0.51), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.0), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
