@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[CI] Introduce interface for additional lint tasks](https://github.com/prometheus-community/helm-charts/pull/3987) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat: Refactor Azure support](https://github.com/sunny0826/kubecm/pull/800) on [sunny0826/kubecm](https://github.com/sunny0826/kubecm) (2 days ago)
 - [{discovery,remote_write}/azure: Support default SDK authentication](https://github.com/prometheus/prometheus/pull/13099) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
 - [Test lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/62) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Provide Windows builds and refactor CI](https://github.com/bloomberg/goldpinger/pull/140) on [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) (1 week ago)
 - [jira integration](https://github.com/prometheus/alertmanager/pull/3590) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 week ago)
 - [NSIS: Add /CONFIG and /DISABLEREPORTING flag](https://github.com/grafana/agent/pull/5666) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
-- [chore: fix build agent under Windows](https://github.com/grafana/agent/pull/5664) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
