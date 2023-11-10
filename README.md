@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.53.1](https://github.com/renovatebot/renovate/releases/tag/37.53.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.54.0](https://github.com/renovatebot/renovate/releases/tag/37.54.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.1), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
