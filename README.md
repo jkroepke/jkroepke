@@ -18,7 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (5 days ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), today) - Terraform provider for running commands on private AKS clusters without reach them
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.4.2), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.56.3](https://github.com/renovatebot/renovate/releases/tag/37.56.3), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 1 day ago) - helmfile-action
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.9.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.9.0), 2 days ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-2.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-2.0.0), 3 days ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.0), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.51](https://github.com/stakater/Reloader/releases/tag/v1.0.51), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
