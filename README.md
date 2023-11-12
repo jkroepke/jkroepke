@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (today)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 week ago)
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (1 week ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (1 month ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 months ago)
 - [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (2 months ago)
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity &amp; Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white paper. Written in Go. (3 months ago)
-- [datreeio/CRDs-catalog](https://github.com/datreeio/CRDs-catalog) - Popular Kubernetes CRDs (CustomResourceDefinition) in JSON schema format. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
