@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.7.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.7.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.0.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.0.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.57.1](https://github.com/renovatebot/renovate/releases/tag/37.57.1), today) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.3), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.0.0), today) - Prometheus community Helm charts
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 2 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 3 days ago) - helmfile-action
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), 3 days ago) - Terraform provider for Azure Resource Manager
