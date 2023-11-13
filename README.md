@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.57.2](https://github.com/renovatebot/renovate/releases/tag/37.57.2), today) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.0.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.0.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.57.1](https://github.com/renovatebot/renovate/releases/tag/37.57.1), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 2 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 3 days ago) - helmfile-action
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), 3 days ago) - Terraform provider for Azure Resource Manager
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Flow Windows service: Support environment variables](https://github.com/grafana/agent/pull/5762) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [[kube-prometheus-stack] Add missing RABC permission for Prometheus Operator](https://github.com/prometheus-community/helm-charts/pull/4005) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [helm: Enrich serviceMonitor properties](https://github.com/oauth2-proxy/manifests/pull/170) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 day ago)
 - [[kube-prometheus-stack] Bump grafana and kube-state-metrics charts](https://github.com/prometheus-community/helm-charts/pull/4000) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [{discovery,remote_write}/azure: Support default SDK authentication](https://github.com/prometheus/prometheus/pull/13099) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [Test lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/62) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [[CI] Fix linter job: Unable to validate cosign version: &#39;v2.0.0&#39;](https://github.com/prometheus-community/helm-charts/pull/3962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [Add cross OS Dockerfile](https://github.com/prometheus-community/windows_exporter/pull/1326) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
