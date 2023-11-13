@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.264](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.264), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.7.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.7.1), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.57.1](https://github.com/renovatebot/renovate/releases/tag/37.57.1), today) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.18.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.18.3), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.57.0](https://github.com/renovatebot/renovate/releases/tag/37.57.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.0.0), today) - Prometheus community Helm charts
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 2 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 3 days ago) - helmfile-action
