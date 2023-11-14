@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.0](https://github.com/renovatebot/renovate/releases/tag/37.59.0), today) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), today) - Contains Helm charts for Kubernetes related open source tools
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.0.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.0.0), 1 day ago) - 
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 3 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 4 days ago) - helmfile-action
