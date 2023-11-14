@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), today) - Contains Helm charts for Kubernetes related open source tools
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.57.2](https://github.com/renovatebot/renovate/releases/tag/37.57.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.0.1), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.1), 5 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.10.1](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.10.1), 5 days ago) - Add-on agent to generate and expose cluster-level metrics.
-- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.9.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.9.0), 5 days ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 
 #### 🔨 My recent Pull Requests
 
