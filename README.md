@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.4](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.1.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.1.3), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.2](https://github.com/renovatebot/renovate/releases/tag/37.59.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.1), today) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), today) - Contains Helm charts for Kubernetes related open source tools
