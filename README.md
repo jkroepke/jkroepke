@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.5](https://github.com/renovatebot/renovate/releases/tag/37.59.5), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.6](https://github.com/renovatebot/renovate/releases/tag/37.59.6), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.10.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.10.0), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.14](https://github.com/grafana/grafana/releases/tag/v9.5.14), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.1), 1 day ago) - Prometheus community Helm charts
