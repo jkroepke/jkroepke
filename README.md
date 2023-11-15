@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.6](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.6), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.24.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.7](https://github.com/renovatebot/renovate/releases/tag/37.59.7), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.5](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.5), today) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.14](https://github.com/grafana/grafana/releases/tag/v9.5.14), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
