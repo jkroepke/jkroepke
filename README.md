@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.60.0](https://github.com/renovatebot/renovate/releases/tag/37.60.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.4.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.2), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.8](https://github.com/renovatebot/renovate/releases/tag/37.59.8), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.24.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.14](https://github.com/grafana/grafana/releases/tag/v9.5.14), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 4 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 5 days ago) - helmfile-action
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
