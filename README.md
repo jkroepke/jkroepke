@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (4 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 week ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
@@ -30,33 +30,33 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.4](https://github.com/renovatebot/renovate/releases/tag/37.59.4), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.10.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.10.0), today) - 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.14](https://github.com/grafana/grafana/releases/tag/v9.5.14), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.1), today) - Prometheus community Helm charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), today) - Contains Helm charts for Kubernetes related open source tools
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 3 days ago) - Terraform provider for running commands on private AKS clusters without reach them
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 4 days ago) - helmfile-action
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.1), 5 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.4](https://github.com/renovatebot/renovate/releases/tag/37.59.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.10.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.10.0), 1 day ago) - 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.14](https://github.com/grafana/grafana/releases/tag/v9.5.14), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.4.1), 1 day ago) - Prometheus community Helm charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 4 days ago) - Terraform provider for running commands on private AKS clusters without reach them
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 5 days ago) - helmfile-action
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.1), 6 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [Flow Windows service: Support environment variables](https://github.com/grafana/agent/pull/5762) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
-- [[kube-prometheus-stack] Add missing RABC permission for Prometheus Operator](https://github.com/prometheus-community/helm-charts/pull/4005) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [helm: Enrich serviceMonitor properties](https://github.com/oauth2-proxy/manifests/pull/170) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (2 days ago)
-- [[kube-prometheus-stack] Bump grafana and kube-state-metrics charts](https://github.com/prometheus-community/helm-charts/pull/4000) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [azurerm: Add AzureAD Auth](https://github.com/fujiwara/tfstate-lookup/pull/144) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (3 days ago)
-- [[CI] Introduce interface for additional chart specific lint tasks](https://github.com/prometheus-community/helm-charts/pull/3987) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [feat: Refactor Azure support](https://github.com/sunny0826/kubecm/pull/800) on [sunny0826/kubecm](https://github.com/sunny0826/kubecm) (6 days ago)
+- [[kube-prometheus-stack] Generate windows dashboard from hack/sync](https://github.com/prometheus-community/helm-charts/pull/4013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [Flow Windows service: Support environment variables](https://github.com/grafana/agent/pull/5762) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
+- [[kube-prometheus-stack] Add missing RABC permission for Prometheus Operator](https://github.com/prometheus-community/helm-charts/pull/4005) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [helm: Enrich serviceMonitor properties](https://github.com/oauth2-proxy/manifests/pull/170) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (3 days ago)
+- [[kube-prometheus-stack] Bump grafana and kube-state-metrics charts](https://github.com/prometheus-community/helm-charts/pull/4000) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [azurerm: Add AzureAD Auth](https://github.com/fujiwara/tfstate-lookup/pull/144) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (4 days ago)
+- [[CI] Introduce interface for additional chart specific lint tasks](https://github.com/prometheus-community/helm-charts/pull/3987) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [feat: Refactor Azure support](https://github.com/sunny0826/kubecm/pull/800) on [sunny0826/kubecm](https://github.com/sunny0826/kubecm) (1 week ago)
 - [{discovery,remote_write}/azure: Support default SDK authentication](https://github.com/prometheus/prometheus/pull/13099) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [Test lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/62) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [[CI] Fix linter job: Unable to validate cosign version: &#39;v2.0.0&#39;](https://github.com/prometheus-community/helm-charts/pull/3962) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 days ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 days ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 week ago)
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (2 weeks ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (1 month ago)
