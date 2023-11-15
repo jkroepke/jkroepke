@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.60.1](https://github.com/renovatebot/renovate/releases/tag/37.60.1), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.60.0](https://github.com/renovatebot/renovate/releases/tag/37.60.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.4.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.24.0), today) - Prometheus community Helm charts
