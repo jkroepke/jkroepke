@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.6](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.6), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.24.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.59.7](https://github.com/renovatebot/renovate/releases/tag/37.59.7), today) - Universal dependency update tool that fits into your workflows.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 4 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 5 days ago) - helmfile-action
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.80.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.80.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.69.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.69.1), 6 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
 #### 🔨 My recent Pull Requests
 
