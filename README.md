@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.5](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.5), today) - Lookup resource attributes in tfstate.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.60.1](https://github.com/renovatebot/renovate/releases/tag/37.60.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.2.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.2.0), 5 days ago) - Terraform provider for running commands on private AKS clusters without reach them
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.5.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.5.0), 6 days ago) - helmfile-action
 
 #### 🔨 My recent Pull Requests
 
