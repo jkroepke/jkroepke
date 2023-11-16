@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.60.2](https://github.com/renovatebot/renovate/releases/tag/37.60.2), today) - Universal dependency update tool that fits into your workflows.
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.5](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.5), today) - Lookup resource attributes in tfstate.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.60.1](https://github.com/renovatebot/renovate/releases/tag/37.60.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.4.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.2), 1 day ago) - 
