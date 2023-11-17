@@ -17,46 +17,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (3 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (4 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (6 days ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 week ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.0), today) - Vendor-neutral programmable observability pipelines.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.60.5](https://github.com/renovatebot/renovate/releases/tag/37.60.5), today) - Universal dependency update tool that fits into your workflows.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.3](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.3), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.2.0), today) - Prometheus community Helm charts
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.5](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.5), today) - Lookup resource attributes in tfstate.
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.4.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.2), 1 day ago) - 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.14](https://github.com/grafana/grafana/releases/tag/v9.5.14), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.0), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.1.0), today) - Prometheus community Helm charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.81.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.81.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.60.5](https://github.com/renovatebot/renovate/releases/tag/37.60.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.5](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.5), 1 day ago) - Lookup resource attributes in tfstate.
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.4.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.4.2), 2 days ago) - 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.14](https://github.com/grafana/grafana/releases/tag/v9.5.14), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.4), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
-- [Auto-discover regions for /probe/metrics endpoint](https://github.com/webdevops/azure-metrics-exporter/pull/68) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (1 day ago)
-- [Remove deprecated flags](https://github.com/prometheus-community/windows_exporter/pull/1337) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[kube-prometheus-stack] Generate windows dashboard from hack/sync](https://github.com/prometheus-community/helm-charts/pull/4013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [Flow Windows service: Support environment variables](https://github.com/grafana/agent/pull/5762) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
-- [[kube-prometheus-stack] Add missing RABC permission for Prometheus Operator](https://github.com/prometheus-community/helm-charts/pull/4005) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [helm: Enrich serviceMonitor properties](https://github.com/oauth2-proxy/manifests/pull/170) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (4 days ago)
-- [[kube-prometheus-stack] Bump grafana and kube-state-metrics charts](https://github.com/prometheus-community/helm-charts/pull/4000) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [azurerm: Add AzureAD Auth](https://github.com/fujiwara/tfstate-lookup/pull/144) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (5 days ago)
-- [[CI] Introduce interface for additional chart specific lint tasks](https://github.com/prometheus-community/helm-charts/pull/3987) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [Auto-discover regions for /probe/metrics endpoint](https://github.com/webdevops/azure-metrics-exporter/pull/68) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 days ago)
+- [Remove deprecated flags](https://github.com/prometheus-community/windows_exporter/pull/1337) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[kube-prometheus-stack] Generate windows dashboard from hack/sync](https://github.com/prometheus-community/helm-charts/pull/4013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [Flow Windows service: Support environment variables](https://github.com/grafana/agent/pull/5762) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
+- [[kube-prometheus-stack] Add missing RABC permission for Prometheus Operator](https://github.com/prometheus-community/helm-charts/pull/4005) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [helm: Enrich serviceMonitor properties](https://github.com/oauth2-proxy/manifests/pull/170) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (5 days ago)
+- [[kube-prometheus-stack] Bump grafana and kube-state-metrics charts](https://github.com/prometheus-community/helm-charts/pull/4000) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [azurerm: Add AzureAD Auth](https://github.com/fujiwara/tfstate-lookup/pull/144) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (6 days ago)
+- [[CI] Introduce interface for additional chart specific lint tasks](https://github.com/prometheus-community/helm-charts/pull/3987) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [feat: Refactor Azure support](https://github.com/sunny0826/kubecm/pull/800) on [sunny0826/kubecm](https://github.com/sunny0826/kubecm) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (4 days ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (5 days ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 week ago)
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (2 weeks ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (1 month ago)
