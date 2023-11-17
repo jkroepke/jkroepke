@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.2.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.2.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.1.0), today) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.81.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.81.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
