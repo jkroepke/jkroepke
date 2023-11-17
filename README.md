@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[CI] Introduce CI CODEOWNER](https://github.com/prometheus-community/helm-charts/pull/4019) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [BREAKING: fix mapping of environment variables (check --help)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/66) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [CI: Add stale action](https://github.com/prometheus-community/windows_exporter/pull/1342) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [http client config: Allow overwriting Host Header](https://github.com/prometheus/prometheus/pull/13157) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Flow Windows service: Support environment variables](https://github.com/grafana/agent/pull/5762) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
 - [[kube-prometheus-stack] Add missing RABC permission for Prometheus Operator](https://github.com/prometheus-community/helm-charts/pull/4005) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [helm: Enrich serviceMonitor properties](https://github.com/oauth2-proxy/manifests/pull/170) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (5 days ago)
-- [[kube-prometheus-stack] Bump grafana and kube-state-metrics charts](https://github.com/prometheus-community/helm-charts/pull/4000) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
