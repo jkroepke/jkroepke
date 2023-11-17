@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [http client config: Allow overwriting Host Header](https://github.com/prometheus/prometheus/pull/13157) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [Auto-discover regions for /probe/metrics endpoint](https://github.com/webdevops/azure-metrics-exporter/pull/68) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 days ago)
 - [Remove deprecated flags](https://github.com/prometheus-community/windows_exporter/pull/1337) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [[kube-prometheus-stack] Generate windows dashboard from hack/sync](https://github.com/prometheus-community/helm-charts/pull/4013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Bump grafana and kube-state-metrics charts](https://github.com/prometheus-community/helm-charts/pull/4000) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [azurerm: Add AzureAD Auth](https://github.com/fujiwara/tfstate-lookup/pull/144) on [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) (6 days ago)
 - [[CI] Introduce interface for additional chart specific lint tasks](https://github.com/prometheus-community/helm-charts/pull/3987) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [feat: Refactor Azure support](https://github.com/sunny0826/kubecm/pull/800) on [sunny0826/kubecm](https://github.com/sunny0826/kubecm) (1 week ago)
 
 #### ⭐ Recent Stars
 
