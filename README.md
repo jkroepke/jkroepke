@@ -17,24 +17,24 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (4 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (6 days ago)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 week ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.5](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.5), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.61.0](https://github.com/renovatebot/renovate/releases/tag/37.61.0), today) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.6.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.2.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.2.0), today) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.4](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.4), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.81.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.81.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.5](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.5), 1 day ago) - Lookup resource attributes in tfstate.
@@ -45,7 +45,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [http client config: Allow overwriting Host Header](https://github.com/prometheus/prometheus/pull/13157) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [Auto-discover regions for /probe/metrics endpoint](https://github.com/webdevops/azure-metrics-exporter/pull/68) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (2 days ago)
-- [Remove deprecated flags](https://github.com/prometheus-community/windows_exporter/pull/1337) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Remove deprecated flags: --collector.*.*-blacklist / --collector.*.*-whitelist](https://github.com/prometheus-community/windows_exporter/pull/1337) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [[kube-prometheus-stack] Generate windows dashboard from hack/sync](https://github.com/prometheus-community/helm-charts/pull/4013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [Flow Windows service: Support environment variables](https://github.com/grafana/agent/pull/5762) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
 - [[kube-prometheus-stack] Add missing RABC permission for Prometheus Operator](https://github.com/prometheus-community/helm-charts/pull/4005) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
