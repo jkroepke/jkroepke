@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Better password detection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/68) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [CI: Enable verified builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/67) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Update tfstate-lookup](https://github.com/helmfile/vals/pull/182) on [helmfile/vals](https://github.com/helmfile/vals) (2 days ago)
 - [[CI] Introduce CI CODEOWNER](https://github.com/prometheus-community/helm-charts/pull/4019) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Auto-discover regions for /probe/metrics endpoint](https://github.com/webdevops/azure-metrics-exporter/pull/68) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (4 days ago)
 - [Remove deprecated flags: --collector.*.*-blacklist / --collector.*.*-whitelist](https://github.com/prometheus-community/windows_exporter/pull/1337) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [[kube-prometheus-stack] Generate windows dashboard from hack/sync](https://github.com/prometheus-community/helm-charts/pull/4013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [Flow Windows service: Support environment variables](https://github.com/grafana/agent/pull/5762) on [grafana/agent](https://github.com/grafana/agent) (6 days ago)
 
 #### ⭐ Recent Stars
 
