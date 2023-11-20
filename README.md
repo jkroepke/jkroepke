@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.62.0](https://github.com/renovatebot/renovate/releases/tag/37.62.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.8](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.8), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.3.1](https://github.com/zitadel/oidc/releases/tag/v3.3.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.61.4](https://github.com/renovatebot/renovate/releases/tag/37.61.4), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.29.0](https://github.com/helmfile/vals/releases/tag/v0.29.0), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.6), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/4025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Allow to define editable property on dashboards](https://github.com/prometheus-community/helm-charts/pull/4024) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Allow run Prometheus Operator Webhook receiver separately](https://github.com/prometheus-community/helm-charts/pull/4023) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [fix(examples): Offer Storage with non-global client](https://github.com/zitadel/oidc/pull/489) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[CI] Introduce CI CODEOWNER](https://github.com/prometheus-community/helm-charts/pull/4019) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [BREAKING: fix mapping of environment variables (check --help)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/66) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [CI: Add stale action](https://github.com/prometheus-community/windows_exporter/pull/1342) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [http client config: Allow overwriting Host Header](https://github.com/prometheus/prometheus/pull/13157) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
 
 #### ⭐ Recent Stars
 
