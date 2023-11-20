@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.3.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.3.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.8](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.8), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.3.1](https://github.com/zitadel/oidc/releases/tag/v3.3.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.61.4](https://github.com/renovatebot/renovate/releases/tag/37.61.4), today) - Universal dependency update tool that fits into your workflows.
