@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0-rc.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0-rc.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.61.4](https://github.com/renovatebot/renovate/releases/tag/37.61.4), today) - Universal dependency update tool that fits into your workflows.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.29.0](https://github.com/helmfile/vals/releases/tag/v0.29.0), 3 days ago) - Helm-like configuration values loader with support for various sources
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.2.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.2.0), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.81.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.81.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.5](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.5), 4 days ago) - Lookup resource attributes in tfstate.
 
 #### 🔨 My recent Pull Requests
 
+- [example: Offer Storage with non-global client](https://github.com/zitadel/oidc/pull/489) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [Better password detection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/68) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [CI: Enable verified builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/67) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Update tfstate-lookup](https://github.com/helmfile/vals/pull/182) on [helmfile/vals](https://github.com/helmfile/vals) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [http client config: Allow overwriting Host Header](https://github.com/prometheus/prometheus/pull/13157) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
 - [Auto-discover regions for /probe/metrics endpoint](https://github.com/webdevops/azure-metrics-exporter/pull/68) on [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) (5 days ago)
 - [Remove deprecated flags: --collector.*.*-blacklist / --collector.*.*-whitelist](https://github.com/prometheus-community/windows_exporter/pull/1337) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [[kube-prometheus-stack] Generate windows dashboard from hack/sync](https://github.com/prometheus-community/helm-charts/pull/4013) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
