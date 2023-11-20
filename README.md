@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.1), today) - Vendor-neutral programmable observability pipelines.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.63.0](https://github.com/renovatebot/renovate/releases/tag/37.63.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.8](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.8), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.3.1](https://github.com/zitadel/oidc/releases/tag/v3.3.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.6), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.6.1), 3 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.81.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.81.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix race issues](https://github.com/jkroepke/openvpn-auth-oauth2/pull/69) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [docs: fix example in  prometheus.exporter.agent](https://github.com/grafana/agent/pull/5816) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [[kube-prometheus-stack] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/4025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Allow to define editable property on dashboards](https://github.com/prometheus-community/helm-charts/pull/4024) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [CI: Enable verified builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/67) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Update tfstate-lookup](https://github.com/helmfile/vals/pull/182) on [helmfile/vals](https://github.com/helmfile/vals) (3 days ago)
 - [[CI] Introduce CI CODEOWNER](https://github.com/prometheus-community/helm-charts/pull/4019) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [BREAKING: fix mapping of environment variables (check --help)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/66) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 
 #### ⭐ Recent Stars
 
