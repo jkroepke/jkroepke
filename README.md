@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.1.2), today) - Prometheus community Helm charts
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.2](https://github.com/grafana/grafana/releases/tag/v10.2.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.4.0](https://github.com/zitadel/oidc/releases/tag/v3.4.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.64.1](https://github.com/renovatebot/renovate/releases/tag/37.64.1), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.59](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.59), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.3.1](https://github.com/zitadel/oidc/releases/tag/v3.3.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.29.0](https://github.com/helmfile/vals/releases/tag/v0.29.0), 4 days ago) - Helm-like configuration values loader with support for various sources
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.6), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.1), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
