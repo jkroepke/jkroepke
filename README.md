@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.8.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.8.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.59](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.59), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.8.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.63.0](https://github.com/renovatebot/renovate/releases/tag/37.63.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.3.1](https://github.com/zitadel/oidc/releases/tag/v3.3.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
