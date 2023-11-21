@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.60](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.60), today) - 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.64.2](https://github.com/renovatebot/renovate/releases/tag/37.64.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.2](https://github.com/grafana/grafana/releases/tag/v10.2.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.4.0](https://github.com/zitadel/oidc/releases/tag/v3.4.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.64.1](https://github.com/renovatebot/renovate/releases/tag/37.64.1), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.59](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.59), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
