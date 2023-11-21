@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.60](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.60), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.61](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.61), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.64.2](https://github.com/renovatebot/renovate/releases/tag/37.64.2), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.2](https://github.com/grafana/grafana/releases/tag/v10.2.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
