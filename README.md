@@ -17,49 +17,49 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (today)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (3 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (5 days ago)
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (6 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 day ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 day ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (4 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (6 days ago)
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) - Lookup resource attributes in tfstate. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.59](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.59), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.8.2), today) - Prometheus community Helm charts
-- [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.1), today) - Vendor-neutral programmable observability pipelines.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.63.0](https://github.com/renovatebot/renovate/releases/tag/37.63.0), today) - Universal dependency update tool that fits into your workflows.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.3.1](https://github.com/zitadel/oidc/releases/tag/v3.3.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.1), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.29.0](https://github.com/helmfile/vals/releases/tag/v0.29.0), 3 days ago) - Helm-like configuration values loader with support for various sources
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.6), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.59](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.59), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.8.2), 1 day ago) - Prometheus community Helm charts
+- [grafana/agent](https://github.com/grafana/agent) ([v0.38.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.38.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.63.0](https://github.com/renovatebot/renovate/releases/tag/37.63.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.3.1](https://github.com/zitadel/oidc/releases/tag/v3.3.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.29.0](https://github.com/helmfile/vals/releases/tag/v0.29.0), 4 days ago) - Helm-like configuration values loader with support for various sources
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.6](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.6), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.19.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.19.1), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [Dashboards: Fix deeplinks](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/884) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (today)
-- [ci: fix race issues](https://github.com/jkroepke/openvpn-auth-oauth2/pull/69) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [docs: fix example in  prometheus.exporter.agent](https://github.com/grafana/agent/pull/5816) on [grafana/agent](https://github.com/grafana/agent) (today)
-- [[kube-prometheus-stack] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/4025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] Allow to define editable property on dashboards](https://github.com/prometheus-community/helm-charts/pull/4024) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[kube-prometheus-stack] Allow run Prometheus Operator Webhook receiver separately](https://github.com/prometheus-community/helm-charts/pull/4023) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [fix(examples): Offer Storage with non-global client](https://github.com/zitadel/oidc/pull/489) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
-- [Better password detection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/68) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [CI: Enable verified builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/67) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Update tfstate-lookup](https://github.com/helmfile/vals/pull/182) on [helmfile/vals](https://github.com/helmfile/vals) (3 days ago)
+- [Dashboards: Fix deeplinks](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/884) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (1 day ago)
+- [ci: fix race issues](https://github.com/jkroepke/openvpn-auth-oauth2/pull/69) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [docs: fix example in  prometheus.exporter.agent](https://github.com/grafana/agent/pull/5816) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
+- [[kube-prometheus-stack] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/4025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[kube-prometheus-stack] Allow to define editable property on dashboards](https://github.com/prometheus-community/helm-charts/pull/4024) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[kube-prometheus-stack] Allow run Prometheus Operator Webhook receiver separately](https://github.com/prometheus-community/helm-charts/pull/4023) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [fix(examples): Offer Storage with non-global client](https://github.com/zitadel/oidc/pull/489) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
+- [Better password detection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/68) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [CI: Enable verified builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/67) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Update tfstate-lookup](https://github.com/helmfile/vals/pull/182) on [helmfile/vals](https://github.com/helmfile/vals) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (1 day ago)
+- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (2 days ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 week ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (2 weeks ago)
-- [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (2 weeks ago)
+- [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (3 weeks ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (1 month ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (2 months ago)
 - [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform (2 months ago)
