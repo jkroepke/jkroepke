@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.62](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.62), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.265](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.265), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.64.3](https://github.com/renovatebot/renovate/releases/tag/37.64.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0](https://github.com/grafana/agent/releases/tag/v0.38.0), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.0), today) - Prometheus community Helm charts
