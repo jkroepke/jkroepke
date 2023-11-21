@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.1.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.2](https://github.com/grafana/grafana/releases/tag/v10.2.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.4.0](https://github.com/zitadel/oidc/releases/tag/v3.4.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.64.1](https://github.com/renovatebot/renovate/releases/tag/37.64.1), today) - Universal dependency update tool that fits into your workflows.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Enable release label for windows exporter](https://github.com/prometheus-community/helm-charts/pull/4029) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Dashboards: Fix deeplinks](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/884) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (1 day ago)
 - [ci: fix race issues](https://github.com/jkroepke/openvpn-auth-oauth2/pull/69) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [docs: fix example in  prometheus.exporter.agent](https://github.com/grafana/agent/pull/5816) on [grafana/agent](https://github.com/grafana/agent) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix(examples): Offer Storage with non-global client](https://github.com/zitadel/oidc/pull/489) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
 - [Better password detection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/68) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [CI: Enable verified builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/67) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Update tfstate-lookup](https://github.com/helmfile/vals/pull/182) on [helmfile/vals](https://github.com/helmfile/vals) (4 days ago)
 
 #### ⭐ Recent Stars
 
