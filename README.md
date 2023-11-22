@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Storage Alerts: Missing cluster label](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/885) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (today)
 - [Add format tar.gz](https://github.com/hashicorp/terraform-provider-archive/pull/277) on [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) (today)
 - [[kube-prometheus-stack] Enable release label for windows exporter](https://github.com/prometheus-community/helm-charts/pull/4029) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Dashboards: Fix deeplinks](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/884) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Allow to define editable property on dashboards](https://github.com/prometheus-community/helm-charts/pull/4024) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] Allow run Prometheus Operator Webhook receiver separately](https://github.com/prometheus-community/helm-charts/pull/4023) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [fix(examples): Offer Storage with non-global client](https://github.com/zitadel/oidc/pull/489) on [zitadel/oidc](https://github.com/zitadel/oidc) (2 days ago)
-- [Better password detection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/68) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 
 #### ⭐ Recent Stars
 
