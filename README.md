@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.2.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.65.0](https://github.com/renovatebot/renovate/releases/tag/37.65.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.5.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.5.1), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.64.3](https://github.com/renovatebot/renovate/releases/tag/37.64.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0](https://github.com/grafana/agent/releases/tag/v0.38.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.2](https://github.com/grafana/grafana/releases/tag/v10.2.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.4.0](https://github.com/zitadel/oidc/releases/tag/v3.4.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
