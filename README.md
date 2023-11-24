@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.66.0](https://github.com/renovatebot/renovate/releases/tag/37.66.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.66.1](https://github.com/renovatebot/renovate/releases/tag/37.66.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.1.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.1.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.2.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0](https://github.com/grafana/agent/releases/tag/v0.38.0), 3 days ago) - Vendor-neutral programmable observability pipelines.
