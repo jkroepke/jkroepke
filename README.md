@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.5.2), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.68.0](https://github.com/renovatebot/renovate/releases/tag/37.68.0), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.82.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.82.0), today) - Terraform provider for Azure Resource Manager
