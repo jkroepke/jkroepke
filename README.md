@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.67.0](https://github.com/renovatebot/renovate/releases/tag/37.67.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.67.1](https://github.com/renovatebot/renovate/releases/tag/37.67.1), today) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.82.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.82.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.1.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.1.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-54.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-54.2.2), 1 day ago) - Prometheus community Helm charts
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [tuunit](https://github.com/tuunit)
 - [kkpan11](https://github.com/kkpan11)
 - [xax25216](https://github.com/xax25216)
 - [mfressdorf](https://github.com/mfressdorf)
 - [mrmean15](https://github.com/mrmean15)
-- [pixiono](https://github.com/pixiono)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
