@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows (4 days ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (5 days ago)
 - [jkroepke/OpenLens-macos-certificate](https://github.com/jkroepke/OpenLens-macos-certificate) -  (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0](https://github.com/grafana/agent/releases/tag/v0.38.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.2](https://github.com/grafana/grafana/releases/tag/v10.2.2), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.4.0](https://github.com/zitadel/oidc/releases/tag/v3.4.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC auth flows
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.11.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.11.0), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.1), 6 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.29.0](https://github.com/helmfile/vals/releases/tag/v0.29.0), 1 week ago) - Helm-like configuration values loader with support for various sources
 
