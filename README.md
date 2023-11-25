@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/72) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [basicflag: Use default value from flagset, if value is not already defined](https://github.com/knadh/koanf/pull/254) on [knadh/koanf](https://github.com/knadh/koanf) (today)
 - [Storage Alerts: Missing cluster label](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/885) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (3 days ago)
 - [Add format tar.gz](https://github.com/hashicorp/terraform-provider-archive/pull/277) on [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) (3 days ago)
 - [[kube-prometheus-stack] Enable release label for windows exporter](https://github.com/prometheus-community/helm-charts/pull/4029) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [docs: fix example in  prometheus.exporter.agent](https://github.com/grafana/agent/pull/5816) on [grafana/agent](https://github.com/grafana/agent) (5 days ago)
 - [[kube-prometheus-stack] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/4025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack] Allow to define editable property on dashboards](https://github.com/prometheus-community/helm-charts/pull/4024) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] Allow run Prometheus Operator Webhook receiver separately](https://github.com/prometheus-community/helm-charts/pull/4023) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [fix(examples): Offer Storage with non-global client](https://github.com/zitadel/oidc/pull/489) on [zitadel/oidc](https://github.com/zitadel/oidc) (5 days ago)
 
 #### ⭐ Recent Stars
 
