@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.68.3](https://github.com/renovatebot/renovate/releases/tag/37.68.3), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.7.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.1), 1 day ago) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.68.1](https://github.com/renovatebot/renovate/releases/tag/37.68.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.0), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.82.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.82.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0](https://github.com/grafana/agent/releases/tag/v0.38.0), 5 days ago) - Vendor-neutral programmable observability pipelines.
