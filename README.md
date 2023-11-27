@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.68.4](https://github.com/renovatebot/renovate/releases/tag/37.68.4), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.159.0](https://github.com/helmfile/helmfile/releases/tag/v0.159.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.68.3](https://github.com/renovatebot/renovate/releases/tag/37.68.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.7.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.1), 2 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.0), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.82.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.82.0), 3 days ago) - Terraform provider for Azure Resource Manager
