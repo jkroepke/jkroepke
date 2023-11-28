@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.20.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.74.1](https://github.com/renovatebot/renovate/releases/tag/37.74.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.64](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.64), today) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -38,11 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.82.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.82.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.0](https://github.com/grafana/agent/releases/tag/v0.38.0), 1 week ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.2.2](https://github.com/grafana/grafana/releases/tag/v10.2.2), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.4.0](https://github.com/zitadel/oidc/releases/tag/v3.4.0), 1 week ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.1](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.1), 1 week ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 
 #### 🔨 My recent Pull Requests
 
+- [Use &#34;-&#34; as omit value for common name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/76) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add openvpn.common-name.mode](https://github.com/jkroepke/openvpn-auth-oauth2/pull/74) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/72) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [basicflag: Use default value from flagset, if value is not already defined](https://github.com/knadh/koanf/pull/254) on [knadh/koanf](https://github.com/knadh/koanf) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Dashboards: Fix deeplinks](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/884) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (1 week ago)
 - [ci: fix race issues](https://github.com/jkroepke/openvpn-auth-oauth2/pull/69) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [docs: fix example in  prometheus.exporter.agent](https://github.com/grafana/agent/pull/5816) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
-- [[kube-prometheus-stack] Add jkroepke as maintainer](https://github.com/prometheus-community/helm-charts/pull/4025) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
