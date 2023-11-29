@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.75.0](https://github.com/renovatebot/renovate/releases/tag/37.75.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.76.1](https://github.com/renovatebot/renovate/releases/tag/37.76.1), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.2.0), today) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), today) - Contains Helm charts for Kubernetes related open source tools
