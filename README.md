@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.75.0](https://github.com/renovatebot/renovate/releases/tag/37.75.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.2.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.2.0), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.74.7](https://github.com/renovatebot/renovate/releases/tag/37.74.7), today) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), today) - Contains Helm charts for Kubernetes related open source tools
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.20.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.2](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.2), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/77) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Use &#34;-&#34; as omit value for common name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/76) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Add openvpn.common-name.mode](https://github.com/jkroepke/openvpn-auth-oauth2/pull/74) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/72) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Enable release label for windows exporter](https://github.com/prometheus-community/helm-charts/pull/4029) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Dashboards: Fix deeplinks](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/884) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (1 week ago)
 - [ci: fix race issues](https://github.com/jkroepke/openvpn-auth-oauth2/pull/69) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [docs: fix example in  prometheus.exporter.agent](https://github.com/grafana/agent/pull/5816) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
