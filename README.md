@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.11](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.11), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.77.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.77.0), today) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), today) - Contains Helm charts for Kubernetes related open source tools
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.74.3](https://github.com/renovatebot/renovate/releases/tag/37.74.3), today) - Universal dependency update tool that fits into your workflows.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.20.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
