@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.83.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.83.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.70.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.70.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.29.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.29.0), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.1](https://github.com/grafana/agent/releases/tag/v0.38.1), today) - Vendor-neutral programmable observability pipelines.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.20.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.159.0](https://github.com/helmfile/helmfile/releases/tag/v0.159.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.0), 6 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
