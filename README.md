@@ -64,7 +64,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (1 month ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (1 month ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (2 months ago)
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform (2 months ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports (2 months ago)
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp&#39;s switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool&#39;s return to a truly open-source license. (3 months ago)
 
 #### 👯 Check out some of my recent followers
