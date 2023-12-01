@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.79.0](https://github.com/renovatebot/renovate/releases/tag/37.79.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.80.0](https://github.com/renovatebot/renovate/releases/tag/37.80.0), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.2), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.83.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.83.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.70.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.70.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
