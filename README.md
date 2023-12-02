@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.81.2](https://github.com/renovatebot/renovate/releases/tag/37.81.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.81.3](https://github.com/renovatebot/renovate/releases/tag/37.81.3), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.8.4](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.8.4), today) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-8.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-8.0.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.2), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
