@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 day ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
+- [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (2 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
@@ -30,25 +30,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.81.3](https://github.com/renovatebot/renovate/releases/tag/37.81.3), today) - Universal dependency update tool that fits into your workflows.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.8.4](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.8.4), today) - Ingress-NGINX Controller for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-8.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-8.0.1), 1 day ago) - Prometheus community Helm charts
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.2), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.83.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.83.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.70.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.70.0), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.29.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.29.0), 2 days ago) - 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.38.1](https://github.com/grafana/agent/releases/tag/v0.38.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.3), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.81.3](https://github.com/renovatebot/renovate/releases/tag/37.81.3), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.8.4](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.8.4), 1 day ago) - Ingress-NGINX Controller for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-8.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-8.0.1), 2 days ago) - Prometheus community Helm charts
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.2), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.83.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.83.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.70.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.70.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.29.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.29.0), 3 days ago) - 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.38.1](https://github.com/grafana/agent/releases/tag/v0.38.1), 3 days ago) - Vendor-neutral programmable observability pipelines.
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.3), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
-- [[velero] Pass config trough tpl and implement reload trigger](https://github.com/vmware-tanzu/helm-charts/pull/525) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (today)
-- [[bitnami/thanos] Implement tpl for ingress hostname/extraTls](https://github.com/bitnami/charts/pull/21351) on [bitnami/charts](https://github.com/bitnami/charts) (1 day ago)
-- [Reduce state size](https://github.com/jkroepke/openvpn-auth-oauth2/pull/78) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [fix deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/77) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Use &#34;-&#34; as omit value for common name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/76) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Add openvpn.common-name.mode](https://github.com/jkroepke/openvpn-auth-oauth2/pull/74) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [[velero] Pass config trough tpl and implement reload trigger](https://github.com/vmware-tanzu/helm-charts/pull/525) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 day ago)
+- [[bitnami/thanos] Implement tpl for ingress hostname/extraTls](https://github.com/bitnami/charts/pull/21351) on [bitnami/charts](https://github.com/bitnami/charts) (2 days ago)
+- [Reduce state size](https://github.com/jkroepke/openvpn-auth-oauth2/pull/78) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [fix deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/77) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Use &#34;-&#34; as omit value for common name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/76) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Add openvpn.common-name.mode](https://github.com/jkroepke/openvpn-auth-oauth2/pull/74) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/72) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [basicflag: Use default value from flagset, if value is not already defined](https://github.com/knadh/koanf/pull/254) on [knadh/koanf](https://github.com/knadh/koanf) (1 week ago)
 - [Storage Alerts: Missing cluster label](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/885) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (1 week ago)
@@ -56,16 +56,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (1 week ago)
-- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (1 week ago)
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (2 weeks ago)
-- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (3 weeks ago)
+- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (2 weeks ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 weeks ago)
+- [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (4 weeks ago)
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (1 month ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (1 month ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (2 months ago)
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports (2 months ago)
+- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
