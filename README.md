@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.6), today) - Contains Helm charts for Kubernetes related open source tools
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.0.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.81.4](https://github.com/renovatebot/renovate/releases/tag/37.81.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.8.4](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.8.4), 2 days ago) - Ingress-NGINX Controller for Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.29.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.29.0), 4 days ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.38.1](https://github.com/grafana/agent/releases/tag/v0.38.1), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.3), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.5](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.5), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
