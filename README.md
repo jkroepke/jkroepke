@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.83.0](https://github.com/renovatebot/renovate/releases/tag/37.83.0), today) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.6](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.6), today) - Contains Helm charts for Kubernetes related open source tools
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.0.0), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.81.4](https://github.com/renovatebot/renovate/releases/tag/37.81.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.8.4](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.8.4), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.2), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.83.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.83.0), 4 days ago) - Terraform provider for Azure Resource Manager
