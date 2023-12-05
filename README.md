@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.5.0](https://github.com/zitadel/oidc/releases/tag/v3.5.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.83.3](https://github.com/renovatebot/renovate/releases/tag/37.83.3), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.30.0](https://github.com/helmfile/vals/releases/tag/v0.30.0), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.20.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.20.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.12.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.12.2), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.83.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.83.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.70.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.70.0), 5 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.29.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.29.0), 5 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
