@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove old event source registry key](https://github.com/prometheus-community/windows_exporter/pull/1357) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[velero] Pass config trough tpl and implement reload trigger](https://github.com/vmware-tanzu/helm-charts/pull/525) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (3 days ago)
 - [[bitnami/thanos] Implement tpl for ingress hostname/extraTls](https://github.com/bitnami/charts/pull/21351) on [bitnami/charts](https://github.com/bitnami/charts) (4 days ago)
 - [Reduce state size](https://github.com/jkroepke/openvpn-auth-oauth2/pull/78) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/72) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [basicflag: Use default value from flagset, if value is not already defined](https://github.com/knadh/koanf/pull/254) on [knadh/koanf](https://github.com/knadh/koanf) (1 week ago)
 - [Storage Alerts: Missing cluster label](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/885) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (1 week ago)
-- [Add format tar.gz](https://github.com/hashicorp/terraform-provider-archive/pull/277) on [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) (1 week ago)
 
 #### ⭐ Recent Stars
 
