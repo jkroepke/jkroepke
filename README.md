@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [Remove old event source registry key](https://github.com/prometheus-community/windows_exporter/pull/1357) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [[velero] Pass config trough tpl and implement reload trigger](https://github.com/vmware-tanzu/helm-charts/pull/525) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (5 days ago)
 - [[bitnami/thanos] Implement tpl for ingress hostname/extraTls](https://github.com/bitnami/charts/pull/21351) on [bitnami/charts](https://github.com/bitnami/charts) (6 days ago)
@@ -52,10 +53,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add openvpn.common-name.mode](https://github.com/jkroepke/openvpn-auth-oauth2/pull/74) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/72) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [basicflag: Use default value from flagset, if value is not already defined](https://github.com/knadh/koanf/pull/254) on [knadh/koanf](https://github.com/knadh/koanf) (1 week ago)
-- [Storage Alerts: Missing cluster label](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/885) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (today)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (2 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (1 month ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (2 months ago)
 - [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (2 months ago)
-- [firezone/firezone](https://github.com/firezone/firezone) - WireGuard®-based scalable remote access platform that integrates with your IdP and requires no open ports (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
