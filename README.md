@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.3.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.3.0), today) - Customization of kubernetes YAML configurations
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.21.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kyaml/v0.16.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kyaml/v0.16.0), today) - Customization of kubernetes YAML configurations
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.2](https://github.com/renovatebot/renovate/releases/tag/37.89.2), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.0), 1 day ago) - helmfile-action
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.6.1), 2 days ago) - 
