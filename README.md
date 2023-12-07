@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.4](https://github.com/renovatebot/renovate/releases/tag/37.89.4), today) - Universal dependency update tool that fits into your workflows.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.6.0](https://github.com/zitadel/oidc/releases/tag/v3.6.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-opencost-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-opencost-exporter-0.1.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.3](https://github.com/renovatebot/renovate/releases/tag/37.89.3), today) - Universal dependency update tool that fits into your workflows.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.3.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.3.0), today) - Customization of kubernetes YAML configurations
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.21.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.0), 1 day ago) - helmfile-action
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Add custom CI actions](https://github.com/prometheus-community/helm-charts/pull/4065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [Remove old event source registry key](https://github.com/prometheus-community/windows_exporter/pull/1357) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [[velero] Pass config trough tpl and implement reload trigger](https://github.com/vmware-tanzu/helm-charts/pull/525) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Use &#34;-&#34; as omit value for common name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/76) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add openvpn.common-name.mode](https://github.com/jkroepke/openvpn-auth-oauth2/pull/74) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/72) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [basicflag: Use default value from flagset, if value is not already defined](https://github.com/knadh/koanf/pull/254) on [knadh/koanf](https://github.com/knadh/koanf) (1 week ago)
 
 #### ⭐ Recent Stars
 
