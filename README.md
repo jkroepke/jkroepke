@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.11.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.3](https://github.com/renovatebot/renovate/releases/tag/37.89.3), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.1), today) - Prometheus community Helm charts
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.3.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.3.0), today) - Customization of kubernetes YAML configurations
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.21.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.0), 1 day ago) - helmfile-action
