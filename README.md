@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (today)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 day ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 month ago)
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (1 month ago)
 - [shellwhale/terraform-target-autocompletion](https://github.com/shellwhale/terraform-target-autocompletion) - Press tab after --target and get suggestions for your resources and modules. (2 months ago)
-- [kubescape/kubescape](https://github.com/kubescape/kubescape) - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
