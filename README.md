@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.267](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.267), today) - 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.4), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.75](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.75), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.1.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.52](https://github.com/stakater/Reloader/releases/tag/v1.0.52), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.0.1), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.21.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.84.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.84.0), today) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.4](https://github.com/renovatebot/renovate/releases/tag/37.89.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.6.0](https://github.com/zitadel/oidc/releases/tag/v3.6.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.3.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.3.0), 1 day ago) - Customization of kubernetes YAML configurations
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.0), 2 days ago) - helmfile-action
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.30.0](https://github.com/helmfile/vals/releases/tag/v0.30.0), 4 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
