@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-5.3.0), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.21.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.84.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.84.0), today) - Terraform provider for Azure Resource Manager
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.4](https://github.com/renovatebot/renovate/releases/tag/37.89.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.6.0](https://github.com/zitadel/oidc/releases/tag/v3.6.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-opencost-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-opencost-exporter-0.1.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.3.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.3.0), 1 day ago) - Customization of kubernetes YAML configurations
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.0), 2 days ago) - helmfile-action
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.6.1), 3 days ago) - 
