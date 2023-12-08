@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [http_config: Add host](https://github.com/prometheus/common/pull/549) on [prometheus/common](https://github.com/prometheus/common) (today)
 - [[kube-prometheus-stack] Add custom CI actions](https://github.com/prometheus-community/helm-charts/pull/4065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
 - [Remove old event source registry key](https://github.com/prometheus-community/windows_exporter/pull/1357) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/77) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Use &#34;-&#34; as omit value for common name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/76) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add openvpn.common-name.mode](https://github.com/jkroepke/openvpn-auth-oauth2/pull/74) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/72) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
