@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (4 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/keycloak-extension-oidc-cloud-identities](https://github.com/jkroepke/keycloak-extension-oidc-cloud-identities) -  (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
@@ -30,23 +30,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.5](https://github.com/renovatebot/renovate/releases/tag/37.89.5), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.4), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.75](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.75), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.1.0), 1 day ago) - Prometheus community Helm charts
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.52](https://github.com/stakater/Reloader/releases/tag/v1.0.52), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.21.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.84.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.84.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.6.0](https://github.com/zitadel/oidc/releases/tag/v3.6.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.3.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.3.0), 2 days ago) - Customization of kubernetes YAML configurations
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.0), 3 days ago) - helmfile-action
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.89.5](https://github.com/renovatebot/renovate/releases/tag/37.89.5), 2 days ago) - Universal dependency update tool that fits into your workflows.
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.4), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.75](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.75), 2 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.1.0), 2 days ago) - Prometheus community Helm charts
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.52](https://github.com/stakater/Reloader/releases/tag/v1.0.52), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.21.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.21.1), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.84.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.84.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.6.0](https://github.com/zitadel/oidc/releases/tag/v3.6.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.3.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.3.0), 3 days ago) - Customization of kubernetes YAML configurations
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.0), 4 days ago) - helmfile-action
 
 #### 🔨 My recent Pull Requests
 
-- [http_config: Add host](https://github.com/prometheus/common/pull/549) on [prometheus/common](https://github.com/prometheus/common) (1 day ago)
-- [[kube-prometheus-stack] Add custom CI actions](https://github.com/prometheus-community/helm-charts/pull/4065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 days ago)
-- [Remove old event source registry key](https://github.com/prometheus-community/windows_exporter/pull/1357) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [http_config: Add host](https://github.com/prometheus/common/pull/549) on [prometheus/common](https://github.com/prometheus/common) (2 days ago)
+- [[kube-prometheus-stack] Add custom CI actions](https://github.com/prometheus-community/helm-charts/pull/4065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (3 days ago)
+- [Remove old event source registry key](https://github.com/prometheus-community/windows_exporter/pull/1357) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [[velero] Pass config trough tpl and implement reload trigger](https://github.com/vmware-tanzu/helm-charts/pull/525) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
 - [[bitnami/thanos] Implement tpl for ingress hostname/extraTls](https://github.com/bitnami/charts/pull/21351) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 - [Reduce state size](https://github.com/jkroepke/openvpn-auth-oauth2/pull/78) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -56,14 +56,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (today)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (1 day ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 days ago)
+- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (1 day ago)
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (2 days ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (3 days ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (2 weeks ago)
-- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (2 weeks ago)
-- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (3 weeks ago)
+- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (3 weeks ago)
+- [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (4 weeks ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 month ago)
 - [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (1 month ago)
 
