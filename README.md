@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [helm: Avoid unnecessary pod restart on each helm chart version](https://github.com/kubernetes-sigs/external-dns/pull/4103) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
+- [Avoid unnecessary pod restart on each helm chart version](https://github.com/oauth2-proxy/manifests/pull/178) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (today)
 - [[prometheus-blackbox-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/prometheus-community/helm-charts/pull/4077) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[bitnami/kubernetes-event-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/bitnami/charts/pull/21489) on [bitnami/charts](https://github.com/bitnami/charts) (today)
 - [[grafana] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2834) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Add custom CI actions](https://github.com/prometheus-community/helm-charts/pull/4065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (3 days ago)
 - [Remove old event source registry key](https://github.com/prometheus-community/windows_exporter/pull/1357) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [[velero] Pass config trough tpl and implement reload trigger](https://github.com/vmware-tanzu/helm-charts/pull/525) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
-- [[bitnami/thanos] Implement tpl for ingress hostname/extraTls](https://github.com/bitnami/charts/pull/21351) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
