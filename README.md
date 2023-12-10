@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[bitnami/kubernetes-event-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/bitnami/charts/pull/21489) on [bitnami/charts](https://github.com/bitnami/charts) (today)
 - [[grafana] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2834) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [[promtail] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2833) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [http_config: Add host](https://github.com/prometheus/common/pull/549) on [prometheus/common](https://github.com/prometheus/common) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[velero] Pass config trough tpl and implement reload trigger](https://github.com/vmware-tanzu/helm-charts/pull/525) on [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) (1 week ago)
 - [[bitnami/thanos] Implement tpl for ingress hostname/extraTls](https://github.com/bitnami/charts/pull/21351) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 - [Reduce state size](https://github.com/jkroepke/openvpn-auth-oauth2/pull/78) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [fix deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/77) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
