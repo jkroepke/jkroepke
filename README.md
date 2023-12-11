@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.90.1](https://github.com/renovatebot/renovate/releases/tag/37.90.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.91.0](https://github.com/renovatebot/renovate/releases/tag/37.91.0), today) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.3), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.76](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.76), today) - 
