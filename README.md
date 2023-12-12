@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.41.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.3.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.91.2](https://github.com/renovatebot/renovate/releases/tag/37.91.2), today) - Universal dependency update tool that fits into your workflows.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.7), today) - Contains Helm charts for Kubernetes related open source tools
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.77](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.77), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.3](https://github.com/grafana/loki/releases/tag/v2.9.3), 1 day ago) - Like Prometheus, but for logs.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.23.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.3), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.3.0), 1 day ago) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.4), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.52](https://github.com/stakater/Reloader/releases/tag/v1.0.52), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.84.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.84.0), 4 days ago) - Terraform provider for Azure Resource Manager
