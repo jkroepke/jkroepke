@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.91.5](https://github.com/renovatebot/renovate/releases/tag/37.91.5), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.8.2), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.92.0](https://github.com/renovatebot/renovate/releases/tag/37.92.0), today) - Universal dependency update tool that fits into your workflows.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.54](https://github.com/stakater/Reloader/releases/tag/v1.0.54), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.4.0), today) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.7](https://github.com/grafana/loki/releases/tag/v2.8.7), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.78](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.78), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.23.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.4), 5 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.52](https://github.com/stakater/Reloader/releases/tag/v1.0.52), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [nobbs](https://github.com/nobbs)
 - [NathanDunning](https://github.com/NathanDunning)
 - [qjoner](https://github.com/qjoner)
 - [tuunit](https://github.com/tuunit)
 - [kkpan11](https://github.com/kkpan11)
-- [xax25216](https://github.com/xax25216)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
