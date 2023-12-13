@@ -17,51 +17,51 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
-- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (1 day ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
+- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (2 days ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (3 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.7](https://github.com/grafana/loki/releases/tag/v2.8.7), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.78](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.78), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.9.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.91.4](https://github.com/renovatebot/renovate/releases/tag/37.91.4), today) - Universal dependency update tool that fits into your workflows.
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.7](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.7), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.7), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.23.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.7), today) - Contains Helm charts for Kubernetes related open source tools
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.4), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.52](https://github.com/stakater/Reloader/releases/tag/v1.0.52), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.7](https://github.com/grafana/loki/releases/tag/v2.8.7), 1 day ago) - Like Prometheus, but for logs.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.78](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.78), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.9.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.91.4](https://github.com/renovatebot/renovate/releases/tag/37.91.4), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.7](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.7), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.23.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.1.7](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.1.7), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.9.4](https://github.com/electron-userland/electron-builder/releases/tag/v24.9.4), 5 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.52](https://github.com/stakater/Reloader/releases/tag/v1.0.52), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
-- [helm: Avoid unnecessary pod restart on each helm chart version](https://github.com/kubernetes-sigs/external-dns/pull/4103) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 days ago)
-- [Avoid unnecessary pod restart on each helm chart version](https://github.com/oauth2-proxy/manifests/pull/178) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (2 days ago)
-- [[prometheus-blackbox-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/prometheus-community/helm-charts/pull/4077) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[bitnami/kubernetes-event-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/bitnami/charts/pull/21489) on [bitnami/charts](https://github.com/bitnami/charts) (2 days ago)
-- [[grafana] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2834) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
-- [[promtail] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2833) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
-- [http_config: Add host](https://github.com/prometheus/common/pull/549) on [prometheus/common](https://github.com/prometheus/common) (4 days ago)
-- [[kube-prometheus-stack] Add custom CI actions](https://github.com/prometheus-community/helm-charts/pull/4065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (5 days ago)
+- [helm: Avoid unnecessary pod restart on each helm chart version](https://github.com/kubernetes-sigs/external-dns/pull/4103) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 days ago)
+- [Avoid unnecessary pod restart on each helm chart version](https://github.com/oauth2-proxy/manifests/pull/178) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (3 days ago)
+- [[prometheus-blackbox-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/prometheus-community/helm-charts/pull/4077) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[bitnami/kubernetes-event-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/bitnami/charts/pull/21489) on [bitnami/charts](https://github.com/bitnami/charts) (3 days ago)
+- [[grafana] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2834) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
+- [[promtail] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2833) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
+- [http_config: Add host](https://github.com/prometheus/common/pull/549) on [prometheus/common](https://github.com/prometheus/common) (5 days ago)
+- [[kube-prometheus-stack] Add custom CI actions](https://github.com/prometheus-community/helm-charts/pull/4065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (6 days ago)
 - [Remove old event source registry key](https://github.com/prometheus-community/windows_exporter/pull/1357) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (3 days ago)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (4 days ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (5 days ago)
+- [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (4 days ago)
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (5 days ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (6 days ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
-- [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (2 weeks ago)
+- [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (3 weeks ago)
 - [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (3 weeks ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 month ago)
