@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.92.1](https://github.com/renovatebot/renovate/releases/tag/37.92.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.41.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.2), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.92.0](https://github.com/renovatebot/renovate/releases/tag/37.92.0), today) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.54](https://github.com/stakater/Reloader/releases/tag/v1.0.54), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.4.0), today) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.0), today) - Contains Helm charts for Kubernetes related open source tools
