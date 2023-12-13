@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.10.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.10.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([23.12.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/23.12.0), today) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.92.4](https://github.com/renovatebot/renovate/releases/tag/37.92.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.41.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.2), today) - 
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.7](https://github.com/grafana/loki/releases/tag/v2.8.7), 1 day ago) - Like Prometheus, but for logs.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.7](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.7), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.7](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.7), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.23.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.23.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
+- [publish new charts to GHCR OCI registry](https://github.com/oauth2-proxy/manifests/pull/181) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (today)
 - [[kube-prometheus-stack] Fix Grafana Deeplinks](https://github.com/prometheus-community/helm-charts/pull/4087) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [helm: Avoid unnecessary pod restart on each helm chart version](https://github.com/kubernetes-sigs/external-dns/pull/4103) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 days ago)
 - [Avoid unnecessary pod restart on each helm chart version](https://github.com/oauth2-proxy/manifests/pull/178) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[promtail] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2833) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
 - [http_config: Add host](https://github.com/prometheus/common/pull/549) on [prometheus/common](https://github.com/prometheus/common) (5 days ago)
 - [[kube-prometheus-stack] Add custom CI actions](https://github.com/prometheus-community/helm-charts/pull/4065) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [`azurerm_virtual_machine_data_disk_attachment`: Ignore VM applications](https://github.com/hashicorp/terraform-provider-azurerm/pull/24145) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (6 days ago)
 
 #### ⭐ Recent Stars
 
