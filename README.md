@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.100.1](https://github.com/renovatebot/renovate/releases/tag/37.100.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.7.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.2), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.5.0), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.100.0](https://github.com/renovatebot/renovate/releases/tag/37.100.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.85.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.85.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.1](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.1), 1 day ago) - helmfile-action
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.31.0](https://github.com/helmfile/vals/releases/tag/v0.31.0), 2 days ago) - Helm-like configuration values loader with support for various sources
