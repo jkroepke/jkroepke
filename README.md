@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.100.2](https://github.com/renovatebot/renovate/releases/tag/37.100.2), today) - Universal dependency update tool that fits into your workflows.
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.12.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.12.0), today) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.101.0](https://github.com/renovatebot/renovate/releases/tag/37.101.0), today) - Universal dependency update tool that fits into your workflows.
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.2](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.2), today) - helmfile-action
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.7.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.2), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.5.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.10.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.10.0), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([23.12.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/23.12.0), 3 days ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.54](https://github.com/stakater/Reloader/releases/tag/v1.0.54), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
