@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.7.0](https://github.com/zitadel/oidc/releases/tag/v3.7.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.102.0](https://github.com/renovatebot/renovate/releases/tag/37.102.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.3), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.7.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.7.3), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.31.0](https://github.com/helmfile/vals/releases/tag/v0.31.0), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.10.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.10.0), 4 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([23.12.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/23.12.0), 4 days ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.54](https://github.com/stakater/Reloader/releases/tag/v1.0.54), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
