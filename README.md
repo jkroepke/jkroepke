@@ -17,16 +17,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (1 day ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (4 days ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (5 days ago)
-- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (5 days ago)
-- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (6 days ago)
+- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (5 days ago)
+- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (5 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
