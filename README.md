@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.102.1](https://github.com/renovatebot/renovate/releases/tag/37.102.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.269](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.269), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.0](https://github.com/zitadel/oidc/releases/tag/v3.8.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([23.12.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/23.12.0), 1 day ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.102.0](https://github.com/renovatebot/renovate/releases/tag/37.102.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.3), 2 days ago) - Prometheus community Helm charts
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.12.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.12.0), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.2](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.2), 2 days ago) - helmfile-action
