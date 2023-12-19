@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.7.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.2), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.105.0](https://github.com/renovatebot/renovate/releases/tag/37.105.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.15](https://github.com/grafana/grafana/releases/tag/v9.5.15), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.0.19](https://github.com/grafana/helm-charts/releases/tag/grafana-7.0.19), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.0](https://github.com/zitadel/oidc/releases/tag/v3.8.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([23.12.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/23.12.0), 2 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.3), 3 days ago) - Prometheus community Helm charts
