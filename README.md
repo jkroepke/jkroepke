@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(rp): Add UnauthorizedHandler](https://github.com/zitadel/oidc/pull/503) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [Use minimal token interface to ignore non compliant token claims](https://github.com/jkroepke/openvpn-auth-oauth2/pull/88) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/86) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [publish new charts to GHCR OCI registry](https://github.com/oauth2-proxy/manifests/pull/181) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-blackbox-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/prometheus-community/helm-charts/pull/4077) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[bitnami/kubernetes-event-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/bitnami/charts/pull/21489) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 - [[grafana] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2834) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [[promtail] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2833) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
