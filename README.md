@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Use minimal token interface](https://github.com/jkroepke/openvpn-auth-oauth2/pull/88) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/86) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [publish new charts to GHCR OCI registry](https://github.com/oauth2-proxy/manifests/pull/181) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (6 days ago)
 - [[kube-prometheus-stack] Fix Grafana Deeplinks](https://github.com/prometheus-community/helm-charts/pull/4087) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[bitnami/kubernetes-event-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/bitnami/charts/pull/21489) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 - [[grafana] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2834) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [[promtail] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/helm-charts/pull/2833) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [http_config: Add host](https://github.com/prometheus/common/pull/549) on [prometheus/common](https://github.com/prometheus/common) (1 week ago)
 
 #### ⭐ Recent Stars
 
