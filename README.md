@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.7.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.2), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.105.0](https://github.com/renovatebot/renovate/releases/tag/37.105.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.15](https://github.com/grafana/grafana/releases/tag/v9.5.15), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.0](https://github.com/zitadel/oidc/releases/tag/v3.8.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
