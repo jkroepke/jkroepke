@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.55](https://github.com/stakater/Reloader/releases/tag/v1.0.55), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.5.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.105.0](https://github.com/renovatebot/renovate/releases/tag/37.105.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.15](https://github.com/grafana/grafana/releases/tag/v9.5.15), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.0](https://github.com/zitadel/oidc/releases/tag/v3.8.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([23.12.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/23.12.0), 3 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.25.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.25.3), 4 days ago) - Prometheus community Helm charts
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.12.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.12.0), 4 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.2](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.2), 4 days ago) - helmfile-action
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.85.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.85.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.31.0](https://github.com/helmfile/vals/releases/tag/v0.31.0), 6 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
