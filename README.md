@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add default template for more user-friendly HTML messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/92) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [OIDC: Use html template on unauthorized errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/89) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [feat(rp): Add UnauthorizedHandler](https://github.com/zitadel/oidc/pull/503) on [zitadel/oidc](https://github.com/zitadel/oidc) (3 days ago)
 - [Use minimal token interface to ignore non compliant token claims](https://github.com/jkroepke/openvpn-auth-oauth2/pull/88) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helm: Avoid unnecessary pod restart on each helm chart version](https://github.com/kubernetes-sigs/external-dns/pull/4103) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [Avoid unnecessary pod restart on each helm chart version](https://github.com/oauth2-proxy/manifests/pull/178) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 week ago)
 - [[prometheus-blackbox-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/prometheus-community/helm-charts/pull/4077) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[bitnami/kubernetes-event-exporter] Avoid unnecessary pod restart on each helm chart version](https://github.com/bitnami/charts/pull/21489) on [bitnami/charts](https://github.com/bitnami/charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
