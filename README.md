@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (3 days ago)
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (4 days ago)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (6 days ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (1 week ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (1 week ago)
@@ -30,23 +30,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.107.0](https://github.com/renovatebot/renovate/releases/tag/37.107.0), today) - Universal dependency update tool that fits into your workflows.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.5](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.5), today) - Ingress-NGINX Controller for Kubernetes
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.56](https://github.com/stakater/Reloader/releases/tag/v1.0.56), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.7.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.3), 1 day ago) - 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.8), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.5.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.15](https://github.com/grafana/grafana/releases/tag/v9.5.15), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.0](https://github.com/zitadel/oidc/releases/tag/v3.8.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([23.12.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/23.12.0), 4 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.12.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.12.0), 5 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.107.0](https://github.com/renovatebot/renovate/releases/tag/37.107.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.5](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.5), 1 day ago) - Ingress-NGINX Controller for Kubernetes
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.56](https://github.com/stakater/Reloader/releases/tag/v1.0.56), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.7.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.3), 2 days ago) - 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.8), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.5.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.15](https://github.com/grafana/grafana/releases/tag/v9.5.15), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.0](https://github.com/zitadel/oidc/releases/tag/v3.8.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([23.12.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/23.12.0), 5 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([23.12.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/23.12.0), 6 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 
 #### 🔨 My recent Pull Requests
 
-- [OIDC: Use html template on unauthorized errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/89) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [feat(rp): Add UnauthorizedHandler](https://github.com/zitadel/oidc/pull/503) on [zitadel/oidc](https://github.com/zitadel/oidc) (2 days ago)
-- [Use minimal token interface to ignore non compliant token claims](https://github.com/jkroepke/openvpn-auth-oauth2/pull/88) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/86) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [OIDC: Use html template on unauthorized errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/89) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [feat(rp): Add UnauthorizedHandler](https://github.com/zitadel/oidc/pull/503) on [zitadel/oidc](https://github.com/zitadel/oidc) (3 days ago)
+- [Use minimal token interface to ignore non compliant token claims](https://github.com/jkroepke/openvpn-auth-oauth2/pull/88) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/86) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [publish new charts to GHCR OCI registry](https://github.com/oauth2-proxy/manifests/pull/181) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 week ago)
 - [[kube-prometheus-stack] Fix Grafana Deeplinks](https://github.com/prometheus-community/helm-charts/pull/4087) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [helm: Avoid unnecessary pod restart on each helm chart version](https://github.com/kubernetes-sigs/external-dns/pull/4103) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
@@ -57,11 +57,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### ⭐ Recent Stars
 
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (1 week ago)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (1 week ago)
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (2 weeks ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 weeks ago)
-- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (2 weeks ago)
+- [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (3 weeks ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 weeks ago)
-- [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (4 weeks ago)
+- [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (1 month ago)
 - [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (1 month ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 month ago)
