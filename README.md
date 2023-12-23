@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.32.0](https://github.com/helmfile/vals/releases/tag/v0.32.0), today) - Helm-like configuration values loader with support for various sources
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.7](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.7), 1 day ago) - Helm charts for webdevops applications
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.1](https://github.com/zitadel/oidc/releases/tag/v3.8.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.107.0](https://github.com/renovatebot/renovate/releases/tag/37.107.0), 2 days ago) - Universal dependency update tool that fits into your workflows.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-27.0.8](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-27.0.8), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.5.0), 3 days ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v9.5.15](https://github.com/grafana/grafana/releases/tag/v9.5.15), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([23.12.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/23.12.0), 6 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
 
 #### 🔨 My recent Pull Requests
 
