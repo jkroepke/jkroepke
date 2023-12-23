@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [jnmcfly](https://github.com/jnmcfly)
 - [1wiz1](https://github.com/1wiz1)
 - [nobbs](https://github.com/nobbs)
 - [NathanDunning](https://github.com/NathanDunning)
 - [qjoner](https://github.com/qjoner)
-- [tuunit](https://github.com/tuunit)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
