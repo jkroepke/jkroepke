@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (today)
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (2 weeks ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (2 weeks ago)
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (1 month ago)
 - [camptocamp/grafana-prometheus-alertmanager-datasource](https://github.com/camptocamp/grafana-prometheus-alertmanager-datasource) - Grafana Datasource for the Prometheus Alertmanager (1 month ago)
 - [kuberhealthy/kuberhealthy](https://github.com/kuberhealthy/kuberhealthy) - A Kubernetes operator for running synthetic checks as pods. Works great with Prometheus! (1 month ago)
-- [postfinance/kubenurse](https://github.com/postfinance/kubenurse) - Kubernetes network monitoring (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
