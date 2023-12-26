@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/99) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Avoid unnecessary memory allocations in OpenVPN handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/98) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Add benchmark for OpenVPN Handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/97) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Optimize connection parser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/96) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [OIDC: Use html template on unauthorized errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/89) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [feat(rp): Add UnauthorizedHandler](https://github.com/zitadel/oidc/pull/503) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 week ago)
 - [Use minimal token interface to ignore non compliant token claims](https://github.com/jkroepke/openvpn-auth-oauth2/pull/88) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Switch to goflag](https://github.com/jkroepke/openvpn-auth-oauth2/pull/86) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
