@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.8.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.108.1](https://github.com/renovatebot/renovate/releases/tag/37.108.1), today) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.58](https://github.com/stakater/Reloader/releases/tag/v1.0.58), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.270](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.270), 1 day ago) - 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.8.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.8.1), 1 day ago) - Exec into node via kubectl
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.4.0), 2 days ago) - Prometheus community Helm charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.160.0](https://github.com/helmfile/helmfile/releases/tag/v0.160.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.6](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.6), 2 days ago) - Lookup resource attributes in tfstate.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.32.0](https://github.com/helmfile/vals/releases/tag/v0.32.0), 4 days ago) - Helm-like configuration values loader with support for various sources
