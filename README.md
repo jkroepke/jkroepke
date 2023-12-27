@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.107.2](https://github.com/renovatebot/renovate/releases/tag/37.107.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.270](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.270), 1 day ago) - 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.8.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.8.1), 1 day ago) - Exec into node via kubectl
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.107.1](https://github.com/renovatebot/renovate/releases/tag/37.107.1), 2 days ago) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.4.0), 2 days ago) - Prometheus community Helm charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.160.0](https://github.com/helmfile/helmfile/releases/tag/v0.160.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.6](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.6), 2 days ago) - Lookup resource attributes in tfstate.
