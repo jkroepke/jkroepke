@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.107.2](https://github.com/renovatebot/renovate/releases/tag/37.107.2), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.108.0](https://github.com/renovatebot/renovate/releases/tag/37.108.0), today) - Universal dependency update tool that fits into your workflows.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.57](https://github.com/stakater/Reloader/releases/tag/v1.0.57), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.270](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.270), 1 day ago) - 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.8.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.8.1), 1 day ago) - Exec into node via kubectl
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.4.0), 2 days ago) - Prometheus community Helm charts
@@ -39,11 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.32.0](https://github.com/helmfile/vals/releases/tag/v0.32.0), 4 days ago) - Helm-like configuration values loader with support for various sources
 - [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.7](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.7), 5 days ago) - Helm charts for webdevops applications
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.1](https://github.com/zitadel/oidc/releases/tag/v3.8.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.9.5](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.9.5), 6 days ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [Increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/99) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Implement oauth2 PKCE and nonce validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/99) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Avoid unnecessary memory allocations in OpenVPN handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/98) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Add benchmark for OpenVPN Handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/97) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Optimize connection parser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/96) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
