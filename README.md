@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 week ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (1 week ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (2 weeks ago)
@@ -30,36 +30,36 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.109.0](https://github.com/renovatebot/renovate/releases/tag/37.109.0), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.8.0), today) - Prometheus community Helm charts
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.58](https://github.com/stakater/Reloader/releases/tag/v1.0.58), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.270](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.270), 1 day ago) - 
-- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.8.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.8.1), 1 day ago) - Exec into node via kubectl
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.160.0](https://github.com/helmfile/helmfile/releases/tag/v0.160.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.6](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.6), 2 days ago) - Lookup resource attributes in tfstate.
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.32.0](https://github.com/helmfile/vals/releases/tag/v0.32.0), 4 days ago) - Helm-like configuration values loader with support for various sources
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.7](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.7), 5 days ago) - Helm charts for webdevops applications
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.1](https://github.com/zitadel/oidc/releases/tag/v3.8.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.109.0](https://github.com/renovatebot/renovate/releases/tag/37.109.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.8.0), 1 day ago) - Prometheus community Helm charts
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.58](https://github.com/stakater/Reloader/releases/tag/v1.0.58), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.270](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.270), 2 days ago) - 
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.8.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.8.1), 2 days ago) - Exec into node via kubectl
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.160.0](https://github.com/helmfile/helmfile/releases/tag/v0.160.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.6](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.6), 3 days ago) - Lookup resource attributes in tfstate.
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.32.0](https://github.com/helmfile/vals/releases/tag/v0.32.0), 5 days ago) - Helm-like configuration values loader with support for various sources
+- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.7](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.7), 6 days ago) - Helm charts for webdevops applications
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.8.1](https://github.com/zitadel/oidc/releases/tag/v3.8.1), 6 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
-- [Implement oauth2 PKCE and nonce validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/99) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Avoid unnecessary memory allocations in OpenVPN handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/98) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Add benchmark for OpenVPN Handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/97) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Optimize connection parser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/96) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Add non-interactive session refresh via token](https://github.com/jkroepke/openvpn-auth-oauth2/pull/94) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Implement token store](https://github.com/jkroepke/openvpn-auth-oauth2/pull/93) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Add default template for more user-friendly HTML messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/92) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Implement oauth2 PKCE and nonce validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/99) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Avoid unnecessary memory allocations in OpenVPN handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/98) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Add benchmark for OpenVPN Handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/97) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Optimize connection parser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/96) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Add non-interactive session refresh via token](https://github.com/jkroepke/openvpn-auth-oauth2/pull/94) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Implement token store](https://github.com/jkroepke/openvpn-auth-oauth2/pull/93) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Add default template for more user-friendly HTML messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/92) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [OIDC: Use html template on unauthorized errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/89) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [feat(rp): Add UnauthorizedHandler](https://github.com/zitadel/oidc/pull/503) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 week ago)
 - [Use minimal token interface to ignore non compliant token claims](https://github.com/jkroepke/openvpn-auth-oauth2/pull/88) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 days ago)
+- [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (3 days ago)
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (2 weeks ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (2 weeks ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 weeks ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (3 weeks ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (3 weeks ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 month ago)
 - [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (1 month ago)
