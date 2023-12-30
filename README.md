@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.3](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.3), today) - helmfile-action
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.112.1](https://github.com/renovatebot/renovate/releases/tag/37.112.1), today) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.1.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.160.0](https://github.com/helmfile/helmfile/releases/tag/v0.160.0), 5 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.6](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.6), 5 days ago) - Lookup resource attributes in tfstate.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.32.0](https://github.com/helmfile/vals/releases/tag/v0.32.0), 1 week ago) - Helm-like configuration values loader with support for various sources
-- [webdevops/helm-charts](https://github.com/webdevops/helm-charts) ([azure-loganalytics-exporter-1.0.7](https://github.com/webdevops/helm-charts/releases/tag/azure-loganalytics-exporter-1.0.7), 1 week ago) - Helm charts for webdevops applications
 
 #### 🔨 My recent Pull Requests
 
