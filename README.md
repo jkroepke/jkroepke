@@ -23,10 +23,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (2 weeks ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (2 weeks ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (2 weeks ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (2 weeks ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (2 weeks ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (3 weeks ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
