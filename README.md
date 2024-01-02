@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-30.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-30.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-30.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-30.0.2), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.116.0](https://github.com/renovatebot/renovate/releases/tag/37.116.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.3.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.3.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.15.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.3), 3 days ago) - Prometheus community Helm charts
@@ -70,10 +70,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👯 Check out some of my recent followers
 
 - [jnmcfly](https://github.com/jnmcfly)
-- [1wiz1](https://github.com/1wiz1)
 - [nobbs](https://github.com/nobbs)
 - [NathanDunning](https://github.com/NathanDunning)
 - [qjoner](https://github.com/qjoner)
+- [tuunit](https://github.com/tuunit)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
