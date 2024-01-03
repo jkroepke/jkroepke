@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
@@ -26,14 +27,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) - Contains Helm charts for Kubernetes related open source tools (3 weeks ago)
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery (3 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 weeks ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.117.1](https://github.com/renovatebot/renovate/releases/tag/37.117.1), today) - Universal dependency update tool that fits into your workflows.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.3.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.118.0](https://github.com/renovatebot/renovate/releases/tag/37.118.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-30.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-30.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.3.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.3.2), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.15.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.15.3), 4 days ago) - Prometheus community Helm charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.3](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.3), 4 days ago) - helmfile-action
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.0), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.58](https://github.com/stakater/Reloader/releases/tag/v1.0.58), 1 week ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Jinxin231](https://github.com/Jinxin231)
 - [jnmcfly](https://github.com/jnmcfly)
 - [nobbs](https://github.com/nobbs)
 - [NathanDunning](https://github.com/NathanDunning)
 - [qjoner](https://github.com/qjoner)
-- [tuunit](https://github.com/tuunit)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
