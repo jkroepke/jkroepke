@@ -30,19 +30,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.60](https://github.com/stakater/Reloader/releases/tag/v1.0.60), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.3.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.118.0](https://github.com/renovatebot/renovate/releases/tag/37.118.0), today) - Universal dependency update tool that fits into your workflows.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-30.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-30.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.3.2](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.3.2), 1 day ago) - 
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.3](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.3), 4 days ago) - helmfile-action
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.0), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.58](https://github.com/stakater/Reloader/releases/tag/v1.0.58), 1 week ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.8.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.8.1), 1 week ago) - Exec into node via kubectl
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.160.0](https://github.com/helmfile/helmfile/releases/tag/v0.160.0), 1 week ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.6](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.6), 1 week ago) - Lookup resource attributes in tfstate.
 
 #### 🔨 My recent Pull Requests
 
+- [Terminate, if OpenVPN management connection dies.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/104) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Support session refresh for Github Provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/101) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [Implement oauth2 PKCE and nonce validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/99) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Avoid unnecessary memory allocations in OpenVPN handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/98) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement token store](https://github.com/jkroepke/openvpn-auth-oauth2/pull/93) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add default template for more user-friendly HTML messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/92) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [OIDC: Use html template on unauthorized errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/89) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
-- [feat(rp): Add UnauthorizedHandler](https://github.com/zitadel/oidc/pull/503) on [zitadel/oidc](https://github.com/zitadel/oidc) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
