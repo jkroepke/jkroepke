@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Implement package-level error for RevokeToken](https://github.com/zitadel/oidc/pull/508) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [try fix tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/109) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [add doc not about `oauth2.refresh.secret`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/108) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/106) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement oauth2 PKCE and nonce validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/99) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Avoid unnecessary memory allocations in OpenVPN handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/98) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add benchmark for OpenVPN Handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/97) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Optimize connection parser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/96) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
