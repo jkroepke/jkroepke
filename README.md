@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.2), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.118.1](https://github.com/renovatebot/renovate/releases/tag/37.118.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.7.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.5), 1 day ago) - 
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.8.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.8.0), 1 day ago) - A proxy that enforces a given label in a given PromQL query.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.60](https://github.com/stakater/Reloader/releases/tag/v1.0.60), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
