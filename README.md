@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.119.0](https://github.com/renovatebot/renovate/releases/tag/37.119.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.121.0](https://github.com/renovatebot/renovate/releases/tag/37.121.0), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.7.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.6), today) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.2), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.8.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.8.0), 1 day ago) - A proxy that enforces a given label in a given PromQL query.
