@@ -18,9 +18,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (1 week ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (2 weeks ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (2 weeks ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 weeks ago)
@@ -30,38 +30,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.118.1](https://github.com/renovatebot/renovate/releases/tag/37.118.1), today) - Universal dependency update tool that fits into your workflows.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.7.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.5), today) - 
-- [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.8.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.8.0), today) - A proxy that enforces a given label in a given PromQL query.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.60](https://github.com/stakater/Reloader/releases/tag/v1.0.60), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.3.0), today) - Prometheus community Helm charts
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-30.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-30.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.3](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.3), 4 days ago) - helmfile-action
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.118.1](https://github.com/renovatebot/renovate/releases/tag/37.118.1), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.7.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.7.5), 1 day ago) - 
+- [prometheus-community/prom-label-proxy](https://github.com/prometheus-community/prom-label-proxy) ([v0.8.0](https://github.com/prometheus-community/prom-label-proxy/releases/tag/v0.8.0), 1 day ago) - A proxy that enforces a given label in a given PromQL query.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.60](https://github.com/stakater/Reloader/releases/tag/v1.0.60), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.3.0), 1 day ago) - Prometheus community Helm charts
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-30.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-30.0.2), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.6.3](https://github.com/helmfile/helmfile-action/releases/tag/v1.6.3), 5 days ago) - helmfile-action
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.8.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.8.1), 1 week ago) - Exec into node via kubectl
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.160.0](https://github.com/helmfile/helmfile/releases/tag/v0.160.0), 1 week ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 #### 🔨 My recent Pull Requests
 
-- [Implement package-level error for RevokeToken](https://github.com/zitadel/oidc/pull/508) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
-- [try fix tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/109) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [add doc not about `oauth2.refresh.secret`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/108) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [fix tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/106) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [docs: Add HTTPS listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/105) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Terminate, if OpenVPN management connection dies.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/104) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Support session refresh for Github Provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/101) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [fix error named cookie not present on Safari Browser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/110) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Implement package-level error for RevokeToken](https://github.com/zitadel/oidc/pull/508) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
+- [try fix tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/109) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [add doc not about `oauth2.refresh.secret`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/108) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [fix tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/106) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [docs: Add HTTPS listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/105) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Terminate, if OpenVPN management connection dies.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/104) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Support session refresh for Github Provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/101) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Implement oauth2 PKCE and nonce validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/99) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Avoid unnecessary memory allocations in OpenVPN handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/98) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Add benchmark for OpenVPN Handler](https://github.com/jkroepke/openvpn-auth-oauth2/pull/97) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (1 day ago)
-- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (4 days ago)
+- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (2 days ago)
+- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (5 days ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (1 week ago)
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (3 weeks ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (3 weeks ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (3 weeks ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (4 weeks ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 month ago)
 - [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (1 month ago)
