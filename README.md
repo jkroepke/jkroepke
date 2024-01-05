@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.30.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.30.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.125.2](https://github.com/renovatebot/renovate/releases/tag/37.125.2), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.39.0-rc.0), today) - Vendor-neutral programmable observability pipelines.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.8.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.8.0), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.9.0](https://github.com/zitadel/oidc/releases/tag/v3.9.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.6.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.86.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.86.0), today) - Terraform provider for Azure Resource Manager
