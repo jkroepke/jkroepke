@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (3 days ago)
@@ -26,15 +27,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (3 weeks ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (3 weeks ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 weeks ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.9.1](https://github.com/zitadel/oidc/releases/tag/v3.9.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.126.2](https://github.com/renovatebot/renovate/releases/tag/37.126.2), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.3), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.8.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.8.1), 3 days ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.39.0-rc.0), 3 days ago) - Vendor-neutral programmable observability pipelines.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.9.0](https://github.com/zitadel/oidc/releases/tag/v3.9.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.6.0), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.86.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.86.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
@@ -49,7 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix typo and debugging](https://github.com/jkroepke/openvpn-auth-oauth2/pull/113) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [implements tests for cookie behavior](https://github.com/jkroepke/openvpn-auth-oauth2/pull/112) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [fix error named cookie not present on Safari Browser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/110) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Implement package-level error for RevokeToken](https://github.com/zitadel/oidc/pull/508) on [zitadel/oidc](https://github.com/zitadel/oidc) (5 days ago)
+- [fix: Implement package-level error for RevokeToken](https://github.com/zitadel/oidc/pull/508) on [zitadel/oidc](https://github.com/zitadel/oidc) (5 days ago)
 - [try fix tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/109) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [add doc not about `oauth2.refresh.secret`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/108) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [fix tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/106) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
