@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.127.0](https://github.com/renovatebot/renovate/releases/tag/37.127.0), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.7.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.126.4](https://github.com/renovatebot/renovate/releases/tag/37.126.4), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.272](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.272), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0-rc0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0-rc0), today) - Prometheus exporter for Windows machines
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.9.1](https://github.com/zitadel/oidc/releases/tag/v3.9.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
