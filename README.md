@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (today)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (3 weeks ago)
@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.8.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.127.0](https://github.com/renovatebot/renovate/releases/tag/37.127.0), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.7.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.272](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.272), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0-rc0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0-rc0), today) - Prometheus exporter for Windows machines
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.9.1](https://github.com/zitadel/oidc/releases/tag/v3.9.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
