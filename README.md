@@ -18,10 +18,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 day ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 day ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (4 days ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (2 weeks ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (3 weeks ago)
@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.13](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.13), today) - 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.0](https://github.com/zitadel/oidc/releases/tag/v3.10.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0-rc.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0-rc.1), today) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.3.3](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.3.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.8.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.127.0](https://github.com/renovatebot/renovate/releases/tag/37.127.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.9.1](https://github.com/zitadel/oidc/releases/tag/v3.9.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.3), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.39.0-rc.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.86.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.86.0), 4 days ago) - Terraform provider for Azure Resource Manager
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update github.com/zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/120) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Use rp.ErrRelyingPartyNotSupportRevokeCaller](https://github.com/jkroepke/openvpn-auth-oauth2/pull/119) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Mitigate nonce validation issue on session refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/117) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Remove i386 builds](https://github.com/prometheus-community/windows_exporter/pull/1378) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update OIDC lib](https://github.com/jkroepke/openvpn-auth-oauth2/pull/114) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [fix typo and debugging](https://github.com/jkroepke/openvpn-auth-oauth2/pull/113) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [implements tests for cookie behavior](https://github.com/jkroepke/openvpn-auth-oauth2/pull/112) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [fix error named cookie not present on Safari Browser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/110) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
