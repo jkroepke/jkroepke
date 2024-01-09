@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.39.0](https://github.com/grafana/agent/releases/tag/v0.39.0), today) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.13](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.13), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.0](https://github.com/zitadel/oidc/releases/tag/v3.10.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0-rc.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0-rc.1), today) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.8.0), 1 day ago) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.127.0](https://github.com/renovatebot/renovate/releases/tag/37.127.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.3), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [grafana/agent](https://github.com/grafana/agent) ([v0.39.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.39.0-rc.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.86.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.86.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-alpha.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.60](https://github.com/stakater/Reloader/releases/tag/v1.0.60), 6 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
