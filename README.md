@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.4.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.41.5](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.5), today) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.11.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.11.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.8.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.8.3), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.0](https://github.com/grafana/agent/releases/tag/v0.39.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.0](https://github.com/zitadel/oidc/releases/tag/v3.10.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0-rc.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0-rc.1), 1 day ago) - Prometheus exporter for Windows machines
