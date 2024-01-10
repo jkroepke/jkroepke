@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.84](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.84), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.2](https://github.com/renovatebot/renovate/releases/tag/37.128.2), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-rc.0), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.62](https://github.com/stakater/Reloader/releases/tag/v1.0.62), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.1.0), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.11.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.11.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
