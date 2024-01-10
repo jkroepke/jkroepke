@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.62](https://github.com/stakater/Reloader/releases/tag/v1.0.62), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-7.1.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.1.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.0](https://github.com/renovatebot/renovate/releases/tag/37.128.0), today) - Universal dependency update tool that fits into your workflows.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0-rc.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0-rc.1), 1 day ago) - Prometheus exporter for Windows machines
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.3), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.86.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.86.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-alpha.0), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
