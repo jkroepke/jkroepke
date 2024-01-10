@@ -19,6 +19,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 day ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (2 days ago)
@@ -26,7 +27,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (2 weeks ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (3 weeks ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (3 weeks ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
