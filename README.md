@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.3](https://github.com/renovatebot/renovate/releases/tag/37.128.3), today) - Universal dependency update tool that fits into your workflows.
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.0), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.84](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.84), today) - 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.2](https://github.com/renovatebot/renovate/releases/tag/37.128.2), today) - Universal dependency update tool that fits into your workflows.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.62](https://github.com/stakater/Reloader/releases/tag/v1.0.62), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.1.0), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.11.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.11.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.0](https://github.com/zitadel/oidc/releases/tag/v3.10.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0-rc.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0-rc.1), 1 day ago) - Prometheus exporter for Windows machines
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.3), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.86.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.86.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
