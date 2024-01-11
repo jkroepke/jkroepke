@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.7.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.4](https://github.com/renovatebot/renovate/releases/tag/37.128.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0), today) - Prometheus exporter for Windows machines
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.84](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.84), 1 day ago) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.62](https://github.com/stakater/Reloader/releases/tag/v1.0.62), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.1.0), 1 day ago) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.11.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.11.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.0](https://github.com/grafana/agent/releases/tag/v0.39.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.0](https://github.com/zitadel/oidc/releases/tag/v3.10.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
