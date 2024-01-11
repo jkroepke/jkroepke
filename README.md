@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.5](https://github.com/renovatebot/renovate/releases/tag/37.128.5), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.6](https://github.com/renovatebot/renovate/releases/tag/37.128.6), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.1), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0), today) - Prometheus exporter for Windows machines
