@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.7.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.4](https://github.com/renovatebot/renovate/releases/tag/37.128.4), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0), today) - Prometheus exporter for Windows machines
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
