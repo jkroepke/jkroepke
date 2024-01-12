@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.85](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.85), today) - 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.4.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.4.0), today) - 
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.129.1](https://github.com/renovatebot/renovate/releases/tag/37.129.1), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.16.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0), 1 day ago) - Prometheus exporter for Windows machines
