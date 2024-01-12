@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.7](https://github.com/renovatebot/renovate/releases/tag/37.128.7), today) - Universal dependency update tool that fits into your workflows.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.16.0), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.128.6](https://github.com/renovatebot/renovate/releases/tag/37.128.6), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.1), 1 day ago) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0), 1 day ago) - Prometheus exporter for Windows machines
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.0), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
