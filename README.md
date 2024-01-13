@@ -17,47 +17,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (2 days ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 days ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (4 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 days ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (4 days ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (5 days ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (1 week ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (2 weeks ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (3 weeks ago)
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (3 weeks ago)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.87.0), today) - Terraform provider for Azure Resource Manager
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.1), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.0), today) - 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.4), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.130.0](https://github.com/renovatebot/renovate/releases/tag/37.130.0), today) - Universal dependency update tool that fits into your workflows.
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0), 1 day ago) - Prometheus exporter for Windows machines
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.62](https://github.com/stakater/Reloader/releases/tag/v1.0.62), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.87.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.0), 1 day ago) - 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.4), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.130.0](https://github.com/renovatebot/renovate/releases/tag/37.130.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.0), 2 days ago) - Prometheus exporter for Windows machines
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.62](https://github.com/stakater/Reloader/releases/tag/v1.0.62), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
-- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Update docs/README.md](https://github.com/prometheus-community/windows_exporter/pull/1380) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [Update github.com/zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/120) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Use rp.ErrRelyingPartyNotSupportRevokeCaller](https://github.com/jkroepke/openvpn-auth-oauth2/pull/119) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Mitigate nonce validation issue on session refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/117) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Remove i386 builds](https://github.com/prometheus-community/windows_exporter/pull/1378) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [CI: Provide binary builds from GH actions](https://github.com/prometheus-community/windows_exporter/pull/1377) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [Add debugging doc for cookies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/116) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Update docs/README.md](https://github.com/prometheus-community/windows_exporter/pull/1380) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [Update github.com/zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/120) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Use rp.ErrRelyingPartyNotSupportRevokeCaller](https://github.com/jkroepke/openvpn-auth-oauth2/pull/119) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Mitigate nonce validation issue on session refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/117) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Remove i386 builds](https://github.com/prometheus-community/windows_exporter/pull/1378) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [CI: Provide binary builds from GH actions](https://github.com/prometheus-community/windows_exporter/pull/1377) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [Add debugging doc for cookies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/116) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add an error id for user assistance.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/115) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Update OIDC lib](https://github.com/jkroepke/openvpn-auth-oauth2/pull/114) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (1 week ago)
-- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (1 week ago)
+- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (2 weeks ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 weeks ago)
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (1 month ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (1 month ago)
