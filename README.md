@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
 - [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Mitigate nonce validation issue on session refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/117) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [Remove i386 builds](https://github.com/prometheus-community/windows_exporter/pull/1378) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [CI: Provide binary builds from GH actions](https://github.com/prometheus-community/windows_exporter/pull/1377) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [Add debugging doc for cookies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/116) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
