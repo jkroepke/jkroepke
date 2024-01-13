@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.0](https://github.com/databus23/helm-diff/releases/tag/v3.9.0), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.1](https://github.com/databus23/helm-diff/releases/tag/v3.9.1), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.87.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.1), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), 1 day ago) - Prometheus community Helm charts
