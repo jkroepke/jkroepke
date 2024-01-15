@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (2 days ago)
 - [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Use rp.ErrRelyingPartyNotSupportRevokeCaller](https://github.com/jkroepke/openvpn-auth-oauth2/pull/119) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Mitigate nonce validation issue on session refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/117) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Remove i386 builds](https://github.com/prometheus-community/windows_exporter/pull/1378) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [CI: Provide binary builds from GH actions](https://github.com/prometheus-community/windows_exporter/pull/1377) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
