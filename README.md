@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.132.0](https://github.com/renovatebot/renovate/releases/tag/37.132.0), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.132.1](https://github.com/renovatebot/renovate/releases/tag/37.132.1), today) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.1), today) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.46.0](https://github.com/prometheus/common/releases/tag/v0.46.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.1](https://github.com/databus23/helm-diff/releases/tag/v3.9.1), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
