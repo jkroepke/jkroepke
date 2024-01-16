@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.135.1](https://github.com/renovatebot/renovate/releases/tag/37.135.1), today) - Universal dependency update tool that fits into your workflows.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.137.0](https://github.com/renovatebot/renovate/releases/tag/37.137.0), today) - Universal dependency update tool that fits into your workflows.
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.2), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.1](https://github.com/zitadel/oidc/releases/tag/v3.10.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.2](https://github.com/databus23/helm-diff/releases/tag/v3.9.2), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.13.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.13.0), 1 day ago) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.46.0](https://github.com/prometheus/common/releases/tag/v0.46.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.87.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.1), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [tscn](https://github.com/tscn)
 - [dongjiang1989](https://github.com/dongjiang1989)
 - [RamazanKara](https://github.com/RamazanKara)
 - [Jinxin231](https://github.com/Jinxin231)
 - [jnmcfly](https://github.com/jnmcfly)
-- [nobbs](https://github.com/nobbs)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
