@@ -17,47 +17,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (2 days ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (3 days ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (1 week ago)
-- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (2 weeks ago)
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (3 weeks ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.134.0](https://github.com/renovatebot/renovate/releases/tag/37.134.0), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.13.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.13.0), today) - 
-- [prometheus/common](https://github.com/prometheus/common) ([v0.46.0](https://github.com/prometheus/common/releases/tag/v0.46.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.1](https://github.com/databus23/helm-diff/releases/tag/v3.9.1), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.87.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.1), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), 3 days ago) - Prometheus community Helm charts
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.4), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.134.0](https://github.com/renovatebot/renovate/releases/tag/37.134.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.13.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.13.0), 1 day ago) - 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.46.0](https://github.com/prometheus/common/releases/tag/v0.46.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.1](https://github.com/databus23/helm-diff/releases/tag/v3.9.1), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.87.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.1), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), 4 days ago) - Prometheus community Helm charts
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.4), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.0), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
-- [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
-- [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (2 days ago)
-- [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Update docs/README.md](https://github.com/prometheus-community/windows_exporter/pull/1380) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [Update github.com/zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/120) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [Use rp.ErrRelyingPartyNotSupportRevokeCaller](https://github.com/jkroepke/openvpn-auth-oauth2/pull/119) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 day ago)
+- [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 days ago)
+- [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Update docs/README.md](https://github.com/prometheus-community/windows_exporter/pull/1380) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
+- [Update github.com/zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/120) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
+- [Use rp.ErrRelyingPartyNotSupportRevokeCaller](https://github.com/jkroepke/openvpn-auth-oauth2/pull/119) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Mitigate nonce validation issue on session refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/117) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Remove i386 builds](https://github.com/prometheus-community/windows_exporter/pull/1378) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (1 week ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (2 weeks ago)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (2 weeks ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (3 weeks ago)
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (1 month ago)
