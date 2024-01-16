@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.3), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.137.0](https://github.com/renovatebot/renovate/releases/tag/37.137.0), today) - Universal dependency update tool that fits into your workflows.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.2), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.1](https://github.com/zitadel/oidc/releases/tag/v3.10.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.2](https://github.com/databus23/helm-diff/releases/tag/v3.9.2), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.1), today) - Contains Helm charts for Kubernetes related open source tools
