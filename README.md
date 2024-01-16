@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.2](https://github.com/databus23/helm-diff/releases/tag/v3.9.2), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.94.0](https://github.com/aquasecurity/defsec/releases/tag/v0.94.0), today) - Trivy&#39;s misconfiguration scanning engine
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.134.0](https://github.com/renovatebot/renovate/releases/tag/37.134.0), 1 day ago) - Universal dependency update tool that fits into your workflows.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.13.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.13.0), 1 day ago) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.46.0](https://github.com/prometheus/common/releases/tag/v0.46.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.1](https://github.com/databus23/helm-diff/releases/tag/v3.9.1), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.87.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.1), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), 4 days ago) - Prometheus community Helm charts
