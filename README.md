@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (3 days ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (6 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (1 week ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.2), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.1](https://github.com/zitadel/oidc/releases/tag/v3.10.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.2](https://github.com/databus23/helm-diff/releases/tag/v3.9.2), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.1), today) - Contains Helm charts for Kubernetes related open source tools
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.46.0](https://github.com/prometheus/common/releases/tag/v0.46.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.87.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.87.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.1](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.1), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-55.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-55.8.1), 4 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
