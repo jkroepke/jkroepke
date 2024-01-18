@@ -17,38 +17,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (3 days ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (5 days ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (1 week ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (3 weeks ago)
-- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (4 weeks ago)
+- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.1), today) - Prometheus exporter for Windows machines
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.1.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([37.137.2](https://github.com/renovatebot/renovate/releases/tag/37.137.2), today) - Universal dependency update tool that fits into your workflows.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([lgtm-distributed-1.0.1](https://github.com/grafana/helm-charts/releases/tag/lgtm-distributed-1.0.1), today) - 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.1](https://github.com/zitadel/oidc/releases/tag/v3.10.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.2](https://github.com/databus23/helm-diff/releases/tag/v3.9.2), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.94.0](https://github.com/aquasecurity/defsec/releases/tag/v0.94.0), today) - Trivy&#39;s misconfiguration scanning engine
-- [prometheus/common](https://github.com/prometheus/common) ([v0.46.0](https://github.com/prometheus/common/releases/tag/v0.46.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.8.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.0), today) - 
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.0), today) - Exec into node via kubectl
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.9.0), today) - Prometheus community Helm charts
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.2](https://github.com/zitadel/oidc/releases/tag/v3.10.2), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.63](https://github.com/stakater/Reloader/releases/tag/v1.0.63), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.94.1](https://github.com/aquasecurity/defsec/releases/tag/v0.94.1), 1 day ago) - Trivy&#39;s misconfiguration scanning engine
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.1), 2 days ago) - Prometheus exporter for Windows machines
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-alpha.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.2](https://github.com/databus23/helm-diff/releases/tag/v3.9.2), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-blackbox-exporter] Integrate config-reloader](https://github.com/prometheus-community/helm-charts/pull/4145) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 day ago)
-- [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 days ago)
-- [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [[prometheus-blackbox-exporter] Integrate config-reloader](https://github.com/prometheus-community/helm-charts/pull/4145) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 days ago)
+- [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (5 days ago)
+- [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Update docs/README.md](https://github.com/prometheus-community/windows_exporter/pull/1380) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Update github.com/zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/120) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Use rp.ErrRelyingPartyNotSupportRevokeCaller](https://github.com/jkroepke/openvpn-auth-oauth2/pull/119) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -56,7 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (2 weeks ago)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (2 weeks ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (3 weeks ago)
@@ -65,7 +65,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 month ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (1 month ago)
 - [openshift/cluster-monitoring-operator](https://github.com/openshift/cluster-monitoring-operator) - Manage the OpenShift monitoring stack (1 month ago)
-- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (1 month ago)
+- [MatthewJohn/terrareg](https://github.com/MatthewJohn/terrareg) - Open source Terraform module registry with UI, optional Git integration and deep analysis (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
