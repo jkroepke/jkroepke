@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.3](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.3), today) - 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.3](https://github.com/zitadel/oidc/releases/tag/v3.10.3), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.88.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.88.0), today) - Terraform provider for Azure Resource Manager
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.0), 1 day ago) - Exec into node via kubectl
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.9.0), 1 day ago) - Prometheus community Helm charts
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.2](https://github.com/zitadel/oidc/releases/tag/v3.10.2), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.63](https://github.com/stakater/Reloader/releases/tag/v1.0.63), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.94.1](https://github.com/aquasecurity/defsec/releases/tag/v0.94.1), 2 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
