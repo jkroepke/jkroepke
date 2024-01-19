@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.3](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.88.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.88.0), today) - Terraform provider for Azure Resource Manager
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.0), 1 day ago) - Exec into node via kubectl
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.9.0), 1 day ago) - Prometheus community Helm charts
