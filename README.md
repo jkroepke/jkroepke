@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/chart-releaser-action](https://github.com/jkroepke/chart-releaser-action) - A GitHub Action to release helm charts as hosted repository or OCI (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
@@ -26,7 +27,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (2 weeks ago)
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (3 weeks ago)
-- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
