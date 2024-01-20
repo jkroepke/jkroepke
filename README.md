@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.5), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.10.1](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.10.1), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.1](https://github.com/grafana/agent/releases/tag/v0.39.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.63](https://github.com/stakater/Reloader/releases/tag/v1.0.63), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.94.1](https://github.com/aquasecurity/defsec/releases/tag/v0.94.1), 3 days ago) - Trivy&#39;s misconfiguration scanning engine
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.25.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.25.1), 4 days ago) - Prometheus exporter for Windows machines
 
 #### 🔨 My recent Pull Requests
 
+- [Improve state scan errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/129) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Improve state errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/128) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[prometheus-blackbox-exporter] Integrate config-reloader](https://github.com/prometheus-community/helm-charts/pull/4145) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Update docs/README.md](https://github.com/prometheus-community/windows_exporter/pull/1380) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Update github.com/zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/120) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Use rp.ErrRelyingPartyNotSupportRevokeCaller](https://github.com/jkroepke/openvpn-auth-oauth2/pull/119) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
