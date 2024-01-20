@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.15](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.15), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.10.1](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.10.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.1](https://github.com/grafana/agent/releases/tag/v0.39.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.3](https://github.com/zitadel/oidc/releases/tag/v3.10.3), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
