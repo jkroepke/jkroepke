@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.0](https://github.com/helmfile/vals/releases/tag/v0.33.0), today) - Helm-like configuration values loader with support for various sources
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.5), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.6.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.10.1](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.10.1), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.0), 3 days ago) - Exec into node via kubectl
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.63](https://github.com/stakater/Reloader/releases/tag/v1.0.63), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.94.1](https://github.com/aquasecurity/defsec/releases/tag/v0.94.1), 4 days ago) - Trivy&#39;s misconfiguration scanning engine
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.2.2), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
