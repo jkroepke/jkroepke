@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.10.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.4](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.4), today) - 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.1), today) - Exec into node via kubectl
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.0](https://github.com/helmfile/vals/releases/tag/v0.33.0), 1 day ago) - Helm-like configuration values loader with support for various sources
