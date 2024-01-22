@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/chart-releaser-action](https://github.com/jkroepke/chart-releaser-action) - A GitHub Action to release helm charts as hosted repository or OCI (2 days ago)
@@ -26,10 +27,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (2 weeks ago)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (2 weeks ago)
-- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.4](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.4), today) - 
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.1), today) - Exec into node via kubectl
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.3](https://github.com/zitadel/oidc/releases/tag/v3.10.3), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.88.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.88.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.63](https://github.com/stakater/Reloader/releases/tag/v1.0.63), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [aquasecurity/defsec](https://github.com/aquasecurity/defsec) ([v0.94.1](https://github.com/aquasecurity/defsec/releases/tag/v0.94.1), 5 days ago) - Trivy&#39;s misconfiguration scanning engine
 
 #### 🔨 My recent Pull Requests
 
