@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-beta.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.4](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.4), today) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.1](https://github.com/grafana/agent/releases/tag/v0.39.1), 3 days ago) - Vendor-neutral programmable observability pipelines.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.3](https://github.com/zitadel/oidc/releases/tag/v3.10.3), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.88.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.88.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.63](https://github.com/stakater/Reloader/releases/tag/v1.0.63), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
