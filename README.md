@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.1](https://github.com/grafana/grafana/releases/tag/v10.3.1), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.0-weekly.274](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.0-weekly.274), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.3), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-beta.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.5), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.1](https://github.com/grafana/agent/releases/tag/v0.39.1), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.10.3](https://github.com/zitadel/oidc/releases/tag/v3.10.3), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.88.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.88.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
