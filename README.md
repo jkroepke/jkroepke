@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.161.0](https://github.com/helmfile/helmfile/releases/tag/v0.161.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.91](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.91), 1 day ago) - 
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.2), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.1), 2 days ago) - Exec into node via kubectl
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.0](https://github.com/helmfile/vals/releases/tag/v0.33.0), 3 days ago) - Helm-like configuration values loader with support for various sources
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.13.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.13.5), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
