@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.8](https://github.com/grafana/loki/releases/tag/v2.8.8), today) - Like Prometheus, but for logs.
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.4](https://github.com/grafana/loki/releases/tag/v2.9.4), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.26.0), today) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
