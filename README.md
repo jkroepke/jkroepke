@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.8](https://github.com/grafana/loki/releases/tag/v2.8.8), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.26.0), today) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-beta.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.2), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.1), 2 days ago) - Exec into node via kubectl
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.0](https://github.com/helmfile/vals/releases/tag/v0.33.0), 3 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
