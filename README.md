@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.8.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.2](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.2), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.26.0), today) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.161.0](https://github.com/helmfile/helmfile/releases/tag/v0.161.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.1](https://github.com/grafana/grafana/releases/tag/v10.3.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.3), 2 days ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-beta.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.2), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.1), 2 days ago) - Exec into node via kubectl
