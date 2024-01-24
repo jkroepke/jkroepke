@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.8.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.1), today) - 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.161.0](https://github.com/helmfile/helmfile/releases/tag/v0.161.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
