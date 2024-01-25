@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.89.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.0.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.0.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.8.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.2), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.4](https://github.com/grafana/loki/releases/tag/v2.9.4), 1 day ago) - Like Prometheus, but for logs.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.1](https://github.com/grafana/grafana/releases/tag/v10.3.1), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.0-beta.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.2), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.1](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.1), 3 days ago) - Exec into node via kubectl
 
 #### 🔨 My recent Pull Requests
 
