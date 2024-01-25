@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.12.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.12.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.92](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.92), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-9.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-9.0.1), today) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.2), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) ([v2024.1.170738-latest](https://github.com/lensapp/lens/releases/tag/v2024.1.170738-latest), today) - Lens - The way the world runs Kubernetes
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.16.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.16.0), today) - Dex Helm chart repository
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.4](https://github.com/grafana/loki/releases/tag/v2.9.4), 1 day ago) - Like Prometheus, but for logs.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.161.0](https://github.com/helmfile/helmfile/releases/tag/v0.161.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.2), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.1](https://github.com/grafana/grafana/releases/tag/v10.3.1), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
