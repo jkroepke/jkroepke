@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.92](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.92), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-9.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-9.0.1), today) - Prometheus community Helm charts
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.2), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) ([v2024.1.170738-latest](https://github.com/lensapp/lens/releases/tag/v2024.1.170738-latest), today) - Lens - The way the world runs Kubernetes
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.16.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.16.0), today) - Dex Helm chart repository
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.89.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.8.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.2), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.4](https://github.com/grafana/loki/releases/tag/v2.9.4), 1 day ago) - Like Prometheus, but for logs.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.161.0](https://github.com/helmfile/helmfile/releases/tag/v0.161.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.2), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
