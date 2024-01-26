@@ -18,39 +18,39 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
-- [jkroepke/chart-releaser-action](https://github.com/jkroepke/chart-releaser-action) - A GitHub Action to release helm charts as hosted repository or OCI (5 days ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (4 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
+- [jkroepke/chart-releaser-action](https://github.com/jkroepke/chart-releaser-action) - A GitHub Action to release helm charts as hosted repository or OCI (6 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 week ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (2 weeks ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 weeks ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (2 weeks ago)
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (2 weeks ago)
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.12.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.12.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.3.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.92](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.92), today) - 
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.2), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [lensapp/lens](https://github.com/lensapp/lens) ([v2024.1.170738-latest](https://github.com/lensapp/lens/releases/tag/v2024.1.170738-latest), today) - Lens - The way the world runs Kubernetes
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.16.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.16.0), today) - Dex Helm chart repository
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.89.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.4](https://github.com/grafana/loki/releases/tag/v2.9.4), 1 day ago) - Like Prometheus, but for logs.
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.161.0](https://github.com/helmfile/helmfile/releases/tag/v0.161.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.2), 2 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.1.0), today) - Prometheus community Helm charts
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.12.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.12.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.92](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.92), 1 day ago) - 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.2), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [lensapp/lens](https://github.com/lensapp/lens) ([v2024.1.170738-latest](https://github.com/lensapp/lens/releases/tag/v2024.1.170738-latest), 1 day ago) - Lens - The way the world runs Kubernetes
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.16.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.16.0), 1 day ago) - Dex Helm chart repository
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.89.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.4](https://github.com/grafana/loki/releases/tag/v2.9.4), 2 days ago) - Like Prometheus, but for logs.
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.161.0](https://github.com/helmfile/helmfile/releases/tag/v0.161.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.2), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
-- [Improve state scan errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/129) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Improve state errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/128) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Improve state scan errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/129) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Improve state errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/128) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [[prometheus-blackbox-exporter] Integrate config-reloader](https://github.com/prometheus-community/helm-charts/pull/4145) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 week ago)
 - [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 week ago)
 - [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
+- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [Update docs/README.md](https://github.com/prometheus-community/windows_exporter/pull/1380) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [Update github.com/zitadel/oidc](https://github.com/jkroepke/openvpn-auth-oauth2/pull/120) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 
