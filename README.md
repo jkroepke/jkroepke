@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.3](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.3), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.15.0), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.12.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.12.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.92](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.92), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.89.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.4](https://github.com/grafana/loki/releases/tag/v2.9.4), 2 days ago) - Like Prometheus, but for logs.
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.161.0](https://github.com/helmfile/helmfile/releases/tag/v0.161.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.0.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.0.2), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 
 #### 🔨 My recent Pull Requests
 
