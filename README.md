@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC1](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC1), today) - Bash Automated Testing System
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.5](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.12.0), today) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.9.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.9.1), today) - Ingress-NGINX Controller for Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.12.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.12.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.2), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [lensapp/lens](https://github.com/lensapp/lens) ([v2024.1.170738-latest](https://github.com/lensapp/lens/releases/tag/v2024.1.170738-latest), 2 days ago) - Lens - The way the world runs Kubernetes
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.16.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.16.0), 2 days ago) - Dex Helm chart repository
 
 #### 🔨 My recent Pull Requests
 
