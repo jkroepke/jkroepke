@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.3](https://github.com/databus23/helm-diff/releases/tag/v3.9.3), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.2.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.94](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.94), 1 day ago) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.0](https://github.com/zitadel/oidc/releases/tag/v3.11.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v2024.1.170738-latest](https://github.com/lensapp/lens/releases/tag/v2024.1.170738-latest), 2 days ago) - Lens - The way the world runs Kubernetes
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.16.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.16.0), 2 days ago) - Dex Helm chart repository
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.89.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.89.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.4](https://github.com/grafana/loki/releases/tag/v2.9.4), 3 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
