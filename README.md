@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/chart-releaser-action](https://github.com/jkroepke/chart-releaser-action) - A GitHub Action to release helm charts as hosted repository or OCI (1 week ago)
@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.2.1), today) - Prometheus community Helm charts
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC1](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC1), 1 day ago) - Bash Automated Testing System
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.5](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.5), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.12.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.9.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.9.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.4](https://github.com/databus23/helm-diff/releases/tag/v3.9.4), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.0](https://github.com/zitadel/oidc/releases/tag/v3.11.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
