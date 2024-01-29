@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.26.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.26.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.9.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.9.0), today) - 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.5](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.5), today) - Ingress-NGINX Controller for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.10.1), today) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.3.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC1](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC1), 2 days ago) - Bash Automated Testing System
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.4](https://github.com/databus23/helm-diff/releases/tag/v3.9.4), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
