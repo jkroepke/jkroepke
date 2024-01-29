@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.5](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.5), today) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.10.1), today) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.3.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC1](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC1), 2 days ago) - Bash Automated Testing System
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.2.5](https://github.com/grafana/helm-charts/releases/tag/grafana-7.2.5), 2 days ago) - 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.9.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.9.1), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.4](https://github.com/databus23/helm-diff/releases/tag/v3.9.4), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.0](https://github.com/zitadel/oidc/releases/tag/v3.11.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.3](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.3), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
