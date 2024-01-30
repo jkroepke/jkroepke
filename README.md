@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.15.5](https://github.com/grafana/helm-charts/releases/tag/promtail-6.15.5), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.2.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.5](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.5), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.3.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC1](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC1), 3 days ago) - Bash Automated Testing System
