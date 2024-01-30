@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.1.0](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.1.0), today) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.95](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.95), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.11.0), today) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.5](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.5), 1 day ago) - Ingress-NGINX Controller for Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.0](https://github.com/zitadel/oidc/releases/tag/v3.11.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.3](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.3), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.12.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.12.0), 5 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.71.2](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.71.2), 5 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
 #### 🔨 My recent Pull Requests
 
