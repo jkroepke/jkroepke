@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.39.2](https://github.com/grafana/agent/releases/tag/v0.39.2), today) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.9.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.9.2), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.64](https://github.com/stakater/Reloader/releases/tag/v1.0.64), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [lensapp/lens](https://github.com/lensapp/lens) ([v2024.1.300751-latest](https://github.com/lensapp/lens/releases/tag/v2024.1.300751-latest), today) - Lens - The way the world runs Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.3.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC1](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC1), 4 days ago) - Bash Automated Testing System
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.4](https://github.com/databus23/helm-diff/releases/tag/v3.9.4), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.0](https://github.com/zitadel/oidc/releases/tag/v3.11.0), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
