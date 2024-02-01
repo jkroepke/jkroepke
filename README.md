@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: Azure Blob Storage implementation](https://github.com/project-zot/zot/pull/2223) on [project-zot/zot](https://github.com/project-zot/zot) (today)
 - [[prometheus-blackbox-exporter] Use selectorLabel for pod](https://github.com/prometheus-community/helm-charts/pull/4193) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [Support custom web.xml](https://github.com/geoserver/docker/pull/44) on [geoserver/docker](https://github.com/geoserver/docker) (3 days ago)
 - [Improve state scan errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/129) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (2 weeks ago)
 - [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
 - [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
-- [Fix ipaddr validation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/122) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
