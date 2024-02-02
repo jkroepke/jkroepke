@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.90.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.1), 1 day ago) - Prometheus community Helm charts
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.1.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.1](https://github.com/zitadel/oidc/releases/tag/v3.11.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [lensapp/lens](https://github.com/lensapp/lens) ([v2024.1.300751-latest](https://github.com/lensapp/lens/releases/tag/v2024.1.300751-latest), 2 days ago) - Lens - The way the world runs Kubernetes
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.7.5](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.7.5), 4 days ago) - Ingress-NGINX Controller for Kubernetes
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.3.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC1](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC1), 6 days ago) - Bash Automated Testing System
 
 #### 🔨 My recent Pull Requests
 
