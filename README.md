@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.5.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.8.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.9.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.9.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.90.0), today) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.1.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.1](https://github.com/zitadel/oidc/releases/tag/v3.11.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
