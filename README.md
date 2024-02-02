@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.1), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.5.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.8.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.90.0), today) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.1.2), 1 day ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.1](https://github.com/zitadel/oidc/releases/tag/v3.11.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
