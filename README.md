@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/renovate-tests](https://github.com/jkroepke/renovate-tests) -  (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.2), today) - Prometheus community Helm charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.7.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.7.0), today) - helmfile-action
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.13.0), 1 day ago) - Prometheus community Helm charts
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.1](https://github.com/helmfile/vals/releases/tag/v0.33.1), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.5.0), 2 days ago) - 
