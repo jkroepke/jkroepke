@@ -17,46 +17,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/renovate-tests](https://github.com/jkroepke/renovate-tests) -  (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [jkroepke/renovate-tests](https://github.com/jkroepke/renovate-tests) -  (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 weeks ago)
 - [jkroepke/chart-releaser-action](https://github.com/jkroepke/chart-releaser-action) - A GitHub Action to release helm charts as hosted repository or OCI (2 weeks ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.2), today) - Prometheus community Helm charts
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.7.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.7.0), today) - helmfile-action
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.1](https://github.com/helmfile/vals/releases/tag/v0.33.1), 2 days ago) - Helm-like configuration values loader with support for various sources
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.5.0), 2 days ago) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.90.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.1.2), 3 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.1](https://github.com/zitadel/oidc/releases/tag/v3.11.1), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.65](https://github.com/stakater/Reloader/releases/tag/v1.0.65), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/agent](https://github.com/grafana/agent) ([v0.39.2](https://github.com/grafana/agent/releases/tag/v0.39.2), 4 days ago) - Vendor-neutral programmable observability pipelines.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.2), 1 day ago) - Prometheus community Helm charts
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.7.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.7.0), 1 day ago) - helmfile-action
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.1](https://github.com/helmfile/vals/releases/tag/v0.33.1), 3 days ago) - Helm-like configuration values loader with support for various sources
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.1), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.5.0), 3 days ago) - 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.90.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.1.2), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.1](https://github.com/zitadel/oidc/releases/tag/v3.11.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.65](https://github.com/stakater/Reloader/releases/tag/v1.0.65), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/agent](https://github.com/grafana/agent) ([v0.39.2](https://github.com/grafana/agent/releases/tag/v0.39.2), 5 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
-- [WIP: Azure Blob Storage implementation](https://github.com/project-zot/zot/pull/2223) on [project-zot/zot](https://github.com/project-zot/zot) (3 days ago)
-- [[prometheus-blackbox-exporter] Use selectorLabel for pod](https://github.com/prometheus-community/helm-charts/pull/4193) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [Support custom web.xml](https://github.com/geoserver/docker/pull/44) on [geoserver/docker](https://github.com/geoserver/docker) (6 days ago)
+- [WIP: Azure Blob Storage implementation](https://github.com/project-zot/zot/pull/2223) on [project-zot/zot](https://github.com/project-zot/zot) (4 days ago)
+- [[prometheus-blackbox-exporter] Use selectorLabel for pod](https://github.com/prometheus-community/helm-charts/pull/4193) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
+- [Support custom web.xml](https://github.com/geoserver/docker/pull/44) on [geoserver/docker](https://github.com/geoserver/docker) (1 week ago)
 - [Improve state scan errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/129) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [Improve state errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/128) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [[prometheus-blackbox-exporter] Integrate config-reloader](https://github.com/prometheus-community/helm-charts/pull/4145) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 weeks ago)
-- [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 weeks ago)
+- [[helm] Allow tpl in provider again](https://github.com/kubernetes-sigs/external-dns/pull/4180) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (3 weeks ago)
 - [[helm] Support custom spec.namespaceSelector for webhooks](https://github.com/cert-manager/cert-manager/pull/6638) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 weeks ago)
 - [[kube-prometheus-stack] Add prometheusOperator.admissionWebhooks.namespaceSelector](https://github.com/prometheus-community/helm-charts/pull/4142) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 weeks ago)
 - [Remove replaces](https://github.com/jkroepke/openvpn-auth-oauth2/pull/124) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (3 days ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (4 days ago)
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 weeks ago)
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (1 month ago)
@@ -64,7 +64,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (1 month ago)
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (1 month ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (1 month ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (1 month ago)
+- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 months ago)
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project. (2 months ago)
 
 #### 👯 Check out some of my recent followers
