@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.100](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.100), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.2), 1 day ago) - Prometheus community Helm charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.7.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.7.0), 1 day ago) - helmfile-action
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.1](https://github.com/helmfile/vals/releases/tag/v0.33.1), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.1), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.5.0), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.90.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.1.2), 4 days ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.1](https://github.com/zitadel/oidc/releases/tag/v3.11.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
