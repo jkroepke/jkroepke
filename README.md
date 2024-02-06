@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.28.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.8.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.3), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.6.2), 2 days ago) - Prometheus community Helm charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.7.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.7.0), 2 days ago) - helmfile-action
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.1](https://github.com/helmfile/vals/releases/tag/v0.33.1), 4 days ago) - Helm-like configuration values loader with support for various sources
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.1), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
