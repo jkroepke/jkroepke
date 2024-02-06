@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-weekly.276](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.276), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.102](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.102), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.28.0), today) - Prometheus community Helm charts
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.7.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.7.0), 2 days ago) - helmfile-action
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.1](https://github.com/helmfile/vals/releases/tag/v0.33.1), 4 days ago) - Helm-like configuration values loader with support for various sources
