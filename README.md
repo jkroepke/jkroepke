@@ -17,34 +17,34 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 weeks ago)
 - [jkroepke/chart-releaser-action](https://github.com/jkroepke/chart-releaser-action) - A GitHub Action to release helm charts as hosted repository or OCI (2 weeks ago)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (3 weeks ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (4 weeks ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.67](https://github.com/stakater/Reloader/releases/tag/v1.0.67), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.29.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.10.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.0), 2 days ago) - 
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.7.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.7.0), 4 days ago) - helmfile-action
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.1](https://github.com/helmfile/vals/releases/tag/v0.33.1), 6 days ago) - Helm-like configuration values loader with support for various sources
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.90.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.67](https://github.com/stakater/Reloader/releases/tag/v1.0.67), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.29.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.10.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.0), 3 days ago) - 
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.7.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.7.0), 5 days ago) - helmfile-action
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.33.1](https://github.com/helmfile/vals/releases/tag/v0.33.1), 1 week ago) - Helm-like configuration values loader with support for various sources
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.90.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.90.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [cloudquery/helm-charts](https://github.com/cloudquery/helm-charts) ([cloudquery-31.1.2](https://github.com/cloudquery/helm-charts/releases/tag/cloudquery-31.1.2), 1 week ago) - Helm v3 chart that deploys CloudQuery to a Kubernetes cluster
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.1](https://github.com/zitadel/oidc/releases/tag/v3.11.1), 1 week ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/agent](https://github.com/grafana/agent) ([v0.39.2](https://github.com/grafana/agent/releases/tag/v0.39.2), 1 week ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
-- [docs: read sensitive data from files](https://github.com/jkroepke/openvpn-auth-oauth2/pull/147) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Re-Import Global, Namespace and Nodes](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/98) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (3 days ago)
+- [docs: read sensitive data from files](https://github.com/jkroepke/openvpn-auth-oauth2/pull/147) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Re-Import Global, Namespace and Nodes](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/98) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (4 days ago)
 - [WIP: Azure Blob Storage implementation](https://github.com/project-zot/zot/pull/2223) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
 - [[prometheus-blackbox-exporter] Use selectorLabel for pod](https://github.com/prometheus-community/helm-charts/pull/4193) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Support custom web.xml](https://github.com/geoserver/docker/pull/44) on [geoserver/docker](https://github.com/geoserver/docker) (1 week ago)
@@ -57,7 +57,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### ⭐ Recent Stars
 
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (1 week ago)
-- [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (1 week ago)
+- [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (2 weeks ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 weeks ago)
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (1 month ago)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (1 month ago)
