@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [WIP: Implement google provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/154) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Implement google provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/154) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Switch to go 1.22](https://github.com/jkroepke/openvpn-auth-oauth2/pull/153) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [BREAKING: openvpn.bypass.cn -&gt; openvpn.bypass.common-names](https://github.com/jkroepke/openvpn-auth-oauth2/pull/151) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [docs: read sensitive data from files](https://github.com/jkroepke/openvpn-auth-oauth2/pull/147) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
