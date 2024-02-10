@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix codecov](https://github.com/jkroepke/helm-secrets/pull/436) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Implement google provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/154) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Switch to go 1.22](https://github.com/jkroepke/openvpn-auth-oauth2/pull/153) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [BREAKING: openvpn.bypass.cn -&gt; openvpn.bypass.common-names](https://github.com/jkroepke/openvpn-auth-oauth2/pull/151) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-blackbox-exporter] Use selectorLabel for pod](https://github.com/prometheus-community/helm-charts/pull/4193) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Support custom web.xml](https://github.com/geoserver/docker/pull/44) on [geoserver/docker](https://github.com/geoserver/docker) (1 week ago)
 - [Improve state scan errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/129) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
-- [Improve state errors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/128) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
