@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.11.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.3.0), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.13.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.13.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.10.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.1), 2 days ago) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.14.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.14.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
