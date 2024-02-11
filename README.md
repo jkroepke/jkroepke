@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Implement acr verifier](https://github.com/jkroepke/openvpn-auth-oauth2/pull/158) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [HTTP: restrict methods to GET](https://github.com/jkroepke/openvpn-auth-oauth2/pull/157) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [If multiple groups are configured, the user needs to be least in one group instead of all groups.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/156) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix codecov](https://github.com/jkroepke/helm-secrets/pull/436) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Implement google provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/154) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [docs: read sensitive data from files](https://github.com/jkroepke/openvpn-auth-oauth2/pull/147) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Re-Import Global, Namespace and Nodes](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/98) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (6 days ago)
 - [WIP: Azure Blob Storage implementation](https://github.com/project-zot/zot/pull/2223) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
-- [[prometheus-blackbox-exporter] Use selectorLabel for pod](https://github.com/prometheus-community/helm-charts/pull/4193) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [Support custom web.xml](https://github.com/geoserver/docker/pull/44) on [geoserver/docker](https://github.com/geoserver/docker) (1 week ago)
 
 #### ⭐ Recent Stars
 
