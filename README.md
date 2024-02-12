@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-weekly.277](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.277), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.15.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.15.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.3.0), 1 day ago) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.13.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.13.0), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.10.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.1), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.91.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.67](https://github.com/stakater/Reloader/releases/tag/v1.0.67), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
