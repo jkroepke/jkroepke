@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor linux builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/169) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Enable PIE builds and setup system group](https://github.com/jkroepke/openvpn-auth-oauth2/pull/169) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Implement acr verifier](https://github.com/jkroepke/openvpn-auth-oauth2/pull/158) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [HTTP: restrict methods to GET](https://github.com/jkroepke/openvpn-auth-oauth2/pull/157) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [If multiple groups are configured, the user needs to be least in one group instead of all groups.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/156) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
