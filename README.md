@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.34.0](https://github.com/helmfile/vals/releases/tag/v0.34.0), today) - Helm-like configuration values loader with support for various sources
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.34.1](https://github.com/helmfile/vals/releases/tag/v0.34.1), today) - Helm-like configuration values loader with support for various sources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.104](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.104), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-0.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-0.2.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.15.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.15.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
