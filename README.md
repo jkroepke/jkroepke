@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Implement dynamic hold release](https://github.com/jkroepke/openvpn-auth-oauth2/pull/178) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Disable syscall filter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/177) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Mention `auth-user-pass-optional`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/176) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add `openvpn.common-name.environment-variable-name`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/171) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [If multiple groups are configured, the user needs to be least in one group instead of all groups.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/156) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Fix codecov](https://github.com/jkroepke/helm-secrets/pull/436) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
 - [Implement google provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/154) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Switch to go 1.22](https://github.com/jkroepke/openvpn-auth-oauth2/pull/153) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
