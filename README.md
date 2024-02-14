@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Mention `auth-user-pass-optional`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/176) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add `openvpn.common-name.environment-variable-name`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/171) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Hardening builds and systemd unit file and setup system group](https://github.com/jkroepke/openvpn-auth-oauth2/pull/169) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Implement acr verifier](https://github.com/jkroepke/openvpn-auth-oauth2/pull/158) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement google provider](https://github.com/jkroepke/openvpn-auth-oauth2/pull/154) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Switch to go 1.22](https://github.com/jkroepke/openvpn-auth-oauth2/pull/153) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [BREAKING: openvpn.bypass.cn -&gt; openvpn.bypass.common-names](https://github.com/jkroepke/openvpn-auth-oauth2/pull/151) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [docs: read sensitive data from files](https://github.com/jkroepke/openvpn-auth-oauth2/pull/147) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 
 #### ⭐ Recent Stars
 
