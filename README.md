@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus/common](https://github.com/prometheus/common) ([0.47.0](https://github.com/prometheus/common/releases/tag/0.47.0), today) - Go libraries shared across Prometheus components and libraries.
+- [prometheus/common](https://github.com/prometheus/common) ([v0.47.0](https://github.com/prometheus/common/releases/tag/v0.47.0), today) - Go libraries shared across Prometheus components and libraries.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.8.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.10.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.2), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.3](https://github.com/grafana/grafana/releases/tag/v10.3.3), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
