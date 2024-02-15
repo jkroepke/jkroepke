@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [magicbear/palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc... (today)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (today)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (2 weeks ago)
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (2 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (1 month ago)
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (2 months ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (2 months ago)
-- [doitintl/kube-no-trouble](https://github.com/doitintl/kube-no-trouble) - Easily check your clusters for use of deprecated APIs (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
