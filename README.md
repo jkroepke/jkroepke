@@ -19,6 +19,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
@@ -26,10 +27,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (4 days ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (5 days ago)
 - [geoserver/docker](https://github.com/geoserver/docker) - GeoServer docker image (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/common](https://github.com/prometheus/common) ([0.47.0](https://github.com/prometheus/common/releases/tag/0.47.0), today) - Go libraries shared across Prometheus components and libraries.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-1.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-1.8.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.10.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.10.2), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.3](https://github.com/grafana/grafana/releases/tag/v10.3.3), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.13.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.13.0), 5 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.91.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.91.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.67](https://github.com/stakater/Reloader/releases/tag/v1.0.67), 1 week ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
