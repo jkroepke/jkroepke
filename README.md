@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.5.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.7.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.92.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.32.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.32.0), 1 day ago) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.47.0](https://github.com/prometheus/common/releases/tag/v0.47.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
