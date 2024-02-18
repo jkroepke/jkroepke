@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.7.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingmesh-exporter-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingmesh-exporter-0.4.0), today) - Prometheus community Helm charts
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.2.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.2.0), 1 day ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.7.2](https://github.com/grafana/helm-charts/releases/tag/tempo-1.7.2), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.92.0), 2 days ago) - Terraform provider for Azure Resource Manager
