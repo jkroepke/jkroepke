@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Do not distribute the plugin anymore](https://github.com/jkroepke/openvpn-auth-oauth2/pull/183) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: Set unauthorizedHandler, if not defined](https://github.com/zitadel/oidc/pull/547) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [feat: Add rp.WithAuthStyle as Option](https://github.com/zitadel/oidc/pull/546) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [Add a demo](https://github.com/jkroepke/openvpn-auth-oauth2/pull/182) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Disable syscall filter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/177) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Mention `auth-user-pass-optional`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/176) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Add `openvpn.common-name.environment-variable-name`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/171) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Hardening builds and systemd unit file and setup system group](https://github.com/jkroepke/openvpn-auth-oauth2/pull/169) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 
 #### ⭐ Recent Stars
 
