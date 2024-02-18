@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.162.0](https://github.com/helmfile/helmfile/releases/tag/v0.162.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.16.0-rc.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.16.0-rc.3), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingmesh-exporter-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingmesh-exporter-0.4.0), today) - Prometheus community Helm charts
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.2.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.2.0), 1 day ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.3](https://github.com/grafana/grafana/releases/tag/v10.3.3), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.24.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.24.1), 5 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.34.1](https://github.com/helmfile/vals/releases/tag/v0.34.1), 5 days ago) - Helm-like configuration values loader with support for various sources
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.2), 1 week ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
