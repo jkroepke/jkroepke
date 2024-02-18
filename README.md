@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Set unauthorizedHandler, if not defined](https://github.com/zitadel/oidc/pull/547) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
+- [feat: Add rp.WithAuthStyle as Option](https://github.com/zitadel/oidc/pull/546) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [Add a demo](https://github.com/jkroepke/openvpn-auth-oauth2/pull/182) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add keycloak docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/181) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Add option for management client passthrough](https://github.com/jkroepke/openvpn-auth-oauth2/pull/180) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Mention `auth-user-pass-optional`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/176) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Add `openvpn.common-name.environment-variable-name`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/171) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [Hardening builds and systemd unit file and setup system group](https://github.com/jkroepke/openvpn-auth-oauth2/pull/169) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [Implement acr verifier](https://github.com/jkroepke/openvpn-auth-oauth2/pull/158) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [HTTP: restrict methods to GET](https://github.com/jkroepke/openvpn-auth-oauth2/pull/157) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
