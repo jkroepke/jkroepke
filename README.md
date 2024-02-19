@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.43.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.43.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.8.0), today) - Prometheus community Helm charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.162.0](https://github.com/helmfile/helmfile/releases/tag/v0.162.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.16.0-rc.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.16.0-rc.3), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.2.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.2.0), 2 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.7.2](https://github.com/grafana/helm-charts/releases/tag/tempo-1.7.2), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.92.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.47.0](https://github.com/prometheus/common/releases/tag/v0.47.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.3](https://github.com/grafana/grafana/releases/tag/v10.3.3), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
