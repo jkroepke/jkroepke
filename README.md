@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Check common name in case sensitive mode by default](https://github.com/jkroepke/openvpn-auth-oauth2/pull/187) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Use \r\n as new-line separator and ignore quit](https://github.com/jkroepke/openvpn-auth-oauth2/pull/186) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Make Token Endpoint AuthStyle configurable](https://github.com/jkroepke/openvpn-auth-oauth2/pull/183) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [fix: Set unauthorizedHandler, if not defined](https://github.com/zitadel/oidc/pull/547) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
 - [feat: Add rp.WithAuthStyle as Option](https://github.com/zitadel/oidc/pull/546) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add option for management client passthrough](https://github.com/jkroepke/openvpn-auth-oauth2/pull/180) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Handle SIGHUP of OpenVPN server](https://github.com/jkroepke/openvpn-auth-oauth2/pull/178) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [Disable syscall filter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/177) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Mention `auth-user-pass-optional`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/176) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Add `openvpn.common-name.environment-variable-name`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/171) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 
 #### ⭐ Recent Stars
 
