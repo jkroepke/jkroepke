@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.33.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.33.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.106](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.106), today) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.16.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.16.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.10](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.10), 1 day ago) - Prometheus community Helm charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.162.0](https://github.com/helmfile/helmfile/releases/tag/v0.162.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
