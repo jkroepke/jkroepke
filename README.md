@@ -17,47 +17,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (4 days ago)
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (4 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (5 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (5 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (6 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/terraform-provider-echo](https://github.com/jkroepke/terraform-provider-echo) - terraform-provider-echo (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.16.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.16.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.10](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.10), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.43.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.43.2), today) - 
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.162.0](https://github.com/helmfile/helmfile/releases/tag/v0.162.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.2.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.2.0), 2 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.92.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/common](https://github.com/prometheus/common) ([v0.47.0](https://github.com/prometheus/common/releases/tag/v0.47.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.3](https://github.com/grafana/grafana/releases/tag/v10.3.3), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.24.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.24.1), 6 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.34.1](https://github.com/helmfile/vals/releases/tag/v0.34.1), 6 days ago) - Helm-like configuration values loader with support for various sources
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.16.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.16.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.10](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.10), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.43.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.43.2), 1 day ago) - 
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.162.0](https://github.com/helmfile/helmfile/releases/tag/v0.162.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.2.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.2.0), 3 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.92.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus/common](https://github.com/prometheus/common) ([v0.47.0](https://github.com/prometheus/common/releases/tag/v0.47.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.3.3](https://github.com/grafana/grafana/releases/tag/v10.3.3), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-6.24.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-6.24.1), 1 week ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.34.1](https://github.com/helmfile/vals/releases/tag/v0.34.1), 1 week ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
-- [Check common name in case sensitive mode by default](https://github.com/jkroepke/openvpn-auth-oauth2/pull/187) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Use \r\n as new-line separator and ignore quit](https://github.com/jkroepke/openvpn-auth-oauth2/pull/186) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Make Token Endpoint AuthStyle configurable](https://github.com/jkroepke/openvpn-auth-oauth2/pull/183) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [fix: Set unauthorizedHandler, if not defined](https://github.com/zitadel/oidc/pull/547) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
-- [feat: Add rp.WithAuthStyle as Option](https://github.com/zitadel/oidc/pull/546) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
-- [Add a demo](https://github.com/jkroepke/openvpn-auth-oauth2/pull/182) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Add keycloak docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/181) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Add option for management client passthrough](https://github.com/jkroepke/openvpn-auth-oauth2/pull/180) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Handle SIGHUP of OpenVPN server](https://github.com/jkroepke/openvpn-auth-oauth2/pull/178) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Disable syscall filter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/177) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Check common name in case sensitive mode by default](https://github.com/jkroepke/openvpn-auth-oauth2/pull/187) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Use \r\n as new-line separator and ignore quit](https://github.com/jkroepke/openvpn-auth-oauth2/pull/186) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Make Token Endpoint AuthStyle configurable](https://github.com/jkroepke/openvpn-auth-oauth2/pull/183) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [fix: Set unauthorizedHandler, if not defined](https://github.com/zitadel/oidc/pull/547) on [zitadel/oidc](https://github.com/zitadel/oidc) (2 days ago)
+- [feat: Add rp.WithAuthStyle as Option](https://github.com/zitadel/oidc/pull/546) on [zitadel/oidc](https://github.com/zitadel/oidc) (2 days ago)
+- [Add a demo](https://github.com/jkroepke/openvpn-auth-oauth2/pull/182) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Add keycloak docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/181) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Add option for management client passthrough](https://github.com/jkroepke/openvpn-auth-oauth2/pull/180) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Handle SIGHUP of OpenVPN server](https://github.com/jkroepke/openvpn-auth-oauth2/pull/178) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Disable syscall filter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/177) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [magicbear/palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc... (4 days ago)
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (4 days ago)
+- [magicbear/palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc... (5 days ago)
+- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (5 days ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (2 weeks ago)
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (3 weeks ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 month ago)
