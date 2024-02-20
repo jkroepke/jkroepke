@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-weekly.278](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.278), today) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.16.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.16.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.10](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.10), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.43.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.43.2), 1 day ago) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.162.0](https://github.com/helmfile/helmfile/releases/tag/v0.162.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.2.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.2.0), 3 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.92.0), 4 days ago) - Terraform provider for Azure Resource Manager
