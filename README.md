@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), today) - Bash Automated Testing System
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.2](https://github.com/zitadel/oidc/releases/tag/v3.11.2), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.4.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.68](https://github.com/stakater/Reloader/releases/tag/v1.0.68), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.162.0](https://github.com/helmfile/helmfile/releases/tag/v0.162.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.2.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.2.0), 4 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.92.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.92.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/common](https://github.com/prometheus/common) ([v0.47.0](https://github.com/prometheus/common/releases/tag/v0.47.0), 6 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
