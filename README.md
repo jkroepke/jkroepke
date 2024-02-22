@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.7.1), today) - Prometheus community Helm charts
+- [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), today) - Go libraries shared across Prometheus components and libraries.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.2](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.16.1), today) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.0), today) - Vendor-neutral programmable observability pipelines.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), 1 day ago) - Bash Automated Testing System
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.2](https://github.com/zitadel/oidc/releases/tag/v3.11.2), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.68](https://github.com/stakater/Reloader/releases/tag/v1.0.68), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.16.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.16.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.162.0](https://github.com/helmfile/helmfile/releases/tag/v0.162.0), 4 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.2.0](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.2.0), 5 days ago) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
 
 #### 🔨 My recent Pull Requests
 
+- [Add namespaced roles for Prometheus/Operator](https://github.com/prometheus-community/helm-charts/pull/4283) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stacl] Use cert-manager.io/inject-ca-from-secret ann…](https://github.com/prometheus-community/helm-charts/pull/4282) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] fix helm error in am/ingressperreplica.yaml](https://github.com/prometheus-community/helm-charts/pull/4271) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] fix helm error in ingressperreplica.yaml](https://github.com/prometheus-community/helm-charts/pull/4270) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Make Token Endpoint AuthStyle configurable](https://github.com/jkroepke/openvpn-auth-oauth2/pull/183) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [fix: Set unauthorizedHandler, if not defined](https://github.com/zitadel/oidc/pull/547) on [zitadel/oidc](https://github.com/zitadel/oidc) (4 days ago)
 - [feat: Add rp.WithAuthStyle as Option](https://github.com/zitadel/oidc/pull/546) on [zitadel/oidc](https://github.com/zitadel/oidc) (4 days ago)
-- [Add a demo](https://github.com/jkroepke/openvpn-auth-oauth2/pull/182) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
