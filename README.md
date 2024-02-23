@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.4.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.7.1), 1 day ago) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.2](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.2), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), 2 days ago) - Bash Automated Testing System
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.2](https://github.com/zitadel/oidc/releases/tag/v3.11.2), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
