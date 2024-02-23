@@ -18,28 +18,28 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 days ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (4 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (1 week ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.12.0](https://github.com/zitadel/oidc/releases/tag/v3.12.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.93.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.4.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.7.1), 1 day ago) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), 2 days ago) - Bash Automated Testing System
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.11.2](https://github.com/zitadel/oidc/releases/tag/v3.11.2), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.4.1), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.68](https://github.com/stakater/Reloader/releases/tag/v1.0.68), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.16.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.16.0), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
