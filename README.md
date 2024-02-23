@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-2.1.0), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.12.0](https://github.com/zitadel/oidc/releases/tag/v3.12.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.93.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.4.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.7.1), 1 day ago) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), 2 days ago) - Bash Automated Testing System
