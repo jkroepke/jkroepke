@@ -18,10 +18,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (4 days ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) - Manage your kubeconfig more easily. (1 week ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
@@ -30,29 +30,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.69](https://github.com/stakater/Reloader/releases/tag/v1.0.69), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.1), today) - Vendor-neutral programmable observability pipelines.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-2.1.0), today) - Prometheus community Helm charts
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.12.0](https://github.com/zitadel/oidc/releases/tag/v3.12.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.93.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.4.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1), today) - 
-- [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), 2 days ago) - Bash Automated Testing System
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.4.1), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.69](https://github.com/stakater/Reloader/releases/tag/v1.0.69), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-2.1.0), 1 day ago) - Prometheus community Helm charts
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.12.0](https://github.com/zitadel/oidc/releases/tag/v3.12.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.93.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.4.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1), 1 day ago) - 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), 3 days ago) - Bash Automated Testing System
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.4.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
-- [Fix deadlock on unknown messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/192) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [[kube-prometheus-stack] Detect changes in generated files &#43; fix grafana helm chart issue](https://github.com/prometheus-community/helm-charts/pull/4287) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [Fix deadlock with &gt;NOTIFY messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/191) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Add namespaced roles for Prometheus/Operator](https://github.com/prometheus-community/helm-charts/pull/4283) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stacl] Use cert-manager.io/inject-ca-from-secret ann…](https://github.com/prometheus-community/helm-charts/pull/4282) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[kube-prometheus-stack] fix helm error in am/ingressperreplica.yaml](https://github.com/prometheus-community/helm-charts/pull/4271) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[kube-prometheus-stack] fix helm error in ingressperreplica.yaml](https://github.com/prometheus-community/helm-charts/pull/4270) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [Support Session ID](https://github.com/jkroepke/openvpn-auth-oauth2/pull/189) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Check common name in case sensitive mode by default](https://github.com/jkroepke/openvpn-auth-oauth2/pull/187) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Use \r\n as new-line separator and ignore quit](https://github.com/jkroepke/openvpn-auth-oauth2/pull/186) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Fix deadlock on unknown messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/192) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [[kube-prometheus-stack] Detect changes in generated files &#43; fix grafana helm chart issue](https://github.com/prometheus-community/helm-charts/pull/4287) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [Fix deadlock with &gt;NOTIFY messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/191) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Add namespaced roles for Prometheus/Operator](https://github.com/prometheus-community/helm-charts/pull/4283) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stacl] Use cert-manager.io/inject-ca-from-secret ann…](https://github.com/prometheus-community/helm-charts/pull/4282) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[kube-prometheus-stack] fix helm error in am/ingressperreplica.yaml](https://github.com/prometheus-community/helm-charts/pull/4271) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[kube-prometheus-stack] fix helm error in ingressperreplica.yaml](https://github.com/prometheus-community/helm-charts/pull/4270) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [Support Session ID](https://github.com/jkroepke/openvpn-auth-oauth2/pull/189) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Check common name in case sensitive mode by default](https://github.com/jkroepke/openvpn-auth-oauth2/pull/187) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Use \r\n as new-line separator and ignore quit](https://github.com/jkroepke/openvpn-auth-oauth2/pull/186) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
