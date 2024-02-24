@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/197) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [BREAKING: Use Google Cloud Identity API for check Google Group memberships. Check docs.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/196) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Reload TLS certificate on SIGHUP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/194) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Remove SessionID support](https://github.com/jkroepke/openvpn-auth-oauth2/pull/193) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add namespaced roles for Prometheus/Operator](https://github.com/prometheus-community/helm-charts/pull/4283) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stacl] Use cert-manager.io/inject-ca-from-secret ann…](https://github.com/prometheus-community/helm-charts/pull/4282) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] fix helm error in am/ingressperreplica.yaml](https://github.com/prometheus-community/helm-charts/pull/4271) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[kube-prometheus-stack] fix helm error in ingressperreplica.yaml](https://github.com/prometheus-community/helm-charts/pull/4270) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
