@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.17.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.17.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.2.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.69](https://github.com/stakater/Reloader/releases/tag/v1.0.69), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.4.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.4.1), 1 day ago) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), 3 days ago) - Bash Automated Testing System
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-5.4.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-5.4.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
