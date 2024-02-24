@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.30.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.30.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.2.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.69](https://github.com/stakater/Reloader/releases/tag/v1.0.69), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
