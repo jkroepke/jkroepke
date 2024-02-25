@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (today)
 - [magicbear/palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc... (1 week ago)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (1 week ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (3 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (1 month ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 months ago)
 - [neoforged/NeoForge](https://github.com/neoforged/NeoForge) - Neo Modding API for Minecraft, based on Forge (2 months ago)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
