@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([pkg/util/xorm/v0.0.1](https://github.com/grafana/grafana/releases/tag/pkg/util/xorm/v0.0.1), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.3](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.3), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.2), today) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.18.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.18.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.12.0](https://github.com/zitadel/oidc/releases/tag/v3.12.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.93.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0-RC2](https://github.com/bats-core/bats-core/releases/tag/v1.11.0-RC2), 5 days ago) - Bash Automated Testing System
 
 #### 🔨 My recent Pull Requests
 
