@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.12.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.12.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([pkg/util/xorm/v0.0.1](https://github.com/grafana/grafana/releases/tag/pkg/util/xorm/v0.0.1), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.3](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.3), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.2), today) - Vendor-neutral programmable observability pipelines.
