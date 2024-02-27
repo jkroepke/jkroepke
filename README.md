@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.9](https://github.com/grafana/loki/releases/tag/v2.8.9), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.15.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.34.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.34.0), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0](https://github.com/grafana/agent/releases/tag/v0.40.0), today) - Vendor-neutral programmable observability pipelines.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.12.0](https://github.com/zitadel/oidc/releases/tag/v3.12.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.93.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/common](https://github.com/prometheus/common) ([v0.48.0](https://github.com/prometheus/common/releases/tag/v0.48.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
