@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.0](https://github.com/grafana/agent/releases/tag/v0.40.0), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.13.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([pkg/util/xorm/v0.0.1](https://github.com/grafana/grafana/releases/tag/pkg/util/xorm/v0.0.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.78.3](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.78.3), 1 day ago) - 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.0-rc.2](https://github.com/grafana/agent/releases/tag/v0.40.0-rc.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.18.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.18.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.69](https://github.com/stakater/Reloader/releases/tag/v1.0.69), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Allow `cert-manager.io/allow-direct-injection` in annotations](https://github.com/cert-manager/cert-manager/pull/6801) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
 - [[kube-prometheus-stack] Conditionally support new table panels](https://github.com/prometheus-community/helm-charts/pull/4297) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[grafana] Add value for pod.spec.automountServiceAccountToken](https://github.com/grafana/helm-charts/pull/2991) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
 - [Update CODEOWNERS for renovate.json](https://github.com/prometheus-community/helm-charts/pull/4293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Reload TLS certificate on SIGHUP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/194) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Remove SessionID support](https://github.com/jkroepke/openvpn-auth-oauth2/pull/193) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Fix deadlock on unknown messages](https://github.com/jkroepke/openvpn-auth-oauth2/pull/192) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [[kube-prometheus-stack] Detect changes in generated files &#43; fix grafana helm chart issue](https://github.com/prometheus-community/helm-charts/pull/4287) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
