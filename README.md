@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[grafana] Add `serviceAccount.automountServiceAccountToken` and document `automountServiceAccountToken`](https://github.com/grafana/helm-charts/pull/2997) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [Allow `cert-manager.io/allow-direct-injection` in annotations](https://github.com/cert-manager/cert-manager/pull/6801) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
 - [[kube-prometheus-stack] Conditionally support new table panels](https://github.com/prometheus-community/helm-charts/pull/4297) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/197) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [BREAKING: Use Google Cloud Identity API for check Google Group memberships. Check docs.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/196) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Reload TLS certificate on SIGHUP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/194) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Remove SessionID support](https://github.com/jkroepke/openvpn-auth-oauth2/pull/193) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 
 #### ⭐ Recent Stars
 
