@@ -17,54 +17,54 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (3 days ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (4 days ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (5 days ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.9](https://github.com/grafana/loki/releases/tag/v2.8.9), today) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.15.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.34.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.34.0), today) - 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.0](https://github.com/grafana/agent/releases/tag/v0.40.0), today) - Vendor-neutral programmable observability pipelines.
-- [grafana/grafana](https://github.com/grafana/grafana) ([pkg/util/xorm/v0.0.1](https://github.com/grafana/grafana/releases/tag/pkg/util/xorm/v0.0.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.18.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.18.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.69](https://github.com/stakater/Reloader/releases/tag/v1.0.69), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.12.0](https://github.com/zitadel/oidc/releases/tag/v3.12.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.93.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.93.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.35.0](https://github.com/helmfile/vals/releases/tag/v0.35.0), 1 day ago) - Helm-like configuration values loader with support for various sources
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.9](https://github.com/grafana/loki/releases/tag/v2.8.9), 1 day ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.15.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.34.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.34.0), 1 day ago) - 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.0](https://github.com/grafana/agent/releases/tag/v0.40.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
+- [grafana/grafana](https://github.com/grafana/grafana) ([pkg/util/xorm/v0.0.1](https://github.com/grafana/grafana/releases/tag/pkg/util/xorm/v0.0.1), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.18.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.18.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.69](https://github.com/stakater/Reloader/releases/tag/v1.0.69), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.3), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.12.0](https://github.com/zitadel/oidc/releases/tag/v3.12.0), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
-- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [[grafana] Add `serviceAccount.automountServiceAccountToken` and document `automountServiceAccountToken`](https://github.com/grafana/helm-charts/pull/2997) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
-- [Allow `cert-manager.io/allow-direct-injection` in annotations](https://github.com/cert-manager/cert-manager/pull/6801) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (today)
-- [[kube-prometheus-stack] Conditionally support new table panels](https://github.com/prometheus-community/helm-charts/pull/4297) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[grafana] Add value for pod.spec.automountServiceAccountToken](https://github.com/grafana/helm-charts/pull/2991) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
-- [Update CODEOWNERS for renovate.json](https://github.com/prometheus-community/helm-charts/pull/4293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [Enable Profile-guided optimization](https://github.com/jkroepke/openvpn-auth-oauth2/pull/198) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/197) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [BREAKING: Use Google Cloud Identity API for check Google Group memberships. Check docs.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/196) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [[grafana] Add `serviceAccount.automountServiceAccountToken` and document `automountServiceAccountToken`](https://github.com/grafana/helm-charts/pull/2997) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
+- [Allow `cert-manager.io/allow-direct-injection` in annotations](https://github.com/cert-manager/cert-manager/pull/6801) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (1 day ago)
+- [[kube-prometheus-stack] Conditionally support new table panels](https://github.com/prometheus-community/helm-charts/pull/4297) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[grafana] Add value for pod.spec.automountServiceAccountToken](https://github.com/grafana/helm-charts/pull/2991) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
+- [Update CODEOWNERS for renovate.json](https://github.com/prometheus-community/helm-charts/pull/4293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [Enable Profile-guided optimization](https://github.com/jkroepke/openvpn-auth-oauth2/pull/198) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/197) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [BREAKING: Use Google Cloud Identity API for check Google Group memberships. Check docs.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/196) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [cemeyer/falsisign-mirror](https://github.com/cemeyer/falsisign-mirror) - https://gitlab.com/edouardklein/falsisign.git mirrored (snapshot taken 2020-04-08) (today)
-- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (2 days ago)
+- [cemeyer/falsisign-mirror](https://github.com/cemeyer/falsisign-mirror) - https://gitlab.com/edouardklein/falsisign.git mirrored (snapshot taken 2020-04-08) (1 day ago)
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (3 days ago)
 - [magicbear/palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc... (1 week ago)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (1 week ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (3 weeks ago)
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (1 month ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 month ago)
 - [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (1 month ago)
-- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (1 month ago)
+- [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (2 months ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 months ago)
 
 #### 👯 Check out some of my recent followers
