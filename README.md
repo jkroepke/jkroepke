@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.15.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.108](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.108), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-3.1.0), today) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.5](https://github.com/databus23/helm-diff/releases/tag/v3.9.5), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.0.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.0.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.13.0](https://github.com/zitadel/oidc/releases/tag/v3.13.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
