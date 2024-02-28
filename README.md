@@ -19,6 +19,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
@@ -26,7 +27,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (4 days ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (5 days ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (1 week ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
