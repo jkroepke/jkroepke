@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Release helm charts as OCI artifact](https://github.com/kubetail-org/helm/pull/9) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (today)
 - [Add --log.vpn-client-ip](https://github.com/jkroepke/openvpn-auth-oauth2/pull/204) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[grafana] Add value for pod.spec.automountServiceAccountToken](https://github.com/grafana/helm-charts/pull/2991) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
 - [Update CODEOWNERS for renovate.json](https://github.com/prometheus-community/helm-charts/pull/4293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Enable Profile-guided optimization](https://github.com/jkroepke/openvpn-auth-oauth2/pull/198) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/197) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
