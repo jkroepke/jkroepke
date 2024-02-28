@@ -30,19 +30,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.10](https://github.com/grafana/loki/releases/tag/v2.8.10), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.15.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.108](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.108), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.5](https://github.com/databus23/helm-diff/releases/tag/v3.9.5), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.0.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.0.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.13.0](https://github.com/zitadel/oidc/releases/tag/v3.13.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.35.0](https://github.com/helmfile/vals/releases/tag/v0.35.0), 1 day ago) - Helm-like configuration values loader with support for various sources
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.9](https://github.com/grafana/loki/releases/tag/v2.8.9), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0](https://github.com/grafana/agent/releases/tag/v0.40.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/grafana](https://github.com/grafana/grafana) ([pkg/util/xorm/v0.0.1](https://github.com/grafana/grafana/releases/tag/pkg/util/xorm/v0.0.1), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.18.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.18.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
+- [Add --log.vpn-client-ip](https://github.com/jkroepke/openvpn-auth-oauth2/pull/204) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [[grafana] Add `serviceAccount.automountServiceAccountToken` and document `automountServiceAccountToken`](https://github.com/grafana/helm-charts/pull/2997) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update CODEOWNERS for renovate.json](https://github.com/prometheus-community/helm-charts/pull/4293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Enable Profile-guided optimization](https://github.com/jkroepke/openvpn-auth-oauth2/pull/198) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/197) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [BREAKING: Use Google Cloud Identity API for check Google Group memberships. Check docs.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/196) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
