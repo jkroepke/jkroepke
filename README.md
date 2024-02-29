@@ -30,7 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.9.0), today) - Prometheus community Helm charts
+- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([24.2.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/24.2.0), today) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.18.0), today) - Prometheus community Helm charts
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.2.0), today) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.17](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.17), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.1](https://github.com/grafana/agent/releases/tag/v0.40.1), today) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.0), today) - Ingress-NGINX Controller for Kubernetes
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.2.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.2.8), today) - Kubetail helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.5](https://github.com/grafana/loki/releases/tag/v2.9.5), today) - Like Prometheus, but for logs.
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.5](https://github.com/databus23/helm-diff/releases/tag/v3.9.5), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.0.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.0.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
