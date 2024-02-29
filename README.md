@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.49.0](https://github.com/prometheus/common/releases/tag/v0.49.0), today) - Go libraries shared across Prometheus components and libraries.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.8.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.8.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.16.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.16.2), today) - Prometheus community Helm charts
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.0), today) - Ingress-NGINX Controller for Kubernetes
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.2.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.2.8), today) - Kubetail helm charts
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.0), today) - Ingress-NGINX Controller for Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.5](https://github.com/grafana/loki/releases/tag/v2.9.5), today) - Like Prometheus, but for logs.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.5](https://github.com/databus23/helm-diff/releases/tag/v3.9.5), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.0.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.0.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.13.0](https://github.com/zitadel/oidc/releases/tag/v3.13.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.35.0](https://github.com/helmfile/vals/releases/tag/v0.35.0), 2 days ago) - Helm-like configuration values loader with support for various sources
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.0](https://github.com/grafana/agent/releases/tag/v0.40.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
