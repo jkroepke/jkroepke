@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.1](https://github.com/grafana/agent/releases/tag/v0.40.1), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.17.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus/common](https://github.com/prometheus/common) ([v0.49.0](https://github.com/prometheus/common/releases/tag/v0.49.0), today) - Go libraries shared across Prometheus components and libraries.
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.5](https://github.com/grafana/loki/releases/tag/v2.9.5), today) - Like Prometheus, but for logs.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.5](https://github.com/databus23/helm-diff/releases/tag/v3.9.5), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.0.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.0.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.13.0](https://github.com/zitadel/oidc/releases/tag/v3.13.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
+- [General chart improvements](https://github.com/kubetail-org/helm/pull/13) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (today)
 - [ci: Release helm charts as OCI artifact](https://github.com/nerdswords/helm-charts/pull/48) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (today)
 - [ci: Release helm charts as OCI artifact](https://github.com/kubetail-org/helm/pull/9) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (1 day ago)
 - [Add --log.vpn-client-ip](https://github.com/jkroepke/openvpn-auth-oauth2/pull/204) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Allow `cert-manager.io/allow-direct-injection` in annotations](https://github.com/cert-manager/cert-manager/pull/6801) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (2 days ago)
 - [[kube-prometheus-stack] Conditionally support new table panels](https://github.com/prometheus-community/helm-charts/pull/4297) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[grafana] Add value for pod.spec.automountServiceAccountToken](https://github.com/grafana/helm-charts/pull/2991) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
-- [Update CODEOWNERS for renovate.json](https://github.com/prometheus-community/helm-charts/pull/4293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 
 #### ⭐ Recent Stars
 
