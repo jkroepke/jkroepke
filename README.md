@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.2.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.2.8), today) - Kubetail helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.0](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.0), today) - Ingress-NGINX Controller for Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.5](https://github.com/grafana/loki/releases/tag/v2.9.5), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.15.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.13.0](https://github.com/zitadel/oidc/releases/tag/v3.13.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.35.0](https://github.com/helmfile/vals/releases/tag/v0.35.0), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.0](https://github.com/grafana/agent/releases/tag/v0.40.0), 2 days ago) - Vendor-neutral programmable observability pipelines.
-- [grafana/grafana](https://github.com/grafana/grafana) ([pkg/util/xorm/v0.0.1](https://github.com/grafana/grafana/releases/tag/pkg/util/xorm/v0.0.1), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
