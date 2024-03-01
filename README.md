@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.94.0), today) - Terraform provider for Azure Resource Manager
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([24.2.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/24.2.0), 1 day ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.18.0), 1 day ago) - Prometheus community Helm charts
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.2.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.49.0](https://github.com/prometheus/common/releases/tag/v0.49.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.2.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.2.8), 1 day ago) - Kubetail helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.5](https://github.com/grafana/loki/releases/tag/v2.9.5), 1 day ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
