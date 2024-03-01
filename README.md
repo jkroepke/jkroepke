@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0), today) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.0.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.8.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.8.0), today) - helmfile-action
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.0](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.0), today) - Kubetail helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.19.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.94.0), today) - Terraform provider for Azure Resource Manager
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([24.2.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/24.2.0), 1 day ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.2.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
