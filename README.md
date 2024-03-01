@@ -22,8 +22,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (6 days ago)
@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Chart push: add permission](https://github.com/kubetail-org/helm/pull/15) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (today)
+- [Add secret handling](https://github.com/kubetail-org/helm/pull/14) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (today)
 - [General chart improvements](https://github.com/kubetail-org/helm/pull/13) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (1 day ago)
 - [ci: Release helm charts as OCI artifact](https://github.com/nerdswords/helm-charts/pull/48) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (1 day ago)
 - [ci: Release helm charts as OCI artifact](https://github.com/kubetail-org/helm/pull/9) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (2 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [[grafana] Add `serviceAccount.automountServiceAccountToken` and document `automountServiceAccountToken`](https://github.com/grafana/helm-charts/pull/2997) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
 - [Allow `cert-manager.io/allow-direct-injection` in annotations](https://github.com/cert-manager/cert-manager/pull/6801) on [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) (3 days ago)
-- [[kube-prometheus-stack] Conditionally support new table panels](https://github.com/prometheus-community/helm-charts/pull/4297) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[grafana] Add value for pod.spec.automountServiceAccountToken](https://github.com/grafana/helm-charts/pull/2991) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
