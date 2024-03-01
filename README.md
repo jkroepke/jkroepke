@@ -17,19 +17,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (1 day ago)
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.0](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.0), today) - Kubetail helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.19.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.94.0), today) - Terraform provider for Azure Resource Manager
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([24.2.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/24.2.0), 1 day ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus/common](https://github.com/prometheus/common) ([v0.49.0](https://github.com/prometheus/common/releases/tag/v0.49.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.2.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.2.8), 1 day ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
