@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.0.0), today) - Contains Helm charts for Kubernetes related open source tools
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.8.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.8.0), today) - helmfile-action
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.0](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.0), today) - Kubetail helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.19.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.94.0), today) - Terraform provider for Azure Resource Manager
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.17](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.17), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.1](https://github.com/grafana/agent/releases/tag/v0.40.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus/common](https://github.com/prometheus/common) ([v0.49.0](https://github.com/prometheus/common/releases/tag/v0.49.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
