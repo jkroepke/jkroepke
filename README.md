@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for native Azure authentication](https://github.com/grafana/grafana-infinity-datasource/pull/785) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (today)
 - [Add pagination based on nextLink property](https://github.com/grafana/grafana-infinity-datasource/pull/784) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (today)
 - [[bitnami/thanos] Fine-granted checksum calculation for deployment re-trigger](https://github.com/bitnami/charts/pull/24014) on [bitnami/charts](https://github.com/bitnami/charts) (1 day ago)
 - [Make deploy.strategy configurable](https://github.com/oauth2-proxy/manifests/pull/188) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ci: Release helm charts as OCI artifact](https://github.com/nerdswords/helm-charts/pull/48) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (2 days ago)
 - [ci: Release helm charts as OCI artifact](https://github.com/kubetail-org/helm/pull/9) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (3 days ago)
 - [Add --log.vpn-client-ip](https://github.com/jkroepke/openvpn-auth-oauth2/pull/204) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
