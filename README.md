@@ -17,53 +17,53 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
-- [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (6 days ago)
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
+- [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.1](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.1), today) - Kubetail helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0), today) - Prometheus community Helm charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.0.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.8.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.8.0), today) - helmfile-action
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.94.0), today) - Terraform provider for Azure Resource Manager
-- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([24.2.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/24.2.0), 1 day ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.2.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.17](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.17), 1 day ago) - 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.1](https://github.com/grafana/agent/releases/tag/v0.40.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.1](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.1), 1 day ago) - Kubetail helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0), 1 day ago) - Prometheus community Helm charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.0.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.8.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.8.0), 1 day ago) - helmfile-action
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.94.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([24.2.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/24.2.0), 2 days ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.2.0), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.17](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.17), 2 days ago) - 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.1](https://github.com/grafana/agent/releases/tag/v0.40.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
-- [Make deploy.strategy configurable](https://github.com/oauth2-proxy/manifests/pull/188) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (today)
-- [Chart push: add permission](https://github.com/kubetail-org/helm/pull/15) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (today)
-- [Add secret handling](https://github.com/kubetail-org/helm/pull/14) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (today)
-- [General chart improvements](https://github.com/kubetail-org/helm/pull/13) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (1 day ago)
-- [ci: Release helm charts as OCI artifact](https://github.com/nerdswords/helm-charts/pull/48) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (1 day ago)
-- [ci: Release helm charts as OCI artifact](https://github.com/kubetail-org/helm/pull/9) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (2 days ago)
-- [Add --log.vpn-client-ip](https://github.com/jkroepke/openvpn-auth-oauth2/pull/204) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [[grafana] Add `serviceAccount.automountServiceAccountToken` and document `automountServiceAccountToken`](https://github.com/grafana/helm-charts/pull/2997) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
+- [[bitnami/thanos] Fine-granted checksum calculation for deployment re-trigger](https://github.com/bitnami/charts/pull/24014) on [bitnami/charts](https://github.com/bitnami/charts) (1 day ago)
+- [Make deploy.strategy configurable](https://github.com/oauth2-proxy/manifests/pull/188) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 day ago)
+- [Chart push: add permission](https://github.com/kubetail-org/helm/pull/15) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (1 day ago)
+- [Add secret handling](https://github.com/kubetail-org/helm/pull/14) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (1 day ago)
+- [General chart improvements](https://github.com/kubetail-org/helm/pull/13) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (2 days ago)
+- [ci: Release helm charts as OCI artifact](https://github.com/nerdswords/helm-charts/pull/48) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (2 days ago)
+- [ci: Release helm charts as OCI artifact](https://github.com/kubetail-org/helm/pull/9) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (3 days ago)
+- [Add --log.vpn-client-ip](https://github.com/jkroepke/openvpn-auth-oauth2/pull/204) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Log client IP](https://github.com/jkroepke/openvpn-auth-oauth2/pull/199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [cemeyer/falsisign-mirror](https://github.com/cemeyer/falsisign-mirror) - https://gitlab.com/edouardklein/falsisign.git mirrored (snapshot taken 2020-04-08) (3 days ago)
-- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (5 days ago)
+- [cemeyer/falsisign-mirror](https://github.com/cemeyer/falsisign-mirror) - https://gitlab.com/edouardklein/falsisign.git mirrored (snapshot taken 2020-04-08) (4 days ago)
+- [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (6 days ago)
 - [magicbear/palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc... (2 weeks ago)
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (2 weeks ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (4 weeks ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image registry (purely based on OCI Distribution Specification) (1 month ago)
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (1 month ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 month ago)
-- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (1 month ago)
+- [idoavrah/terraform-tui](https://github.com/idoavrah/terraform-tui) - Terraform textual UI (2 months ago)
 - [argoproj-labs/argocd-extension-metrics](https://github.com/argoproj-labs/argocd-extension-metrics) - An Argo CD extension to enable visualization of metrics in Argo CD UI. (2 months ago)
 - [postfinance/kubelet-csr-approver](https://github.com/postfinance/kubelet-csr-approver) - Kubernetes controller to enable automatic kubelet CSR validation after a series of (configurable) security checks (2 months ago)
 
