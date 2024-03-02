@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.13.3](https://github.com/electron-userland/electron-builder/releases/tag/v24.13.3), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.1.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.1.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.1](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.1), 1 day ago) - Kubetail helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.16.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([24.2.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/24.2.0), 2 days ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.2.0), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.17](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.17), 2 days ago) - 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.1](https://github.com/grafana/agent/releases/tag/v0.40.1), 2 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
