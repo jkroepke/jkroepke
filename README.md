@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.2](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.2), today) - Kubetail helm charts
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.3](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.3), today) - Kubetail helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.20.0), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.2.1](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.2.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
