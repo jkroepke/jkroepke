@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.20.0), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.2.1](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.2.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.1.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.1.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.94.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [webdevops/azure-metrics-exporter](https://github.com/webdevops/azure-metrics-exporter) ([24.2.0](https://github.com/webdevops/azure-metrics-exporter/releases/tag/24.2.0), 3 days ago) - Azure Monitor metrics exporter for Prometheus with dimension support, template engine and ServiceDiscovery
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.2.0), 3 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.17](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.17), 3 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Extract CoreDNS Dashboard from template](https://github.com/prometheus-community/helm-charts/pull/4328) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Added nil check to Check functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix tests, if local time is not UTC](https://github.com/grafana/grafana-infinity-datasource/pull/786) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (today)
 - [Add support for native Azure authentication](https://github.com/grafana/grafana-infinity-datasource/pull/785) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Chart push: add permission](https://github.com/kubetail-org/helm/pull/15) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (2 days ago)
 - [Add secret handling](https://github.com/kubetail-org/helm/pull/14) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (2 days ago)
 - [General chart improvements](https://github.com/kubetail-org/helm/pull/13) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (3 days ago)
-- [ci: Release helm charts as OCI artifact](https://github.com/nerdswords/helm-charts/pull/48) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (3 days ago)
 
 #### ⭐ Recent Stars
 
