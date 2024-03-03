@@ -18,7 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (2 days ago)
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 days ago)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Added nil check to Check functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix tests, if local time is not UTC](https://github.com/grafana/grafana-infinity-datasource/pull/786) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (today)
 - [Add support for native Azure authentication](https://github.com/grafana/grafana-infinity-datasource/pull/785) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (1 day ago)
 - [Add pagination based on nextLink property](https://github.com/grafana/grafana-infinity-datasource/pull/784) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add secret handling](https://github.com/kubetail-org/helm/pull/14) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (2 days ago)
 - [General chart improvements](https://github.com/kubetail-org/helm/pull/13) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (3 days ago)
 - [ci: Release helm charts as OCI artifact](https://github.com/nerdswords/helm-charts/pull/48) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (3 days ago)
-- [ci: Release helm charts as OCI artifact](https://github.com/kubetail-org/helm/pull/9) on [kubetail-org/helm](https://github.com/kubetail-org/helm) (4 days ago)
 
 #### ⭐ Recent Stars
 
