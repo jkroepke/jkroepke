@@ -20,17 +20,18 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus scrapable format (1 day ago)
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (3 days ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (3 days ago)
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (3 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (5 days ago)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.43.4](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.43.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-weekly.280](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.280), today) - 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.72.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.72.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([web/v1.1.1](https://github.com/kubernetes/dashboard/releases/tag/web/v1.1.1), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.0), today) - Prometheus community Helm charts
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.3](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.3), 1 day ago) - Kubetail helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.1.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.1.0), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.0.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.8.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.8.0), 3 days ago) - helmfile-action
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.94.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.94.0), 3 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
