@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.1.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.1.0), today) - General-purpose web UI for Kubernetes clusters
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([auth/v1.0.0](https://github.com/kubernetes/dashboard/releases/tag/auth/v1.0.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.20.1), today) - Prometheus community Helm charts
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.3](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.3), 1 day ago) - Kubetail helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
