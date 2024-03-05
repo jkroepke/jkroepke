@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add CLOUDETEER to ADOPTERS](https://github.com/grafana/agent/pull/6613) on [grafana/agent](https://github.com/grafana/agent) (today)
 - [update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Remove CentOS 7 from CI tests.](https://github.com/jkroepke/helm-secrets/pull/439) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Stay on python stable](https://github.com/kiwigrid/k8s-sidecar/pull/332) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add support for native Azure authentication](https://github.com/grafana/grafana-infinity-datasource/pull/785) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (3 days ago)
 - [Add pagination based on nextLink property](https://github.com/grafana/grafana-infinity-datasource/pull/784) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (3 days ago)
 - [[bitnami/thanos] Fine-granted checksum calculation for deployment re-trigger](https://github.com/bitnami/charts/pull/24014) on [bitnami/charts](https://github.com/bitnami/charts) (4 days ago)
-- [Make deploy.strategy configurable](https://github.com/oauth2-proxy/manifests/pull/188) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (4 days ago)
 
 #### ⭐ Recent Stars
 
