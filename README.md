@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.14.0](https://github.com/zitadel/oidc/releases/tag/v3.14.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.16.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.16.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.109](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.109), 1 day ago) - 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.72.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.72.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.2.1](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.2.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.1.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.1.0), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.0.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.8.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.8.0), 4 days ago) - helmfile-action
 
 #### 🔨 My recent Pull Requests
 
