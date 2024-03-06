@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([metrics-scraper/v1.1.1](https://github.com/kubernetes/dashboard/releases/tag/metrics-scraper/v1.1.1), today) - General-purpose web UI for Kubernetes clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.11.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.11.1), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.2](https://github.com/grafana/agent/releases/tag/v0.40.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.31.0), 1 day ago) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.14.0](https://github.com/zitadel/oidc/releases/tag/v3.14.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.72.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.72.0), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([web/v1.1.1](https://github.com/kubernetes/dashboard/releases/tag/web/v1.1.1), 2 days ago) - General-purpose web UI for Kubernetes clusters
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.3](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.3), 3 days ago) - Kubetail helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.1), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([electron-updater@6.2.1](https://github.com/electron-userland/electron-builder/releases/tag/electron-updater%406.2.1), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
