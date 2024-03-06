@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.0.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.0.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.21.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.2), today) - Prometheus community Helm charts
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([metrics-scraper/v1.1.1](https://github.com/kubernetes/dashboard/releases/tag/metrics-scraper/v1.1.1), today) - General-purpose web UI for Kubernetes clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.11.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.11.1), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.2](https://github.com/grafana/agent/releases/tag/v0.40.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.14.0](https://github.com/zitadel/oidc/releases/tag/v3.14.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
