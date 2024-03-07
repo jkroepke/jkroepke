@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.110](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.110), today) - 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.29.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.29.0), today) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.0.1](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.0.1), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), today) - Go libraries shared across Prometheus components and libraries.
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.1), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.3.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.3.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.10.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.11.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.11.1), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.2](https://github.com/grafana/agent/releases/tag/v0.40.2), 2 days ago) - Vendor-neutral programmable observability pipelines.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.14.0](https://github.com/zitadel/oidc/releases/tag/v3.14.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.72.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.72.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
