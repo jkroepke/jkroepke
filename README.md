@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.110](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.110), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.43.6](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.43.6), today) - 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.29.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.29.0), today) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.0.1](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.0.1), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), today) - Go libraries shared across Prometheus components and libraries.
