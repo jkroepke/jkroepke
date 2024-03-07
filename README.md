@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), today) - Go libraries shared across Prometheus components and libraries.
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.1), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.3.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.3.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.10.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.14.0](https://github.com/zitadel/oidc/releases/tag/v3.14.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.72.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.72.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.3](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.3), 4 days ago) - Kubetail helm charts
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.1), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
