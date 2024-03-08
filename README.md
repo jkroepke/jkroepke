@@ -17,42 +17,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus scrapable format (4 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (6 days ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (6 days ago)
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (6 days ago)
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus scrapable format (5 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (1 week ago)
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.2](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.2), today) - 
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.1](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.1), today) - General-purpose web UI for Kubernetes clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.21.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.3), today) - Prometheus community Helm charts
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.29.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.29.0), today) - 
-- [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), today) - Go libraries shared across Prometheus components and libraries.
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.1), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.3.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.3.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.2](https://github.com/grafana/agent/releases/tag/v0.40.2), 2 days ago) - Vendor-neutral programmable observability pipelines.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.14.0](https://github.com/zitadel/oidc/releases/tag/v3.14.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.72.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.72.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.2](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.2), 1 day ago) - 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.1](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.1), 1 day ago) - General-purpose web UI for Kubernetes clusters
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.21.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.3), 1 day ago) - Prometheus community Helm charts
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.29.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.29.0), 1 day ago) - 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.1), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.3.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.3.0), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.2](https://github.com/grafana/agent/releases/tag/v0.40.2), 3 days ago) - Vendor-neutral programmable observability pipelines.
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.14.0](https://github.com/zitadel/oidc/releases/tag/v3.14.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.72.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.72.0), 4 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (today)
-- [[PATCH] make client-side authentication methods optional](https://github.com/OpenVPN/openvpn/pull/513) on [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) (2 days ago)
-- [Add CLOUDETEER to ADOPTERS](https://github.com/grafana/agent/pull/6613) on [grafana/agent](https://github.com/grafana/agent) (2 days ago)
-- [update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Remove CentOS 7 from CI tests.](https://github.com/jkroepke/helm-secrets/pull/439) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
-- [Stay on python stable](https://github.com/kiwigrid/k8s-sidecar/pull/332) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (3 days ago)
-- [[kube-prometheus-stack] Extract CoreDNS Dashboard from template](https://github.com/prometheus-community/helm-charts/pull/4328) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [Added nil check to Check functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Fix tests, if local time is not UTC](https://github.com/grafana/grafana-infinity-datasource/pull/786) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (4 days ago)
-- [Add support for native Azure authentication](https://github.com/grafana/grafana-infinity-datasource/pull/785) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (5 days ago)
+- [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (1 day ago)
+- [[PATCH] make client-side authentication methods optional](https://github.com/OpenVPN/openvpn/pull/513) on [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) (3 days ago)
+- [Add CLOUDETEER to ADOPTERS](https://github.com/grafana/agent/pull/6613) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
+- [update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Remove CentOS 7 from CI tests.](https://github.com/jkroepke/helm-secrets/pull/439) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [Stay on python stable](https://github.com/kiwigrid/k8s-sidecar/pull/332) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (4 days ago)
+- [[kube-prometheus-stack] Extract CoreDNS Dashboard from template](https://github.com/prometheus-community/helm-charts/pull/4328) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [Added nil check to Check functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Fix tests, if local time is not UTC](https://github.com/grafana/grafana-infinity-datasource/pull/786) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (5 days ago)
+- [Add support for native Azure authentication](https://github.com/grafana/grafana-infinity-datasource/pull/785) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (6 days ago)
 
 #### ⭐ Recent Stars
 
