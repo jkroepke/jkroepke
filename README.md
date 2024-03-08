@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.13.4-alpha.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.13.4-alpha.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.95.0), today) - Terraform provider for Azure Resource Manager
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.3.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.3.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-56.21.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-56.21.4), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), today) - Automatically provision and manage TLS certificates in Kubernetes
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.1), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.3.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.3.0), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.2](https://github.com/grafana/agent/releases/tag/v0.40.2), 3 days ago) - Vendor-neutral programmable observability pipelines.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.14.0](https://github.com/zitadel/oidc/releases/tag/v3.14.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
