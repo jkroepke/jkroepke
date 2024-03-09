@@ -17,42 +17,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (1 day ago)
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus scrapable format (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (2 days ago)
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. (3 days ago)
+- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (4 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus scrapable format (6 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy (1 week ago)
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) - Kubetail helm charts (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.17.0), today) - Prometheus community Helm charts
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.13.4-alpha.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.13.4-alpha.0), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.95.0), today) - Terraform provider for Azure Resource Manager
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.3.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.3.0), today) - General-purpose web UI for Kubernetes clusters
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.2](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.2), 1 day ago) - 
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.29.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.29.0), 1 day ago) - 
-- [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.1), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.3.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.3.0), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.17.0), 1 day ago) - Prometheus community Helm charts
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.13.4-alpha.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.13.4-alpha.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.95.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.3.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.3.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.2](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.2), 2 days ago) - 
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.29.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.29.0), 2 days ago) - 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.1), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([24.3.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/24.3.0), 3 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 
 #### 🔨 My recent Pull Requests
 
-- [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (1 day ago)
-- [[PATCH] make client-side authentication methods optional](https://github.com/OpenVPN/openvpn/pull/513) on [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) (3 days ago)
-- [Add CLOUDETEER to ADOPTERS](https://github.com/grafana/agent/pull/6613) on [grafana/agent](https://github.com/grafana/agent) (3 days ago)
-- [update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Remove CentOS 7 from CI tests.](https://github.com/jkroepke/helm-secrets/pull/439) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
-- [Stay on python stable](https://github.com/kiwigrid/k8s-sidecar/pull/332) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (4 days ago)
-- [[kube-prometheus-stack] Extract CoreDNS Dashboard from template](https://github.com/prometheus-community/helm-charts/pull/4328) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [Added nil check to Check functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Fix tests, if local time is not UTC](https://github.com/grafana/grafana-infinity-datasource/pull/786) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (5 days ago)
-- [Add support for native Azure authentication](https://github.com/grafana/grafana-infinity-datasource/pull/785) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (6 days ago)
+- [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (2 days ago)
+- [[PATCH] make client-side authentication methods optional](https://github.com/OpenVPN/openvpn/pull/513) on [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) (4 days ago)
+- [Add CLOUDETEER to ADOPTERS](https://github.com/grafana/agent/pull/6613) on [grafana/agent](https://github.com/grafana/agent) (4 days ago)
+- [update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Remove CentOS 7 from CI tests.](https://github.com/jkroepke/helm-secrets/pull/439) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
+- [Stay on python stable](https://github.com/kiwigrid/k8s-sidecar/pull/332) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (5 days ago)
+- [[kube-prometheus-stack] Extract CoreDNS Dashboard from template](https://github.com/prometheus-community/helm-charts/pull/4328) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [Added nil check to Check functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Fix tests, if local time is not UTC](https://github.com/grafana/grafana-infinity-datasource/pull/786) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (6 days ago)
+- [Add support for native Azure authentication](https://github.com/grafana/grafana-infinity-datasource/pull/785) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (1 week ago)
 
 #### ⭐ Recent Stars
 
