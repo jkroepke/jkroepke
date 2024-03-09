@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.1](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.17.0), 1 day ago) - Prometheus community Helm charts
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v24.13.4-alpha.0](https://github.com/electron-userland/electron-builder/releases/tag/v24.13.4-alpha.0), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.95.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.3.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.3.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
