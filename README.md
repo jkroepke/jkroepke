@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (2 days ago)
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. (3 days ago)
 - [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (4 days ago)
@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.0), today) - Prometheus community Helm charts
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.1](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.1), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.17.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.95.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.3.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.3.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
