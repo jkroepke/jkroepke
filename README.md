@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [debug](https://github.com/jkroepke/helm-secrets/pull/442) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Update all deps and support non ADD clusters](https://github.com/jkroepke/terraform-provider-azureakscommand/pull/86) on [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) (today)
 - [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (3 days ago)
 - [[PATCH] make client-side authentication methods optional](https://github.com/OpenVPN/openvpn/pull/513) on [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Stay on python stable](https://github.com/kiwigrid/k8s-sidecar/pull/332) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (6 days ago)
 - [[kube-prometheus-stack] Extract CoreDNS Dashboard from template](https://github.com/prometheus-community/helm-charts/pull/4328) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Added nil check to Check functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Fix tests, if local time is not UTC](https://github.com/grafana/grafana-infinity-datasource/pull/786) on [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) (1 week ago)
 
 #### ⭐ Recent Stars
 
