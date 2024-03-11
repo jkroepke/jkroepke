@@ -18,8 +18,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
+- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (4 days ago)
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. (5 days ago)
@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.3.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.3.0), 1 day ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.1](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
