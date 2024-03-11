@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.6](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.6), today) - 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.2](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.2), today) - General-purpose web UI for Kubernetes clusters
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-weekly.281](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.281), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.3.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.3.0), 1 day ago) - Terraform provider for running commands on private AKS clusters without reach them
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.1](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.1), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.95.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.29.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.29.0), 4 days ago) - 
