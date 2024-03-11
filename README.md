@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.112](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.112), today) - 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.10.2](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.10.2), today) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.2](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.2), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.1), 1 day ago) - Prometheus community Helm charts
@@ -39,10 +40,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.29.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.29.0), 4 days ago) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.50.0](https://github.com/prometheus/common/releases/tag/v0.50.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.1), 4 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 
 #### 🔨 My recent Pull Requests
 
+- [update bats](https://github.com/jkroepke/helm-secrets/pull/443) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [refactor: [helm] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/loki/pull/12174) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [fix tests](https://github.com/jkroepke/helm-secrets/pull/442) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Update all deps and support non ADD clusters](https://github.com/jkroepke/terraform-provider-azureakscommand/pull/86) on [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) (1 day ago)
 - [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (4 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Remove CentOS 7 from CI tests.](https://github.com/jkroepke/helm-secrets/pull/439) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Stay on python stable](https://github.com/kiwigrid/k8s-sidecar/pull/332) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (1 week ago)
-- [[kube-prometheus-stack] Extract CoreDNS Dashboard from template](https://github.com/prometheus-community/helm-charts/pull/4328) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [Added nil check to Check functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
