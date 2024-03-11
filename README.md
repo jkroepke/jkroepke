@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (4 days ago)
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.6](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.6), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.112](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.112), today) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.2](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.2), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.2), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.1), 1 day ago) - Prometheus community Helm charts
@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [debug](https://github.com/jkroepke/helm-secrets/pull/442) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [fix tests](https://github.com/jkroepke/helm-secrets/pull/442) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Update all deps and support non ADD clusters](https://github.com/jkroepke/terraform-provider-azureakscommand/pull/86) on [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) (1 day ago)
 - [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (4 days ago)
 - [[PATCH] make client-side authentication methods optional](https://github.com/OpenVPN/openvpn/pull/513) on [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) (6 days ago)
