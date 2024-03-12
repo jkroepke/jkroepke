@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (2 days ago)
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (5 days ago)
@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-10.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-10.0.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-stack-2.10.2](https://github.com/grafana/helm-charts/releases/tag/loki-stack-2.10.2), 1 day ago) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.2](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.2), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.2), 1 day ago) - General-purpose web UI for Kubernetes clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.1), 2 days ago) - Prometheus community Helm charts
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.3.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.3.0), 2 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.95.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.95.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.4), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
