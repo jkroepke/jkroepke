@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.17.0](https://github.com/zitadel/oidc/releases/tag/v3.17.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), today) - Lookup resource attributes in tfstate.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.7](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.7), today) - 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 1 day ago) - 
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.15.0](https://github.com/zitadel/oidc/releases/tag/v3.15.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.3](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.3), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-10.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-10.0.0), 2 days ago) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
