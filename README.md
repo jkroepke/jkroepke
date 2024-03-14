@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.41.9-distributed](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.9-distributed), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.37.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.37.0), today) - 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), today) - Vendor-neutral programmable observability pipelines.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.17.0](https://github.com/zitadel/oidc/releases/tag/v3.17.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), today) - Lookup resource attributes in tfstate.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-10.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-10.0.0), 2 days ago) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.5.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.5.0), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.2), 3 days ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
 
