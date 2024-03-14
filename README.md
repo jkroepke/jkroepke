@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.41.9-distributed](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.41.9-distributed), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.17.0](https://github.com/zitadel/oidc/releases/tag/v3.17.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), today) - Lookup resource attributes in tfstate.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.7](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.7), today) - 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 1 day ago) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.3](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.3), 2 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
