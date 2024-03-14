@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), today) - Lookup resource attributes in tfstate.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.7](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.7), today) - 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.5.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.5.0), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.2), 3 days ago) - General-purpose web UI for Kubernetes clusters
-- [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) ([v1.3.0](https://github.com/jkroepke/terraform-provider-azureakscommand/releases/tag/v1.3.0), 4 days ago) - Terraform provider for running commands on private AKS clusters without reach them
 
 #### 🔨 My recent Pull Requests
 
