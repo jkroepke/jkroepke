@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.0.3), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.19](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.19), 1 day ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), 1 day ago) - Vendor-neutral programmable observability pipelines.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 2 days ago) - 
 - [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.3](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.3), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.5.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.5.0), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
