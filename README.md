@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.4](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.4), today) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.44.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.44.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), today) - Terraform provider for Azure Resource Manager
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), 1 day ago) - Lookup resource attributes in tfstate.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 2 days ago) - Add-on agent to generate and expose cluster-level metrics.
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 2 days ago) - 
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.3](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.3), 3 days ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
