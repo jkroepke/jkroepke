@@ -17,8 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (today)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana. (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
@@ -26,7 +27,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (1 week ago)
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder. (1 week ago)
-- [grafana/agent](https://github.com/grafana/agent) - Vendor-neutral programmable observability pipelines. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(misconf): add helm-api-version and helm-kube-version flag](https://github.com/aquasecurity/trivy/pull/6332) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (today)
 - [add 3rdpartylicenses](https://github.com/jkroepke/openvpn-auth-oauth2/pull/213) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [makefile: force LF on checkout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/212) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [update bats](https://github.com/jkroepke/helm-secrets/pull/443) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (1 week ago)
 - [[PATCH] make client-side authentication methods optional](https://github.com/OpenVPN/openvpn/pull/513) on [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) (1 week ago)
 - [Add CLOUDETEER to ADOPTERS](https://github.com/grafana/agent/pull/6613) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
-- [update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
