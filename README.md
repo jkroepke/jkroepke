@@ -31,7 +31,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔭 Latest releases I've contributed to
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.3), 1 day ago) - 
-- [electron-userland/electron-builder](https://github.com/electron-userland/electron-builder) ([v25.0.0-alpha.4](https://github.com/electron-userland/electron-builder/releases/tag/v25.0.0-alpha.4), 1 day ago) - A complete solution to package and build a ready for distribution Electron app with “auto update” support out of the box
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), 2 days ago) - Vendor-neutral programmable observability pipelines.
@@ -40,6 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 3 days ago) - Add-on agent to generate and expose cluster-level metrics.
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 3 days ago) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.51.0-rc.0), 5 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
