@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [add 3rdpartylicenses with goreleaser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/214) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix](https://github.com/jkroepke/draw-io-cncf-shape/pull/7) on [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) (today)
 - [feat(global): Windows node support](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/103) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (today)
 - [[CI] Add group rules for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/4363) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [update bats](https://github.com/jkroepke/helm-secrets/pull/443) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [refactor: [helm] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/loki/pull/12174) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 - [fix tests](https://github.com/jkroepke/helm-secrets/pull/442) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Update all deps and support non ADD clusters](https://github.com/jkroepke/terraform-provider-azureakscommand/pull/86) on [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) (1 week ago)
 
 #### ⭐ Recent Stars
 
