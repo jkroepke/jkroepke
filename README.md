@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[CI] Add group rules for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/4363) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat(misconf): add helm-api-version and helm-kube-version flag](https://github.com/aquasecurity/trivy/pull/6332) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (1 day ago)
 - [add 3rdpartylicenses](https://github.com/jkroepke/openvpn-auth-oauth2/pull/213) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [makefile: force LF on checkout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/212) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update all deps and support non ADD clusters](https://github.com/jkroepke/terraform-provider-azureakscommand/pull/86) on [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) (1 week ago)
 - [Add exception_handler](https://github.com/kiwigrid/k8s-sidecar/pull/333) on [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) (1 week ago)
 - [[PATCH] make client-side authentication methods optional](https://github.com/OpenVPN/openvpn/pull/513) on [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) (1 week ago)
-- [Add CLOUDETEER to ADOPTERS](https://github.com/grafana/agent/pull/6613) on [grafana/agent](https://github.com/grafana/agent) (1 week ago)
 
 #### ⭐ Recent Stars
 
