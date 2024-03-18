@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.18.0](https://github.com/zitadel/oidc/releases/tag/v3.18.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.3), 3 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), 4 days ago) - Vendor-neutral programmable observability pipelines.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.17.0](https://github.com/zitadel/oidc/releases/tag/v3.17.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), 4 days ago) - Lookup resource attributes in tfstate.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 5 days ago) - Add-on agent to generate and expose cluster-level metrics.
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 5 days ago) - 
