@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.44.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.44.3), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.4](https://github.com/prometheus/prometheus/releases/tag/v2.45.4), today) - The Prometheus monitoring system and time series database.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.18.0](https://github.com/zitadel/oidc/releases/tag/v3.18.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), 4 days ago) - Lookup resource attributes in tfstate.
