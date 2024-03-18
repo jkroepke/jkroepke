@@ -17,42 +17,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (today)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (2 days ago)
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana. (4 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 day ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 days ago)
+- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 days ago)
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana. (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider for running commands on private AKS clusters without reach them (1 week ago)
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.3), 2 days ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1), 2 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), 3 days ago) - Vendor-neutral programmable observability pipelines.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.17.0](https://github.com/zitadel/oidc/releases/tag/v3.17.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), 3 days ago) - Lookup resource attributes in tfstate.
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 4 days ago) - Add-on agent to generate and expose cluster-level metrics.
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 4 days ago) - 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.51.0-rc.0), 6 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.2.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.2.3), 3 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.1), 3 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), 4 days ago) - Vendor-neutral programmable observability pipelines.
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.17.0](https://github.com/zitadel/oidc/releases/tag/v3.17.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), 4 days ago) - Lookup resource attributes in tfstate.
+- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 5 days ago) - Add-on agent to generate and expose cluster-level metrics.
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 5 days ago) - 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.0](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.0), 1 week ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.51.0-rc.0), 1 week ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
-- [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/215) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [add 3rdpartylicenses with goreleaser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/214) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [fix](https://github.com/jkroepke/draw-io-cncf-shape/pull/7) on [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) (today)
-- [feat(global): Windows node support](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/103) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (today)
-- [[CI] Add group rules for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/4363) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [feat(misconf): add helm-api-version and helm-kube-version flag](https://github.com/aquasecurity/trivy/pull/6332) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (1 day ago)
-- [add 3rdpartylicenses](https://github.com/jkroepke/openvpn-auth-oauth2/pull/213) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [makefile: force LF on checkout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/212) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [update bats](https://github.com/jkroepke/helm-secrets/pull/443) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
-- [refactor: [helm] Avoid unnecessary pod restart on each helm chart version](https://github.com/grafana/loki/pull/12174) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
+- [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/216) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/215) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [add 3rdpartylicenses with goreleaser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/214) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [fix](https://github.com/jkroepke/draw-io-cncf-shape/pull/7) on [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) (1 day ago)
+- [feat(global): Windows node support](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/103) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (1 day ago)
+- [[CI] Add group rules for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/4363) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [feat(misconf): add helm-api-version and helm-kube-version flag](https://github.com/aquasecurity/trivy/pull/6332) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (2 days ago)
+- [add 3rdpartylicenses](https://github.com/jkroepke/openvpn-auth-oauth2/pull/213) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [makefile: force LF on checkout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/212) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [update bats](https://github.com/jkroepke/helm-secrets/pull/443) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
