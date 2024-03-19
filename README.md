@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.2.0](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.2.0), today) - Lookup resource attributes in tfstate.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0](https://github.com/prometheus/prometheus/releases/tag/v2.51.0), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.45.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.45.0), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.0](https://github.com/aquasecurity/trivy/releases/tag/v0.50.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.18.0](https://github.com/zitadel/oidc/releases/tag/v3.18.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), 5 days ago) - Vendor-neutral programmable observability pipelines.
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.1.7](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.1.7), 5 days ago) - Lookup resource attributes in tfstate.
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 6 days ago) - Add-on agent to generate and expose cluster-level metrics.
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.31.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.31.0), 6 days ago) - 
 
