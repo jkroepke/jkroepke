@@ -48,7 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/215) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [add 3rdpartylicenses with goreleaser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/214) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [fix](https://github.com/jkroepke/draw-io-cncf-shape/pull/7) on [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) (2 days ago)
-- [feat(global): Windows node support](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/103) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (2 days ago)
+- [feat(k8s-views-global): Windows node support](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/103) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (2 days ago)
 - [[CI] Add group rules for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/4363) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [feat(misconf): add helm-api-version and helm-kube-version flag](https://github.com/aquasecurity/trivy/pull/6332) on [aquasecurity/trivy](https://github.com/aquasecurity/trivy) (3 days ago)
 - [add 3rdpartylicenses](https://github.com/jkroepke/openvpn-auth-oauth2/pull/213) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
