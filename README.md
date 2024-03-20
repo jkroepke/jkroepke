@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.46.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.46.0), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0&#43;dedupelabels](https://github.com/prometheus/prometheus/releases/tag/v2.51.0%2Bdedupelabels), today) - The Prometheus monitoring system and time series database.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.5.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.5.0), today) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.5](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.5), today) - Kubetail helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.71](https://github.com/stakater/Reloader/releases/tag/v1.0.71), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.2.0](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.2.0), 1 day ago) - Lookup resource attributes in tfstate.
