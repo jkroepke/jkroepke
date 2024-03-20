@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.70](https://github.com/stakater/Reloader/releases/tag/v1.0.70), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.4](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.4), today) - Kubetail helm charts
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.2.0](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.2.0), 1 day ago) - Lookup resource attributes in tfstate.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0](https://github.com/prometheus/prometheus/releases/tag/v2.51.0), 1 day ago) - The Prometheus monitoring system and time series database.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.18.0](https://github.com/zitadel/oidc/releases/tag/v3.18.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.96.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.96.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.3](https://github.com/grafana/agent/releases/tag/v0.40.3), 6 days ago) - Vendor-neutral programmable observability pipelines.
-- [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.11.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.11.0), 1 week ago) - Add-on agent to generate and expose cluster-level metrics.
 
 #### 🔨 My recent Pull Requests
 
