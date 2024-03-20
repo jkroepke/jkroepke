@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.5.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.5.0), today) - 
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.5](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.5), today) - Kubetail helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.71](https://github.com/stakater/Reloader/releases/tag/v1.0.71), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.4](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.4), today) - Kubetail helm charts
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.2.0](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.2.0), 1 day ago) - Lookup resource attributes in tfstate.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0](https://github.com/prometheus/prometheus/releases/tag/v2.51.0), 1 day ago) - The Prometheus monitoring system and time series database.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.45.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.45.0), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.0](https://github.com/aquasecurity/trivy/releases/tag/v0.50.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.9.1), 2 days ago) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.18.0](https://github.com/zitadel/oidc/releases/tag/v3.18.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
