@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.11.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.113](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.113), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.0](https://github.com/grafana/loki/releases/tag/operator/v0.6.0), today) - Like Prometheus, but for logs.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus/common](https://github.com/prometheus/common) ([v0.51.0](https://github.com/prometheus/common/releases/tag/v0.51.0), today) - Go libraries shared across Prometheus components and libraries.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.17.0), today) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0&#43;dedupelabels](https://github.com/prometheus/prometheus/releases/tag/v2.51.0%2Bdedupelabels), 1 day ago) - The Prometheus monitoring system and time series database.
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.5](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.5), 1 day ago) - Kubetail helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.71](https://github.com/stakater/Reloader/releases/tag/v1.0.71), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
