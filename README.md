@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.17.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.0](https://github.com/grafana/loki/releases/tag/operator/v0.6.0), today) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.5.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.2), 1 day ago) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0&#43;dedupelabels](https://github.com/prometheus/prometheus/releases/tag/v2.51.0%2Bdedupelabels), 1 day ago) - The Prometheus monitoring system and time series database.
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.5](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.5), 1 day ago) - Kubetail helm charts
