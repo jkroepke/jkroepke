@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.47.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.47.1), today) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.36.0](https://github.com/helmfile/vals/releases/tag/v0.36.0), today) - Helm-like configuration values loader with support for various sources
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.11](https://github.com/grafana/loki/releases/tag/v2.8.11), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.47.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.47.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.97.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.97.1), today) - Terraform provider for Azure Resource Manager
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.0](https://github.com/helmfile/helmfile/releases/tag/v0.163.0), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.11.0), 1 day ago) - Prometheus community Helm charts
