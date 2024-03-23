@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.3), today) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.0), 1 day ago) - Dex Helm chart repository
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.47.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.47.1), 1 day ago) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.36.0](https://github.com/helmfile/vals/releases/tag/v0.36.0), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.11](https://github.com/grafana/loki/releases/tag/v2.8.11), 1 day ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.97.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.97.1), 1 day ago) - Terraform provider for Azure Resource Manager
