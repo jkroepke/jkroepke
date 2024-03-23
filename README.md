@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [passthrough: fix status 2&#43;3 commands](https://github.com/jkroepke/openvpn-auth-oauth2/pull/225) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Provide BSD builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/224) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [passthrough: Add welcome message](https://github.com/jkroepke/openvpn-auth-oauth2/pull/223) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/222) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/215) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [add 3rdpartylicenses with goreleaser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/214) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [fix](https://github.com/jkroepke/draw-io-cncf-shape/pull/7) on [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) (6 days ago)
-- [feat(k8s-views-global): Windows node support](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/103) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (6 days ago)
 
 #### ⭐ Recent Stars
 
