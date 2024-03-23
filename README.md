@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.3), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.3), today) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.0), 1 day ago) - Dex Helm chart repository
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.36.0](https://github.com/helmfile/vals/releases/tag/v0.36.0), 1 day ago) - Helm-like configuration values loader with support for various sources
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.11.0), 2 days ago) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus/common](https://github.com/prometheus/common) ([v0.51.0](https://github.com/prometheus/common/releases/tag/v0.51.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.0&#43;dedupelabels](https://github.com/prometheus/prometheus/releases/tag/v2.51.0%2Bdedupelabels), 3 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
