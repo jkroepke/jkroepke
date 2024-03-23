@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Provide BSD builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/224) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [passthrough: Add welcome message](https://github.com/jkroepke/openvpn-auth-oauth2/pull/223) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/222) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [log id token claims on debug level](https://github.com/jkroepke/openvpn-auth-oauth2/pull/221) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [add 3rdpartylicenses with goreleaser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/214) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [fix](https://github.com/jkroepke/draw-io-cncf-shape/pull/7) on [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) (6 days ago)
 - [feat(k8s-views-global): Windows node support](https://github.com/dotdc/grafana-dashboards-kubernetes/pull/103) on [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) (6 days ago)
-- [[CI] Add group rules for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/4363) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
