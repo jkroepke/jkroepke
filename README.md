@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.18.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.3), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.3), today) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.0), 1 day ago) - Dex Helm chart repository
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.8.11](https://github.com/grafana/loki/releases/tag/v2.8.11), 1 day ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.97.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.97.1), 1 day ago) - Terraform provider for Azure Resource Manager
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.0](https://github.com/helmfile/helmfile/releases/tag/v0.163.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.11.0), 2 days ago) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus/common](https://github.com/prometheus/common) ([v0.51.0](https://github.com/prometheus/common/releases/tag/v0.51.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 
