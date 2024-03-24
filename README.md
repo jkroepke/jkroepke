@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.51.1](https://github.com/prometheus/common/releases/tag/v0.51.1), today) - Go libraries shared across Prometheus components and libraries.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.1.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.3), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.3), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.97.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.97.1), 2 days ago) - Terraform provider for Azure Resource Manager
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.0](https://github.com/helmfile/helmfile/releases/tag/v0.163.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [prometheus/common](https://github.com/prometheus/common) ([v0.51.0](https://github.com/prometheus/common/releases/tag/v0.51.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
