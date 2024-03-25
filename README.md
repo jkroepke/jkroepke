@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (1 week ago)
@@ -30,26 +30,26 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0](https://github.com/bats-core/bats-core/releases/tag/v1.11.0), today) - Bash Automated Testing System
-- [prometheus/common](https://github.com/prometheus/common) ([v0.51.1](https://github.com/prometheus/common/releases/tag/v0.51.1), today) - Go libraries shared across Prometheus components and libraries.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.1.1), 1 day ago) - Prometheus community Helm charts
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.3), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.3), 1 day ago) - 
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.0), 2 days ago) - Dex Helm chart repository
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.36.0](https://github.com/helmfile/vals/releases/tag/v0.36.0), 2 days ago) - Helm-like configuration values loader with support for various sources
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.11](https://github.com/grafana/loki/releases/tag/v2.8.11), 2 days ago) - Like Prometheus, but for logs.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.97.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.97.1), 2 days ago) - Terraform provider for Azure Resource Manager
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.0](https://github.com/helmfile/helmfile/releases/tag/v0.163.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0](https://github.com/bats-core/bats-core/releases/tag/v1.11.0), 1 day ago) - Bash Automated Testing System
+- [prometheus/common](https://github.com/prometheus/common) ([v0.51.1](https://github.com/prometheus/common/releases/tag/v0.51.1), 1 day ago) - Go libraries shared across Prometheus components and libraries.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.1.1), 2 days ago) - Prometheus community Helm charts
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.3), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.3), 2 days ago) - 
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.0), 3 days ago) - Dex Helm chart repository
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.36.0](https://github.com/helmfile/vals/releases/tag/v0.36.0), 3 days ago) - Helm-like configuration values loader with support for various sources
+- [grafana/loki](https://github.com/grafana/loki) ([v2.8.11](https://github.com/grafana/loki/releases/tag/v2.8.11), 3 days ago) - Like Prometheus, but for logs.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.97.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.97.1), 3 days ago) - Terraform provider for Azure Resource Manager
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.0](https://github.com/helmfile/helmfile/releases/tag/v0.163.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 #### 🔨 My recent Pull Requests
 
-- [passthrough: fix status 2&#43;3 commands](https://github.com/jkroepke/openvpn-auth-oauth2/pull/225) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Provide BSD builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/224) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [passthrough: Add welcome message](https://github.com/jkroepke/openvpn-auth-oauth2/pull/223) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/222) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [log id token claims on debug level](https://github.com/jkroepke/openvpn-auth-oauth2/pull/221) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [fix: helm template error if ingress is enabled](https://github.com/grafana/loki/pull/12241) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
-- [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/216) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [passthrough: fix status 2&#43;3 commands](https://github.com/jkroepke/openvpn-auth-oauth2/pull/225) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Provide BSD builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/224) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [passthrough: Add welcome message](https://github.com/jkroepke/openvpn-auth-oauth2/pull/223) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/222) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [log id token claims on debug level](https://github.com/jkroepke/openvpn-auth-oauth2/pull/221) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [fix: helm template error if ingress is enabled](https://github.com/grafana/loki/pull/12241) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
+- [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/216) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/215) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [add 3rdpartylicenses with goreleaser](https://github.com/jkroepke/openvpn-auth-oauth2/pull/214) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [fix](https://github.com/jkroepke/draw-io-cncf-shape/pull/7) on [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) (1 week ago)
