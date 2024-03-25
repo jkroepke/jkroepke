@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.0](https://github.com/grafana/loki/releases/tag/operator/v0.6.0), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.32.0), today) - Prometheus community Helm charts
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0](https://github.com/bats-core/bats-core/releases/tag/v1.11.0), 1 day ago) - Bash Automated Testing System
 - [prometheus/common](https://github.com/prometheus/common) ([v0.51.1](https://github.com/prometheus/common/releases/tag/v0.51.1), 1 day ago) - Go libraries shared across Prometheus components and libraries.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.3), 2 days ago) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.0), 3 days ago) - Dex Helm chart repository
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.36.0](https://github.com/helmfile/vals/releases/tag/v0.36.0), 3 days ago) - Helm-like configuration values loader with support for various sources
-- [grafana/loki](https://github.com/grafana/loki) ([v2.8.11](https://github.com/grafana/loki/releases/tag/v2.8.11), 3 days ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.97.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.97.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.0](https://github.com/helmfile/helmfile/releases/tag/v0.163.0), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
