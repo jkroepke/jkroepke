@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.2.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.0](https://github.com/grafana/loki/releases/tag/operator/v0.6.0), today) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.32.0), today) - Prometheus community Helm charts
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0](https://github.com/bats-core/bats-core/releases/tag/v1.11.0), 1 day ago) - Bash Automated Testing System
 - [prometheus/common](https://github.com/prometheus/common) ([v0.51.1](https://github.com/prometheus/common/releases/tag/v0.51.1), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.3), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
