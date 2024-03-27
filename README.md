@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.1](https://github.com/aquasecurity/trivy/releases/tag/v0.50.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-weekly.283](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.283), 1 day ago) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.1](https://github.com/helmfile/helmfile/releases/tag/v0.163.1), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.2.0), 2 days ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.3), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.0), 5 days ago) - Dex Helm chart repository
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.36.0](https://github.com/helmfile/vals/releases/tag/v0.36.0), 5 days ago) - Helm-like configuration values loader with support for various sources
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.97.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.97.1), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
