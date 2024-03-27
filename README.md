@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.5.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.5.1), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.72](https://github.com/stakater/Reloader/releases/tag/v1.0.72), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.1](https://github.com/aquasecurity/trivy/releases/tag/v0.50.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-weekly.283](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-weekly.283), 1 day ago) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.1](https://github.com/helmfile/helmfile/releases/tag/v0.163.1), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.2.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.0](https://github.com/grafana/loki/releases/tag/operator/v0.6.0), 2 days ago) - Like Prometheus, but for logs.
