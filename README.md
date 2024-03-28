@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-5.47.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-5.47.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.10.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.114](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.114), 1 day ago) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.72](https://github.com/stakater/Reloader/releases/tag/v1.0.72), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.1](https://github.com/aquasecurity/trivy/releases/tag/v0.50.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.1](https://github.com/helmfile/helmfile/releases/tag/v0.163.1), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
