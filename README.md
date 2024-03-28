@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (1 week ago)
@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.0-rc.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.0-rc.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.3](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.3), today) - General-purpose web UI for Kubernetes clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.6.0), today) - 
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.4.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.4.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.10.0), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.72](https://github.com/stakater/Reloader/releases/tag/v1.0.72), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.1](https://github.com/aquasecurity/trivy/releases/tag/v0.50.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -39,10 +40,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.0](https://github.com/grafana/loki/releases/tag/operator/v0.6.0), 3 days ago) - Like Prometheus, but for logs.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0](https://github.com/bats-core/bats-core/releases/tag/v1.11.0), 4 days ago) - Bash Automated Testing System
 - [prometheus/common](https://github.com/prometheus/common) ([v0.51.1](https://github.com/prometheus/common/releases/tag/v0.51.1), 4 days ago) - Go libraries shared across Prometheus components and libraries.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.19.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.19.3), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
+- [Do not use postinst script as preinst script](https://github.com/jkroepke/openvpn-auth-oauth2/pull/231) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [systemd: Enable hardenings](https://github.com/jkroepke/openvpn-auth-oauth2/pull/230) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Refactor UI: Allow to override built-in assets and provide i18n capabilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/229) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [openvpn: fix hang on invalid password](https://github.com/jkroepke/openvpn-auth-oauth2/pull/227) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [passthrough: fix status 2&#43;3 commands](https://github.com/jkroepke/openvpn-auth-oauth2/pull/225) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/222) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [log id token claims on debug level](https://github.com/jkroepke/openvpn-auth-oauth2/pull/221) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [fix: helm template error if ingress is enabled](https://github.com/grafana/loki/pull/12241) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
-- [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/216) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [increase test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/215) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
