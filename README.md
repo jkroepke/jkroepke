@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.1](https://github.com/prometheus/prometheus/releases/tag/v2.51.1), today) - The Prometheus monitoring system and time series database.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.0-rc.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.0-rc.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.3](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.3), today) - General-purpose web UI for Kubernetes clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.6.0), today) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v0.163.1](https://github.com/helmfile/helmfile/releases/tag/v0.163.1), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.0](https://github.com/grafana/loki/releases/tag/operator/v0.6.0), 3 days ago) - Like Prometheus, but for logs.
 - [bats-core/bats-core](https://github.com/bats-core/bats-core) ([v1.11.0](https://github.com/bats-core/bats-core/releases/tag/v1.11.0), 4 days ago) - Bash Automated Testing System
-- [prometheus/common](https://github.com/prometheus/common) ([v0.51.1](https://github.com/prometheus/common/releases/tag/v0.51.1), 4 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
