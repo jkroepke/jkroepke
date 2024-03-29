@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.115](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.115), today) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.6](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.6), today) - Kubetail helm charts
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.0-rc.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.0-rc.3), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.7.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.1](https://github.com/prometheus/prometheus/releases/tag/v2.51.1), 1 day ago) - The Prometheus monitoring system and time series database.
