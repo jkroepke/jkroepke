@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.115](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.115), 2 days ago) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.6](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.6), 2 days ago) - Kubetail helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.7.0), 3 days ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.1](https://github.com/prometheus/prometheus/releases/tag/v2.51.1), 3 days ago) - The Prometheus monitoring system and time series database.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.3](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.3), 3 days ago) - General-purpose web UI for Kubernetes clusters
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.72](https://github.com/stakater/Reloader/releases/tag/v1.0.72), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
