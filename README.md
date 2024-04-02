@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.7](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.7), today) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.4), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.19.0](https://github.com/zitadel/oidc/releases/tag/v3.19.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.0), 2 days ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.0), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.6](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.6), 4 days ago) - Kubetail helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.1](https://github.com/prometheus/prometheus/releases/tag/v2.51.1), 5 days ago) - The Prometheus monitoring system and time series database.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.1.3](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.1.3), 5 days ago) - General-purpose web UI for Kubernetes clusters
