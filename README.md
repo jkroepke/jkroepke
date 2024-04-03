@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.13.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.74](https://github.com/stakater/Reloader/releases/tag/v1.0.74), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.9.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.9.0), today) - helmfile-action
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.116](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.116), 1 day ago) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.7](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.7), 1 day ago) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.19.0](https://github.com/zitadel/oidc/releases/tag/v3.19.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.0), 3 days ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.1](https://github.com/prometheus/prometheus/releases/tag/v2.51.1), 6 days ago) - The Prometheus monitoring system and time series database.
 
