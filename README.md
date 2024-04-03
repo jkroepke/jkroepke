@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.74](https://github.com/stakater/Reloader/releases/tag/v1.0.74), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.9.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.9.0), today) - helmfile-action
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.73](https://github.com/stakater/Reloader/releases/tag/v1.0.73), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.12.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.12.0), today) - Add-on agent to generate and expose cluster-level metrics.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.116](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.116), 1 day ago) - 
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Google Groups: `oauth2.validate.groups` requires group ID instead group name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/242) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix http listener and dont ignore errors from http listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/241) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [nit: add context to storage class](https://github.com/jkroepke/openvpn-auth-oauth2/pull/238) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Use config as pointer](https://github.com/jkroepke/openvpn-auth-oauth2/pull/237) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Do not use postinst script as preinst script](https://github.com/jkroepke/openvpn-auth-oauth2/pull/231) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [systemd: Enable hardenings](https://github.com/jkroepke/openvpn-auth-oauth2/pull/230) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Refactor UI: Allow to override built-in assets and provide i18n capabilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/229) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [openvpn: fix hang on invalid password](https://github.com/jkroepke/openvpn-auth-oauth2/pull/227) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [freeddser](https://github.com/freeddser)
 - [kappa8219](https://github.com/kappa8219)
 - [andrebossiefx](https://github.com/andrebossiefx)
 - [Amir-jafari-9](https://github.com/Amir-jafari-9)
 - [ihipop](https://github.com/ihipop)
-- [alexohneander](https://github.com/alexohneander)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
