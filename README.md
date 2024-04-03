@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.10.0), today) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.52.2](https://github.com/prometheus/common/releases/tag/v0.52.2), today) - Go libraries shared across Prometheus components and libraries.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.13.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.74](https://github.com/stakater/Reloader/releases/tag/v1.0.74), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.9.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.9.0), today) - helmfile-action
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.20.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.20.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Google Groups: `oauth2.validate.groups` requires group ID instead group name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/242) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Provider: Google Groups: `oauth2.validate.groups` requires group ID instead group name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/242) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix http listener and dont ignore errors from http listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/241) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [nit: add context to storage class](https://github.com/jkroepke/openvpn-auth-oauth2/pull/238) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Use config as pointer](https://github.com/jkroepke/openvpn-auth-oauth2/pull/237) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [sschamp](https://github.com/sschamp)
 - [freeddser](https://github.com/freeddser)
 - [kappa8219](https://github.com/kappa8219)
 - [andrebossiefx](https://github.com/andrebossiefx)
 - [Amir-jafari-9](https://github.com/Amir-jafari-9)
-- [ihipop](https://github.com/ihipop)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
