@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.0), today) - Customization of kubernetes YAML configurations
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([api/v0.17.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/api/v0.17.1), today) - Customization of kubernetes YAML configurations
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.117](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.117), today) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.0](https://github.com/helmfile/vals/releases/tag/v0.37.0), today) - Helm-like configuration values loader with support for various sources
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.73.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.73.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
