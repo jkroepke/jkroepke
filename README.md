@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.73.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.73.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.12.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.12.5), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.18.1), 1 day ago) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.52.2](https://github.com/prometheus/common/releases/tag/v0.52.2), 1 day ago) - Go libraries shared across Prometheus components and libraries.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ([v2.12.0](https://github.com/kubernetes/kube-state-metrics/releases/tag/v2.12.0), 1 day ago) - Add-on agent to generate and expose cluster-level metrics.
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.7](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.7), 2 days ago) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.19.0](https://github.com/zitadel/oidc/releases/tag/v3.19.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-alpha.0), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
