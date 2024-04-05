@@ -31,8 +31,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔭 Latest releases I've contributed to
 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.2.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.2.0), today) - General-purpose web UI for Kubernetes clusters
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.13.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.1), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.98.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.13.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.0), 1 day ago) - 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.1), 1 day ago) - Customization of kubernetes YAML configurations
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.0](https://github.com/helmfile/vals/releases/tag/v0.37.0), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.73.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.73.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
