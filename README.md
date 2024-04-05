@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.4](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.4), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.2.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.2.0), today) - General-purpose web UI for Kubernetes clusters
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.13.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.1), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.98.0), today) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.18.1), 2 days ago) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.52.2](https://github.com/prometheus/common/releases/tag/v0.52.2), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.74](https://github.com/stakater/Reloader/releases/tag/v1.0.74), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.9.0](https://github.com/helmfile/helmfile-action/releases/tag/v1.9.0), 2 days ago) - helmfile-action
 
 #### 🔨 My recent Pull Requests
 
