@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.32.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.32.0), today) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.8), today) - Kubetail helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.2.1), today) - Prometheus community Helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.4.2](https://github.com/kubernetes/dashboard/releases/tag/api/v1.4.2), 1 day ago) - General-purpose web UI for Kubernetes clusters
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.1), 2 days ago) - Customization of kubernetes YAML configurations
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.0](https://github.com/helmfile/vals/releases/tag/v0.37.0), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.73.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.73.0), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [prometheus/common](https://github.com/prometheus/common) ([v0.52.2](https://github.com/prometheus/common/releases/tag/v0.52.2), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
