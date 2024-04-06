@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (2 weeks ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 weeks ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 weeks ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-57.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-57.2.1), today) - Prometheus community Helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.4.2](https://github.com/kubernetes/dashboard/releases/tag/api/v1.4.2), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.4](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.4), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.13.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.1), 1 day ago) - 
@@ -37,13 +38,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.1), 2 days ago) - Customization of kubernetes YAML configurations
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.0](https://github.com/helmfile/vals/releases/tag/v0.37.0), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.73.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.73.0), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.18.1), 3 days ago) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.52.2](https://github.com/prometheus/common/releases/tag/v0.52.2), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.74](https://github.com/stakater/Reloader/releases/tag/v1.0.74), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
-- [Support end-session](https://github.com/jkroepke/openvpn-auth-oauth2/pull/246) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/246) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [fix: Fail safe, if optional endpoints are not given](https://github.com/zitadel/oidc/pull/582) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
 - [test full command](https://github.com/jkroepke/openvpn-auth-oauth2/pull/244) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Provider: Google Groups: `oauth2.validate.groups` requires group ID instead group name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/242) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
