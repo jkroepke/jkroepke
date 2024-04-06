@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.3.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.10.0), today) - Prometheus community Helm charts
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.32.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.32.0), today) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.8), today) - Kubetail helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.4.2](https://github.com/kubernetes/dashboard/releases/tag/api/v1.4.2), 1 day ago) - General-purpose web UI for Kubernetes clusters
