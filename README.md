@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.3.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.3.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.4.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.4.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.0](https://github.com/zitadel/oidc/releases/tag/v3.20.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-rc.0), today) - 
