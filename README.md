@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.1), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.2.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.2.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-rc.0), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.76](https://github.com/stakater/Reloader/releases/tag/v1.0.76), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.10.0), 2 days ago) - Prometheus community Helm charts
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.32.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.32.0), 2 days ago) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.8), 2 days ago) - Kubetail helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.4.2](https://github.com/kubernetes/dashboard/releases/tag/api/v1.4.2), 3 days ago) - General-purpose web UI for Kubernetes clusters
