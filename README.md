@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.75](https://github.com/stakater/Reloader/releases/tag/v1.0.75), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.76](https://github.com/stakater/Reloader/releases/tag/v1.0.76), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.10.0), 2 days ago) - Prometheus community Helm charts
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.32.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.32.0), 2 days ago) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.8), 2 days ago) - Kubetail helm charts
