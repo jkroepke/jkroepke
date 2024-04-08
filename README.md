@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.33.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.33.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.0.0), today) - 
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.0), today) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.0.0](https://github.com/grafana/loki/releases/tag/v3.0.0), today) - Like Prometheus, but for logs.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.0](https://github.com/zitadel/oidc/releases/tag/v3.20.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.1), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.76](https://github.com/stakater/Reloader/releases/tag/v1.0.76), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.32.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.32.0), 2 days ago) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.8), 2 days ago) - Kubetail helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.4.2](https://github.com/kubernetes/dashboard/releases/tag/api/v1.4.2), 3 days ago) - General-purpose web UI for Kubernetes clusters
 
