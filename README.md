@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0-rc.0), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.76](https://github.com/stakater/Reloader/releases/tag/v1.0.76), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.10.0), 2 days ago) - Prometheus community Helm charts
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.32.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.32.0), 2 days ago) - 
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.8), 2 days ago) - Kubetail helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.4.2](https://github.com/kubernetes/dashboard/releases/tag/api/v1.4.2), 3 days ago) - General-purpose web UI for Kubernetes clusters
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.4](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.4), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.13.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.1), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.98.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.98.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.1), 4 days ago) - Customization of kubernetes YAML configurations
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.0](https://github.com/helmfile/vals/releases/tag/v0.37.0), 4 days ago) - Helm-like configuration values loader with support for various sources
