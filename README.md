@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.1.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.1.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.1), today) - Prometheus community Helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) ([v0.25.0](https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0), today) - Blackbox prober exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.1](https://github.com/zitadel/oidc/releases/tag/v3.20.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.1), today) - Dex Helm chart repository
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.1.0), today) - 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.33.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.33.0), 1 day ago) - 
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.0), 1 day ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.0.0](https://github.com/grafana/loki/releases/tag/v3.0.0), 1 day ago) - Like Prometheus, but for logs.
