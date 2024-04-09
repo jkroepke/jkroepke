@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 days ago)
@@ -26,20 +27,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (3 weeks ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 weeks ago)
 - [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 weeks ago)
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) - CSV, JSON, GraphQL, XML and HTML datasource for grafana. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.1](https://github.com/zitadel/oidc/releases/tag/v3.20.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.1), today) - Dex Helm chart repository
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.1.0), today) - 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.33.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.33.0), 1 day ago) - 
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.0), 1 day ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.0.0](https://github.com/grafana/loki/releases/tag/v3.0.0), 1 day ago) - Like Prometheus, but for logs.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.4.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.4.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.0](https://github.com/zitadel/oidc/releases/tag/v3.20.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.1), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.76](https://github.com/stakater/Reloader/releases/tag/v1.0.76), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.8), 3 days ago) - Kubetail helm charts
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.4.2](https://github.com/kubernetes/dashboard/releases/tag/api/v1.4.2), 4 days ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
 
