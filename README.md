@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.1.0), today) - 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.33.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.33.0), 1 day ago) - 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.0.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.0.0), 1 day ago) - 
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.0), 1 day ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.0.0](https://github.com/grafana/loki/releases/tag/v3.0.0), 1 day ago) - Like Prometheus, but for logs.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.4.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.4.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
