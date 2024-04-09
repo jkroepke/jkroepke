@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) ([v0.25.0](https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0), today) - Blackbox prober exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.1](https://github.com/zitadel/oidc/releases/tag/v3.20.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.1), today) - Dex Helm chart repository
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.0.0](https://github.com/grafana/loki/releases/tag/v3.0.0), 1 day ago) - Like Prometheus, but for logs.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.4.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.4.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.1), 1 day ago) - Prometheus community Helm charts
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.76](https://github.com/stakater/Reloader/releases/tag/v1.0.76), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
