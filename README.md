@@ -18,6 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 days ago)
@@ -26,10 +27,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 weeks ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (3 weeks ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 weeks ago)
-- [bitnami/charts](https://github.com/bitnami/charts) - Bitnami Helm Charts (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) ([v0.25.0](https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0), today) - Blackbox prober exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.1](https://github.com/zitadel/oidc/releases/tag/v3.20.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.1), today) - Dex Helm chart repository
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.1.0), today) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.4.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.4.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.19.1), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.76](https://github.com/stakater/Reloader/releases/tag/v1.0.76), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [kubetail-org/helm](https://github.com/kubetail-org/helm) ([kubetail-0.3.8](https://github.com/kubetail-org/helm/releases/tag/kubetail-0.3.8), 3 days ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
