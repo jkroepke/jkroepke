@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.77](https://github.com/stakater/Reloader/releases/tag/v1.0.77), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.78](https://github.com/stakater/Reloader/releases/tag/v1.0.78), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.7](https://github.com/grafana/loki/releases/tag/v2.9.7), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.3.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.3.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.1), 1 day ago) - Prometheus community Helm charts
