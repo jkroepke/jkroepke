@@ -18,11 +18,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (3 days ago)
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (1 week ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more (4 days ago)
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) - A set of modern Grafana dashboards for Kubernetes. (2 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 weeks ago)
 - [jkroepke/draw-io-cncf-shape](https://github.com/jkroepke/draw-io-cncf-shape) - This is collection of the CNCF logos packed into a draw.io importable file to draw cloud native architectures (3 weeks ago)
@@ -30,25 +30,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.1.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.1.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.1), today) - Prometheus community Helm charts
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.0), today) - General-purpose web UI for Kubernetes clusters
-- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) ([v0.25.0](https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0), today) - Blackbox prober exporter
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.1](https://github.com/zitadel/oidc/releases/tag/v3.20.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.1), today) - Dex Helm chart repository
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.33.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.33.0), 1 day ago) - 
-- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.0), 1 day ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.0.0](https://github.com/grafana/loki/releases/tag/v3.0.0), 1 day ago) - Like Prometheus, but for logs.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.4.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.4.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.1.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.1.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.7.1), 1 day ago) - Prometheus community Helm charts
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
+- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) ([v0.25.0](https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0), 1 day ago) - Blackbox prober exporter
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.1](https://github.com/zitadel/oidc/releases/tag/v3.20.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.1), 1 day ago) - Dex Helm chart repository
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.33.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.33.0), 2 days ago) - 
+- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.0), 2 days ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.0.0](https://github.com/grafana/loki/releases/tag/v3.0.0), 2 days ago) - Like Prometheus, but for logs.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.4.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.4.1), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [Create armsrace.cfg](https://github.com/dasisdormax/cs2-multiserver/pull/32) on [dasisdormax/cs2-multiserver](https://github.com/dasisdormax/cs2-multiserver) (3 days ago)
-- [Update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/246) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [fix: Fail safe, if optional endpoints are not given](https://github.com/zitadel/oidc/pull/582) on [zitadel/oidc](https://github.com/zitadel/oidc) (4 days ago)
-- [test full command](https://github.com/jkroepke/openvpn-auth-oauth2/pull/244) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Provider: Google Groups: `oauth2.validate.groups` requires group ID instead group name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/242) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [fix http listener and dont ignore errors from http listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/241) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [Create armsrace.cfg](https://github.com/dasisdormax/cs2-multiserver/pull/32) on [dasisdormax/cs2-multiserver](https://github.com/dasisdormax/cs2-multiserver) (4 days ago)
+- [Update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/246) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [fix: Fail safe, if optional endpoints are not given](https://github.com/zitadel/oidc/pull/582) on [zitadel/oidc](https://github.com/zitadel/oidc) (5 days ago)
+- [test full command](https://github.com/jkroepke/openvpn-auth-oauth2/pull/244) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Provider: Google Groups: `oauth2.validate.groups` requires group ID instead group name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/242) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
+- [fix http listener and dont ignore errors from http listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/241) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [nit: add context to storage class](https://github.com/jkroepke/openvpn-auth-oauth2/pull/238) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Use config as pointer](https://github.com/jkroepke/openvpn-auth-oauth2/pull/237) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Remove command whitelist](https://github.com/jkroepke/openvpn-auth-oauth2/pull/235) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -56,7 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2 (3 days ago)
+- [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2 (4 days ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.  (2 weeks ago)
 - [cemeyer/falsisign-mirror](https://github.com/cemeyer/falsisign-mirror) - https://gitlab.com/edouardklein/falsisign.git mirrored (snapshot taken 2020-04-08) (1 month ago)
