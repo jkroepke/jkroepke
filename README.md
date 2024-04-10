@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), today) - Go libraries shared across Prometheus components and libraries.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.1](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.1), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.14.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.78](https://github.com/stakater/Reloader/releases/tag/v1.0.78), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.20.1](https://github.com/zitadel/oidc/releases/tag/v3.20.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.1), 1 day ago) - Dex Helm chart repository
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.33.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.33.0), 2 days ago) - 
-- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.0](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.0), 2 days ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 
 #### 🔨 My recent Pull Requests
 
