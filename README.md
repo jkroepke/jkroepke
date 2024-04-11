@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Thanos Ruler: Add alertDropLabels &#43; additional config](https://github.com/prometheus-community/helm-charts/pull/4445) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Create armsrace.cfg](https://github.com/dasisdormax/cs2-multiserver/pull/32) on [dasisdormax/cs2-multiserver](https://github.com/dasisdormax/cs2-multiserver) (5 days ago)
 - [Update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/246) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [fix: Fail safe, if optional endpoints are not given](https://github.com/zitadel/oidc/pull/582) on [zitadel/oidc](https://github.com/zitadel/oidc) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [nit: add context to storage class](https://github.com/jkroepke/openvpn-auth-oauth2/pull/238) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Use config as pointer](https://github.com/jkroepke/openvpn-auth-oauth2/pull/237) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Remove command whitelist](https://github.com/jkroepke/openvpn-auth-oauth2/pull/235) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [DEB/RPM: Do not remove system group on upgrade](https://github.com/jkroepke/openvpn-auth-oauth2/pull/233) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
