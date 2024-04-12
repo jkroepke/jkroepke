@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.8](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.8), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.21](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.21), today) - 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.4](https://github.com/grafana/agent/releases/tag/v0.40.4), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.99.0), today) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.1](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.1), 2 days ago) - General-purpose web UI for Kubernetes clusters
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.78](https://github.com/stakater/Reloader/releases/tag/v1.0.78), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.7](https://github.com/grafana/loki/releases/tag/v2.9.7), 2 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
