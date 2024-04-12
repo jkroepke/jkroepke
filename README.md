@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.99.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.15.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.3.118](https://github.com/grafana/helm-charts/releases/tag/oncall-1.3.118), 1 day ago) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.21.0](https://github.com/zitadel/oidc/releases/tag/v3.21.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.78](https://github.com/stakater/Reloader/releases/tag/v1.0.78), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.7](https://github.com/grafana/loki/releases/tag/v2.9.7), 2 days ago) - Like Prometheus, but for logs.
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) ([v0.25.0](https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0), 3 days ago) - Blackbox prober exporter
-- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.17.1](https://github.com/dexidp/helm-charts/releases/tag/dex-0.17.1), 3 days ago) - Dex Helm chart repository
 
 #### 🔨 My recent Pull Requests
 
