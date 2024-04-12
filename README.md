@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 days ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.15.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.15.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.99.0), today) - Terraform provider for Azure Resource Manager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.15.0), 1 day ago) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.21.0](https://github.com/zitadel/oidc/releases/tag/v3.21.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.73.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.73.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 2 days ago) - Go libraries shared across Prometheus components and libraries.
