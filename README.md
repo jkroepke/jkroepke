@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/249) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Implement lang versions as input parameter](https://github.com/grafana/plugin-actions/pull/21) on [grafana/plugin-actions](https://github.com/grafana/plugin-actions) (today)
 - [[kube-prometheus-stack] Thanos Ruler: Add alertDropLabels &#43; additional config](https://github.com/prometheus-community/helm-charts/pull/4445) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Create armsrace.cfg](https://github.com/dasisdormax/cs2-multiserver/pull/32) on [dasisdormax/cs2-multiserver](https://github.com/dasisdormax/cs2-multiserver) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Provider: Google Groups: `oauth2.validate.groups` requires group ID instead group name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/242) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [fix http listener and dont ignore errors from http listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/241) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [nit: add context to storage class](https://github.com/jkroepke/openvpn-auth-oauth2/pull/238) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Use config as pointer](https://github.com/jkroepke/openvpn-auth-oauth2/pull/237) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
