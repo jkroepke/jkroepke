@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.8](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.8), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.15.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.15.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.99.0), today) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.21.0](https://github.com/zitadel/oidc/releases/tag/v3.21.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.73.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.73.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
