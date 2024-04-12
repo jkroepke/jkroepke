@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.15.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.15.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.99.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.15.0), 1 day ago) - Prometheus community Helm charts
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.1](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.1), 2 days ago) - General-purpose web UI for Kubernetes clusters
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.78](https://github.com/stakater/Reloader/releases/tag/v1.0.78), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.7](https://github.com/grafana/loki/releases/tag/v2.9.7), 2 days ago) - Like Prometheus, but for logs.
-- [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) ([v0.25.0](https://github.com/prometheus/blackbox_exporter/releases/tag/v0.25.0), 3 days ago) - Blackbox prober exporter
 
 #### 🔨 My recent Pull Requests
 
+- [Implement lang versions as input parameter](https://github.com/grafana/plugin-actions/pull/21) on [grafana/plugin-actions](https://github.com/grafana/plugin-actions) (today)
 - [[kube-prometheus-stack] Thanos Ruler: Add alertDropLabels &#43; additional config](https://github.com/prometheus-community/helm-charts/pull/4445) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [Create armsrace.cfg](https://github.com/dasisdormax/cs2-multiserver/pull/32) on [dasisdormax/cs2-multiserver](https://github.com/dasisdormax/cs2-multiserver) (6 days ago)
 - [Update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/246) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix http listener and dont ignore errors from http listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/241) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [nit: add context to storage class](https://github.com/jkroepke/openvpn-auth-oauth2/pull/238) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Use config as pointer](https://github.com/jkroepke/openvpn-auth-oauth2/pull/237) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Remove command whitelist](https://github.com/jkroepke/openvpn-auth-oauth2/pull/235) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
