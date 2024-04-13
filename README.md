@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (today)
 - [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2 (1 week ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 week ago)
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.  (2 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible (1 month ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (2 months ago)
 - [xNul/palworld-host-save-fix](https://github.com/xNul/palworld-host-save-fix) - Fixes the bug which forces a player to create a new character when they already have a save. Useful for migrating maps from co-op to dedicated servers and from one dedicated server to another. (2 months ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
