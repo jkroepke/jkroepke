@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.2](https://github.com/prometheus/prometheus/releases/tag/v2.51.2), today) - The Prometheus monitoring system and time series database.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.79](https://github.com/stakater/Reloader/releases/tag/v1.0.79), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.1.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.2), 3 days ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.21.0](https://github.com/zitadel/oidc/releases/tag/v3.21.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 5 days ago) - Go libraries shared across Prometheus components and libraries.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.1](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.1), 5 days ago) - General-purpose web UI for Kubernetes clusters
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.7](https://github.com/grafana/loki/releases/tag/v2.9.7), 5 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
