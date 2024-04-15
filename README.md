@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.2), today) - General-purpose web UI for Kubernetes clusters
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.15.1), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.51.2](https://github.com/prometheus/prometheus/releases/tag/v2.51.2), today) - The Prometheus monitoring system and time series database.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.79](https://github.com/stakater/Reloader/releases/tag/v1.0.79), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.2), 3 days ago) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.4](https://github.com/grafana/agent/releases/tag/v0.40.4), 3 days ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.0), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.99.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.21.0](https://github.com/zitadel/oidc/releases/tag/v3.21.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus/common](https://github.com/prometheus/common) ([v0.52.3](https://github.com/prometheus/common/releases/tag/v0.52.3), 5 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
