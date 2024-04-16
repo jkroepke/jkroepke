@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.12.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.2), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.3), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.0](https://github.com/zitadel/oidc/releases/tag/v3.22.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.2), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
