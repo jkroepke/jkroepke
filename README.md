@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.0](https://github.com/zitadel/oidc/releases/tag/v3.22.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.1.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-0.13.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-0.13.4), 1 day ago) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.2), 1 day ago) - General-purpose web UI for Kubernetes clusters
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.4](https://github.com/grafana/agent/releases/tag/v0.40.4), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.0), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.99.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.99.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.21.0](https://github.com/zitadel/oidc/releases/tag/v3.21.0), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
