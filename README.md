@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [installer: Disable Windows Firewall Exception by default. Can be re-enabled with ADD_FIREWALL_EXCEPTION=yes](https://github.com/prometheus-community/windows_exporter/pull/1447) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Restore Windows 2012 support.](https://github.com/prometheus-community/windows_exporter/pull/1446) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Implement a Windows application manifest](https://github.com/prometheus-community/windows_exporter/pull/1445) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[kube-prometheus-stack] Update mixins, switch to kube-prometheus mixin, add grafana rules and fix label aggregation in TargetDown alert](https://github.com/prometheus-community/helm-charts/pull/4460) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement lang versions as input parameter](https://github.com/grafana/plugin-actions/pull/21) on [grafana/plugin-actions](https://github.com/grafana/plugin-actions) (1 week ago)
 - [[kube-prometheus-stack] Thanos Ruler: Add alertDropLabels &#43; additional config](https://github.com/prometheus-community/helm-charts/pull/4445) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Create armsrace.cfg](https://github.com/dasisdormax/cs2-multiserver/pull/32) on [dasisdormax/cs2-multiserver](https://github.com/dasisdormax/cs2-multiserver) (2 weeks ago)
-- [Update deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/246) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
