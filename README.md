@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add Windows application manifest](https://github.com/grafana/alloy/pull/620) on [grafana/alloy](https://github.com/grafana/alloy) (today)
 - [docs: fix link at remotecfg block](https://github.com/grafana/alloy/pull/618) on [grafana/alloy](https://github.com/grafana/alloy) (today)
 - [Ability to disable debug endpoints](https://github.com/prometheus-community/windows_exporter/pull/1448) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [installer: Disable Windows Firewall Exception by default. Can be re-enabled with ADD_FIREWALL_EXCEPTION=yes](https://github.com/prometheus-community/windows_exporter/pull/1447) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Thanos Ruler: Support omit externalPrefix with externalPrefixNilUsesHelmValues=true, if ingress is enabled](https://github.com/prometheus-community/helm-charts/pull/4454) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [Update README.md](https://github.com/jkroepke/docker-wixtoolset/pull/3) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (1 week ago)
 - [deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/249) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Implement lang versions as input parameter](https://github.com/grafana/plugin-actions/pull/21) on [grafana/plugin-actions](https://github.com/grafana/plugin-actions) (1 week ago)
 
 #### ⭐ Recent Stars
 
