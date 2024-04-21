@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [scheduled_task: Move OLE connection to collect function](https://github.com/prometheus-community/windows_exporter/pull/1451) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [iis: Add IIS info metric](https://github.com/prometheus-community/windows_exporter/pull/1450) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Add Windows application manifest](https://github.com/grafana/alloy/pull/620) on [grafana/alloy](https://github.com/grafana/alloy) (today)
 - [docs: fix link at remotecfg block](https://github.com/grafana/alloy/pull/618) on [grafana/alloy](https://github.com/grafana/alloy) (today)
 - [Ability to disable debug endpoints](https://github.com/prometheus-community/windows_exporter/pull/1448) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Implement a Windows application manifest](https://github.com/prometheus-community/windows_exporter/pull/1445) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [[kube-prometheus-stack] Update mixins, switch to kube-prometheus mixin, add grafana rules and fix label aggregation in TargetDown alert](https://github.com/prometheus-community/helm-charts/pull/4460) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[kube-prometheus-stack] Thanos Ruler: Support omit externalPrefix with externalPrefixNilUsesHelmValues=true, if ingress is enabled](https://github.com/prometheus-community/helm-charts/pull/4454) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [Update README.md](https://github.com/jkroepke/docker-wixtoolset/pull/3) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (1 week ago)
-- [deps](https://github.com/jkroepke/openvpn-auth-oauth2/pull/249) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
