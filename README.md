@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.1](https://github.com/zitadel/oidc/releases/tag/v3.22.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.20.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.3.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.3.3), 2 days ago) - 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.35.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.35.0), 3 days ago) - 
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.53.0](https://github.com/prometheus/common/releases/tag/v0.53.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.2), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.80](https://github.com/stakater/Reloader/releases/tag/v1.0.80), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.0](https://github.com/zitadel/oidc/releases/tag/v3.22.0), 6 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.2), 1 week ago) - General-purpose web UI for Kubernetes clusters
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.0), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
