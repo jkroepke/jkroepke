@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 day ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (2 days ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (5 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
@@ -30,29 +30,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.20.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.3.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.3.3), 1 day ago) - 
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.35.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.35.0), 2 days ago) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.100.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.100.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/common](https://github.com/prometheus/common) ([v0.53.0](https://github.com/prometheus/common/releases/tag/v0.53.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.2), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.80](https://github.com/stakater/Reloader/releases/tag/v1.0.80), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.0](https://github.com/zitadel/oidc/releases/tag/v3.22.0), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.2), 6 days ago) - General-purpose web UI for Kubernetes clusters
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.0), 6 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.20.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.3.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.3.3), 2 days ago) - 
+- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.35.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.35.0), 3 days ago) - 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.100.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.100.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus/common](https://github.com/prometheus/common) ([v0.53.0](https://github.com/prometheus/common/releases/tag/v0.53.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.2), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.80](https://github.com/stakater/Reloader/releases/tag/v1.0.80), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.0](https://github.com/zitadel/oidc/releases/tag/v3.22.0), 6 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.2), 1 week ago) - General-purpose web UI for Kubernetes clusters
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.0), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
-- [Do not add &#34;--web.listen-address&#34; to service if default values are provided](https://github.com/prometheus-community/windows_exporter/pull/1452) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [scheduled_task: Move OLE connection to collect function](https://github.com/prometheus-community/windows_exporter/pull/1451) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [iis: Add IIS info metric](https://github.com/prometheus-community/windows_exporter/pull/1450) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Add Windows application manifest](https://github.com/grafana/alloy/pull/620) on [grafana/alloy](https://github.com/grafana/alloy) (today)
-- [docs: fix link at remotecfg block](https://github.com/grafana/alloy/pull/618) on [grafana/alloy](https://github.com/grafana/alloy) (today)
-- [Ability to disable debug endpoints](https://github.com/prometheus-community/windows_exporter/pull/1448) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [installer: Disable Windows Firewall Exception by default. Can be re-enabled with ADD_FIREWALL_EXCEPTION=yes](https://github.com/prometheus-community/windows_exporter/pull/1447) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Restore Windows 2012 support.](https://github.com/prometheus-community/windows_exporter/pull/1446) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Implement a Windows application manifest](https://github.com/prometheus-community/windows_exporter/pull/1445) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[kube-prometheus-stack] Update mixins, switch to kube-prometheus mixin, add grafana rules and fix label aggregation in TargetDown alert](https://github.com/prometheus-community/helm-charts/pull/4460) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [Do not add &#34;--web.listen-address&#34; to service if default values are provided](https://github.com/prometheus-community/windows_exporter/pull/1452) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [scheduled_task: Move OLE connection to collect function](https://github.com/prometheus-community/windows_exporter/pull/1451) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [iis: Add IIS info metric](https://github.com/prometheus-community/windows_exporter/pull/1450) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [Add Windows application manifest](https://github.com/grafana/alloy/pull/620) on [grafana/alloy](https://github.com/grafana/alloy) (1 day ago)
+- [docs: fix link at remotecfg block](https://github.com/grafana/alloy/pull/618) on [grafana/alloy](https://github.com/grafana/alloy) (1 day ago)
+- [Ability to disable debug endpoints](https://github.com/prometheus-community/windows_exporter/pull/1448) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [installer: Disable Windows Firewall Exception by default. Can be re-enabled with ADD_FIREWALL_EXCEPTION=yes](https://github.com/prometheus-community/windows_exporter/pull/1447) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Restore Windows 2012 support.](https://github.com/prometheus-community/windows_exporter/pull/1446) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Implement a Windows application manifest](https://github.com/prometheus-community/windows_exporter/pull/1445) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[kube-prometheus-stack] Update mixins, switch to kube-prometheus mixin, add grafana rules and fix label aggregation in TargetDown alert](https://github.com/prometheus-community/helm-charts/pull/4460) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
