@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.287](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.287), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.2](https://github.com/aquasecurity/trivy/releases/tag/v0.50.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-0.0.1](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-0.0.1), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.1](https://github.com/zitadel/oidc/releases/tag/v3.22.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.20.0), 2 days ago) - Prometheus community Helm charts
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.35.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.35.0), 3 days ago) - 
