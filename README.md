@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.1), today) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.17.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.2), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.2](https://github.com/aquasecurity/trivy/releases/tag/v0.50.2), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.53.0](https://github.com/prometheus/common/releases/tag/v0.53.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.2), 6 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.80](https://github.com/stakater/Reloader/releases/tag/v1.0.80), 6 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.3.2](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.3.2), 1 week ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
 
