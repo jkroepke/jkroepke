@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.81](https://github.com/stakater/Reloader/releases/tag/v1.0.81), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.82](https://github.com/stakater/Reloader/releases/tag/v1.0.82), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.2.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.4), 1 day ago) - 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
