@@ -18,7 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (4 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.7.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.2.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.4), 1 day ago) - 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.2](https://github.com/aquasecurity/trivy/releases/tag/v0.50.2), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
