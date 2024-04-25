@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v1.1.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v1.1.0), today) - A set of modern Grafana dashboards for Kubernetes.
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.0.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.0.0), today) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.2.2), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.5](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.5), today) - Automatically provision and manage TLS certificates in Kubernetes
