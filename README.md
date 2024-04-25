@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.10](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.10), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.13.6](https://github.com/cert-manager/cert-manager/releases/tag/v1.13.6), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.3), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.4](https://github.com/aquasecurity/trivy/releases/tag/v0.50.4), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.16.0), 1 day ago) - Prometheus community Helm charts
