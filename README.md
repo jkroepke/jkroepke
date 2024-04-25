@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.10](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.10), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.3), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.4](https://github.com/aquasecurity/trivy/releases/tag/v0.50.4), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.16.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.35.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.35.0), 6 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.100.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.100.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.53.0](https://github.com/prometheus/common/releases/tag/v0.53.0), 1 week ago) - Go libraries shared across Prometheus components and libraries.
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.2), 1 week ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
