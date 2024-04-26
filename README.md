@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 days ago)
@@ -24,13 +25,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (6 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.87](https://github.com/stakater/Reloader/releases/tag/v1.0.87), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.88](https://github.com/stakater/Reloader/releases/tag/v1.0.88), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.1), today) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.2.0), today) - Prometheus community Helm charts
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.0), today) - A set of modern Grafana dashboards for Kubernetes.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add Keycloak docs for roles](https://github.com/jkroepke/openvpn-auth-oauth2/pull/253) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Do not add &#34;--web.listen-address&#34; to service if default values are provided](https://github.com/prometheus-community/windows_exporter/pull/1452) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [scheduled_task: Move OLE connection to collect function](https://github.com/prometheus-community/windows_exporter/pull/1451) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [iis: Add IIS info metric](https://github.com/prometheus-community/windows_exporter/pull/1450) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [installer: Disable Windows Firewall Exception by default. Can be re-enabled with ADD_FIREWALL_EXCEPTION=yes](https://github.com/prometheus-community/windows_exporter/pull/1447) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [Restore Windows 2012 support.](https://github.com/prometheus-community/windows_exporter/pull/1446) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [Implement a Windows application manifest](https://github.com/prometheus-community/windows_exporter/pull/1445) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [[kube-prometheus-stack] Update mixins, switch to kube-prometheus mixin, add grafana rules and fix label aggregation in TargetDown alert](https://github.com/prometheus-community/helm-charts/pull/4460) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
