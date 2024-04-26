@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.83](https://github.com/stakater/Reloader/releases/tag/v1.0.83), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.84](https://github.com/stakater/Reloader/releases/tag/v1.0.84), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.2.0), today) - Prometheus community Helm charts
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.0), today) - A set of modern Grafana dashboards for Kubernetes.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.101.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.101.0), today) - Terraform provider for Azure Resource Manager
