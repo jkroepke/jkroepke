@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.101.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.101.0), today) - Terraform provider for Azure Resource Manager
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.0.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.0.0), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.4), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.2.2), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.1), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.1](https://github.com/zitadel/oidc/releases/tag/v3.22.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.35.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.35.0), 1 week ago) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.100.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.100.0), 1 week ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
