@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1459) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Add Keycloak docs for roles](https://github.com/jkroepke/openvpn-auth-oauth2/pull/253) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Do not add &#34;--web.listen-address&#34; to service if default values are provided](https://github.com/prometheus-community/windows_exporter/pull/1452) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [scheduled_task: Move OLE connection to collect function](https://github.com/prometheus-community/windows_exporter/pull/1451) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Ability to disable debug endpoints](https://github.com/prometheus-community/windows_exporter/pull/1448) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [installer: Disable Windows Firewall Exception by default. Can be re-enabled with ADD_FIREWALL_EXCEPTION=yes](https://github.com/prometheus-community/windows_exporter/pull/1447) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Restore Windows 2012 support.](https://github.com/prometheus-community/windows_exporter/pull/1446) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [Implement a Windows application manifest](https://github.com/prometheus-community/windows_exporter/pull/1445) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
