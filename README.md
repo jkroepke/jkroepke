@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.93](https://github.com/stakater/Reloader/releases/tag/v1.0.93), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.3), today) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.2](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.2), today) - Kubetail helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.3.0), today) - Prometheus community Helm charts
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.0.2](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.0.2), 1 day ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.92](https://github.com/stakater/Reloader/releases/tag/v1.0.92), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.1), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.0), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.101.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.101.0), 2 days ago) - Terraform provider for Azure Resource Manager
