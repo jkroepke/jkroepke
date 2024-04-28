@@ -17,50 +17,50 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus scrapable format (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (3 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (4 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 week ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.92](https://github.com/stakater/Reloader/releases/tag/v1.0.92), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.1), 1 day ago) - Ingress-NGINX Controller for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.2.0), 1 day ago) - Prometheus community Helm charts
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.0), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.101.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.101.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.4), 2 days ago) - 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.5](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.5), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.4](https://github.com/aquasecurity/trivy/releases/tag/v0.50.4), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.1](https://github.com/zitadel/oidc/releases/tag/v3.22.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.35.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.35.0), 1 week ago) - 
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.0.2](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.0.2), 1 day ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.92](https://github.com/stakater/Reloader/releases/tag/v1.0.92), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.1), 2 days ago) - Ingress-NGINX Controller for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.2.0), 2 days ago) - Prometheus community Helm charts
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.0), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.101.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.101.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.4), 3 days ago) - 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.5](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.5), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.50.4](https://github.com/aquasecurity/trivy/releases/tag/v0.50.4), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.22.1](https://github.com/zitadel/oidc/releases/tag/v3.22.1), 6 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
-- [fix/import](https://github.com/jkroepke/azure-monitor-exporter/pull/4) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (today)
-- [fix build](https://github.com/jkroepke/azure-monitor-exporter/pull/3) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (today)
-- [init](https://github.com/jkroepke/azure-monitor-exporter/pull/2) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (today)
-- [perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1459) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Add Keycloak docs for roles](https://github.com/jkroepke/openvpn-auth-oauth2/pull/253) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Do not add &#34;--web.listen-address&#34; to service if default values are provided](https://github.com/prometheus-community/windows_exporter/pull/1452) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [scheduled_task: Move OLE connection to collect function](https://github.com/prometheus-community/windows_exporter/pull/1451) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [iis: Add IIS info metric](https://github.com/prometheus-community/windows_exporter/pull/1450) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [Add Windows application manifest](https://github.com/grafana/alloy/pull/620) on [grafana/alloy](https://github.com/grafana/alloy) (6 days ago)
-- [docs: fix link at remotecfg block](https://github.com/grafana/alloy/pull/618) on [grafana/alloy](https://github.com/grafana/alloy) (6 days ago)
+- [add/labels](https://github.com/jkroepke/azure-monitor-exporter/pull/5) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 day ago)
+- [fix/import](https://github.com/jkroepke/azure-monitor-exporter/pull/4) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 day ago)
+- [fix build](https://github.com/jkroepke/azure-monitor-exporter/pull/3) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 day ago)
+- [init](https://github.com/jkroepke/azure-monitor-exporter/pull/2) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 day ago)
+- [perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1459) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [Add Keycloak docs for roles](https://github.com/jkroepke/openvpn-auth-oauth2/pull/253) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Do not add &#34;--web.listen-address&#34; to service if default values are provided](https://github.com/prometheus-community/windows_exporter/pull/1452) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
+- [scheduled_task: Move OLE connection to collect function](https://github.com/prometheus-community/windows_exporter/pull/1451) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
+- [iis: Add IIS info metric](https://github.com/prometheus-community/windows_exporter/pull/1450) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
+- [Add Windows application manifest](https://github.com/grafana/alloy/pull/620) on [grafana/alloy](https://github.com/grafana/alloy) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again! (4 days ago)
+- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again! (5 days ago)
 - [Open-Lens/lens](https://github.com/Open-Lens/lens) - Forked from https://github.com/lensapp/lens.git (2 weeks ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 weeks ago)
 - [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2 (3 weeks ago)
-- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (3 weeks ago)
+- [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (4 weeks ago)
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.  (1 month ago)
 - [cemeyer/falsisign-mirror](https://github.com/cemeyer/falsisign-mirror) - https://gitlab.com/edouardklein/falsisign.git mirrored (snapshot taken 2020-04-08) (2 months ago)
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (2 months ago)
