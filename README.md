@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.8.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-0.0.2](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-0.0.2), today) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.3), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.1), today) - A set of modern Grafana dashboards for Kubernetes.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.93](https://github.com/stakater/Reloader/releases/tag/v1.0.93), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.5.3), 1 day ago) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.2](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.2), 1 day ago) - Kubetail helm charts
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.0.2](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.0.2), 2 days ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.1](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.1), 3 days ago) - Ingress-NGINX Controller for Kubernetes
