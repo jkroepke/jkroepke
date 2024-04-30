@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (1 day ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.0), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.0](https://github.com/zitadel/oidc/releases/tag/v3.23.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.4.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.4.2), today) - 
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.93](https://github.com/stakater/Reloader/releases/tag/v1.0.93), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.2](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.2), 2 days ago) - Kubetail helm charts
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.0.2](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.0.2), 3 days ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
 
 #### 🔨 My recent Pull Requests
 
+- [fix deadline in pass-through after client disconnect](https://github.com/jkroepke/openvpn-auth-oauth2/pull/257) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add tests](https://github.com/jkroepke/azure-monitor-exporter/pull/7) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (2 days ago)
 - [Expose host property from prometheus/common](https://github.com/grafana/alloy/pull/698) on [grafana/alloy](https://github.com/grafana/alloy) (2 days ago)
 - [add/labels](https://github.com/jkroepke/azure-monitor-exporter/pull/5) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1459) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [Add Keycloak docs for roles](https://github.com/jkroepke/openvpn-auth-oauth2/pull/253) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Do not add &#34;--web.listen-address&#34; to service if default values are provided](https://github.com/prometheus-community/windows_exporter/pull/1452) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [scheduled_task: Move OLE connection to collect function](https://github.com/prometheus-community/windows_exporter/pull/1451) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
