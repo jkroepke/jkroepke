@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [github-early-access/generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow (today)
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again! (1 week ago)
 - [Open-Lens/lens](https://github.com/Open-Lens/lens) - Forked from https://github.com/lensapp/lens.git (2 weeks ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cemeyer/falsisign-mirror](https://github.com/cemeyer/falsisign-mirror) - https://gitlab.com/edouardklein/falsisign.git mirrored (snapshot taken 2020-04-08) (2 months ago)
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery. (2 months ago)
 - [magicbear/palworld-server-toolkit](https://github.com/magicbear/palworld-server-toolkit) - PalWorld Server Toolkits - For Save file modify, list the players, repair sav file, etc... (2 months ago)
-- [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI for Ansible (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
