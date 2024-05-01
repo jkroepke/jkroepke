@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.5), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.1), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.0](https://github.com/zitadel/oidc/releases/tag/v3.23.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
