@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (2 days ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.1), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.0), 1 day ago) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.0](https://github.com/zitadel/oidc/releases/tag/v3.23.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.4.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.4.2), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.2), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
