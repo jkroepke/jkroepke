@@ -17,19 +17,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (3 days ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (4 days ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 week ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.1.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.1.0), today) - See expire date from certificates inside kubernetes secrets.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.5](https://github.com/prometheus/prometheus/releases/tag/v2.45.5), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.6), today) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.4), today) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.1](https://github.com/zitadel/oidc/releases/tag/v3.23.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -37,9 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.3), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.1), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.52.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.3), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.1), 3 days ago) - A set of modern Grafana dashboards for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
