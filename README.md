@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [network: Exclude pods running in host network](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/929) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (today)
 - [perflib: enrich error message](https://github.com/prometheus-community/windows_exporter/pull/1460) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix deadline in pass-through after client disconnect](https://github.com/jkroepke/openvpn-auth-oauth2/pull/257) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Add tests](https://github.com/jkroepke/azure-monitor-exporter/pull/7) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix build](https://github.com/jkroepke/azure-monitor-exporter/pull/3) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (5 days ago)
 - [init](https://github.com/jkroepke/azure-monitor-exporter/pull/2) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (5 days ago)
 - [perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1459) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [Add Keycloak docs for roles](https://github.com/jkroepke/openvpn-auth-oauth2/pull/253) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 
 #### ⭐ Recent Stars
 
