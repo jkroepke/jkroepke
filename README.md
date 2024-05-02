@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.3), today) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.1.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.1.0), today) - See expire date from certificates inside kubernetes secrets.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.5](https://github.com/prometheus/prometheus/releases/tag/v2.45.5), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.6), today) - 
