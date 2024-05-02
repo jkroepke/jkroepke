@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.4), today) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.1](https://github.com/zitadel/oidc/releases/tag/v3.23.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.3), today) - Kubetail helm charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.0](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.3), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.5), 1 day ago) - 
