@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.3), today) - Kubetail helm charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.0](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.0), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.3), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.5), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.52.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.6.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.6.3), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.1.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.1.1), 3 days ago) - A set of modern Grafana dashboards for Kubernetes.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.93](https://github.com/stakater/Reloader/releases/tag/v1.0.93), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
