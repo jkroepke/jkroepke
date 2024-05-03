@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.6), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.0](https://github.com/aquasecurity/trivy/releases/tag/v0.51.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.8](https://github.com/grafana/loki/releases/tag/v2.9.8), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.5.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.5.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.102.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.102.0), today) - Terraform provider for Azure Resource Manager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.1](https://github.com/helmfile/vals/releases/tag/v0.37.1), today) - Helm-like configuration values loader with support for various sources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.3), 1 day ago) - Prometheus community Helm charts
