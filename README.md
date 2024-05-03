@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.52.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.6), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.0](https://github.com/aquasecurity/trivy/releases/tag/v0.51.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.8](https://github.com/grafana/loki/releases/tag/v2.9.8), today) - Like Prometheus, but for logs.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.1](https://github.com/helmfile/vals/releases/tag/v0.37.1), today) - Helm-like configuration values loader with support for various sources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.3), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.1.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.1.0), 1 day ago) - See expire date from certificates inside kubernetes secrets.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.5](https://github.com/prometheus/prometheus/releases/tag/v2.45.5), 1 day ago) - The Prometheus monitoring system and time series database.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.4), 1 day ago) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.1](https://github.com/zitadel/oidc/releases/tag/v3.23.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
