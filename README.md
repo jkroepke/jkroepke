@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.102.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.102.0), today) - Terraform provider for Azure Resource Manager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.1](https://github.com/helmfile/vals/releases/tag/v0.37.1), today) - Helm-like configuration values loader with support for various sources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.3), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.1.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.1.0), 1 day ago) - See expire date from certificates inside kubernetes secrets.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.1](https://github.com/zitadel/oidc/releases/tag/v3.23.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.0](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.0), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.3), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.1), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
