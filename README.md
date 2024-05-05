@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (3 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.4.0), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.1](https://github.com/aquasecurity/trivy/releases/tag/v0.51.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.52.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.6), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.8](https://github.com/grafana/loki/releases/tag/v2.9.8), 2 days ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.102.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.102.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.1](https://github.com/helmfile/vals/releases/tag/v0.37.1), 2 days ago) - Helm-like configuration values loader with support for various sources
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.3.3), 3 days ago) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v3.1.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v3.1.0), 3 days ago) - See expire date from certificates inside kubernetes secrets.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.4), 3 days ago) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.1](https://github.com/zitadel/oidc/releases/tag/v3.23.1), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
