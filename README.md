@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.34.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.34.0), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.1](https://github.com/aquasecurity/trivy/releases/tag/v0.51.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.52.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.6), 2 days ago) - 
