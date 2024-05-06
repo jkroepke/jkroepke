@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: release builds](https://github.com/prometheus-community/windows_exporter/pull/1468) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Update README.md](https://github.com/MuhammedKalkan/OpenLens/pull/197) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (3 days ago)
 - [network: Exclude pods running in host network](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/929) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (4 days ago)
 - [perflib: enrich error message](https://github.com/prometheus-community/windows_exporter/pull/1460) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [add/labels](https://github.com/jkroepke/azure-monitor-exporter/pull/5) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
 - [fix/import](https://github.com/jkroepke/azure-monitor-exporter/pull/4) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
 - [fix build](https://github.com/jkroepke/azure-monitor-exporter/pull/3) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
-- [init](https://github.com/jkroepke/azure-monitor-exporter/pull/2) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
