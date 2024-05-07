@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (4 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (5 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (1 week ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 week ago)
@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.10](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.10), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.1), today) - Prometheus exporter for Windows machines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.4), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.9](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.9), today) - 
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.2](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.2), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.2](https://github.com/zitadel/oidc/releases/tag/v3.23.2), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.34.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.34.0), 2 days ago) - Prometheus community Helm charts
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/264) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [feat: Add disableExporterLadingPage flag](https://github.com/prometheus-community/windows_exporter/pull/1471) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: add Makefile.common, hostprocess tag and use ltsc2019 tag](https://github.com/prometheus-community/windows_exporter/pull/1469) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: release builds](https://github.com/prometheus-community/windows_exporter/pull/1468) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix deadline in pass-through after client disconnect](https://github.com/jkroepke/openvpn-auth-oauth2/pull/257) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [Add tests](https://github.com/jkroepke/azure-monitor-exporter/pull/7) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
 - [Expose host property from prometheus/common](https://github.com/grafana/alloy/pull/698) on [grafana/alloy](https://github.com/grafana/alloy) (1 week ago)
-- [add/labels](https://github.com/jkroepke/azure-monitor-exporter/pull/5) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
