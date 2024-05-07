@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.1), today) - Prometheus exporter for Windows machines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.4), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.9](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.9), today) - 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.0), 1 day ago) - Prometheus exporter for Windows machines
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.2](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.2), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.2](https://github.com/zitadel/oidc/releases/tag/v3.23.2), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.34.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.34.0), 2 days ago) - Prometheus community Helm charts
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add disableExporterLadingPage flag](https://github.com/prometheus-community/windows_exporter/pull/1471) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: add Makefile.common, hostprocess tag and use ltsc2019 tag](https://github.com/prometheus-community/windows_exporter/pull/1469) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: release builds](https://github.com/prometheus-community/windows_exporter/pull/1468) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Update README.md](https://github.com/MuhammedKalkan/OpenLens/pull/197) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add tests](https://github.com/jkroepke/azure-monitor-exporter/pull/7) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
 - [Expose host property from prometheus/common](https://github.com/grafana/alloy/pull/698) on [grafana/alloy](https://github.com/grafana/alloy) (1 week ago)
 - [add/labels](https://github.com/jkroepke/azure-monitor-exporter/pull/5) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
-- [fix/import](https://github.com/jkroepke/azure-monitor-exporter/pull/4) on [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
