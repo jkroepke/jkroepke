@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.4.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.4.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.11.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.94](https://github.com/stakater/Reloader/releases/tag/v1.0.94), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.10](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.10), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.2](https://github.com/zitadel/oidc/releases/tag/v3.23.2), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.1](https://github.com/aquasecurity/trivy/releases/tag/v0.51.1), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.52.0-rc.1), 5 days ago) - The Prometheus monitoring system and time series database.
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.8](https://github.com/grafana/loki/releases/tag/v2.9.8), 5 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
