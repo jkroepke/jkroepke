@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.5), today) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.4.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.4.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.11.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.94](https://github.com/stakater/Reloader/releases/tag/v1.0.94), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-7.3.10](https://github.com/grafana/helm-charts/releases/tag/grafana-7.3.10), 1 day ago) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.1), 1 day ago) - Prometheus exporter for Windows machines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.4), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.2](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.2), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
