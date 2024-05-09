@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0](https://github.com/prometheus/prometheus/releases/tag/v2.52.0), 1 day ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.5), 1 day ago) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.4.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.4.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.4), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.26.2](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.26.2), 3 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.23.2](https://github.com/zitadel/oidc/releases/tag/v3.23.2), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.1](https://github.com/aquasecurity/trivy/releases/tag/v0.51.1), 5 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
