@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Update Prometheus rules and Grafana dashboards](https://github.com/prometheus-community/helm-charts/pull/4531) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [fix: better error message against older OpenVPN versions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/267) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: release builds](https://github.com/prometheus-community/windows_exporter/pull/1474) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[kube-prometheus-stack] Add AlertmanagerConfig v1beta1 CRD](https://github.com/prometheus-community/helm-charts/pull/4526) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ci: add Makefile.common, hostprocess tag and use ltsc2019 tag](https://github.com/prometheus-community/windows_exporter/pull/1469) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [fix: release builds](https://github.com/prometheus-community/windows_exporter/pull/1468) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [Update README.md](https://github.com/MuhammedKalkan/OpenLens/pull/197) on [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) (6 days ago)
-- [network: Exclude pods running in host network](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/929) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (1 week ago)
 
 #### ⭐ Recent Stars
 
