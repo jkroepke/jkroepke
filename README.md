@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.4.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.6), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.2), today) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-0.0.3](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-0.0.3), today) - 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0](https://github.com/prometheus/prometheus/releases/tag/v2.52.0), 1 day ago) - The Prometheus monitoring system and time series database.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.4.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.4.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
