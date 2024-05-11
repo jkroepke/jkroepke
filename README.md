@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (1 week ago)
@@ -30,38 +30,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.5.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.5.2), today) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.103.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.103.1), today) - Terraform provider for Azure Resource Manager
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.95](https://github.com/stakater/Reloader/releases/tag/v1.0.95), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.1.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.0), 1 day ago) - Prometheus community Helm charts
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.2), 1 day ago) - Prometheus exporter for Windows machines
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0](https://github.com/prometheus/prometheus/releases/tag/v2.52.0), 2 days ago) - The Prometheus monitoring system and time series database.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.4.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.4.0), 2 days ago) - General-purpose web UI for Kubernetes clusters
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.4), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.5.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.5.2), 1 day ago) - 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.103.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.103.1), 1 day ago) - Terraform provider for Azure Resource Manager
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.95](https://github.com/stakater/Reloader/releases/tag/v1.0.95), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.1.0-rc.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.2), 2 days ago) - Prometheus exporter for Windows machines
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0](https://github.com/prometheus/prometheus/releases/tag/v2.52.0), 3 days ago) - The Prometheus monitoring system and time series database.
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.4.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.4.0), 3 days ago) - General-purpose web UI for Kubernetes clusters
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.4), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [fix: extra func - add nil check](https://github.com/golang/oauth2/pull/722) on [golang/oauth2](https://github.com/golang/oauth2) (today)
-- [fix: better error message if oauth2 provider with manual endpoints is used](https://github.com/jkroepke/openvpn-auth-oauth2/pull/269) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [[kube-prometheus-stack] Update Prometheus rules and Grafana dashboards](https://github.com/prometheus-community/helm-charts/pull/4531) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [fix: better error message against older OpenVPN versions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/267) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [fix: release builds](https://github.com/prometheus-community/windows_exporter/pull/1474) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[kube-prometheus-stack] Add AlertmanagerConfig v1beta1 CRD](https://github.com/prometheus-community/helm-charts/pull/4526) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [Update question.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/266) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/264) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [feat: Add disableExporterLadingPage flag](https://github.com/prometheus-community/windows_exporter/pull/1471) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [ci: add Makefile.common, hostprocess tag and use ltsc2019 tag](https://github.com/prometheus-community/windows_exporter/pull/1469) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [fix: extra func - add nil check](https://github.com/golang/oauth2/pull/722) on [golang/oauth2](https://github.com/golang/oauth2) (1 day ago)
+- [fix: better error message if oauth2 provider with manual endpoints is used](https://github.com/jkroepke/openvpn-auth-oauth2/pull/269) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [[kube-prometheus-stack] Update Prometheus rules and Grafana dashboards](https://github.com/prometheus-community/helm-charts/pull/4531) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [fix: better error message against older OpenVPN versions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/267) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [fix: release builds](https://github.com/prometheus-community/windows_exporter/pull/1474) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[kube-prometheus-stack] Add AlertmanagerConfig v1beta1 CRD](https://github.com/prometheus-community/helm-charts/pull/4526) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [Update question.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/266) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/264) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [feat: Add disableExporterLadingPage flag](https://github.com/prometheus-community/windows_exporter/pull/1471) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [ci: add Makefile.common, hostprocess tag and use ltsc2019 tag](https://github.com/prometheus-community/windows_exporter/pull/1469) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana. (5 days ago)
+- [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana. (6 days ago)
 - [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (1 week ago)
 - [github-early-access/generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow (1 week ago)
 - [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again! (2 weeks ago)
-- [Open-Lens/lens](https://github.com/Open-Lens/lens) - Forked from https://github.com/lensapp/lens.git (3 weeks ago)
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (3 weeks ago)
+- [Open-Lens/lens](https://github.com/Open-Lens/lens) - Forked from https://github.com/lensapp/lens.git (4 weeks ago)
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (4 weeks ago)
 - [roflmuffin/CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) - CounterStrikeSharp allows you to write server plugins in C# for Counter-Strike 2/Source2/CS2 (1 month ago)
 - [openbao/openbao](https://github.com/openbao/openbao) - OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys. (1 month ago)
 - [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) - Open source libraries and APIs to build custom preprocessing pipelines for labeling, training, or production machine learning pipelines.  (1 month ago)
