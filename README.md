@@ -52,7 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update question.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/266) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/264) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Remove landing page](https://github.com/prometheus-community/windows_exporter/pull/1471) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [ci: add Makefile.common, hostprocess tag and use ltsc2019 tag](https://github.com/prometheus-community/windows_exporter/pull/1469) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [Add: hostprocess image and push docker images to dockerhub and quay.io](https://github.com/prometheus-community/windows_exporter/pull/1469) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
