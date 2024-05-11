@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.20.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.21.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.5.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.5.2), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.103.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.103.1), 1 day ago) - Terraform provider for Azure Resource Manager
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.95](https://github.com/stakater/Reloader/releases/tag/v1.0.95), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
