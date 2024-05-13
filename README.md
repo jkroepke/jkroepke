@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.290](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.290), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.1), today) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.5), 1 day ago) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.5.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.5.2), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.103.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.103.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.95](https://github.com/stakater/Reloader/releases/tag/v1.0.95), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.1.0-rc.0), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
