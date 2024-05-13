@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-8.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-8.17.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.290](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.290), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.1.0), today) - Prometheus community Helm charts
+- [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.1](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.1), today) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.4.7](https://github.com/grafana/helm-charts/releases/tag/oncall-1.4.7), today) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.5), 1 day ago) - Kubetail helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.103.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.103.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.95](https://github.com/stakater/Reloader/releases/tag/v1.0.95), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.2), 4 days ago) - Prometheus exporter for Windows machines
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.52.0](https://github.com/prometheus/prometheus/releases/tag/v2.52.0), 5 days ago) - The Prometheus monitoring system and time series database.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.4.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.4.0), 5 days ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
 
