@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.1.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.0), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.1.0), 1 day ago) - Prometheus community Helm charts
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([v3.10.1](https://github.com/bloomberg/goldpinger/releases/tag/v3.10.1), 1 day ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.95](https://github.com/stakater/Reloader/releases/tag/v1.0.95), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.1.0-rc.0), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.2), 5 days ago) - Prometheus exporter for Windows machines
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 5 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 
 #### 🔨 My recent Pull Requests
 
