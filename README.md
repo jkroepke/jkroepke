@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (5 days ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (1 week ago)
@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.3), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.97](https://github.com/stakater/Reloader/releases/tag/v1.0.97), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.2.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.3.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0](https://github.com/grafana/alloy/releases/tag/v1.1.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.2), 1 day ago) - Prometheus community Helm charts
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([goldpinger-1.0.0](https://github.com/bloomberg/goldpinger/releases/tag/goldpinger-1.0.0), 1 day ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.36.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.36.0), 1 day ago) - 
