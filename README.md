@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.2.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.3.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0](https://github.com/grafana/alloy/releases/tag/v1.1.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.2), 1 day ago) - Prometheus community Helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.36.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.36.0), 1 day ago) - 
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.1), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.1.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.5), 3 days ago) - Kubetail helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.103.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.103.1), 5 days ago) - Terraform provider for Azure Resource Manager
 
