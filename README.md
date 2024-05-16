@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.11), today) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.0), today) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.22](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.22), today) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.3.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.5](https://github.com/grafana/agent/releases/tag/v0.40.5), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.3), 1 day ago) - Prometheus community Helm charts
