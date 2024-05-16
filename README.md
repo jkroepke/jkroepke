@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.3.22](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.3.22), today) - 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.3.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.5](https://github.com/grafana/agent/releases/tag/v0.40.5), today) - Vendor-neutral programmable observability pipelines.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.5.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.5.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.3), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.97](https://github.com/stakater/Reloader/releases/tag/v1.0.97), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.2.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.2.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0](https://github.com/grafana/alloy/releases/tag/v1.1.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([goldpinger-1.0.0](https://github.com/bloomberg/goldpinger/releases/tag/goldpinger-1.0.0), 2 days ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
