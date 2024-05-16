@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.5](https://github.com/grafana/agent/releases/tag/v0.40.5), today) - Vendor-neutral programmable observability pipelines.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.5.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.5.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.3), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.97](https://github.com/stakater/Reloader/releases/tag/v1.0.97), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.36.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.36.0), 2 days ago) - 
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.1), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.4.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.4.5), 4 days ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
