@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.11), today) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.0), today) - Kubetail helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.3.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.3.0), today) - Contains Helm charts for Kubernetes related open source tools
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0](https://github.com/grafana/alloy/releases/tag/v1.1.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [bloomberg/goldpinger](https://github.com/bloomberg/goldpinger) ([goldpinger-1.0.0](https://github.com/bloomberg/goldpinger/releases/tag/goldpinger-1.0.0), 2 days ago) - Debugging tool for Kubernetes which tests and displays connectivity between nodes in the cluster.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.6](https://github.com/databus23/helm-diff/releases/tag/v3.9.6), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.36.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.36.0), 2 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
