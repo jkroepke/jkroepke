@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.1](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.1), today) - Kubetail helm charts
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.2](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.2), today) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.24.0](https://github.com/zitadel/oidc/releases/tag/v3.24.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.104.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.104.0), today) - Terraform provider for Azure Resource Manager
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.4.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.4.0), today) - Contains Helm charts for Kubernetes related open source tools
