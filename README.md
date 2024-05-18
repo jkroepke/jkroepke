@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [printer collector: Use ENUM pattern for printer status](https://github.com/prometheus-community/windows_exporter/pull/1500) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Fix timezone caching issues](https://github.com/prometheus-community/windows_exporter/pull/1499) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [logical disk: Fix metrics for non drive letter disks](https://github.com/prometheus-community/windows_exporter/pull/1498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Service V2 collector](https://github.com/prometheus-community/windows_exporter/pull/1497) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: release build again again](https://github.com/prometheus-community/windows_exporter/pull/1481) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [fix: release build again](https://github.com/prometheus-community/windows_exporter/pull/1480) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [fix: release build again](https://github.com/prometheus-community/windows_exporter/pull/1479) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [fix: release build](https://github.com/prometheus-community/windows_exporter/pull/1478) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
