@@ -19,8 +19,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (1 week ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (2 weeks ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 weeks ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.2](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.2), 1 day ago) - Kubetail helm charts
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.3), today) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.24.0](https://github.com/zitadel/oidc/releases/tag/v3.24.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.104.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.104.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.4.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.4.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
