@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.9.1](https://github.com/helmfile/helmfile-action/releases/tag/v1.9.1), today) - helmfile-action
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.3), 1 day ago) - Kubetail helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.24.0](https://github.com/zitadel/oidc/releases/tag/v3.24.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.104.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.104.0), 2 days ago) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.40.5](https://github.com/grafana/agent/releases/tag/v0.40.5), 3 days ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.5.3), 4 days ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.97](https://github.com/stakater/Reloader/releases/tag/v1.0.97), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.0](https://github.com/grafana/alloy/releases/tag/v1.1.0), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
