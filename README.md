@@ -18,12 +18,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (2 weeks ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 weeks ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (2 weeks ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 weeks ago)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: do not set auth-token-user, if username is given](https://github.com/jkroepke/openvpn-auth-oauth2/pull/272) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[grafana] Update Grafana to 11.0.0](https://github.com/grafana/helm-charts/pull/3139) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [printer collector: Use ENUM pattern for printer status](https://github.com/prometheus-community/windows_exporter/pull/1500) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Fix timezone caching issues](https://github.com/prometheus-community/windows_exporter/pull/1499) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Remove push to quay.io](https://github.com/prometheus-community/windows_exporter/pull/1490) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [fix: makefile variable override](https://github.com/prometheus-community/windows_exporter/pull/1482) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [fix: release build again again](https://github.com/prometheus-community/windows_exporter/pull/1481) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [fix: release build again](https://github.com/prometheus-community/windows_exporter/pull/1480) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
