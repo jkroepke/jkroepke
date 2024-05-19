@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[grafana] Update Grafana to 11.0.0](https://github.com/grafana/helm-charts/pull/3139) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [printer collector: Use ENUM pattern for printer status](https://github.com/prometheus-community/windows_exporter/pull/1500) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Fix timezone caching issues](https://github.com/prometheus-community/windows_exporter/pull/1499) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [logical disk: Fix metrics for non drive letter disks](https://github.com/prometheus-community/windows_exporter/pull/1498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: makefile variable override](https://github.com/prometheus-community/windows_exporter/pull/1482) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [fix: release build again again](https://github.com/prometheus-community/windows_exporter/pull/1481) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [fix: release build again](https://github.com/prometheus-community/windows_exporter/pull/1480) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [fix: release build again](https://github.com/prometheus-community/windows_exporter/pull/1479) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
