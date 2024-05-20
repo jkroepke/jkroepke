@@ -17,40 +17,40 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
 - [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (1 week ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (2 weeks ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (2 weeks ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (2 weeks ago)
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (3 weeks ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.2), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.6.0), today) - Prometheus community Helm charts
-- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.9.1](https://github.com/helmfile/helmfile-action/releases/tag/v1.9.1), today) - helmfile-action
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.3), 1 day ago) - Kubetail helm charts
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.24.0](https://github.com/zitadel/oidc/releases/tag/v3.24.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.104.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.104.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.4.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.4.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.12), 3 days ago) - 
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.2), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/agent](https://github.com/grafana/agent) ([v0.40.5](https://github.com/grafana/agent/releases/tag/v0.40.5), 3 days ago) - Vendor-neutral programmable observability pipelines.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.2), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.6.0), 1 day ago) - Prometheus community Helm charts
+- [helmfile/helmfile-action](https://github.com/helmfile/helmfile-action) ([v1.9.1](https://github.com/helmfile/helmfile-action/releases/tag/v1.9.1), 1 day ago) - helmfile-action
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.3), 2 days ago) - Kubetail helm charts
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.24.0](https://github.com/zitadel/oidc/releases/tag/v3.24.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.104.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.104.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.4.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.4.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.12), 4 days ago) - 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.14.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.14.2), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [grafana/agent](https://github.com/grafana/agent) ([v0.40.5](https://github.com/grafana/agent/releases/tag/v0.40.5), 4 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
-- [fix: do not set auth-token-user, if username is given](https://github.com/jkroepke/openvpn-auth-oauth2/pull/272) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [[grafana] Update Grafana to 11.0.0](https://github.com/grafana/helm-charts/pull/3139) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
-- [printer collector: Use ENUM pattern for printer status](https://github.com/prometheus-community/windows_exporter/pull/1500) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Fix timezone caching issues](https://github.com/prometheus-community/windows_exporter/pull/1499) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [logical disk: Fix metrics for non drive letter disks](https://github.com/prometheus-community/windows_exporter/pull/1498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [Service V2 collector](https://github.com/prometheus-community/windows_exporter/pull/1497) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [Fix docker push on release](https://github.com/prometheus-community/windows_exporter/pull/1496) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [Remove push to quay.io](https://github.com/prometheus-community/windows_exporter/pull/1490) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [fix: do not set auth-token-user, if username is given](https://github.com/jkroepke/openvpn-auth-oauth2/pull/272) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [[grafana] Update Grafana to 11.0.0](https://github.com/grafana/helm-charts/pull/3139) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
+- [printer collector: Use ENUM pattern for printer status](https://github.com/prometheus-community/windows_exporter/pull/1500) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Fix timezone caching issues](https://github.com/prometheus-community/windows_exporter/pull/1499) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [logical disk: Fix metrics for non drive letter disks](https://github.com/prometheus-community/windows_exporter/pull/1498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [Service V2 collector](https://github.com/prometheus-community/windows_exporter/pull/1497) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [Fix docker push on release](https://github.com/prometheus-community/windows_exporter/pull/1496) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [Remove push to quay.io](https://github.com/prometheus-community/windows_exporter/pull/1490) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [fix: makefile variable override](https://github.com/prometheus-community/windows_exporter/pull/1482) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [fix: release build again again](https://github.com/prometheus-community/windows_exporter/pull/1481) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
