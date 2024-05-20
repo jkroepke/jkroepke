@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.104.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.104.1), today) - Terraform provider for Azure Resource Manager
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.104.2](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.104.2), today) - Terraform provider for Azure Resource Manager
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.7.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.7.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.2](https://github.com/aquasecurity/trivy/releases/tag/v0.51.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.2), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
