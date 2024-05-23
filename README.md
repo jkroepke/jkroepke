@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.7.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.7.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.7.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.0](https://github.com/sunny0826/kubecm/releases/tag/v0.29.0), today) - Manage your kubeconfig more easily.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.5.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.5.1), 1 day ago) - 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.2), 1 day ago) - Customization of kubernetes YAML configurations
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.2](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.2), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.5), 1 day ago) - Kubetail helm charts
