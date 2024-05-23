@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.7.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.7.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.0](https://github.com/sunny0826/kubecm/releases/tag/v0.29.0), today) - Manage your kubeconfig more easily.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.5.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.5.1), 1 day ago) - 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.2), 1 day ago) - Customization of kubernetes YAML configurations
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.5), 1 day ago) - Kubetail helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-beta.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-beta.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.104.2](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.104.2), 3 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.7.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.7.0), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.2](https://github.com/aquasecurity/trivy/releases/tag/v0.51.2), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.2), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
