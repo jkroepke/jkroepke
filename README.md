@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.0), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.2.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.2.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-58.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-58.7.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.7.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.7.1), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.0](https://github.com/sunny0826/kubecm/releases/tag/v0.29.0), 1 day ago) - Manage your kubeconfig more easily.
