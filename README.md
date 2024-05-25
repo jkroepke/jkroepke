@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add Severities to template data and hasString to template function](https://github.com/prometheus/alertmanager/pull/3847) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [Remove user identity validation from ReadFromEnv](https://github.com/grafana/grafana-azure-sdk-go/pull/144) on [grafana/grafana-azure-sdk-go](https://github.com/grafana/grafana-azure-sdk-go) (5 days ago)
 - [fix: do not set auth-token-user, if username is given](https://github.com/jkroepke/openvpn-auth-oauth2/pull/272) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [[grafana] Update Grafana to 11.0.0](https://github.com/grafana/helm-charts/pull/3139) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Service V2 collector](https://github.com/prometheus-community/windows_exporter/pull/1497) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Fix docker push on release](https://github.com/prometheus-community/windows_exporter/pull/1496) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Remove push to quay.io](https://github.com/prometheus-community/windows_exporter/pull/1490) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [fix: makefile variable override](https://github.com/prometheus-community/windows_exporter/pull/1482) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
