@@ -17,19 +17,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (2 weeks ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (3 weeks ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (3 weeks ago)
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes. (3 weeks ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (3 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 weeks ago)
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (3 weeks ago)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0-beta.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0-beta.2), today) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.10](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.10), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.4](https://github.com/aquasecurity/trivy/releases/tag/v0.51.4), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.5), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -39,10 +40,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.0](https://github.com/sunny0826/kubecm/releases/tag/v0.29.0), 2 days ago) - Manage your kubeconfig more easily.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.2), 3 days ago) - Customization of kubernetes YAML configurations
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.2](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.2), 3 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.5), 3 days ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
+- [Add CI and lint and registry manifest](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/5) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
+- [fix goreleaser](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/4) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Add Severities to template data and hasString to template function](https://github.com/prometheus/alertmanager/pull/3847) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [Remove user identity validation from ReadFromEnv](https://github.com/grafana/grafana-azure-sdk-go/pull/144) on [grafana/grafana-azure-sdk-go](https://github.com/grafana/grafana-azure-sdk-go) (5 days ago)
 - [fix: do not set auth-token-user, if username is given](https://github.com/jkroepke/openvpn-auth-oauth2/pull/272) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix timezone caching issues](https://github.com/prometheus-community/windows_exporter/pull/1499) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [logical disk: Fix metrics for non drive letter disks](https://github.com/prometheus-community/windows_exporter/pull/1498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Service V2 collector](https://github.com/prometheus-community/windows_exporter/pull/1497) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [Fix docker push on release](https://github.com/prometheus-community/windows_exporter/pull/1496) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [Remove push to quay.io](https://github.com/prometheus-community/windows_exporter/pull/1490) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
