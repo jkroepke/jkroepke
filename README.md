@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update test.yaml](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/12) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Add CI and lint and registry manifest](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/5) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [fix goreleaser](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/4) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Add Severities to template data and hasString to template function](https://github.com/prometheus/alertmanager/pull/3847) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [printer collector: Use ENUM pattern for printer status](https://github.com/prometheus-community/windows_exporter/pull/1500) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Fix timezone caching issues](https://github.com/prometheus-community/windows_exporter/pull/1499) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [logical disk: Fix metrics for non drive letter disks](https://github.com/prometheus-community/windows_exporter/pull/1498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [Service V2 collector](https://github.com/prometheus-community/windows_exporter/pull/1497) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
