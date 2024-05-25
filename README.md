@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0-beta.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0-beta.2), today) - Terraform provider for Hetzner DNS
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0-beta.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0-beta.3), today) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.10](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.10), 1 day ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.4](https://github.com/aquasecurity/trivy/releases/tag/v0.51.4), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.5), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
