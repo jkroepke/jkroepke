@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0-rc.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0-rc.2), today) - Terraform provider for Hetzner DNS
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.7](https://github.com/databus23/helm-diff/releases/tag/v3.9.7), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.9.10](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.9.10), 2 days ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.4](https://github.com/aquasecurity/trivy/releases/tag/v0.51.4), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.7.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.7.1), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.0](https://github.com/sunny0826/kubecm/releases/tag/v0.29.0), 3 days ago) - Manage your kubeconfig more easily.
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.2](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.2), 4 days ago) - Customization of kubernetes YAML configurations
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.2](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.2), 4 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 
 #### 🔨 My recent Pull Requests
 
