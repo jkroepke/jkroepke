@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Enable max line length and more linter](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/42) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [fix name of TXTRecordToPlainValue](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/40) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Refactor TXT record functions](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/39) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Set User-Agent and adjust docs](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/37) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add CI and lint and registry manifest](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/5) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
 - [fix goreleaser](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/4) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
 - [Add Severities to template data and hasString to template function](https://github.com/prometheus/alertmanager/pull/3847) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 day ago)
-- [Remove user identity validation from ReadFromEnv](https://github.com/grafana/grafana-azure-sdk-go/pull/144) on [grafana/grafana-azure-sdk-go](https://github.com/grafana/grafana-azure-sdk-go) (6 days ago)
 
 #### ⭐ Recent Stars
 
