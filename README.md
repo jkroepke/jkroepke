@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix name of TXTRecordToPlainValue](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/40) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
+- [Refactor TXT record functions](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/39) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Set User-Agent and adjust docs](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/37) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Expose NS attribute of zones](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/36) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Migrate to provider framework](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/26) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix goreleaser](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/4) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
 - [Add Severities to template data and hasString to template function](https://github.com/prometheus/alertmanager/pull/3847) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 day ago)
 - [Remove user identity validation from ReadFromEnv](https://github.com/grafana/grafana-azure-sdk-go/pull/144) on [grafana/grafana-azure-sdk-go](https://github.com/grafana/grafana-azure-sdk-go) (6 days ago)
-- [fix: do not set auth-token-user, if username is given](https://github.com/jkroepke/openvpn-auth-oauth2/pull/272) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [[grafana] Update Grafana to 11.0.0](https://github.com/grafana/helm-charts/pull/3139) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
