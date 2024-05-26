@@ -43,16 +43,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Ensure naming convention](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/47) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
+- [Add CI job for cleanup old DNS zones](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/46) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
+- [fix txt formatter func](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/45) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
+- [Run test on main](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/44) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Enable max line length and more linter](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/42) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [fix name of TXTRecordToPlainValue](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/40) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Refactor TXT record functions](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/39) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Set User-Agent and adjust docs](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/37) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Expose NS attribute of zones](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/36) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Migrate to provider framework](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/26) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
-- [Update test.yaml](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/12) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
-- [Add CI and lint and registry manifest](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/5) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
-- [fix goreleaser](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/4) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
-- [Add Severities to template data and hasString to template function](https://github.com/prometheus/alertmanager/pull/3847) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 day ago)
 
 #### ⭐ Recent Stars
 
