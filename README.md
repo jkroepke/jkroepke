@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.2), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-beta.2), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.292](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.292), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.98](https://github.com/stakater/Reloader/releases/tag/v1.0.98), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-12.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-12.0.0), today) - Prometheus community Helm charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.1](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.1), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
