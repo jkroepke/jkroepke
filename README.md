@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0), today) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.2), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-beta.2), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.98](https://github.com/stakater/Reloader/releases/tag/v1.0.98), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-12.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-12.0.0), today) - Prometheus community Helm charts
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.1](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.1), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0-rc.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0-rc.2), 2 days ago) - Terraform provider for Hetzner DNS
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.7](https://github.com/databus23/helm-diff/releases/tag/v3.9.7), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.51.4](https://github.com/aquasecurity/trivy/releases/tag/v0.51.4), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.5.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.5.5), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
