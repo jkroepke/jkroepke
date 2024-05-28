@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.5.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.5.3), today) - 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0), today) - Terraform provider for Hetzner DNS
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.2), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-beta.2), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.98](https://github.com/stakater/Reloader/releases/tag/v1.0.98), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-12.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-12.0.0), today) - Prometheus community Helm charts
