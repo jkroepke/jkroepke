@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [CI: Add spell checker](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/65) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [Add CI for spell](https://github.com/jkroepke/openvpn-auth-oauth2/pull/275) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix typo collector.cpu.md:38: Privilged ==&gt; Privileged](https://github.com/prometheus-community/windows_exporter/pull/1508) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Add hostprocess image builds](https://github.com/prometheus-community/windows_exporter/pull/1507) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add CI job for cleanup old DNS zones](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/46) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
 - [fix txt formatter func](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/45) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
 - [Run test on main](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/44) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
-- [Enable max line length and more linter](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/42) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
 
 #### ⭐ Recent Stars
 
