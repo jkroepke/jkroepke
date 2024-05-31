@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.41.0](https://github.com/grafana/agent/releases/tag/v0.41.0), today) - Vendor-neutral programmable observability pipelines.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.19.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.19.1), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.106.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.106.0), today) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.5.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.5.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0), 3 days ago) - Terraform provider for Hetzner DNS
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-beta.2), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.1](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.1), 4 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 #### 🔨 My recent Pull Requests
 
