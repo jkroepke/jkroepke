@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.1](https://github.com/sunny0826/kubecm/releases/tag/v0.29.1), today) - Manage your kubeconfig more easily.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.9.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-59.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-59.1.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.106.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.106.1), 1 day ago) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.1](https://github.com/grafana/alloy/releases/tag/v1.1.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.5.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.5.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0), 4 days ago) - Terraform provider for Hetzner DNS
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-beta.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
