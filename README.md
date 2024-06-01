@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [New Resource: `azurerm_advisor_suppression`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26177) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [Add tfproviderlint](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/67) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [`azurerm_kubernetes_cluster` - Support in-place update of `network_profile.network_policy`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26176) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [CI: Add spell checker](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/65) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix default value of collectors.dfsr.sources-enabled](https://github.com/prometheus-community/windows_exporter/pull/1506) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Allow enable_txt_formatter=false and ensure naming](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/49) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (6 days ago)
 - [Ensure naming convention](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/47) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (6 days ago)
-- [Add CI job for cleanup old DNS zones](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/46) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (6 days ago)
 
 #### ⭐ Recent Stars
 
