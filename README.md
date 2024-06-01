@@ -17,48 +17,48 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (today)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (4 days ago)
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (5 days ago)
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (today)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 - [atuclan/left4dead2](https://github.com/atuclan/left4dead2) - Left4Dead 2 Server (3 weeks ago)
 - [MuhammedKalkan/OpenLens](https://github.com/MuhammedKalkan/OpenLens) - OpenLens Binary Build Repository (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.9.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-59.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-59.1.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.106.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.106.1), today) - Terraform provider for Azure Resource Manager
-- [grafana/agent](https://github.com/grafana/agent) ([v0.41.0](https://github.com/grafana/agent/releases/tag/v0.41.0), today) - Vendor-neutral programmable observability pipelines.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.101](https://github.com/stakater/Reloader/releases/tag/v1.0.101), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.1](https://github.com/grafana/alloy/releases/tag/v1.1.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.5.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.5.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0), 3 days ago) - Terraform provider for Hetzner DNS
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-beta.2), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.9.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-59.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-59.1.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.106.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.106.1), 1 day ago) - Terraform provider for Azure Resource Manager
+- [grafana/agent](https://github.com/grafana/agent) ([v0.41.0](https://github.com/grafana/agent/releases/tag/v0.41.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.101](https://github.com/stakater/Reloader/releases/tag/v1.0.101), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.1](https://github.com/grafana/alloy/releases/tag/v1.1.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.5.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.5.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.0.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.0.0), 4 days ago) - Terraform provider for Hetzner DNS
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0-beta.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0-beta.2), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
-- [CI: Add spell checker](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/65) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
-- [Add CI for spell](https://github.com/jkroepke/openvpn-auth-oauth2/pull/275) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Fix typo collector.cpu.md:38: Privilged ==&gt; Privileged](https://github.com/prometheus-community/windows_exporter/pull/1508) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Add hostprocess image builds](https://github.com/prometheus-community/windows_exporter/pull/1507) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix default value of collectors.dfsr.sources-enabled](https://github.com/prometheus-community/windows_exporter/pull/1506) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Allow enable_txt_formatter=false and ensure naming](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/49) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
-- [Ensure naming convention](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/47) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
-- [Add CI job for cleanup old DNS zones](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/46) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
-- [fix txt formatter func](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/45) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
-- [Run test on main](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/44) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
+- [Add tfproviderlint](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/67) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
+- [`azurerm_kubernetes_cluster` - Support in-place update of `network_profile.network_policy`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26176) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
+- [CI: Add spell checker](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/65) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
+- [Add CI for spell](https://github.com/jkroepke/openvpn-auth-oauth2/pull/275) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Fix typo collector.cpu.md:38: Privilged ==&gt; Privileged](https://github.com/prometheus-community/windows_exporter/pull/1508) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [Add hostprocess image builds](https://github.com/prometheus-community/windows_exporter/pull/1507) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [fix default value of collectors.dfsr.sources-enabled](https://github.com/prometheus-community/windows_exporter/pull/1506) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [Allow enable_txt_formatter=false and ensure naming](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/49) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (6 days ago)
+- [Ensure naming convention](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/47) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (6 days ago)
+- [Add CI job for cleanup old DNS zones](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/46) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (1 day ago)
-- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (4 days ago)
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (5 days ago)
+- [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (2 days ago)
+- [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (5 days ago)
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (6 days ago)
 - [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana. (3 weeks ago)
 - [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (4 weeks ago)
 - [github-early-access/generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow (1 month ago)
