@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [New Resource: `azurerm_email_communication_service_domain`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26179) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [add timeouts](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/70) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
 - [New Resource: `azurerm_advisor_suppression`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26177) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
 - [Add tfproviderlint](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/67) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix typo collector.cpu.md:38: Privilged ==&gt; Privileged](https://github.com/prometheus-community/windows_exporter/pull/1508) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [Add hostprocess image builds](https://github.com/prometheus-community/windows_exporter/pull/1507) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [fix default value of collectors.dfsr.sources-enabled](https://github.com/prometheus-community/windows_exporter/pull/1506) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [Allow enable_txt_formatter=false and ensure naming](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/49) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 week ago)
 
 #### ⭐ Recent Stars
 
