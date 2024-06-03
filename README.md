@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/common](https://github.com/prometheus/common) ([v0.54.0](https://github.com/prometheus/common/releases/tag/v0.54.0), today) - Go libraries shared across Prometheus components and libraries.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.5.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.5.5), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.1](https://github.com/grafana/loki/releases/tag/operator/v0.6.1), today) - Like Prometheus, but for logs.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.103](https://github.com/stakater/Reloader/releases/tag/v1.0.103), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-59.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-59.1.0), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.106.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.106.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.41.0](https://github.com/grafana/agent/releases/tag/v0.41.0), 3 days ago) - Vendor-neutral programmable observability pipelines.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
