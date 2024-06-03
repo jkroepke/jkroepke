@@ -30,15 +30,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.102](https://github.com/stakater/Reloader/releases/tag/v1.0.102), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.0), today) - Terraform provider for Hetzner DNS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.0](https://github.com/aquasecurity/trivy/releases/tag/v0.52.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.0-rc.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.0-rc.2), 1 day ago) - Terraform provider for Hetzner DNS
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.1](https://github.com/sunny0826/kubecm/releases/tag/v0.29.1), 2 days ago) - Manage your kubeconfig more easily.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.9.0), 3 days ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-59.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-59.1.0), 3 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.106.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.106.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/agent](https://github.com/grafana/agent) ([v0.41.0](https://github.com/grafana/agent/releases/tag/v0.41.0), 3 days ago) - Vendor-neutral programmable observability pipelines.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.101](https://github.com/stakater/Reloader/releases/tag/v1.0.101), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.1](https://github.com/grafana/alloy/releases/tag/v1.1.1), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
