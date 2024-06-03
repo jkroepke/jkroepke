@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Expose HTTPHost property in HTTPClientConfig](https://github.com/prometheus/common/pull/645) on [prometheus/common](https://github.com/prometheus/common) (today)
 - [New Resource: `azurerm_email_communication_service_domain`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26179) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
 - [Add Timeouts](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/70) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (2 days ago)
 - [New Resource: `azurerm_advisor_suppression`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26177) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add CI for spell](https://github.com/jkroepke/openvpn-auth-oauth2/pull/275) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Fix typo collector.cpu.md:38: Privilged ==&gt; Privileged](https://github.com/prometheus-community/windows_exporter/pull/1508) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [Add hostprocess image builds](https://github.com/prometheus-community/windows_exporter/pull/1507) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [fix default value of collectors.dfsr.sources-enabled](https://github.com/prometheus-community/windows_exporter/pull/1506) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
