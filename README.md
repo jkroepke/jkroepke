@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.0](https://github.com/aquasecurity/trivy/releases/tag/v0.52.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.0-rc.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.0-rc.2), 1 day ago) - Terraform provider for Hetzner DNS
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.1](https://github.com/sunny0826/kubecm/releases/tag/v0.29.1), 2 days ago) - Manage your kubeconfig more easily.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.9.0), 3 days ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.1), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.101](https://github.com/stakater/Reloader/releases/tag/v1.0.101), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.1.1](https://github.com/grafana/alloy/releases/tag/v1.1.1), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.5.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.5.0), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
