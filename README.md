@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([lgtm-distributed-2.0.0](https://github.com/grafana/helm-charts/releases/tag/lgtm-distributed-2.0.0), today) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.18.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.18.0), today) - Dex Helm chart repository
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.104](https://github.com/stakater/Reloader/releases/tag/v1.0.104), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.6.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.6.0), today) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.7.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.7.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus/common](https://github.com/prometheus/common) ([v0.54.0](https://github.com/prometheus/common/releases/tag/v0.54.0), today) - Go libraries shared across Prometheus components and libraries.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.1](https://github.com/grafana/loki/releases/tag/operator/v0.6.1), today) - Like Prometheus, but for logs.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [upgrade advisor api to 2023-01-01](https://github.com/hashicorp/terraform-provider-azurerm/pull/26205) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [Expose HTTPHost property in HTTPClientConfig](https://github.com/prometheus/common/pull/645) on [prometheus/common](https://github.com/prometheus/common) (today)
 - [New Resource: `azurerm_email_communication_service_domain`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26179) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
 - [Add Timeouts](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/70) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [CI: Add spell checker](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/65) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (3 days ago)
 - [Add CI for spell](https://github.com/jkroepke/openvpn-auth-oauth2/pull/275) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Fix typo collector.cpu.md:38: Privilged ==&gt; Privileged](https://github.com/prometheus-community/windows_exporter/pull/1508) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [Add hostprocess image builds](https://github.com/prometheus-community/windows_exporter/pull/1507) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
