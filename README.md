@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.18.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.18.0), today) - Dex Helm chart repository
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.104](https://github.com/stakater/Reloader/releases/tag/v1.0.104), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.6.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.6.0), today) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.7.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.7.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus/common](https://github.com/prometheus/common) ([v0.54.0](https://github.com/prometheus/common/releases/tag/v0.54.0), today) - Go libraries shared across Prometheus components and libraries.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.1](https://github.com/grafana/loki/releases/tag/operator/v0.6.1), today) - Like Prometheus, but for logs.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.103](https://github.com/stakater/Reloader/releases/tag/v1.0.103), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.0), today) - Terraform provider for Hetzner DNS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.0](https://github.com/aquasecurity/trivy/releases/tag/v0.52.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.1](https://github.com/sunny0826/kubecm/releases/tag/v0.29.1), 2 days ago) - Manage your kubeconfig more easily.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-59.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-59.1.0), 3 days ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.106.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.106.1), 3 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
