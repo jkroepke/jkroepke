@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.5.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.5.0), today) - General-purpose web UI for Kubernetes clusters
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.2](https://github.com/helmfile/vals/releases/tag/v0.37.2), today) - Helm-like configuration values loader with support for various sources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([lgtm-distributed-2.0.0](https://github.com/grafana/helm-charts/releases/tag/lgtm-distributed-2.0.0), 1 day ago) - 
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.18.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.18.0), 1 day ago) - Dex Helm chart repository
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.104](https://github.com/stakater/Reloader/releases/tag/v1.0.104), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.7.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.7.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [prometheus/common](https://github.com/prometheus/common) ([v0.54.0](https://github.com/prometheus/common/releases/tag/v0.54.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.1](https://github.com/grafana/loki/releases/tag/operator/v0.6.1), 1 day ago) - Like Prometheus, but for logs.
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.0), 1 day ago) - Terraform provider for Hetzner DNS
