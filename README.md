@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.293](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.293), today) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.6.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.6.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.6.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.6.1), 1 day ago) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.5.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.5.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.2](https://github.com/helmfile/vals/releases/tag/v0.37.2), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.18.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.18.0), 2 days ago) - Dex Helm chart repository
