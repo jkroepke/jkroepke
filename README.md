@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.6.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.6.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.6.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.6.1), 1 day ago) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.5.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.5.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.2](https://github.com/helmfile/vals/releases/tag/v0.37.2), 1 day ago) - Helm-like configuration values loader with support for various sources
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.6.1](https://github.com/grafana/loki/releases/tag/operator/v0.6.1), 2 days ago) - Like Prometheus, but for logs.
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.0), 2 days ago) - Terraform provider for Hetzner DNS
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.0](https://github.com/aquasecurity/trivy/releases/tag/v0.52.0), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.29.1](https://github.com/sunny0826/kubecm/releases/tag/v0.29.1), 4 days ago) - Manage your kubeconfig more easily.
 
 #### 🔨 My recent Pull Requests
 
