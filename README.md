@@ -17,16 +17,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [grafana/plugin-actions](https://github.com/grafana/plugin-actions) -  (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (4 days ago)
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (6 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (6 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (6 days ago)
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [d/`azurerm_recovery_services_vault`: expose identity property](https://github.com/hashicorp/terraform-provider-azurerm/pull/26254) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [`azurerm_advisor_recommendations` - Add `filter_by_resource_ids` and `filter_by_recommendation_type_guids`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26220) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 days ago)
 - [upgrade `advisor` api to 2023-01-01](https://github.com/hashicorp/terraform-provider-azurerm/pull/26205) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (3 days ago)
 - [Expose HTTPHost property in HTTPClientConfig](https://github.com/prometheus/common/pull/645) on [prometheus/common](https://github.com/prometheus/common) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add tfproviderlint](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/67) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (5 days ago)
 - [`azurerm_kubernetes_cluster` - Support in-place update of `network_profile.network_policy`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26176) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (5 days ago)
 - [CI: Add spell checker](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/65) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (6 days ago)
-- [Add CI for spell](https://github.com/jkroepke/openvpn-auth-oauth2/pull/275) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 
 #### ⭐ Recent Stars
 
