@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.3), today) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.6), today) - Kubetail helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.0.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.6.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.6.2), 1 day ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.6.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.6.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.5.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.5.0), 2 days ago) - General-purpose web UI for Kubernetes clusters
