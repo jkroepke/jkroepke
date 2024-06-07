@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.1-rc.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.1-rc.1), today) - Terraform provider for Hetzner DNS
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.107.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.107.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.3), 1 day ago) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.6), 1 day ago) - Kubetail helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.0.0), 1 day ago) - Prometheus community Helm charts
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.5.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.5.0), 3 days ago) - General-purpose web UI for Kubernetes clusters
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.2](https://github.com/helmfile/vals/releases/tag/v0.37.2), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [dexidp/helm-charts](https://github.com/dexidp/helm-charts) ([dex-0.18.0](https://github.com/dexidp/helm-charts/releases/tag/dex-0.18.0), 4 days ago) - Dex Helm chart repository
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.104](https://github.com/stakater/Reloader/releases/tag/v1.0.104), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus/common](https://github.com/prometheus/common) ([v0.54.0](https://github.com/prometheus/common/releases/tag/v0.54.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
