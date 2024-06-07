@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.1-rc.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.1-rc.1), today) - Terraform provider for Hetzner DNS
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.1-rc.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.1-rc.2), today) - Terraform provider for Hetzner DNS
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.107.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.107.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.3](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.3), 1 day ago) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.6), 1 day ago) - Kubetail helm charts
