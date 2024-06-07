@@ -18,6 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
+- [jkroepke/terraform-azurerm-tagging](https://github.com/jkroepke/terraform-azurerm-tagging) - A module for tagging (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [grafana/plugin-actions](https://github.com/grafana/plugin-actions) -  (1 day ago)
@@ -25,13 +26,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (5 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.11.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.11.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.13.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.41.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.41.0), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.41.1](https://github.com/grafana/agent/releases/tag/v0.41.1), today) - Vendor-neutral programmable observability pipelines.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.11](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.11), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.53.0-rc.0), today) - The Prometheus monitoring system and time series database.
