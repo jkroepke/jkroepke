@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.0.1), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.11](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.11), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.4.0), today) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.53.0-rc.0), today) - The Prometheus monitoring system and time series database.
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.4](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.4), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.1-rc.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.1-rc.2), today) - Terraform provider for Hetzner DNS
