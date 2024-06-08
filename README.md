@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.13), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.11.1), today) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.41.1](https://github.com/grafana/agent/releases/tag/v0.41.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.11](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.11), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
