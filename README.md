@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Correct format in guide-new-resource documentation](https://github.com/hashicorp/terraform-provider-azurerm/pull/26275) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [`azurerm_kubernetes_cluster`: Respect PDB on default node pool rotation](https://github.com/hashicorp/terraform-provider-azurerm/pull/26274) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [`azurerm_kubernetes_cluster`: Support for upgrade path from Azure CNI to Azure CNI Overlay](https://github.com/hashicorp/terraform-provider-azurerm/pull/26260) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 days ago)
 - [d/`azurerm_recovery_services_vault`: expose identity property](https://github.com/hashicorp/terraform-provider-azurerm/pull/26254) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [New Resource: `azurerm_email_communication_service_domain`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26179) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (6 days ago)
 - [Add Timeouts](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/70) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 week ago)
 - [New Resource: `azurerm_advisor_suppression`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26177) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
-- [Add tfproviderlint](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/67) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 week ago)
 
 #### ⭐ Recent Stars
 
