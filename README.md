@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[grafana] Introduce toggle for volumeName lookup](https://github.com/grafana/helm-charts/pull/3163) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [Correct format in guide-new-resource documentation](https://github.com/hashicorp/terraform-provider-azurerm/pull/26275) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
 - [`azurerm_kubernetes_cluster`: Respect PDB on default node pool rotation](https://github.com/hashicorp/terraform-provider-azurerm/pull/26274) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
 - [`azurerm_kubernetes_cluster`: Support for upgrade path from Azure CNI to Azure CNI Overlay](https://github.com/hashicorp/terraform-provider-azurerm/pull/26260) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (3 days ago)
@@ -52,10 +53,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Expose HTTPHost property in HTTPClientConfig](https://github.com/prometheus/common/pull/645) on [prometheus/common](https://github.com/prometheus/common) (6 days ago)
 - [New Resource: `azurerm_email_communication_service_domain`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26179) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [Add Timeouts](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/70) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 week ago)
-- [New Resource: `azurerm_advisor_suppression`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26177) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 
 #### ⭐ Recent Stars
 
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (today)
 - [jessp01/zaje](https://github.com/jessp01/zaje) - Highlight/colourise command output, logfiles (and anything else really) based on regex pattern matching (today)
 - [CodeReaper/CRD-catalog](https://github.com/CodeReaper/CRD-catalog) -  (2 days ago)
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (5 days ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [groundcover-com/caretta](https://github.com/groundcover-com/caretta) - Instant K8s service dependency map, right to your Grafana. (1 month ago)
 - [dnhkng/GlaDOS](https://github.com/dnhkng/GlaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve. (1 month ago)
 - [github-early-access/generate-build-provenance](https://github.com/github-early-access/generate-build-provenance) - Publish a signed build provenance from your GitHub Actions workflow (1 month ago)
-- [Vonng/Capslock](https://github.com/Vonng/Capslock) - Make Capslock Great Again! (1 month ago)
 
 #### 👯 Check out some of my recent followers
 
