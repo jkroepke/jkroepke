@@ -17,19 +17,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 day ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/terraform-azurerm-tagging](https://github.com/jkroepke/terraform-azurerm-tagging) - A module for tagging (4 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [grafana/plugin-actions](https://github.com/grafana/plugin-actions) -  (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.106](https://github.com/stakater/Reloader/releases/tag/v1.0.106), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.53.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.30.0](https://github.com/sunny0826/kubecm/releases/tag/v0.30.0), today) - Manage your kubeconfig more easily.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.5), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.37.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.37.0), 1 day ago) - 
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.8.1), 2 days ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.1), 2 days ago) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.13), 3 days ago) - 
-- [grafana/agent](https://github.com/grafana/agent) ([v0.41.1](https://github.com/grafana/agent/releases/tag/v0.41.1), 4 days ago) - Vendor-neutral programmable observability pipelines.
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.11](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.11), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
