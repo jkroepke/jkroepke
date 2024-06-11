@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.106](https://github.com/stakater/Reloader/releases/tag/v1.0.106), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.107](https://github.com/stakater/Reloader/releases/tag/v1.0.107), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.53.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.30.0](https://github.com/sunny0826/kubecm/releases/tag/v0.30.0), today) - Manage your kubeconfig more easily.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.5), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [CxBug](https://github.com/CxBug)
 - [Woojciech](https://github.com/Woojciech)
 - [nikhilkoduri-fuga](https://github.com/nikhilkoduri-fuga)
 - [kirkanos](https://github.com/kirkanos)
 - [fotto1](https://github.com/fotto1)
-- [yp969803](https://github.com/yp969803)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
