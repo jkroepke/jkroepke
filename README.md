@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.294](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.294), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.1.0), today) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.107](https://github.com/stakater/Reloader/releases/tag/v1.0.107), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.53.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.30.0](https://github.com/sunny0826/kubecm/releases/tag/v0.30.0), 1 day ago) - Manage your kubeconfig more easily.
@@ -37,9 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.37.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.37.0), 2 days ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.1](https://github.com/aquasecurity/trivy/releases/tag/v0.52.1), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.2), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-5.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-5.8.1), 3 days ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.1), 3 days ago) - Terraform provider for Hetzner DNS
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.0.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.0.13), 4 days ago) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [maomaoaichirou](https://github.com/maomaoaichirou)
 - [CxBug](https://github.com/CxBug)
 - [Woojciech](https://github.com/Woojciech)
 - [nikhilkoduri-fuga](https://github.com/nikhilkoduri-fuga)
 - [kirkanos](https://github.com/kirkanos)
-- [fotto1](https://github.com/fotto1)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
