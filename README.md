@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.25.0](https://github.com/zitadel/oidc/releases/tag/v3.25.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.1.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.1.0), 1 day ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.107](https://github.com/stakater/Reloader/releases/tag/v1.0.107), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.37.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.37.0), 3 days ago) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.1](https://github.com/aquasecurity/trivy/releases/tag/v0.52.1), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.2), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.1), 4 days ago) - Terraform provider for Hetzner DNS
 
 #### 🔨 My recent Pull Requests
 
