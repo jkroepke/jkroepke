@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.108.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.108.0), today) - Terraform provider for Azure Resource Manager
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.25.1](https://github.com/zitadel/oidc/releases/tag/v3.25.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.7.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.7.1), 1 day ago) - 
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.3.1](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.3.1), 1 day ago) - Lookup resource attributes in tfstate.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.25.0](https://github.com/zitadel/oidc/releases/tag/v3.25.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.1.0), 2 days ago) - Prometheus community Helm charts
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.107](https://github.com/stakater/Reloader/releases/tag/v1.0.107), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.53.0-rc.1), 3 days ago) - The Prometheus monitoring system and time series database.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.30.0](https://github.com/sunny0826/kubecm/releases/tag/v0.30.0), 3 days ago) - Manage your kubeconfig more easily.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.14.5](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.14.5), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.37.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.37.0), 4 days ago) - 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.1](https://github.com/aquasecurity/trivy/releases/tag/v0.52.1), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
