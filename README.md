@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.4), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.8](https://github.com/databus23/helm-diff/releases/tag/v3.9.8), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.3.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.3.2), 2 days ago) - Lookup resource attributes in tfstate.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.2](https://github.com/aquasecurity/trivy/releases/tag/v0.52.2), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.3), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.108.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.108.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.25.1](https://github.com/zitadel/oidc/releases/tag/v3.25.1), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.7.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.7.1), 3 days ago) - 
