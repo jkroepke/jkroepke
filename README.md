@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.16.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.16.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.1.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.2.0), 1 day ago) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.4), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.8](https://github.com/databus23/helm-diff/releases/tag/v3.9.8), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
