@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.10.0), today) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.2.0-rc.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.7.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.7.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.1.1), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.2.0), 2 days ago) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.4), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.8](https://github.com/databus23/helm-diff/releases/tag/v3.9.8), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.3.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.3.2), 4 days ago) - Lookup resource attributes in tfstate.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[grafana] Adding jkroepke as maintainer](https://github.com/grafana/helm-charts/pull/3179) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [remote write: reject samples with future timestamps](https://github.com/prometheus/prometheus/pull/14304) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [Add terminal service session info](https://github.com/prometheus-community/windows_exporter/pull/1525) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [license collector](https://github.com/prometheus-community/windows_exporter/pull/1524) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [`azurerm_kubernetes_cluster`: Support for upgrade path from Azure CNI to Azure CNI Overlay](https://github.com/hashicorp/terraform-provider-azurerm/pull/26260) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [d/`azurerm_recovery_services_vault`: expose identity property](https://github.com/hashicorp/terraform-provider-azurerm/pull/26254) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [`azurerm_advisor_recommendations` - Add `filter_by_resource_ids` and `filter_by_recommendation_type_guids`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26220) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 weeks ago)
-- [upgrade `advisor` api to 2023-01-01](https://github.com/hashicorp/terraform-provider-azurerm/pull/26205) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
