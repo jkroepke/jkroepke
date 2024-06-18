@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.2.0-rc.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.7.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.7.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.1.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.2.0), 2 days ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.2](https://github.com/aquasecurity/trivy/releases/tag/v0.52.2), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.108.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.108.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.25.1](https://github.com/zitadel/oidc/releases/tag/v3.25.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.107](https://github.com/stakater/Reloader/releases/tag/v1.0.107), 1 week ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
