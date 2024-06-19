@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0](https://github.com/prometheus/prometheus/releases/tag/v2.53.0), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.10.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.2.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.7.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.7.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.3.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.3.2), 5 days ago) - Lookup resource attributes in tfstate.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.2](https://github.com/aquasecurity/trivy/releases/tag/v0.52.2), 5 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.108.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.108.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.25.1](https://github.com/zitadel/oidc/releases/tag/v3.25.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
