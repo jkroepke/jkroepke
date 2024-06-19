@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
@@ -24,12 +25,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/terraform-azurerm-tagging](https://github.com/jkroepke/terraform-azurerm-tagging) - A module for tagging (1 week ago)
 - [grafana/plugin-actions](https://github.com/grafana/plugin-actions) -  (1 week ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.3), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.21.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.21.1), today) - Prometheus community Helm charts
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.1](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.1), today) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.108](https://github.com/stakater/Reloader/releases/tag/v1.0.108), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.1.1), 2 days ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.4), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.8](https://github.com/databus23/helm-diff/releases/tag/v3.9.8), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.3.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.3.2), 5 days ago) - Lookup resource attributes in tfstate.
 
 #### 🔨 My recent Pull Requests
 
+- [docs: enrich google consent screen docu](https://github.com/jkroepke/openvpn-auth-oauth2/pull/278) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[grafana] Adding jkroepke as maintainer](https://github.com/grafana/helm-charts/pull/3179) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
 - [remote write: reject samples with future timestamps](https://github.com/prometheus/prometheus/pull/14304) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
 - [Add terminal service session info](https://github.com/prometheus-community/windows_exporter/pull/1525) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [`azurerm_kubernetes_cluster`: Respect PDB on default node pool rotation](https://github.com/hashicorp/terraform-provider-azurerm/pull/26274) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [`azurerm_kubernetes_cluster`: Support for upgrade path from Azure CNI to Azure CNI Overlay](https://github.com/hashicorp/terraform-provider-azurerm/pull/26260) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [d/`azurerm_recovery_services_vault`: expose identity property](https://github.com/hashicorp/terraform-provider-azurerm/pull/26254) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
-- [`azurerm_advisor_recommendations` - Add `filter_by_resource_ids` and `filter_by_recommendation_type_guids`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26220) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
