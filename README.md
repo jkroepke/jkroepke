@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.108](https://github.com/stakater/Reloader/releases/tag/v1.0.108), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0](https://github.com/prometheus/prometheus/releases/tag/v2.53.0), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.10.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.2.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.8](https://github.com/databus23/helm-diff/releases/tag/v3.9.8), 4 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [fujiwara/tfstate-lookup](https://github.com/fujiwara/tfstate-lookup) ([v1.3.2](https://github.com/fujiwara/tfstate-lookup/releases/tag/v1.3.2), 5 days ago) - Lookup resource attributes in tfstate.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.52.2](https://github.com/aquasecurity/trivy/releases/tag/v0.52.2), 5 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.108.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.108.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
