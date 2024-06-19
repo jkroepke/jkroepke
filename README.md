@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.1](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.1), today) - Prometheus exporter for Azure LogAnaylytics (Kusto queries)
+- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.1](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.1), today) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.108](https://github.com/stakater/Reloader/releases/tag/v1.0.108), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0](https://github.com/prometheus/prometheus/releases/tag/v2.53.0), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.10.0), 1 day ago) - Prometheus community Helm charts
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [suchiashok](https://github.com/suchiashok)
 - [jeyhunr](https://github.com/jeyhunr)
 - [sammorozov](https://github.com/sammorozov)
 - [maomaoaichirou](https://github.com/maomaoaichirou)
 - [CxBug](https://github.com/CxBug)
-- [Woojciech](https://github.com/Woojciech)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
