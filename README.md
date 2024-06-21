@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.114](https://github.com/stakater/Reloader/releases/tag/v1.0.114), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.6.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.6.1), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.6](https://github.com/prometheus/prometheus/releases/tag/v2.45.6), today) - The Prometheus monitoring system and time series database.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.112](https://github.com/stakater/Reloader/releases/tag/v1.0.112), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.3](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.3), today) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.7](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.7), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.109.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.109.0), today) - Terraform provider for Azure Resource Manager
