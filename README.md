@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.3](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.3), today) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.295](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.295), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.7](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.7), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.2](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.2), today) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.109](https://github.com/stakater/Reloader/releases/tag/v1.0.109), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.109.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.109.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.22.0), 1 day ago) - Prometheus community Helm charts
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [hu8813](https://github.com/hu8813)
 - [suchiashok](https://github.com/suchiashok)
 - [jeyhunr](https://github.com/jeyhunr)
 - [sammorozov](https://github.com/sammorozov)
 - [maomaoaichirou](https://github.com/maomaoaichirou)
-- [CxBug](https://github.com/CxBug)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
