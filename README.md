@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [`managementgroups` - migrate to hashicorp/go-azure-sdk](https://github.com/hashicorp/terraform-provider-azurerm/pull/26430) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
 - [docs: enrich google consent screen docu](https://github.com/jkroepke/openvpn-auth-oauth2/pull/278) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [[grafana] Adding jkroepke as maintainer](https://github.com/grafana/helm-charts/pull/3179) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
 - [remote write handler: reject samples with future timestamps](https://github.com/prometheus/prometheus/pull/14304) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Correct format in guide-new-resource documentation](https://github.com/hashicorp/terraform-provider-azurerm/pull/26275) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [`azurerm_kubernetes_cluster`: Respect PDB on default node pool rotation](https://github.com/hashicorp/terraform-provider-azurerm/pull/26274) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [`azurerm_kubernetes_cluster`: Support for upgrade path from Azure CNI to Azure CNI Overlay](https://github.com/hashicorp/terraform-provider-azurerm/pull/26260) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 weeks ago)
-- [d/`azurerm_recovery_services_vault`: expose identity property](https://github.com/hashicorp/terraform-provider-azurerm/pull/26254) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
