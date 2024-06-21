@@ -17,36 +17,36 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
-- [jkroepke/terraform-azurerm-tagging](https://github.com/jkroepke/terraform-azurerm-tagging) - A module for tagging (1 week ago)
+- [jkroepke/terraform-azurerm-tagging](https://github.com/jkroepke/terraform-azurerm-tagging) - A module for tagging (2 weeks ago)
 - [grafana/plugin-actions](https://github.com/grafana/plugin-actions) -  (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.22.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.7.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.7.2), today) - 
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.8.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.8.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.3), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.1](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.1), 1 day ago) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.108](https://github.com/stakater/Reloader/releases/tag/v1.0.108), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0](https://github.com/prometheus/prometheus/releases/tag/v2.53.0), 1 day ago) - The Prometheus monitoring system and time series database.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.2.0-rc.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.7.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.7.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.4), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.22.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.7.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.7.2), 1 day ago) - 
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.8.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.8.0), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.3), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.1](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.1), 2 days ago) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.108](https://github.com/stakater/Reloader/releases/tag/v1.0.108), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0](https://github.com/prometheus/prometheus/releases/tag/v2.53.0), 2 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.2.0-rc.0), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-6.7.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-6.7.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.4), 5 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [docs: enrich google consent screen docu](https://github.com/jkroepke/openvpn-auth-oauth2/pull/278) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [[grafana] Adding jkroepke as maintainer](https://github.com/grafana/helm-charts/pull/3179) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
-- [remote write handler: reject samples with future timestamps](https://github.com/prometheus/prometheus/pull/14304) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
-- [Add terminal service session info](https://github.com/prometheus-community/windows_exporter/pull/1525) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [docs: enrich google consent screen docu](https://github.com/jkroepke/openvpn-auth-oauth2/pull/278) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [[grafana] Adding jkroepke as maintainer](https://github.com/grafana/helm-charts/pull/3179) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
+- [remote write handler: reject samples with future timestamps](https://github.com/prometheus/prometheus/pull/14304) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (5 days ago)
+- [Add terminal service session info](https://github.com/prometheus-community/windows_exporter/pull/1525) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [license collector](https://github.com/prometheus-community/windows_exporter/pull/1524) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [[grafana] Introduce toggle for volumeName lookup](https://github.com/grafana/helm-charts/pull/3163) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [Correct format in guide-new-resource documentation](https://github.com/hashicorp/terraform-provider-azurerm/pull/26275) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
@@ -56,13 +56,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (2 days ago)
-- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (4 days ago)
-- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (4 days ago)
+- [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (3 days ago)
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (5 days ago)
+- [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (5 days ago)
 - [petr-stupka/terraform-github-actions](https://github.com/petr-stupka/terraform-github-actions) - A reference implementation of using GitHub Actions to deploy infrastructure to Azure using Terraform (1 week ago)
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (1 week ago)
 - [jessp01/zaje](https://github.com/jessp01/zaje) - Highlight/colourise command output, logfiles (and anything else really) based on regex pattern matching (1 week ago)
-- [CustomResourceDefinition/catalog](https://github.com/CustomResourceDefinition/catalog) - Repository with Custom Resource Definition files for validation purposes (1 week ago)
+- [CustomResourceDefinition/catalog](https://github.com/CustomResourceDefinition/catalog) - Repository with Custom Resource Definition files for validation purposes (2 weeks ago)
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (2 weeks ago)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (3 weeks ago)
 - [errata-ai/vale](https://github.com/errata-ai/vale) - :pencil: A markup-aware linter for prose built with speed and extensibility in mind. (3 weeks ago)
