@@ -30,15 +30,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.111](https://github.com/stakater/Reloader/releases/tag/v1.0.111), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.6.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.6.1), today) - 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.6](https://github.com/prometheus/prometheus/releases/tag/v2.45.6), today) - The Prometheus monitoring system and time series database.
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.112](https://github.com/stakater/Reloader/releases/tag/v1.0.112), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.3](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.3), today) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.295](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.295), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.7](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.7), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.109.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.109.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.22.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.8.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.8.0), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.3), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.0](https://github.com/prometheus/prometheus/releases/tag/v2.53.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.2.0-rc.0), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
