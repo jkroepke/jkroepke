@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.2.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.2.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-rc.0), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.114](https://github.com/stakater/Reloader/releases/tag/v1.0.114), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.6](https://github.com/prometheus/prometheus/releases/tag/v2.45.6), today) - The Prometheus monitoring system and time series database.
 - [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.3](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.3), today) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
