@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.11.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.11.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.12.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.12.0), today) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.3](https://github.com/helmfile/vals/releases/tag/v0.37.3), today) - Helm-like configuration values loader with support for various sources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.20.1), 1 day ago) - Prometheus community Helm charts
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.0), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
