@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.3](https://github.com/helmfile/vals/releases/tag/v0.37.3), today) - Helm-like configuration values loader with support for various sources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.20.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.20.1), 1 day ago) - Prometheus community Helm charts
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.0), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-rc.0), 3 days ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.14.7](https://github.com/cert-manager/cert-manager/releases/tag/v1.14.7), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.109.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.109.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.8.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.8.0), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.3), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
