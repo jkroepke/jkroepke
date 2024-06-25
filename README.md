@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.0.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.38.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.38.0), today) - 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.2](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.2), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.6](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.6), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.0), 3 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.114](https://github.com/stakater/Reloader/releases/tag/v1.0.114), 4 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.6](https://github.com/prometheus/prometheus/releases/tag/v2.45.6), 4 days ago) - The Prometheus monitoring system and time series database.
-- [webdevops/azure-loganalytics-exporter](https://github.com/webdevops/azure-loganalytics-exporter) ([24.6.3](https://github.com/webdevops/azure-loganalytics-exporter/releases/tag/24.6.3), 4 days ago) - Prometheus exporter for Azure LogAnalytics (Kusto queries)
 
 #### 🔨 My recent Pull Requests
 
