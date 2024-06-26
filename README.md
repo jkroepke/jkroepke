@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.4.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.4.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0](https://github.com/grafana/alloy/releases/tag/v1.2.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.2](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.2), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.0.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.38.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.38.0), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.6](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.6), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.3](https://github.com/helmfile/vals/releases/tag/v0.37.3), 2 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
