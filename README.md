@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.115](https://github.com/stakater/Reloader/releases/tag/v1.0.115), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.13.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.13.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-1.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-1.12.0), 1 day ago) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.0.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.2.0-rc.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.3](https://github.com/helmfile/vals/releases/tag/v0.37.3), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.0), 4 days ago) - A set of modern Grafana dashboards for Kubernetes.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.114](https://github.com/stakater/Reloader/releases/tag/v1.0.114), 5 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.45.6](https://github.com/prometheus/prometheus/releases/tag/v2.45.6), 5 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
