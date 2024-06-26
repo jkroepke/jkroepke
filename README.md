@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.2.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.2.1), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.1), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.4.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.4.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0](https://github.com/grafana/alloy/releases/tag/v1.2.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.2](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.2), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus/common](https://github.com/prometheus/common) ([v0.55.0](https://github.com/prometheus/common/releases/tag/v0.55.0), today) - Go libraries shared across Prometheus components and libraries.
