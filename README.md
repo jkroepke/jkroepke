@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.7](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.7), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.1.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.1.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.12.0), today) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.55.0](https://github.com/prometheus/common/releases/tag/v0.55.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.115](https://github.com/stakater/Reloader/releases/tag/v1.0.115), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) ([yace-helm-chart-0.38.0](https://github.com/nerdswords/helm-charts/releases/tag/yace-helm-chart-0.38.0), 2 days ago) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.6](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.6), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
