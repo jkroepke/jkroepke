@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.296](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.296), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.0.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.110.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.110.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.2.0), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.8), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
