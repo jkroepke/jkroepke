@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-60.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-60.5.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-13.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-13.0.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.110.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.110.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.2.0), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.8), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus-operator-crds] Add CI check to validate CRDs](https://github.com/prometheus-community/helm-charts/pull/4642) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat(helm): Expose labels on volumeClaimTemplates](https://github.com/grafana/loki/pull/13317) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
 - [Suppression](https://github.com/jkroepke/terraform-provider-azurerm/pull/1) on [jkroepke/terraform-provider-azurerm](https://github.com/jkroepke/terraform-provider-azurerm) (6 days ago)
 - [New Resource: `azurerm_communication_service_email_domain_association`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26432) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [remote write handler: reject samples with future timestamps](https://github.com/prometheus/prometheus/pull/14304) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [Add terminal service session info](https://github.com/prometheus-community/windows_exporter/pull/1525) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [license collector](https://github.com/prometheus-community/windows_exporter/pull/1524) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [[grafana] Introduce toggle for volumeName lookup](https://github.com/grafana/helm-charts/pull/3163) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
