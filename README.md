@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.53.0](https://github.com/aquasecurity/trivy/releases/tag/v0.53.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.2.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.5.1), today) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.9](https://github.com/databus23/helm-diff/releases/tag/v3.9.9), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.1), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.0](https://github.com/grafana/alloy/releases/tag/v1.2.0), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.2](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.2), 5 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [prometheus/common](https://github.com/prometheus/common) ([v0.55.0](https://github.com/prometheus/common/releases/tag/v0.55.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
