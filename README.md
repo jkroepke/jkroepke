@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.2.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.5.1), today) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.9](https://github.com/databus23/helm-diff/releases/tag/v3.9.9), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-weekly.296](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-weekly.296), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.110.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.110.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.8), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.0), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-state-metrics] Add automountServiceAccountToken flags](https://github.com/prometheus-community/helm-charts/pull/4682) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] Implement Gateway API](https://github.com/prometheus-community/helm-charts/pull/4646) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[CI] install Gateway API CRDs for chart tests](https://github.com/prometheus-community/helm-charts/pull/4645) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[prometheus-operator-crds] Add CI check to validate CRDs](https://github.com/prometheus-community/helm-charts/pull/4642) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [`managementgroups` - migrate to hashicorp/go-azure-sdk](https://github.com/hashicorp/terraform-provider-azurerm/pull/26430) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [docs: enrich google consent screen docu](https://github.com/jkroepke/openvpn-auth-oauth2/pull/278) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [[grafana] Adding jkroepke as maintainer](https://github.com/grafana/helm-charts/pull/3179) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
-- [remote write handler: reject samples with future timestamps](https://github.com/prometheus/prometheus/pull/14304) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
