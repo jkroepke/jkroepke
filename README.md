@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.2.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.2.2), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.13.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.13.2), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.21.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.21.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.4), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.1.0](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.1.0), 1 day ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.1.1), 1 day ago) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.53.0](https://github.com/aquasecurity/trivy/releases/tag/v0.53.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.9](https://github.com/databus23/helm-diff/releases/tag/v3.9.9), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.110.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.110.0), 4 days ago) - Terraform provider for Azure Resource Manager
