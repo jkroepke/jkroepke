@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.3.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.3.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.3](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.2.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.1.0](https://github.com/grafana/loki/releases/tag/v3.1.0), 1 day ago) - Like Prometheus, but for logs.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.4), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
