@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.111.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.111.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0-rc.3](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0-rc.3), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.9](https://github.com/grafana/loki/releases/tag/v2.9.9), 1 day ago) - Like Prometheus, but for logs.
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.1.0](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.1.0), 4 days ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.53.0](https://github.com/aquasecurity/trivy/releases/tag/v0.53.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.9](https://github.com/databus23/helm-diff/releases/tag/v3.9.9), 5 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.110.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.110.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.8), 1 week ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.0), 1 week ago) - Contains Helm charts for Kubernetes related open source tools
 
