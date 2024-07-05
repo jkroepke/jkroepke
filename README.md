@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [deps: Update all backend dependencies](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/50) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
 - [feat: enable ready HTTP endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/282) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [[kube-state-metrics] Add automountServiceAccountToken flags](https://github.com/prometheus-community/helm-charts/pull/4682) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[kube-prometheus-stack] Implement Gateway API](https://github.com/prometheus-community/helm-charts/pull/4646) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Suppression](https://github.com/jkroepke/terraform-provider-azurerm/pull/1) on [jkroepke/terraform-provider-azurerm](https://github.com/jkroepke/terraform-provider-azurerm) (1 week ago)
 - [New Resource: `azurerm_communication_service_email_domain_association`](https://github.com/hashicorp/terraform-provider-azurerm/pull/26432) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [`managementgroups` - migrate to hashicorp/go-azure-sdk](https://github.com/hashicorp/terraform-provider-azurerm/pull/26430) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 weeks ago)
-- [docs: enrich google consent screen docu](https://github.com/jkroepke/openvpn-auth-oauth2/pull/278) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
