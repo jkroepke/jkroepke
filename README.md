@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.117](https://github.com/stakater/Reloader/releases/tag/v1.0.117), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.5.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.5.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.9.0), 2 days ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.2), 2 days ago) - Terraform provider for Hetzner DNS
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.1.0](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.1.0), 1 week ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.53.0](https://github.com/aquasecurity/trivy/releases/tag/v0.53.0), 1 week ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.9.9](https://github.com/databus23/helm-diff/releases/tag/v3.9.9), 1 week ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.8), 1 week ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
