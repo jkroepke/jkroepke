@@ -17,38 +17,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (5 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (6 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 weeks ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (2 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.0), today) - 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), today) - Ingress-NGINX Controller for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.23.0), today) - Prometheus community Helm charts
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.117](https://github.com/stakater/Reloader/releases/tag/v1.0.117), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.2), 2 days ago) - Terraform provider for Hetzner DNS
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.111.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.111.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.9](https://github.com/grafana/loki/releases/tag/v2.9.9), 4 days ago) - Like Prometheus, but for logs.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.0), 1 day ago) - 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), 1 day ago) - Ingress-NGINX Controller for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.23.0), 1 day ago) - Prometheus community Helm charts
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.117](https://github.com/stakater/Reloader/releases/tag/v1.0.117), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.2), 3 days ago) - Terraform provider for Hetzner DNS
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.111.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.111.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.9](https://github.com/grafana/loki/releases/tag/v2.9.9), 5 days ago) - Like Prometheus, but for logs.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.4), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.1.0](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.1.0), 1 week ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.53.0](https://github.com/aquasecurity/trivy/releases/tag/v0.53.0), 1 week ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
-- [bump all dependencies](https://github.com/project-zot/zot/pull/2532) on [project-zot/zot](https://github.com/project-zot/zot) (today)
-- [feat: allow custom templates](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/54) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (3 days ago)
-- [feat: inline images in report html](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/53) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (3 days ago)
-- [misc: pass context and logger from request to chrome](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/52) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (3 days ago)
-- [feat: allow remote chrome instance](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/51) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (3 days ago)
-- [deps: Update all backend dependencies](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/50) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (3 days ago)
+- [bump all dependencies](https://github.com/project-zot/zot/pull/2532) on [project-zot/zot](https://github.com/project-zot/zot) (1 day ago)
+- [feat: allow custom templates](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/54) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (4 days ago)
+- [feat: inline images in report html](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/53) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (4 days ago)
+- [misc: pass context and logger from request to chrome](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/52) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (4 days ago)
+- [feat: allow remote chrome instance](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/51) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (4 days ago)
+- [deps: Update all backend dependencies](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/50) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (4 days ago)
 - [feat: enable ready HTTP endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/282) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [[kube-state-metrics] Add automountServiceAccountToken flags](https://github.com/prometheus-community/helm-charts/pull/4682) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[kube-prometheus-stack] Implement Gateway API](https://github.com/prometheus-community/helm-charts/pull/4646) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -57,12 +57,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### ⭐ Recent Stars
 
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms (1 week ago)
-- [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (2 weeks ago)
+- [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (3 weeks ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (3 weeks ago)
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (3 weeks ago)
 - [petr-stupka/terraform-github-actions](https://github.com/petr-stupka/terraform-github-actions) - A reference implementation of using GitHub Actions to deploy infrastructure to Azure using Terraform (3 weeks ago)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (4 weeks ago)
-- [jessp01/zaje](https://github.com/jessp01/zaje) - Highlight/colourise command output, logfiles (and anything else really) based on regex pattern matching (4 weeks ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (1 month ago)
+- [jessp01/zaje](https://github.com/jessp01/zaje) - Highlight/colourise command output, logfiles (and anything else really) based on regex pattern matching (1 month ago)
 - [CustomResourceDefinition/catalog](https://github.com/CustomResourceDefinition/catalog) - Repository with Custom Resource Definition files for validation purposes (1 month ago)
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (1 month ago)
 - [hcavarsan/kftray](https://github.com/hcavarsan/kftray) - A cross-platform system tray application for managing multiple kubectl port-forward commands, with support for UDP and proxy connections through k8s clusters (1 month ago)
