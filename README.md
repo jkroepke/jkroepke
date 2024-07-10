@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.0.1), today) - Prometheus community Helm charts
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.1](https://github.com/prometheus/prometheus/releases/tag/v2.53.1), today) - The Prometheus monitoring system and time series database.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.2), today) - 
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.118](https://github.com/stakater/Reloader/releases/tag/v1.0.118), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.3.0), 1 day ago) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.26.0](https://github.com/zitadel/oidc/releases/tag/v3.26.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.2), 4 days ago) - Terraform provider for Hetzner DNS
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.111.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.111.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.9](https://github.com/grafana/loki/releases/tag/v2.9.9), 6 days ago) - Like Prometheus, but for logs.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.4), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) ([v0.1.0](https://github.com/jkroepke/azure-monitor-exporter/releases/tag/v0.1.0), 1 week ago) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format
 
 #### 🔨 My recent Pull Requests
 
