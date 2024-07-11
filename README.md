@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.6.6](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.6.6), today) - 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.3), today) - Terraform provider for Hetzner DNS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.0.1), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.11.0](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.11.0), 3 days ago) - Ingress-NGINX Controller for Kubernetes
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.111.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.111.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.9](https://github.com/grafana/loki/releases/tag/v2.9.9), 1 week ago) - Like Prometheus, but for logs.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.4), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
