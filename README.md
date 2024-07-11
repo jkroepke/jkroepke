@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.5.1](https://github.com/grafana/helm-charts/releases/tag/alloy-0.5.1), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.1](https://github.com/grafana/alloy/releases/tag/v1.2.1), today) - OpenTelemetry Collector distribution with programmable pipelines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.3.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.3), today) - Terraform provider for Hetzner DNS
