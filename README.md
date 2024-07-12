@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.4.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.4.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.3), today) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.4), today) - Terraform provider for Hetzner DNS
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.112.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.112.0), today) - Terraform provider for Azure Resource Manager
