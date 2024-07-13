@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.4), today) - 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.5](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.5), 1 day ago) - Terraform provider for Hetzner DNS
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.79.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.79.1), 1 day ago) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.1), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.112.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.112.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.5](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.5), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
