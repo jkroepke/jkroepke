@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.9), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.2), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.0), today) - Prometheus community Helm charts
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.1), today) - Contains Helm charts for Kubernetes related open source tools
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.6), today) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.4](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.4), 1 day ago) - 
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.1), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.112.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.112.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.5](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.5), 4 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.1](https://github.com/grafana/alloy/releases/tag/v1.2.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.1](https://github.com/prometheus/prometheus/releases/tag/v2.53.1), 6 days ago) - The Prometheus monitoring system and time series database.
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.118](https://github.com/stakater/Reloader/releases/tag/v1.0.118), 6 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 
 #### 🔨 My recent Pull Requests
 
