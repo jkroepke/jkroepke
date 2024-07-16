@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.6), today) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.16.4](https://github.com/grafana/helm-charts/releases/tag/promtail-6.16.4), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.3.3), 3 days ago) - Prometheus community Helm charts
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.5](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.5), 4 days ago) - Terraform provider for Hetzner DNS
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.1), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.112.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.112.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.5](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.5), 4 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
