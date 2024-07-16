@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.7.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.1), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.9), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.2), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.0), today) - Prometheus community Helm charts
