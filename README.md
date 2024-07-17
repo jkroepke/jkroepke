@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (6 days ago)
-- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (1 week ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (1 week ago)
+- [jkroepke/azure-monitor-exporter](https://github.com/jkroepke/azure-monitor-exporter) - A simple prometheus exporter to provide metrics from Azure Monitor in Prometheus format (2 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.7.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.1), today) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.9), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.2), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.0), today) - Prometheus community Helm charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.1), today) - Contains Helm charts for Kubernetes related open source tools
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.6), today) - Terraform provider for Hetzner DNS
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.112.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.112.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.5](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.5), 4 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.1](https://github.com/grafana/alloy/releases/tag/v1.2.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.1](https://github.com/prometheus/prometheus/releases/tag/v2.53.1), 6 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.7.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.1), 1 day ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.9), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.2), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.0), 1 day ago) - Prometheus community Helm charts
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.1), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.6), 1 day ago) - Terraform provider for Hetzner DNS
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.112.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.112.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.5](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.5), 5 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.2.1](https://github.com/grafana/alloy/releases/tag/v1.2.1), 6 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.1](https://github.com/prometheus/prometheus/releases/tag/v2.53.1), 1 week ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
@@ -56,8 +56,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (1 day ago)
-- [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms (2 weeks ago)
+- [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (2 days ago)
+- [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms (3 weeks ago)
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (4 weeks ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (1 month ago)
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (1 month ago)
