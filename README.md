@@ -45,7 +45,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [misc: make update_licenses.sh faster](https://github.com/project-zot/zot/pull/2553) on [project-zot/zot](https://github.com/project-zot/zot) (1 day ago)
 - [misc: Add golangci-lint](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/57) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 week ago)
-- [bump all dependencies](https://github.com/project-zot/zot/pull/2532) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
+- [build(deps): bump all dependencies](https://github.com/project-zot/zot/pull/2532) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
 - [feat: allow custom templates](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/54) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 week ago)
 - [feat: inline images in report html](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/53) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 week ago)
 - [misc: refactor plugin](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/52) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 week ago)
