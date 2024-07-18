@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.37.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.37.1), today) - Prometheus community Helm charts
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([helm-chart-4.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/helm-chart-4.10.3), today) - Ingress-NGINX Controller for Kubernetes
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), today) - Ingress-NGINX Controller for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.5), 1 day ago) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.7), 1 day ago) - Kubetail helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.9), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
