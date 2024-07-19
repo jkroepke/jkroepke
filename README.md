@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.113.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.113.0), today) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 1 day ago) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.1.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.5), 2 days ago) - 
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.2), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.1](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.1), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.6), 3 days ago) - Terraform provider for Hetzner DNS
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.112.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.112.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.27.5](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.27.5), 1 week ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 
 #### 🔨 My recent Pull Requests
