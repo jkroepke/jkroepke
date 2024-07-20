@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (today)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (1 day ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (2 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (1 week ago)
@@ -30,21 +30,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.3](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.3), today) - Customization of kubernetes YAML configurations
-- [grafana/agent](https://github.com/grafana/agent) ([v0.42.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.42.0-rc.0), today) - Vendor-neutral programmable observability pipelines.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.2), today) - Contains Helm charts for Kubernetes related open source tools
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.113.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.113.0), today) - Terraform provider for Azure Resource Manager
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 1 day ago) - Ingress-NGINX Controller for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.1.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.5), 2 days ago) - 
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.7), 2 days ago) - Kubetail helm charts
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.9), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.2), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.3](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.3), 1 day ago) - Customization of kubernetes YAML configurations
+- [grafana/agent](https://github.com/grafana/agent) ([v0.42.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.42.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.113.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.113.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 2 days ago) - Ingress-NGINX Controller for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.1.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.5), 3 days ago) - 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.7), 3 days ago) - Kubetail helm charts
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.9), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.2), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
-- [fix nil pointer in s3 list api](https://github.com/distribution/distribution/pull/4412) on [distribution/distribution](https://github.com/distribution/distribution) (today)
-- [misc: make update_licenses.sh faster](https://github.com/project-zot/zot/pull/2553) on [project-zot/zot](https://github.com/project-zot/zot) (2 days ago)
+- [fix nil pointer in s3 list api](https://github.com/distribution/distribution/pull/4412) on [distribution/distribution](https://github.com/distribution/distribution) (1 day ago)
+- [misc: make update_licenses.sh faster](https://github.com/project-zot/zot/pull/2553) on [project-zot/zot](https://github.com/project-zot/zot) (3 days ago)
 - [misc: Add golangci-lint](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/57) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 week ago)
 - [build(deps): bump all dependencies](https://github.com/project-zot/zot/pull/2532) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
 - [feat: allow custom templates](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/54) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
@@ -56,7 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (4 days ago)
+- [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (5 days ago)
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms (3 weeks ago)
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (1 month ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (1 month ago)
