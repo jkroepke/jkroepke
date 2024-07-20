@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.6), today) - 
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.3](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.3), 1 day ago) - Customization of kubernetes YAML configurations
 - [grafana/agent](https://github.com/grafana/agent) ([v0.42.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.42.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.113.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.113.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 2 days ago) - Ingress-NGINX Controller for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.1.0), 2 days ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.3.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.3.5), 3 days ago) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.7), 3 days ago) - Kubetail helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.9), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.2), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
