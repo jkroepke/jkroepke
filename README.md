@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: Add diff pipeline](https://github.com/jkroepke/helm-charts/pull/59) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [Add better description for sysconfig file](https://github.com/jkroepke/openvpn-auth-oauth2/pull/285) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [ci(deps): upgrade golangci-lint](https://github.com/project-zot/zot/pull/2556) on [project-zot/zot](https://github.com/project-zot/zot) (today)
 - [ci(deps): bump minio test dependency](https://github.com/project-zot/zot/pull/2555) on [project-zot/zot](https://github.com/project-zot/zot) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [build(deps): bump all dependencies](https://github.com/project-zot/zot/pull/2532) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
 - [feat: allow custom templates](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/54) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
 - [feat: inline images in report html](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/53) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
-- [misc: refactor plugin](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/52) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
