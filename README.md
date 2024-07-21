@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [ci(deps): upgrade golangci-lint](https://github.com/project-zot/zot/pull/2556) on [project-zot/zot](https://github.com/project-zot/zot) (today)
+- [ci(deps): bump minio test dependency](https://github.com/project-zot/zot/pull/2555) on [project-zot/zot](https://github.com/project-zot/zot) (today)
 - [fix nil pointer in s3 list api](https://github.com/distribution/distribution/pull/4412) on [distribution/distribution](https://github.com/distribution/distribution) (2 days ago)
 - [misc: make update_licenses.sh faster](https://github.com/project-zot/zot/pull/2553) on [project-zot/zot](https://github.com/project-zot/zot) (4 days ago)
 - [misc: Add golangci-lint](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/57) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 week ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: inline images in report html](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/53) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
 - [misc: refactor plugin](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/52) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
 - [feat: allow remote chrome instance](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/51) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
-- [deps: Update all backend dependencies](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/50) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
-- [feat: enable ready HTTP endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/282) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [zhouxinyu](https://github.com/zhouxinyu)
 - [hjuivc](https://github.com/hjuivc)
 - [sabiomarkanthony44](https://github.com/sabiomarkanthony44)
 - [dariuszz123](https://github.com/dariuszz123)
 - [jorikseldeslachts](https://github.com/jorikseldeslachts)
-- [BinhPhuongIT](https://github.com/BinhPhuongIT)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
