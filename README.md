@@ -71,9 +71,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [JustARegularUsername](https://github.com/JustARegularUsername)
 - [zhouxinyu](https://github.com/zhouxinyu)
-- [hjuivc](https://github.com/hjuivc)
 - [sabiomarkanthony44](https://github.com/sabiomarkanthony44)
 - [dariuszz123](https://github.com/dariuszz123)
+- [jorikseldeslachts](https://github.com/jorikseldeslachts)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
