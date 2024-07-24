@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.42.0](https://github.com/grafana/agent/releases/tag/v0.42.0), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.1), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.3), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.7.2](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.2), 1 day ago) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.5), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.3](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.3), 5 days ago) - Customization of kubernetes YAML configurations
-- [grafana/agent](https://github.com/grafana/agent) ([v0.42.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.42.0-rc.0), 5 days ago) - Vendor-neutral programmable observability pipelines.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.2), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.113.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.113.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 6 days ago) - Ingress-NGINX Controller for Kubernetes
