@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.4.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.6), today) - 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2-alpha.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2-alpha.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/agent](https://github.com/grafana/agent) ([v0.42.0](https://github.com/grafana/agent/releases/tag/v0.42.0), today) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.6.1), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.3), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.2), 5 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.113.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.113.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 6 days ago) - Ingress-NGINX Controller for Kubernetes
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.5.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.5.7), 1 week ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
+- [try fix push by bump dependencies](https://github.com/prometheus-community/windows_exporter/pull/1537) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix push](https://github.com/prometheus-community/windows_exporter/pull/1536) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: Add diff pipeline](https://github.com/jkroepke/helm-charts/pull/59) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (3 days ago)
 - [Add better description for sysconfig file](https://github.com/jkroepke/openvpn-auth-oauth2/pull/285) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [misc: make update_licenses.sh faster](https://github.com/project-zot/zot/pull/2553) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
 - [misc: Add golangci-lint](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/57) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
 - [build(deps): bump all dependencies](https://github.com/project-zot/zot/pull/2532) on [project-zot/zot](https://github.com/project-zot/zot) (2 weeks ago)
-- [feat: allow custom templates](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/54) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
