@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.6.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.6.0), today) - Kubetail helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.4), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.8](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.8), today) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.3), today) - Contains Helm charts for Kubernetes related open source tools
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.5), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.3](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.3), 6 days ago) - Customization of kubernetes YAML configurations
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.113.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.113.0), 6 days ago) - Terraform provider for Azure Resource Manager
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.10.3](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.10.3), 1 week ago) - Ingress-NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
