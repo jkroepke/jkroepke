@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (1 day ago)
 - [jkroepke/helm-charts-semantic-releaser](https://github.com/jkroepke/helm-charts-semantic-releaser) -  (1 day ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 day ago)
@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.4.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.5.0), today) - Prometheus community Helm charts
+- [jkroepke/helm-charts-semantic-releaser](https://github.com/jkroepke/helm-charts-semantic-releaser) ([v0.0.1](https://github.com/jkroepke/helm-charts-semantic-releaser/releases/tag/v0.0.1), today) - 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.3), 2 days ago) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.6.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.6.0), 3 days ago) - Kubetail helm charts
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/agent](https://github.com/grafana/agent) ([v0.42.0](https://github.com/grafana/agent/releases/tag/v0.42.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.5), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.4.3](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.4.3), 1 week ago) - Customization of kubernetes YAML configurations
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Fix Prometheus Operator pod cannot come up when admission hook is disabled](https://github.com/prometheus-community/helm-charts/pull/4751) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [wip](https://github.com/jkroepke/helm-charts-semantic-releaser/pull/2) on [jkroepke/helm-charts-semantic-releaser](https://github.com/jkroepke/helm-charts-semantic-releaser) (1 day ago)
 - [[kube-prometheus-stack] Fix mixins generation and fix update on mac](https://github.com/prometheus-community/helm-charts/pull/4749) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix: Error &#34;multiple matches for labels: many-to-one matching must beexplicit (group_left/group_right)&#34; on Kubernetes/Networking Dashboards](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/964) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add better description for sysconfig file](https://github.com/jkroepke/openvpn-auth-oauth2/pull/285) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [ci(deps): upgrade golangci-lint](https://github.com/project-zot/zot/pull/2556) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
 - [ci(deps): bump minio test dependency](https://github.com/project-zot/zot/pull/2555) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
-- [fix nil pointer in s3 list api](https://github.com/distribution/distribution/pull/4412) on [distribution/distribution](https://github.com/distribution/distribution) (1 week ago)
 
 #### ⭐ Recent Stars
 
