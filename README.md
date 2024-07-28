@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (1 day ago)
-- [jkroepke/helm-charts-semantic-releaser](https://github.com/jkroepke/helm-charts-semantic-releaser) -  (1 day ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (4 days ago)
@@ -31,7 +31,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔭 Latest releases I've contributed to
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.5.0), today) - Prometheus community Helm charts
-- [jkroepke/helm-charts-semantic-releaser](https://github.com/jkroepke/helm-charts-semantic-releaser) ([v0.0.1](https://github.com/jkroepke/helm-charts-semantic-releaser/releases/tag/v0.0.1), today) - 
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) ([v0.0.1](https://github.com/jkroepke/semantic-releaser/releases/tag/v0.0.1), today) - semantic-releaser automates the release process based on conventional commits
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.3), 2 days ago) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.6.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.6.0), 3 days ago) - Kubetail helm charts
@@ -43,8 +43,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [rename project](https://github.com/jkroepke/semantic-releaser/pull/3) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (today)
 - [[kube-prometheus-stack] Fix Prometheus Operator pod cannot come up when admission hook is disabled](https://github.com/prometheus-community/helm-charts/pull/4751) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [wip](https://github.com/jkroepke/helm-charts-semantic-releaser/pull/2) on [jkroepke/helm-charts-semantic-releaser](https://github.com/jkroepke/helm-charts-semantic-releaser) (1 day ago)
+- [wip](https://github.com/jkroepke/semantic-releaser/pull/2) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (1 day ago)
 - [[kube-prometheus-stack] Fix mixins generation and fix update on mac](https://github.com/prometheus-community/helm-charts/pull/4749) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix: Error &#34;multiple matches for labels: many-to-one matching must beexplicit (group_left/group_right)&#34; on Kubernetes/Networking Dashboards](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/964) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (2 days ago)
 - [try fix push by bump dependencies](https://github.com/prometheus-community/windows_exporter/pull/1537) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ci: Add diff pipeline](https://github.com/jkroepke/helm-charts/pull/59) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
 - [Add better description for sysconfig file](https://github.com/jkroepke/openvpn-auth-oauth2/pull/285) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [ci(deps): upgrade golangci-lint](https://github.com/project-zot/zot/pull/2556) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
-- [ci(deps): bump minio test dependency](https://github.com/project-zot/zot/pull/2555) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
 
 #### ⭐ Recent Stars
 
