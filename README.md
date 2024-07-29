@@ -19,10 +19,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (today)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
@@ -30,33 +30,33 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.5.0), today) - Prometheus community Helm charts
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) ([v0.0.1](https://github.com/jkroepke/semantic-releaser/releases/tag/v0.0.1), today) - semantic-releaser automates the release process based on conventional commits
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.3), 2 days ago) - 
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.6.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.6.0), 3 days ago) - Kubetail helm charts
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.4), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.3), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/agent](https://github.com/grafana/agent) ([v0.42.0](https://github.com/grafana/agent/releases/tag/v0.42.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.5.0), 1 day ago) - Prometheus community Helm charts
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) ([v0.0.1](https://github.com/jkroepke/semantic-releaser/releases/tag/v0.0.1), 1 day ago) - semantic-releaser automates the release process based on conventional commits
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.1), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.3), 3 days ago) - 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.6.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.6.0), 4 days ago) - Kubetail helm charts
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.4), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.3](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.3), 4 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.0-alpha.0), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/agent](https://github.com/grafana/agent) ([v0.42.0](https://github.com/grafana/agent/releases/tag/v0.42.0), 5 days ago) - Vendor-neutral programmable observability pipelines.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.21.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.21.5), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
-- [fix cmd](https://github.com/jkroepke/semantic-releaser/pull/4) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (today)
-- [rename project](https://github.com/jkroepke/semantic-releaser/pull/3) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (today)
-- [[kube-prometheus-stack] Fix Prometheus Operator pod cannot come up when admission hook is disabled](https://github.com/prometheus-community/helm-charts/pull/4751) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [wip](https://github.com/jkroepke/semantic-releaser/pull/2) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (1 day ago)
-- [[kube-prometheus-stack] Fix mixins generation and fix update on mac](https://github.com/prometheus-community/helm-charts/pull/4749) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [fix: Error &#34;multiple matches for labels: many-to-one matching must beexplicit (group_left/group_right)&#34; on Kubernetes/Networking Dashboards](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/964) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (2 days ago)
-- [try fix push by bump dependencies](https://github.com/prometheus-community/windows_exporter/pull/1537) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [fix push](https://github.com/prometheus-community/windows_exporter/pull/1536) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [fix cmd](https://github.com/jkroepke/semantic-releaser/pull/4) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (1 day ago)
+- [rename project](https://github.com/jkroepke/semantic-releaser/pull/3) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (1 day ago)
+- [[kube-prometheus-stack] Fix Prometheus Operator pod cannot come up when admission hook is disabled](https://github.com/prometheus-community/helm-charts/pull/4751) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [wip](https://github.com/jkroepke/semantic-releaser/pull/2) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (2 days ago)
+- [[kube-prometheus-stack] Fix mixins generation and fix update on mac](https://github.com/prometheus-community/helm-charts/pull/4749) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [fix: Error &#34;multiple matches for labels: many-to-one matching must beexplicit (group_left/group_right)&#34; on Kubernetes/Networking Dashboards](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/964) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (3 days ago)
+- [try fix push by bump dependencies](https://github.com/prometheus-community/windows_exporter/pull/1537) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [fix push](https://github.com/prometheus-community/windows_exporter/pull/1536) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [ci: Add diff pipeline](https://github.com/jkroepke/helm-charts/pull/59) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
 - [Add better description for sysconfig file](https://github.com/jkroepke/openvpn-auth-oauth2/pull/285) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (1 week ago)
+- [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (2 weeks ago)
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms (1 month ago)
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (1 month ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (1 month ago)
