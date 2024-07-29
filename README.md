@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (today)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (today)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (today)
 - [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (2 days ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: CPU Collector % Cx Time mismatch](https://github.com/prometheus-community/windows_exporter/pull/1542) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Add label configuration](https://github.com/prometheus-community/windows_exporter/pull/1540) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: disable hostimage image](https://github.com/prometheus-community/windows_exporter/pull/1539) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix cmd](https://github.com/jkroepke/semantic-releaser/pull/4) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Fix mixins generation and fix update on mac](https://github.com/prometheus-community/helm-charts/pull/4749) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [fix: Error &#34;multiple matches for labels: many-to-one matching must beexplicit (group_left/group_right)&#34; on Kubernetes/Networking Dashboards](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/964) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (3 days ago)
 - [try fix push by bump dependencies](https://github.com/prometheus-community/windows_exporter/pull/1537) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [fix push](https://github.com/prometheus-community/windows_exporter/pull/1536) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
