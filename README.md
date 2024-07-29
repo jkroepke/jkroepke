@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0), today) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.8.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.8.0), today) - 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.0-rc.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.0-rc.3), today) - Prometheus exporter for Windows machines
 - [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) ([v0.0.1](https://github.com/jkroepke/semantic-releaser/releases/tag/v0.0.1), 1 day ago) - semantic-releaser automates the release process based on conventional commits
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.1), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.6.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.6.0), 4 days ago) - Kubetail helm charts
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Add label configuration](https://github.com/prometheus-community/windows_exporter/pull/1540) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: disable hostimage image](https://github.com/prometheus-community/windows_exporter/pull/1539) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix cmd](https://github.com/jkroepke/semantic-releaser/pull/4) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (1 day ago)
 - [rename project](https://github.com/jkroepke/semantic-releaser/pull/3) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: Error &#34;multiple matches for labels: many-to-one matching must beexplicit (group_left/group_right)&#34; on Kubernetes/Networking Dashboards](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/964) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (3 days ago)
 - [try fix push by bump dependencies](https://github.com/prometheus-community/windows_exporter/pull/1537) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [fix push](https://github.com/prometheus-community/windows_exporter/pull/1536) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [ci: Add diff pipeline](https://github.com/jkroepke/helm-charts/pull/59) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
