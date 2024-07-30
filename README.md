@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.15.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.15.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.0.0), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.3](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.3), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0), today) - The Prometheus monitoring system and time series database.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [build(go.mod): reformat require blocks](https://github.com/project-zot/zot/pull/2582) on [project-zot/zot](https://github.com/project-zot/zot) (today)
 - [Add quotes in command](https://github.com/jkroepke/helm-secrets/pull/467) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [fix: CPU Collector % Cx Time mismatch](https://github.com/prometheus-community/windows_exporter/pull/1542) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: Add label configuration](https://github.com/prometheus-community/windows_exporter/pull/1540) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Fix Prometheus Operator pod cannot come up when admission hook is disabled](https://github.com/prometheus-community/helm-charts/pull/4751) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [wip](https://github.com/jkroepke/semantic-releaser/pull/2) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (3 days ago)
 - [[kube-prometheus-stack] Fix mixins generation and fix update on mac](https://github.com/prometheus-community/helm-charts/pull/4749) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [fix: Error &#34;multiple matches for labels: many-to-one matching must beexplicit (group_left/group_right)&#34; on Kubernetes/Networking Dashboards](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/964) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (4 days ago)
 
 #### ⭐ Recent Stars
 
