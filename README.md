@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.3](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.3), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.301](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.301), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0), today) - The Prometheus monitoring system and time series database.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.6.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) ([v0.0.1](https://github.com/jkroepke/semantic-releaser/releases/tag/v0.0.1), 2 days ago) - semantic-releaser automates the release process based on conventional commits
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.2.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.2.1), 3 days ago) - A set of modern Grafana dashboards for Kubernetes.
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.6.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.6.0), 5 days ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
