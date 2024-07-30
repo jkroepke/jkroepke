@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [logical_disk: Fix failed to get disk ID for dynamic volumes](https://github.com/prometheus-community/windows_exporter/pull/1544) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [build(go.mod): reformat require blocks](https://github.com/project-zot/zot/pull/2582) on [project-zot/zot](https://github.com/project-zot/zot) (today)
 - [Add quotes in command](https://github.com/jkroepke/helm-secrets/pull/467) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [fix: CPU Collector % Cx Time mismatch](https://github.com/prometheus-community/windows_exporter/pull/1542) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [rename project](https://github.com/jkroepke/semantic-releaser/pull/3) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (2 days ago)
 - [[kube-prometheus-stack] Fix Prometheus Operator pod cannot come up when admission hook is disabled](https://github.com/prometheus-community/helm-charts/pull/4751) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [wip](https://github.com/jkroepke/semantic-releaser/pull/2) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (3 days ago)
-- [[kube-prometheus-stack] Fix mixins generation and fix update on mac](https://github.com/prometheus-community/helm-charts/pull/4749) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 
 #### ⭐ Recent Stars
 
