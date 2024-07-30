@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 day ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 day ago)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (1 day ago)
 - [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (1 week ago)
@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.15.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.15.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.0.0), today) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.3](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.3), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0-weekly.301](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0-weekly.301), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0), today) - The Prometheus monitoring system and time series database.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.4), today) - Contains Helm charts for Kubernetes related open source tools
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.119](https://github.com/stakater/Reloader/releases/tag/v1.0.119), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add quotes in command](https://github.com/jkroepke/helm-secrets/pull/467) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [fix: CPU Collector % Cx Time mismatch](https://github.com/prometheus-community/windows_exporter/pull/1542) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: Add label configuration](https://github.com/prometheus-community/windows_exporter/pull/1540) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [ci: disable hostimage image](https://github.com/prometheus-community/windows_exporter/pull/1539) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [wip](https://github.com/jkroepke/semantic-releaser/pull/2) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (3 days ago)
 - [[kube-prometheus-stack] Fix mixins generation and fix update on mac](https://github.com/prometheus-community/helm-charts/pull/4749) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [fix: Error &#34;multiple matches for labels: many-to-one matching must beexplicit (group_left/group_right)&#34; on Kubernetes/Networking Dashboards](https://github.com/kubernetes-monitoring/kubernetes-mixin/pull/964) on [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) (4 days ago)
-- [try fix push by bump dependencies](https://github.com/prometheus-community/windows_exporter/pull/1537) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
