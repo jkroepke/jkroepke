@@ -17,16 +17,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (today)
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (2 days ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 days ago)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (2 days ago)
 - [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [printer: expose config struct properties](https://github.com/prometheus-community/windows_exporter/pull/1545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [logical_disk: Fix failed to get disk ID for dynamic volumes](https://github.com/prometheus-community/windows_exporter/pull/1544) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [build(go.mod): reformat require blocks](https://github.com/project-zot/zot/pull/2582) on [project-zot/zot](https://github.com/project-zot/zot) (1 day ago)
 - [Add quotes in command](https://github.com/jkroepke/helm-secrets/pull/467) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix cmd](https://github.com/jkroepke/semantic-releaser/pull/4) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (3 days ago)
 - [rename project](https://github.com/jkroepke/semantic-releaser/pull/3) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (3 days ago)
 - [[kube-prometheus-stack] Fix Prometheus Operator pod cannot come up when admission hook is disabled](https://github.com/prometheus-community/helm-charts/pull/4751) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [wip](https://github.com/jkroepke/semantic-releaser/pull/2) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (4 days ago)
 
 #### ⭐ Recent Stars
 
