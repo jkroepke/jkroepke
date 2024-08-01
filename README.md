@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 day ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 day ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 days ago)
 - [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (3 days ago)
 - [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (5 days ago)
@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.6.1), today) - Prometheus community Helm charts
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.31.0](https://github.com/sunny0826/kubecm/releases/tag/v0.31.0), today) - Manage your kubeconfig more easily.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.54.1](https://github.com/aquasecurity/trivy/releases/tag/v0.54.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.1), 1 day ago) - Prometheus exporter for Windows machines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.25.1), 1 day ago) - Prometheus community Helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.3](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.3), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
