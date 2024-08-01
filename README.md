@@ -17,42 +17,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (today)
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 days ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (2 days ago)
-- [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (1 day ago)
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 days ago)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (3 days ago)
+- [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.54.1](https://github.com/aquasecurity/trivy/releases/tag/v0.54.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.1), today) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.25.1), today) - Prometheus community Helm charts
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.3](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.3), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0), 1 day ago) - The Prometheus monitoring system and time series database.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.4), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.119](https://github.com/stakater/Reloader/releases/tag/v1.0.119), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) ([v0.0.1](https://github.com/jkroepke/semantic-releaser/releases/tag/v0.0.1), 3 days ago) - semantic-releaser automates the release process based on conventional commits
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.54.1](https://github.com/aquasecurity/trivy/releases/tag/v0.54.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.1), 1 day ago) - Prometheus exporter for Windows machines
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.25.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.25.1), 1 day ago) - Prometheus community Helm charts
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.3](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.3), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.4), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.119](https://github.com/stakater/Reloader/releases/tag/v1.0.119), 3 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) ([v0.0.1](https://github.com/jkroepke/semantic-releaser/releases/tag/v0.0.1), 4 days ago) - semantic-releaser automates the release process based on conventional commits
 
 #### 🔨 My recent Pull Requests
 
-- [Update windows_exporter to v0.26.2](https://github.com/grafana/alloy/pull/1393) on [grafana/alloy](https://github.com/grafana/alloy) (today)
-- [printer: expose config struct properties](https://github.com/prometheus-community/windows_exporter/pull/1545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [logical_disk: Fix failed to get disk ID for dynamic volumes](https://github.com/prometheus-community/windows_exporter/pull/1544) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [build(go.mod): reformat require blocks](https://github.com/project-zot/zot/pull/2582) on [project-zot/zot](https://github.com/project-zot/zot) (1 day ago)
-- [Add quotes in command](https://github.com/jkroepke/helm-secrets/pull/467) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [fix: CPU Collector % Cx Time mismatch](https://github.com/prometheus-community/windows_exporter/pull/1542) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [chore: Add label configuration](https://github.com/prometheus-community/windows_exporter/pull/1540) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [ci: disable hostimage image](https://github.com/prometheus-community/windows_exporter/pull/1539) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [fix cmd](https://github.com/jkroepke/semantic-releaser/pull/4) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (3 days ago)
-- [rename project](https://github.com/jkroepke/semantic-releaser/pull/3) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (3 days ago)
+- [Update windows_exporter to v0.26.2](https://github.com/grafana/alloy/pull/1393) on [grafana/alloy](https://github.com/grafana/alloy) (1 day ago)
+- [printer: expose config struct properties](https://github.com/prometheus-community/windows_exporter/pull/1545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [logical_disk: Fix failed to get disk ID for dynamic volumes](https://github.com/prometheus-community/windows_exporter/pull/1544) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [build(go.mod): reformat require blocks](https://github.com/project-zot/zot/pull/2582) on [project-zot/zot](https://github.com/project-zot/zot) (2 days ago)
+- [Add quotes in command](https://github.com/jkroepke/helm-secrets/pull/467) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [fix: CPU Collector % Cx Time mismatch](https://github.com/prometheus-community/windows_exporter/pull/1542) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [chore: Add label configuration](https://github.com/prometheus-community/windows_exporter/pull/1540) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [ci: disable hostimage image](https://github.com/prometheus-community/windows_exporter/pull/1539) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [fix cmd](https://github.com/jkroepke/semantic-releaser/pull/4) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (4 days ago)
+- [rename project](https://github.com/jkroepke/semantic-releaser/pull/3) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (4 days ago)
 
 #### ⭐ Recent Stars
 
