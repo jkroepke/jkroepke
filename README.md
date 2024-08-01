@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.5](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.5), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.3.0-rc.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0&#43;dedupelabels](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0%2Bdedupelabels), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.7.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.7.1), today) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.1), 1 day ago) - Prometheus exporter for Windows machines
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.3](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.3), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.1.4](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.1.4), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 
 #### 🔨 My recent Pull Requests
 
