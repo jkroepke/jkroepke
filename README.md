@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.15.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.15.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.4), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.114.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.114.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.5](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.5), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.3.0-rc.0), today) - OpenTelemetry Collector distribution with programmable pipelines
