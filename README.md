@@ -19,20 +19,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (2 days ago)
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (2 days ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (4 days ago)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (4 days ago)
 - [jkroepke/helm-charts-semantic-release](https://github.com/jkroepke/helm-charts-semantic-release) -  (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
-- [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.1), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.3.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.7.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.4), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.114.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.114.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.5](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.5), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0&#43;dedupelabels](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0%2Bdedupelabels), 1 day ago) - The Prometheus monitoring system and time series database.
