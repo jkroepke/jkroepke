@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.3.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.7.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.4), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.114.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.114.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.5](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.5), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.3.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0&#43;dedupelabels](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0%2Bdedupelabels), 1 day ago) - The Prometheus monitoring system and time series database.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.31.0](https://github.com/sunny0826/kubecm/releases/tag/v0.31.0), 1 day ago) - Manage your kubeconfig more easily.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.54.1](https://github.com/aquasecurity/trivy/releases/tag/v0.54.1), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
