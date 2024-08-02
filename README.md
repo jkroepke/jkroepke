@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [terminal_services: Fix &#34;The operation completed successfully.&#34; error](https://github.com/prometheus-community/windows_exporter/pull/1548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [*: cleanup collector API 1](https://github.com/prometheus-community/windows_exporter/pull/1547) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Update windows_exporter to v0.26.2](https://github.com/grafana/alloy/pull/1393) on [grafana/alloy](https://github.com/grafana/alloy) (2 days ago)
 - [printer: expose config struct properties](https://github.com/prometheus-community/windows_exporter/pull/1545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: CPU Collector % Cx Time mismatch](https://github.com/prometheus-community/windows_exporter/pull/1542) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [chore: Add label configuration](https://github.com/prometheus-community/windows_exporter/pull/1540) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [ci: disable hostimage image](https://github.com/prometheus-community/windows_exporter/pull/1539) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [fix cmd](https://github.com/jkroepke/semantic-releaser/pull/4) on [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) (5 days ago)
 
 #### ⭐ Recent Stars
 
