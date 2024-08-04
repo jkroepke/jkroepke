@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.4](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.4), today) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.25.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.1), 2 days ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.3.0-rc.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.31.0](https://github.com/sunny0826/kubecm/releases/tag/v0.31.0), 3 days ago) - Manage your kubeconfig more easily.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.54.1](https://github.com/aquasecurity/trivy/releases/tag/v0.54.1), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.1), 4 days ago) - Prometheus exporter for Windows machines
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.2), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
