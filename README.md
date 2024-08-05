@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.7.4](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.7.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.3.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.3.0), today) - 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.4](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.4), 1 day ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.25.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.3.0-rc.1), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
