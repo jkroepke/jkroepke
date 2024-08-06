@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.8.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.8.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.2.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0](https://github.com/grafana/alloy/releases/tag/v1.3.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.4](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.4), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.114.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.114.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.5](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.5), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.0&#43;dedupelabels](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.0%2Bdedupelabels), 5 days ago) - The Prometheus monitoring system and time series database.
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.31.0](https://github.com/sunny0826/kubecm/releases/tag/v0.31.0), 5 days ago) - Manage your kubeconfig more easily.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.54.1](https://github.com/aquasecurity/trivy/releases/tag/v0.54.1), 6 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
