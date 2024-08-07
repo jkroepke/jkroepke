@@ -17,37 +17,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (today)
-- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (today)
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (2 days ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (4 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (6 days ago)
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (1 day ago)
+- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (1 day ago)
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (3 days ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (5 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (6 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.9](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.9), today) - 
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.1](https://github.com/project-zot/zot/releases/tag/v2.1.1), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.26.1](https://github.com/zitadel/oidc/releases/tag/v3.26.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.1), today) - The Prometheus monitoring system and time series database.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.2.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0](https://github.com/grafana/alloy/releases/tag/v1.3.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.2), 1 day ago) - Prometheus exporter for Windows machines
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.4](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.4), 2 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.114.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.114.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.5](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.5), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.9](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.9), 1 day ago) - 
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.1](https://github.com/project-zot/zot/releases/tag/v2.1.1), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.26.1](https://github.com/zitadel/oidc/releases/tag/v3.26.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.2.0), 2 days ago) - Prometheus community Helm charts
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0](https://github.com/grafana/alloy/releases/tag/v1.3.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.2), 2 days ago) - Prometheus exporter for Windows machines
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.4](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.4), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.114.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.114.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.9.5](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.9.5), 6 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
-- [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [terminal_services: Fix &#34;The operation completed successfully.&#34; error](https://github.com/prometheus-community/windows_exporter/pull/1548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [*: cleanup collector API 1](https://github.com/prometheus-community/windows_exporter/pull/1547) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [Update windows_exporter to v0.26.2](https://github.com/grafana/alloy/pull/1393) on [grafana/alloy](https://github.com/grafana/alloy) (6 days ago)
-- [printer: expose config struct properties](https://github.com/prometheus-community/windows_exporter/pull/1545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [terminal_services: Fix &#34;The operation completed successfully.&#34; error](https://github.com/prometheus-community/windows_exporter/pull/1548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [*: cleanup collector API 1](https://github.com/prometheus-community/windows_exporter/pull/1547) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [Update windows_exporter to v0.26.2](https://github.com/grafana/alloy/pull/1393) on [grafana/alloy](https://github.com/grafana/alloy) (1 week ago)
+- [printer: expose config struct properties](https://github.com/prometheus-community/windows_exporter/pull/1545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [logical_disk: Fix failed to get disk ID for dynamic volumes](https://github.com/prometheus-community/windows_exporter/pull/1544) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [build(go.mod): reformat require blocks](https://github.com/project-zot/zot/pull/2582) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
 - [Add quotes in command](https://github.com/jkroepke/helm-secrets/pull/467) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
@@ -56,7 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (today)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
 - [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (3 weeks ago)
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms (1 month ago)
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (1 month ago)
