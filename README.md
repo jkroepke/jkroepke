@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.13](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.13), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.5.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.5.0), today) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/loki](https://github.com/grafana/loki) ([v3.1.1](https://github.com/grafana/loki/releases/tag/v3.1.1), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.7.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.16.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.16.1), today) - 
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.1](https://github.com/project-zot/zot/releases/tag/v2.1.1), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.26.1](https://github.com/zitadel/oidc/releases/tag/v3.26.1), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0](https://github.com/grafana/alloy/releases/tag/v1.3.0), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.2), 3 days ago) - Prometheus exporter for Windows machines
 
 #### 🔨 My recent Pull Requests
 
