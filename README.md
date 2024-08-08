@@ -17,35 +17,35 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (1 day ago)
-- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (1 day ago)
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (3 days ago)
-- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (5 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (6 days ago)
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (2 days ago)
+- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (2 days ago)
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (4 days ago)
+- [project-zot/zot](https://github.com/project-zot/zot) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification) (6 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.6), today) - 
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.7), today) - Terraform provider for Hetzner DNS
-- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.121](https://github.com/stakater/Reloader/releases/tag/v1.0.121), today) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.37.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.37.2), today) - Prometheus community Helm charts
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.1](https://github.com/project-zot/zot/releases/tag/v2.1.1), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.26.1](https://github.com/zitadel/oidc/releases/tag/v3.26.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0](https://github.com/grafana/alloy/releases/tag/v1.3.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.2), 2 days ago) - Prometheus exporter for Windows machines
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.4](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.4), 3 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.4.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.4.6), 1 day ago) - 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.7), 1 day ago) - Terraform provider for Hetzner DNS
+- [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.121](https://github.com/stakater/Reloader/releases/tag/v1.0.121), 1 day ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.37.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.37.2), 1 day ago) - Prometheus community Helm charts
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.1](https://github.com/project-zot/zot/releases/tag/v2.1.1), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.26.1](https://github.com/zitadel/oidc/releases/tag/v3.26.1), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0](https://github.com/grafana/alloy/releases/tag/v1.3.0), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.2), 3 days ago) - Prometheus exporter for Windows machines
+- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.4](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.4), 4 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 #### 🔨 My recent Pull Requests
 
-- [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [terminal_services: Fix &#34;The operation completed successfully.&#34; error](https://github.com/prometheus-community/windows_exporter/pull/1548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [*: cleanup collector API 1](https://github.com/prometheus-community/windows_exporter/pull/1547) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [terminal_services: Fix &#34;The operation completed successfully.&#34; error](https://github.com/prometheus-community/windows_exporter/pull/1548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [*: cleanup collector API 1](https://github.com/prometheus-community/windows_exporter/pull/1547) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [Update windows_exporter to v0.26.2](https://github.com/grafana/alloy/pull/1393) on [grafana/alloy](https://github.com/grafana/alloy) (1 week ago)
 - [printer: expose config struct properties](https://github.com/prometheus-community/windows_exporter/pull/1545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [logical_disk: Fix failed to get disk ID for dynamic volumes](https://github.com/prometheus-community/windows_exporter/pull/1544) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
@@ -56,16 +56,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [weeyin83/Azure-Arc-Windows-Linux-Dashboard](https://github.com/weeyin83/Azure-Arc-Windows-Linux-Dashboard) - An Azure dashboard to enable you to view several elements of the Windows or Linux servers you have deployed the Azure Arc agent to in one simple view.  (today)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (1 day ago)
+- [weeyin83/Azure-Arc-Windows-Linux-Dashboard](https://github.com/weeyin83/Azure-Arc-Windows-Linux-Dashboard) - An Azure dashboard to enable you to view several elements of the Windows or Linux servers you have deployed the Azure Arc agent to in one simple view.  (1 day ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (2 days ago)
 - [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (3 weeks ago)
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms (1 month ago)
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (1 month ago)
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation (1 month ago)
 - [GoogleContainerTools/container-structure-test](https://github.com/GoogleContainerTools/container-structure-test) - validate the structure of your container images (1 month ago)
 - [petr-stupka/terraform-github-actions](https://github.com/petr-stupka/terraform-github-actions) - A reference implementation of using GitHub Actions to deploy infrastructure to Azure using Terraform (1 month ago)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (1 month ago)
-- [jessp01/zaje](https://github.com/jessp01/zaje) - Highlight/colourise command output, logfiles (and anything else really) based on regex pattern matching (1 month ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI) (2 months ago)
+- [jessp01/zaje](https://github.com/jessp01/zaje) - Highlight/colourise command output, logfiles (and anything else really) based on regex pattern matching (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
