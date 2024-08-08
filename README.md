@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.1.1](https://github.com/grafana/loki/releases/tag/v3.1.1), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.7.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.16.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.16.1), today) - 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.7), 1 day ago) - Terraform provider for Hetzner DNS
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.54.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.3.0](https://github.com/grafana/alloy/releases/tag/v1.3.0), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.26.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.26.2), 3 days ago) - Prometheus exporter for Windows machines
-- [helmfile/helmfile](https://github.com/helmfile/helmfile) ([v1.0.0-rc.4](https://github.com/helmfile/helmfile/releases/tag/v1.0.0-rc.4), 4 days ago) - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
 
 #### 🔨 My recent Pull Requests
 
