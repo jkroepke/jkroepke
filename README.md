@@ -43,6 +43,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add imagePullSecrets](https://github.com/nerdswords/helm-charts/pull/65) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (today)
+- [[helm] Add global.imagePullSecrets](https://github.com/oauth2-proxy/manifests/pull/228) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (today)
+- [[helm] Add global.imagePullSecrets](https://github.com/kubernetes-sigs/external-dns/pull/4667) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (today)
 - [opsgenie: Add compatibility with JSM Operations](https://github.com/prometheus/alertmanager/pull/3949) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [terminal_services: Fix &#34;The operation completed successfully.&#34; error](https://github.com/prometheus-community/windows_exporter/pull/1548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
@@ -50,9 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update windows_exporter to v0.26.2](https://github.com/grafana/alloy/pull/1393) on [grafana/alloy](https://github.com/grafana/alloy) (1 week ago)
 - [printer: expose config struct properties](https://github.com/prometheus-community/windows_exporter/pull/1545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [logical_disk: Fix failed to get disk ID for dynamic volumes](https://github.com/prometheus-community/windows_exporter/pull/1544) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [build(go.mod): reformat require blocks](https://github.com/project-zot/zot/pull/2582) on [project-zot/zot](https://github.com/project-zot/zot) (1 week ago)
-- [Add quotes in command](https://github.com/jkroepke/helm-secrets/pull/467) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [fix: CPU Collector % Cx Time mismatch](https://github.com/prometheus-community/windows_exporter/pull/1542) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
