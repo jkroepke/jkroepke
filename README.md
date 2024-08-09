@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.10](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.10), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.2](https://github.com/prometheus/prometheus/releases/tag/v2.53.2), today) - The Prometheus monitoring system and time series database.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.0.1](https://github.com/grafana/loki/releases/tag/v3.0.1), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.115.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.115.0), today) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.27.0](https://github.com/zitadel/oidc/releases/tag/v3.27.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.5.0), today) - Prometheus community Helm charts
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support idForwarding feature toggle](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/75) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
 - [misc: npx -y @grafana/create-plugin@latest update](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/74) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
 - [breaking: rename --openvpn.common-name.environment-variable to --openvpn.common-name.environment-variable-name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/299) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [store new fresh token after non interactive session refesh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/298) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [opsgenie: Add compatibility with JSM Operations](https://github.com/prometheus/alertmanager/pull/3949) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 day ago)
 - [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [terminal_services: Fix &#34;The operation completed successfully.&#34; error](https://github.com/prometheus-community/windows_exporter/pull/1548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [*: cleanup collector API 1](https://github.com/prometheus-community/windows_exporter/pull/1547) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
