@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.0.1](https://github.com/grafana/loki/releases/tag/v3.0.1), today) - Like Prometheus, but for logs.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.54.0](https://github.com/prometheus/prometheus/releases/tag/v2.54.0), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.115.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.115.0), today) - Terraform provider for Azure Resource Manager
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.13](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.13), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.5.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.5.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
-- [grafana/loki](https://github.com/grafana/loki) ([v3.1.1](https://github.com/grafana/loki/releases/tag/v3.1.1), 1 day ago) - Like Prometheus, but for logs.
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.7), 2 days ago) - Terraform provider for Hetzner DNS
 
 #### 🔨 My recent Pull Requests
