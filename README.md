@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.10.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.10.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.115.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.115.0), today) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.27.0](https://github.com/zitadel/oidc/releases/tag/v3.27.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.5.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.2), 1 day ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.13](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.13), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.5.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.5.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/loki](https://github.com/grafana/loki) ([v3.1.1](https://github.com/grafana/loki/releases/tag/v3.1.1), 1 day ago) - Like Prometheus, but for logs.
