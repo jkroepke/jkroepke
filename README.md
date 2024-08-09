@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add X-Grafana-Id header as const](https://github.com/grafana/grafana-plugin-sdk-go/pull/1045) on [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) (today)
 - [feat: support idForwarding feature toggle](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/75) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
 - [misc: npx -y @grafana/create-plugin@latest update](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/74) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
 - [breaking: rename --openvpn.common-name.environment-variable to --openvpn.common-name.environment-variable-name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/299) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[helm] Add global.imagePullSecrets](https://github.com/kubernetes-sigs/external-dns/pull/4667) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 day ago)
 - [opsgenie: Add compatibility with JSM Operations](https://github.com/prometheus/alertmanager/pull/3949) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 day ago)
 - [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [terminal_services: Fix &#34;The operation completed successfully.&#34; error](https://github.com/prometheus-community/windows_exporter/pull/1548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [ministerko](https://github.com/ministerko)
 - [eust-w](https://github.com/eust-w)
 - [rrhinox](https://github.com/rrhinox)
 - [JustARegularUsername](https://github.com/JustARegularUsername)
 - [zhouxinyu](https://github.com/zhouxinyu)
-- [sabiomarkanthony44](https://github.com/sabiomarkanthony44)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
