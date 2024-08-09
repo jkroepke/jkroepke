@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.5.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.2), 1 day ago) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.13](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.13), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.5.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.5.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/loki](https://github.com/grafana/loki) ([v3.1.1](https://github.com/grafana/loki/releases/tag/v3.1.1), 1 day ago) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.7.2), 1 day ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.7), 2 days ago) - Terraform provider for Hetzner DNS
 - [stakater/Reloader](https://github.com/stakater/Reloader) ([v1.0.121](https://github.com/stakater/Reloader/releases/tag/v1.0.121), 2 days ago) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it!
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.1](https://github.com/project-zot/zot/releases/tag/v2.1.1), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
