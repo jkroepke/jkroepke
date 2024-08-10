@@ -17,47 +17,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (3 days ago)
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (3 days ago)
-- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (4 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (4 days ago)
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (4 days ago)
+- [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.10](https://github.com/grafana/loki/releases/tag/v2.9.10), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.10](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.10), today) - 
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.2](https://github.com/prometheus/prometheus/releases/tag/v2.53.2), today) - The Prometheus monitoring system and time series database.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.115.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.115.0), today) - Terraform provider for Azure Resource Manager
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.27.0](https://github.com/zitadel/oidc/releases/tag/v3.27.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.5.0), today) - Prometheus community Helm charts
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.13](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.13), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.5.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.5.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.7), 2 days ago) - Terraform provider for Hetzner DNS
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.10](https://github.com/grafana/loki/releases/tag/v2.9.10), 1 day ago) - Like Prometheus, but for logs.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.10](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.10), 1 day ago) - 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.2](https://github.com/prometheus/prometheus/releases/tag/v2.53.2), 1 day ago) - The Prometheus monitoring system and time series database.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.115.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.115.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.27.0](https://github.com/zitadel/oidc/releases/tag/v3.27.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.5.0), 1 day ago) - Prometheus community Helm charts
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.13](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.13), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.5.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.5.0), 2 days ago) - A Grafana plugin app to create PDF reports of dashboards
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.7), 3 days ago) - Terraform provider for Hetzner DNS
 
 #### 🔨 My recent Pull Requests
 
-- [Add X-Grafana-Id header as const](https://github.com/grafana/grafana-plugin-sdk-go/pull/1045) on [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) (today)
-- [feat: support idForwarding feature toggle](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/75) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
-- [misc: npx -y @grafana/create-plugin@latest update](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/74) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
-- [breaking: rename --openvpn.common-name.environment-variable to --openvpn.common-name.environment-variable-name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/299) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [store new fresh token after non interactive session refesh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/298) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Add imagePullSecrets](https://github.com/nerdswords/helm-charts/pull/65) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (1 day ago)
-- [[helm] Add global.imagePullSecrets](https://github.com/oauth2-proxy/manifests/pull/228) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 day ago)
-- [[helm] Add global.imagePullSecrets](https://github.com/kubernetes-sigs/external-dns/pull/4667) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (1 day ago)
-- [opsgenie: Add compatibility with JSM Operations](https://github.com/prometheus/alertmanager/pull/3949) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 day ago)
-- [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [Add X-Grafana-Id header as const](https://github.com/grafana/grafana-plugin-sdk-go/pull/1045) on [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) (1 day ago)
+- [feat: support idForwarding feature toggle](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/75) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 day ago)
+- [misc: npx -y @grafana/create-plugin@latest update](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/74) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 day ago)
+- [breaking: rename --openvpn.common-name.environment-variable to --openvpn.common-name.environment-variable-name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/299) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [store new fresh token after non interactive session refesh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/298) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Add imagePullSecrets](https://github.com/nerdswords/helm-charts/pull/65) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (2 days ago)
+- [[helm] Add global.imagePullSecrets](https://github.com/oauth2-proxy/manifests/pull/228) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (2 days ago)
+- [[helm] Add global.imagePullSecrets](https://github.com/kubernetes-sigs/external-dns/pull/4667) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 days ago)
+- [opsgenie: Add compatibility with JSM Operations](https://github.com/prometheus/alertmanager/pull/3949) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (2 days ago)
+- [*: Collector API cleanup 2](https://github.com/prometheus-community/windows_exporter/pull/1552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [weeyin83/Azure-Arc-Windows-Linux-Dashboard](https://github.com/weeyin83/Azure-Arc-Windows-Linux-Dashboard) - An Azure dashboard to enable you to view several elements of the Windows or Linux servers you have deployed the Azure Arc agent to in one simple view.  (2 days ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (3 days ago)
+- [weeyin83/Azure-Arc-Windows-Linux-Dashboard](https://github.com/weeyin83/Azure-Arc-Windows-Linux-Dashboard) - An Azure dashboard to enable you to view several elements of the Windows or Linux servers you have deployed the Azure Arc agent to in one simple view.  (3 days ago)
+- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (4 days ago)
 - [container-registry/helm-charts-oci-proxy](https://github.com/container-registry/helm-charts-oci-proxy) - The Helm Charts OCI Proxy, will proxy and transform Helm Chart into OCI images on the fly. Address any Helm Chart as OCI image.  (3 weeks ago)
 - [syntasso/kratix](https://github.com/syntasso/kratix) - Kratix is an open-source framework for building platforms (1 month ago)
 - [xelalexv/dregsy](https://github.com/xelalexv/dregsy) - Keep container registries in sync (1 month ago)
