@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 days ago)
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (4 days ago)
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (4 days ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (5 days ago)
@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.4.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.4.4), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.10](https://github.com/grafana/loki/releases/tag/v2.9.10), 1 day ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.10](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.10), 1 day ago) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.2](https://github.com/prometheus/prometheus/releases/tag/v2.53.2), 1 day ago) - The Prometheus monitoring system and time series database.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.115.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.115.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.27.0](https://github.com/zitadel/oidc/releases/tag/v3.27.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
