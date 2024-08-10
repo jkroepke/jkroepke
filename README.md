@@ -18,14 +18,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (4 days ago)
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (4 days ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (5 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [*: cleanup collector API 3](https://github.com/prometheus-community/windows_exporter/pull/1556) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [installer: do not enable V1 counters by default](https://github.com/prometheus-community/windows_exporter/pull/1555) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Add X-Grafana-Id header as const](https://github.com/grafana/grafana-plugin-sdk-go/pull/1045) on [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) (1 day ago)
 - [feat: support idForwarding feature toggle](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/75) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add imagePullSecrets](https://github.com/nerdswords/helm-charts/pull/65) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (2 days ago)
 - [[helm] Add global.imagePullSecrets](https://github.com/oauth2-proxy/manifests/pull/228) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (2 days ago)
 - [[helm] Add global.imagePullSecrets](https://github.com/kubernetes-sigs/external-dns/pull/4667) on [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) (2 days ago)
-- [opsgenie: Add compatibility with JSM Operations](https://github.com/prometheus/alertmanager/pull/3949) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (2 days ago)
 
 #### ⭐ Recent Stars
 
