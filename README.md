@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (3 days ago)
@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [textfile: disable collector by default](https://github.com/prometheus-community/windows_exporter/pull/1560) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [chore: deprecate teradici_pcoip and vmware_blast collector](https://github.com/prometheus-community/windows_exporter/pull/1559) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Refactor Config Collector API](https://github.com/prometheus-community/windows_exporter/pull/1558) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: enable more linter](https://github.com/prometheus-community/windows_exporter/pull/1557) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [*: cleanup collector API 3](https://github.com/prometheus-community/windows_exporter/pull/1556) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: support idForwarding feature toggle](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/75) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 days ago)
 - [misc: npx -y @grafana/create-plugin@latest update](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/74) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 days ago)
 - [breaking: rename --openvpn.common-name.environment-variable to --openvpn.common-name.environment-variable-name](https://github.com/jkroepke/openvpn-auth-oauth2/pull/299) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [store new fresh token after non interactive session refesh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/298) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Add imagePullSecrets](https://github.com/nerdswords/helm-charts/pull/65) on [nerdswords/helm-charts](https://github.com/nerdswords/helm-charts) (3 days ago)
 
 #### ⭐ Recent Stars
 
