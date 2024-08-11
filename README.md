@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.27.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.27.0), today) - Prometheus exporter for Windows machines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.16.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.16.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.38.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.38.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.10](https://github.com/grafana/loki/releases/tag/v2.9.10), 2 days ago) - Like Prometheus, but for logs.
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.1](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.1), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.13](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.13), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.5.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.5.0), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.1.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.1.7), 4 days ago) - Terraform provider for Hetzner DNS
 
 #### 🔨 My recent Pull Requests
 
+- [service: Breaking split service collector into two separate collectors](https://github.com/prometheus-community/windows_exporter/pull/1563) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [scheduled_task: do not report windows_scheduled_task_last_result for task that never run before](https://github.com/prometheus-community/windows_exporter/pull/1562) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [container: do not fail hard, if single containers can&#39;t be scraped](https://github.com/prometheus-community/windows_exporter/pull/1561) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [textfile: disable collector by default](https://github.com/prometheus-community/windows_exporter/pull/1560) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [*: cleanup collector API 3](https://github.com/prometheus-community/windows_exporter/pull/1556) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [installer: do not enable V1 counters by default](https://github.com/prometheus-community/windows_exporter/pull/1555) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Add X-Grafana-Id header as const](https://github.com/grafana/grafana-plugin-sdk-go/pull/1045) on [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) (2 days ago)
-- [feat: support idForwarding feature toggle](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/75) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (2 days ago)
 
 #### ⭐ Recent Stars
 
