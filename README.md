@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: support minimum permissions](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/83) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
 - [service: Breaking split service collector into two separate collectors](https://github.com/prometheus-community/windows_exporter/pull/1563) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [scheduled_task: do not report windows_scheduled_task_last_result for task that never run before](https://github.com/prometheus-community/windows_exporter/pull/1562) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [container: do not fail hard, if single containers can&#39;t be scraped](https://github.com/prometheus-community/windows_exporter/pull/1561) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: enable more linter](https://github.com/prometheus-community/windows_exporter/pull/1557) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [*: cleanup collector API 3](https://github.com/prometheus-community/windows_exporter/pull/1556) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [installer: do not enable V1 counters by default](https://github.com/prometheus-community/windows_exporter/pull/1555) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [Add X-Grafana-Id header as const](https://github.com/grafana/grafana-plugin-sdk-go/pull/1045) on [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) (3 days ago)
 
 #### ⭐ Recent Stars
 
