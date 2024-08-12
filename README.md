@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.79.3](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.79.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.10.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.10.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.3.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.27.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.27.0), 1 day ago) - Prometheus exporter for Windows machines
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.10](https://github.com/grafana/loki/releases/tag/v2.9.10), 3 days ago) - Like Prometheus, but for logs.
