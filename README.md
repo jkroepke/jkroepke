@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) - A Go SDK for building backend plugins for Grafana (today)
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) - A Grafana plugin app to create PDF reports of dashboards (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
@@ -26,7 +27,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) - Utility provider that provides a data source that can create zip archives for individual files or collections of files. (1 week ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 week ago)
-- [jkroepke/semantic-releaser](https://github.com/jkroepke/semantic-releaser) - semantic-releaser automates the release process based on conventional commits (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Render tables natively](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/84) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
 - [feat: support minimum permissions](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/83) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 day ago)
 - [service: Breaking split service collector into two separate collectors](https://github.com/prometheus-community/windows_exporter/pull/1563) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [scheduled_task: do not report windows_scheduled_task_last_result for task that never run before](https://github.com/prometheus-community/windows_exporter/pull/1562) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: Refactor Config Collector API](https://github.com/prometheus-community/windows_exporter/pull/1558) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [chore: enable more linter](https://github.com/prometheus-community/windows_exporter/pull/1557) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [*: cleanup collector API 3](https://github.com/prometheus-community/windows_exporter/pull/1556) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [installer: do not enable V1 counters by default](https://github.com/prometheus-community/windows_exporter/pull/1555) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
