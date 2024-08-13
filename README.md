@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [mssql: fix nil panic, if YAML file is used a configuration](https://github.com/prometheus-community/windows_exporter/pull/1570) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [deps: update all dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/302) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [feat: Render tables natively](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/84) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (today)
 - [feat: support minimum permissions](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/pull/83) on [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [textfile: disable collector by default](https://github.com/prometheus-community/windows_exporter/pull/1560) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [chore: deprecate teradici_pcoip and vmware_blast collector](https://github.com/prometheus-community/windows_exporter/pull/1559) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [chore: Refactor Config Collector API](https://github.com/prometheus-community/windows_exporter/pull/1558) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [chore: enable more linter](https://github.com/prometheus-community/windows_exporter/pull/1557) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
