@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.8.11](https://github.com/grafana/helm-charts/releases/tag/oncall-1.8.11), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.27.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.27.1), today) - Prometheus exporter for Windows machines
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-61.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-61.9.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.10.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.10.3), 2 days ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.10](https://github.com/grafana/loki/releases/tag/v2.9.10), 5 days ago) - Like Prometheus, but for logs.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.2](https://github.com/prometheus/prometheus/releases/tag/v2.53.2), 5 days ago) - The Prometheus monitoring system and time series database.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.115.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.115.0), 5 days ago) - Terraform provider for Azure Resource Manager
