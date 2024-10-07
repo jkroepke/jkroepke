@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [memory: Implement perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1676) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [logical_disk: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1673) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [dns: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1672) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [dhcp: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1671) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: cleanup move private packages to internal](https://github.com/prometheus-community/windows_exporter/pull/1665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [chore: Move private packages to internal](https://github.com/prometheus-community/windows_exporter/pull/1664) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [dfsr: Implement PDH collector](https://github.com/prometheus-community/windows_exporter/pull/1663) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [cache: Implement PDH collector](https://github.com/prometheus-community/windows_exporter/pull/1662) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
