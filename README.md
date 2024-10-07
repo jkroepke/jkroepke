@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.3), today) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.3), today) - Kubetail helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.24](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.24), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.7.0), 1 day ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.2), 2 days ago) - Terraform provider for Hetzner DNS
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.6.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.6.3), 2 days ago) - A Grafana plugin app to create PDF reports of dashboards
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.5.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.5.5), 3 days ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.4.2](https://github.com/grafana/alloy/releases/tag/v1.4.2), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.7.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.7.0), 3 days ago) - General-purpose web UI for Kubernetes clusters
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.30.1](https://github.com/zitadel/oidc/releases/tag/v3.30.1), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
