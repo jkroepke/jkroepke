@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.9.0](https://github.com/kubernetes/dashboard/releases/tag/api/v1.9.0), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.3), 1 day ago) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.3), 1 day ago) - Kubetail helm charts
@@ -37,7 +38,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.2), 3 days ago) - Terraform provider for Hetzner DNS
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.6.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.6.3), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.4.2](https://github.com/grafana/alloy/releases/tag/v1.4.2), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.7.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.7.0), 4 days ago) - General-purpose web UI for Kubernetes clusters
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.30.1](https://github.com/zitadel/oidc/releases/tag/v3.30.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.0), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
