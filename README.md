@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.0.1), today) - Prometheus community Helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.8.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.8.0), today) - General-purpose web UI for Kubernetes clusters
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.3), 1 day ago) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.3), 1 day ago) - Kubetail helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.24](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.24), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
