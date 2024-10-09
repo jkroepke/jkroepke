@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 week ago)
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (1 week ago)
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (2 weeks ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (2 weeks ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 weeks ago)
@@ -30,29 +30,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.4), today) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.0.1), today) - Prometheus community Helm charts
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.8.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.8.0), today) - General-purpose web UI for Kubernetes clusters
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.24](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.24), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.2), 3 days ago) - Terraform provider for Hetzner DNS
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.6.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.6.3), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.4.2](https://github.com/grafana/alloy/releases/tag/v1.4.2), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.30.1](https://github.com/zitadel/oidc/releases/tag/v3.30.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.0), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.4), 1 day ago) - Kubetail helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.3), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.0.1), 1 day ago) - Prometheus community Helm charts
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.8.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.8.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.24](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.24), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.2), 4 days ago) - Terraform provider for Hetzner DNS
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.6.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.6.3), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.4.2](https://github.com/grafana/alloy/releases/tag/v1.4.2), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.30.1](https://github.com/zitadel/oidc/releases/tag/v3.30.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.0), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
-- [memory: Implement perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1676) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [logical_disk: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1673) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [dns: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1672) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [dhcp: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1671) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [*: Implement collector interface for registry perfdata ](https://github.com/prometheus-community/windows_exporter/pull/1670) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [process: fix fallback to V1 collector](https://github.com/prometheus-community/windows_exporter/pull/1667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [process: Implement PDH collector and add support for Process V2](https://github.com/prometheus-community/windows_exporter/pull/1666) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [chore: cleanup move private packages to internal](https://github.com/prometheus-community/windows_exporter/pull/1665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [chore: Move private packages to internal](https://github.com/prometheus-community/windows_exporter/pull/1664) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [dfsr: Implement PDH collector](https://github.com/prometheus-community/windows_exporter/pull/1663) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [memory: Implement perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1676) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [logical_disk: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1673) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [dns: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1672) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [dhcp: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1671) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [*: Implement collector interface for registry perfdata ](https://github.com/prometheus-community/windows_exporter/pull/1670) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [process: fix fallback to V1 collector](https://github.com/prometheus-community/windows_exporter/pull/1667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [process: Implement PDH collector and add support for Process V2](https://github.com/prometheus-community/windows_exporter/pull/1666) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [chore: cleanup move private packages to internal](https://github.com/prometheus-community/windows_exporter/pull/1665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [chore: Move private packages to internal](https://github.com/prometheus-community/windows_exporter/pull/1664) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [dfsr: Implement PDH collector](https://github.com/prometheus-community/windows_exporter/pull/1663) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
