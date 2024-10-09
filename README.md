@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kyaml/v0.18.1](https://github.com/kubernetes-sigs/kustomize/releases/tag/kyaml/v0.18.1), today) - Customization of kubernetes YAML configurations
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.4), 1 day ago) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.3), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.0.1), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.6.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.6.3), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.4.2](https://github.com/grafana/alloy/releases/tag/v1.4.2), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.30.1](https://github.com/zitadel/oidc/releases/tag/v3.30.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.0), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
