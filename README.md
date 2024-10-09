@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2](https://github.com/grafana/grafana/releases/tag/v11.2.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.4), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.5.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.5.0), today) - Customization of kubernetes YAML configurations
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.14](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.14), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.4), 1 day ago) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.3), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.0.1), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.8.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.8.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.24](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.24), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.2), 4 days ago) - Terraform provider for Hetzner DNS
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.6.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.6.3), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
 
 #### 🔨 My recent Pull Requests
 
