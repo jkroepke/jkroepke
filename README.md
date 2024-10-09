@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.5), today) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2](https://github.com/grafana/grafana/releases/tag/v11.2.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.4), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.1), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.5.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.5.0), today) - Customization of kubernetes YAML configurations
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.14](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.14), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
