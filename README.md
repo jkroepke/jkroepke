@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: optimize registry collector](https://github.com/prometheus-community/windows_exporter/pull/1683) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [*: don&#39;t exclude resources, if empty exclude is empty.](https://github.com/prometheus-community/windows_exporter/pull/1680) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [*: [0.27] don&#39;t exclude resources, if exclude option is empty. ](https://github.com/prometheus-community/windows_exporter/pull/1679) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [memory: Implement perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1676) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [*: Implement collector interface for registry perfdata ](https://github.com/prometheus-community/windows_exporter/pull/1670) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [process: fix fallback to V1 collector](https://github.com/prometheus-community/windows_exporter/pull/1667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [process: Implement PDH collector and add support for Process V2](https://github.com/prometheus-community/windows_exporter/pull/1666) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [chore: cleanup move private packages to internal](https://github.com/prometheus-community/windows_exporter/pull/1665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
