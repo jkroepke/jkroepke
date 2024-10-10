@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.252.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.252.0), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.10.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.10.6), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.56.2](https://github.com/aquasecurity/trivy/releases/tag/v0.56.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.2), today) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.14](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.14), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.4), 2 days ago) - Kubetail helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.8.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.8.0), 2 days ago) - General-purpose web UI for Kubernetes clusters
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.24](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.24), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
