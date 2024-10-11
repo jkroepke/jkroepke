@@ -18,11 +18,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 week ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (2 weeks ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (2 weeks ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 weeks ago)
 - [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (3 weeks ago)
 - [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 month ago)
@@ -30,27 +30,27 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.0), today) - 
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.252.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.252.0), today) - A Go SDK for building backend plugins for Grafana
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.56.2](https://github.com/aquasecurity/trivy/releases/tag/v0.56.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.2), today) - Prometheus community Helm charts
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2](https://github.com/grafana/grafana/releases/tag/v11.2.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.1), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.5.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.5.0), 1 day ago) - Customization of kubernetes YAML configurations
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.14](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.14), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.4), 2 days ago) - Kubetail helm charts
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.8.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.8.0), 2 days ago) - General-purpose web UI for Kubernetes clusters
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.0), 1 day ago) - 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.252.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.252.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.56.2](https://github.com/aquasecurity/trivy/releases/tag/v0.56.2), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.2), 1 day ago) - Prometheus community Helm charts
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2](https://github.com/grafana/grafana/releases/tag/v11.2.2), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.1), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ([kustomize/v5.5.0](https://github.com/kubernetes-sigs/kustomize/releases/tag/kustomize/v5.5.0), 2 days ago) - Customization of kubernetes YAML configurations
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.14](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.14), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.7.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.7.4), 3 days ago) - Kubetail helm charts
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.8.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.8.0), 3 days ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
 
-- [chore: optimize registry collector](https://github.com/prometheus-community/windows_exporter/pull/1683) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [*: don&#39;t exclude resources, if empty exclude is empty.](https://github.com/prometheus-community/windows_exporter/pull/1680) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [*: [0.27] don&#39;t exclude resources, if exclude option is empty. ](https://github.com/prometheus-community/windows_exporter/pull/1679) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [memory: Implement perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1676) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [logical_disk: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1673) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [dns: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1672) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [dhcp: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1671) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [*: Implement collector interface for registry perfdata ](https://github.com/prometheus-community/windows_exporter/pull/1670) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [chore: optimize registry collector](https://github.com/prometheus-community/windows_exporter/pull/1683) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [*: don&#39;t exclude resources, if empty exclude is empty.](https://github.com/prometheus-community/windows_exporter/pull/1680) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [*: [0.27] don&#39;t exclude resources, if exclude option is empty. ](https://github.com/prometheus-community/windows_exporter/pull/1679) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [memory: Implement perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1676) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [logical_disk: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1673) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [dns: Implement Perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1672) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [dhcp: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1671) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [*: Implement collector interface for registry perfdata ](https://github.com/prometheus-community/windows_exporter/pull/1670) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [process: fix fallback to V1 collector](https://github.com/prometheus-community/windows_exporter/pull/1667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [process: Implement PDH collector and add support for Process V2](https://github.com/prometheus-community/windows_exporter/pull/1666) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
