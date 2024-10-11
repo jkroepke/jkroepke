@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.5.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.0), 1 day ago) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.252.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.252.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.56.2](https://github.com/aquasecurity/trivy/releases/tag/v0.56.2), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.6.2), 1 day ago) - Prometheus community Helm charts
