@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.4.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.4.0), today) - A set of modern Grafana dashboards for Kubernetes.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.0), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.26](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.26), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.252.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.252.0), 3 days ago) - A Go SDK for building backend plugins for Grafana
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.56.2](https://github.com/aquasecurity/trivy/releases/tag/v0.56.2), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2](https://github.com/grafana/grafana/releases/tag/v11.2.2), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.1), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
