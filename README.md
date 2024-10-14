@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.0), today) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), today) - Helm-like configuration values loader with support for various sources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.3), 1 day ago) - 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.4.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.4.0), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.0), 1 day ago) - Prometheus community Helm charts
