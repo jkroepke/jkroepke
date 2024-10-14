@@ -17,6 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
@@ -26,11 +27,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 weeks ago)
 - [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (4 weeks ago)
-- [jkroepke/repository-template-go](https://github.com/jkroepke/repository-template-go) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.18.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.18.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.5), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0-beta.1](https://github.com/prometheus/prometheus/releases/tag/v3.0.0-beta.1), today) - The Prometheus monitoring system and time series database.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), today) - Helm-like configuration values loader with support for various sources
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.4.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.4.0), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
