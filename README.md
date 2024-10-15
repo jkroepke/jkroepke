@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: fail, if unknown collector is defined in enabled list](https://github.com/prometheus-community/windows_exporter/pull/1693) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [update: rename `updates` collector to `update`](https://github.com/prometheus-community/windows_exporter/pull/1692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [logon: BREAKING: replace wmi query by Win32 API calls and expose detailed logon sessions. (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [*: Remove `teradici_pcoip` and `vmware_blast` collector](https://github.com/prometheus-community/windows_exporter/pull/1686) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [exchange: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1685) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [remove dependency on `xargs`](https://github.com/jkroepke/helm-secrets/pull/479) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
 - [chore: optimize registry collector](https://github.com/prometheus-community/windows_exporter/pull/1683) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [*: don&#39;t exclude resources, if empty exclude is empty.](https://github.com/prometheus-community/windows_exporter/pull/1680) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [*: [0.27] don&#39;t exclude resources, if exclude option is empty. ](https://github.com/prometheus-community/windows_exporter/pull/1679) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [memory: Implement perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1676) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
