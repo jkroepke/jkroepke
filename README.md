@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.15](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.15), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.5), 1 day ago) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0-beta.1](https://github.com/prometheus/prometheus/releases/tag/v3.0.0-beta.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), 1 day ago) - Helm-like configuration values loader with support for various sources
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.26](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.26), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.2), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.5.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.5.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.252.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.252.0), 5 days ago) - A Go SDK for building backend plugins for Grafana
 
 #### 🔨 My recent Pull Requests
 
