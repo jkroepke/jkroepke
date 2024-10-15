@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.1), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.253.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.253.0), today) - A Go SDK for building backend plugins for Grafana
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.15](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.15), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.5](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.5), 1 day ago) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0-beta.1](https://github.com/prometheus/prometheus/releases/tag/v3.0.0-beta.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.4.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.4.0), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
