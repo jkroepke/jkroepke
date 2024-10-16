@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.312](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.312), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.18.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.18.5), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.253.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.253.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.15](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.15), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0-beta.1](https://github.com/prometheus/prometheus/releases/tag/v3.0.0-beta.1), 2 days ago) - The Prometheus monitoring system and time series database.
