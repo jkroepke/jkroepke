@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 weeks ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (3 weeks ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.7.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.7.2), today) - Prometheus community Helm charts
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.0-rc.1), today) - The Prometheus monitoring system and time series database.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.18.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.18.0), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.27](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.27), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.254.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.254.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.15](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.15), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0-beta.1](https://github.com/prometheus/prometheus/releases/tag/v3.0.0-beta.1), 3 days ago) - The Prometheus monitoring system and time series database.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), 3 days ago) - Helm-like configuration values loader with support for various sources
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.4.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.4.0), 4 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.2](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.2), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
