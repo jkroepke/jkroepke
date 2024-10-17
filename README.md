@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.6), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.18.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.18.0), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.27](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.27), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.254.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.254.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.15](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.15), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
