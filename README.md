@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.0.5&#43;security-01](https://github.com/grafana/grafana/releases/tag/v11.0.5%2Bsecurity-01), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2&#43;security-01](https://github.com/grafana/grafana/releases/tag/v11.2.2%2Bsecurity-01), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.255.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.255.0), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.2), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.0-rc.1), today) - The Prometheus monitoring system and time series database.
