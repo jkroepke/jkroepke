@@ -17,46 +17,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (2 weeks ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (3 weeks ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (4 weeks ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 month ago)
 - [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.2.1](https://github.com/grafana/loki/releases/tag/v3.2.1), today) - Like Prometheus, but for logs.
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2&#43;security-01](https://github.com/grafana/grafana/releases/tag/v11.2.2%2Bsecurity-01), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.255.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.255.0), today) - A Go SDK for building backend plugins for Grafana
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.2), today) - 
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.0-rc.1), today) - The Prometheus monitoring system and time series database.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.1), today) - Prometheus community Helm charts
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.27](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.27), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.15](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.15), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), 3 days ago) - Helm-like configuration values loader with support for various sources
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.4.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.4.0), 4 days ago) - A set of modern Grafana dashboards for Kubernetes.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.2.1](https://github.com/grafana/loki/releases/tag/v3.2.1), 1 day ago) - Like Prometheus, but for logs.
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2&#43;security-01](https://github.com/grafana/grafana/releases/tag/v11.2.2%2Bsecurity-01), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.255.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.255.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.2), 1 day ago) - 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.1), 1 day ago) - Prometheus community Helm charts
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.27](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.27), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.15](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.15), 3 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.6](https://github.com/helmfile/vals/releases/tag/v0.37.6), 4 days ago) - Helm-like configuration values loader with support for various sources
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.4.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.4.0), 5 days ago) - A set of modern Grafana dashboards for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
-- [tcp: fix panic on collector](https://github.com/prometheus-community/windows_exporter/pull/1699) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [WSL: fix downloader plugin](https://github.com/jkroepke/helm-secrets/pull/482) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [fix: fail, if unknown collector is defined in enabled list](https://github.com/prometheus-community/windows_exporter/pull/1693) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [update: rename `updates` collector to `update`](https://github.com/prometheus-community/windows_exporter/pull/1692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [logon: BREAKING: replace wmi query by Win32 API calls and expose detailed logon sessions. (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [*: Remove `teradici_pcoip` and `vmware_blast` collector](https://github.com/prometheus-community/windows_exporter/pull/1686) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [exchange: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1685) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [fix mime types access](https://github.com/jkroepke/openvpn-auth-oauth2/pull/329) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/328) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [remove dependency on `xargs`](https://github.com/jkroepke/helm-secrets/pull/479) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
+- [tcp: fix panic on collector](https://github.com/prometheus-community/windows_exporter/pull/1699) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [WSL: fix downloader plugin](https://github.com/jkroepke/helm-secrets/pull/482) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (3 days ago)
+- [fix: fail, if unknown collector is defined in enabled list](https://github.com/prometheus-community/windows_exporter/pull/1693) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [update: rename `updates` collector to `update`](https://github.com/prometheus-community/windows_exporter/pull/1692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [logon: BREAKING: replace wmi query by Win32 API calls and expose detailed logon sessions. (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [*: Remove `teradici_pcoip` and `vmware_blast` collector](https://github.com/prometheus-community/windows_exporter/pull/1686) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [exchange: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1685) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [fix mime types access](https://github.com/jkroepke/openvpn-auth-oauth2/pull/329) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
+- [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/328) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
+- [remove dependency on `xargs`](https://github.com/jkroepke/helm-secrets/pull/479) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb (5 days ago)
+- [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb (6 days ago)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (2 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 month ago)
 - [recap/docker-mac-routes](https://github.com/recap/docker-mac-routes) - Routes IP traffic from MacOS host to docker containers in Docker Desktop (1 month ago)
