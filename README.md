@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-5.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-5.6.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.6.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.3), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.2.1](https://github.com/grafana/loki/releases/tag/v3.2.1), 1 day ago) - Like Prometheus, but for logs.
