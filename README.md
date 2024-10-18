@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.9.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.9.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.6.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.3), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.2.1](https://github.com/grafana/loki/releases/tag/v3.2.1), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.2&#43;security-01](https://github.com/grafana/grafana/releases/tag/v11.2.2%2Bsecurity-01), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.255.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.255.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
