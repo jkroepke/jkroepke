@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.9.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.9.1), today) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.4.3](https://github.com/grafana/alloy/releases/tag/v1.4.3), today) - OpenTelemetry Collector distribution with programmable pipelines
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.9.2](https://github.com/grafana/helm-charts/releases/tag/alloy-0.9.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.6.0), today) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.255.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.255.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.27](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.27), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.15](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.15), 3 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
