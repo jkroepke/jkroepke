@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.8), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.4.3](https://github.com/grafana/alloy/releases/tag/v1.4.3), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.9.2](https://github.com/grafana/helm-charts/releases/tag/alloy-0.9.2), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.1), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.6.0), 1 day ago) - Terraform provider for Azure Resource Manager
