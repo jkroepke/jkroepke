@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (today)
 - [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb (1 week ago)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (2 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 month ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (1 month ago)
 - [kharf/navecd](https://github.com/kharf/navecd) - A Type Safe Declarative Continuous Delivery Toolkit For Kubernetes (2 months ago)
 - [weeyin83/Azure-Arc-Windows-Linux-Dashboard](https://github.com/weeyin83/Azure-Arc-Windows-Linux-Dashboard) - An Azure dashboard to enable you to view several elements of the Windows or Linux servers you have deployed the Azure Arc agent to in one simple view.  (2 months ago)
-- [charmbracelet/glamour](https://github.com/charmbracelet/glamour) - Stylesheet-based markdown rendering for your CLI apps 💇🏻‍♀️ (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
