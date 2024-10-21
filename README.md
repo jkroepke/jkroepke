@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.5.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.5.1), today) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.7](https://github.com/helmfile/vals/releases/tag/v0.37.7), 1 day ago) - Helm-like configuration values loader with support for various sources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.8), 2 days ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.4.3](https://github.com/grafana/alloy/releases/tag/v1.4.3), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.4.0), 3 days ago) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.1), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
