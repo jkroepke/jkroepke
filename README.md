@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.1.8](https://github.com/grafana/grafana/releases/tag/v11.1.8), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.9.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.9.0), today) - General-purpose web UI for Kubernetes clusters
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.16](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.16), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([metrics-scraper/v1.2.1](https://github.com/kubernetes/dashboard/releases/tag/metrics-scraper/v1.2.1), today) - General-purpose web UI for Kubernetes clusters
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.0.7](https://github.com/grafana/grafana/releases/tag/v11.0.7), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.20.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.20.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.2), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.31.0](https://github.com/zitadel/oidc/releases/tag/v3.31.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
