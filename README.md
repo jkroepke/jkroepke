@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.313](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.313), today) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.3](https://github.com/grafana/grafana/releases/tag/v11.2.3), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0](https://github.com/prometheus/prometheus/releases/tag/v2.55.0), 1 day ago) - The Prometheus monitoring system and time series database.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.9.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.9.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.16](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.16), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.20.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.20.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.3.2), 1 day ago) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.31.0](https://github.com/zitadel/oidc/releases/tag/v3.31.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.256.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.256.0), 2 days ago) - A Go SDK for building backend plugins for Grafana
