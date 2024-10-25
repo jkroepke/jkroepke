@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.28.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-1.1.0](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.1.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0-rc.0), 1 day ago) - Prometheus Alertmanager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.60.1](https://github.com/prometheus/common/releases/tag/v0.60.1), 1 day ago) - Go libraries shared across Prometheus components and libraries.
