@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-1.1.0](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.1.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0-rc.0), 1 day ago) - Prometheus Alertmanager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.5), 1 day ago) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.60.1](https://github.com/prometheus/common/releases/tag/v0.60.1), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.258.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.258.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.0), 1 day ago) - Kubetail helm charts
