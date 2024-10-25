@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0-rc.0), 1 day ago) - Prometheus Alertmanager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.11.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.11.5), 1 day ago) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.60.1](https://github.com/prometheus/common/releases/tag/v0.60.1), 1 day ago) - Go libraries shared across Prometheus components and libraries.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.3](https://github.com/grafana/grafana/releases/tag/v11.2.3), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0](https://github.com/prometheus/prometheus/releases/tag/v2.55.0), 3 days ago) - The Prometheus monitoring system and time series database.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.9.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.9.0), 3 days ago) - General-purpose web UI for Kubernetes clusters
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.16](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.16), 3 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
