@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.5.0), today) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.3), today) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-1.3.0](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.7.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0-rc.0), 2 days ago) - Prometheus Alertmanager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.60.1](https://github.com/prometheus/common/releases/tag/v0.60.1), 2 days ago) - Go libraries shared across Prometheus components and libraries.
