@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([web/v1.5.2](https://github.com/kubernetes/dashboard/releases/tag/web/v1.5.2), today) - General-purpose web UI for Kubernetes clusters
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.10.1](https://github.com/kubernetes/dashboard/releases/tag/api/v1.10.1), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.15.0), 1 day ago) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.3), 1 day ago) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-1.3.0](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0), 2 days ago) - 
