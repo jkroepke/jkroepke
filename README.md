@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([web/v1.5.2](https://github.com/kubernetes/dashboard/releases/tag/web/v1.5.2), today) - General-purpose web UI for Kubernetes clusters
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.15.0), 1 day ago) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.3), 1 day ago) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-1.3.0](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0), 2 days ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.258.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.258.0), 3 days ago) - A Go SDK for building backend plugins for Grafana
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.3](https://github.com/grafana/grafana/releases/tag/v11.2.3), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0](https://github.com/prometheus/prometheus/releases/tag/v2.55.0), 5 days ago) - The Prometheus monitoring system and time series database.
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.9.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.9.0), 5 days ago) - General-purpose web UI for Kubernetes clusters
 
 #### 🔨 My recent Pull Requests
 
