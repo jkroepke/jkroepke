@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.4.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.5.0), today) - Prometheus community Helm charts
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.10.1](https://github.com/kubernetes/dashboard/releases/tag/api/v1.10.1), 1 day ago) - General-purpose web UI for Kubernetes clusters
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.3), 2 days ago) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([meta-monitoring-1.3.0](https://github.com/grafana/helm-charts/releases/tag/meta-monitoring-1.3.0), 3 days ago) - 
