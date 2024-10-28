@@ -20,8 +20,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (4 weeks ago)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Remove router](https://github.com/cloudeteer/grafana-pdf-report-app/pull/114) on [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) (today)
 - [log warning if session id exists but not used.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/333) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [alertmanager: Replace typed fields with plain string values](https://github.com/prometheus/alertmanager/pull/4083) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (3 days ago)
 - [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1700) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [update: rename `updates` collector to `update`](https://github.com/prometheus-community/windows_exporter/pull/1692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [logon: BREAKING: replace wmi query by Win32 API calls and expose detailed logon sessions. (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [*: Remove `teradici_pcoip` and `vmware_blast` collector](https://github.com/prometheus-community/windows_exporter/pull/1686) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [exchange: Use new collector interface](https://github.com/prometheus-community/windows_exporter/pull/1685) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
