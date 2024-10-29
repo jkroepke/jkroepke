@@ -18,10 +18,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (4 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (4 weeks ago)
@@ -30,41 +30,41 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.4), today) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.314](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.5.0), today) - Prometheus community Helm charts
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.10.1](https://github.com/kubernetes/dashboard/releases/tag/api/v1.10.1), 1 day ago) - General-purpose web UI for Kubernetes clusters
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0-rc.0), 4 days ago) - Prometheus Alertmanager
-- [prometheus/common](https://github.com/prometheus/common) ([v0.60.1](https://github.com/prometheus/common/releases/tag/v0.60.1), 4 days ago) - Go libraries shared across Prometheus components and libraries.
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.258.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.258.0), 4 days ago) - A Go SDK for building backend plugins for Grafana
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.3](https://github.com/grafana/grafana/releases/tag/v11.2.3), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0](https://github.com/prometheus/prometheus/releases/tag/v2.55.0), 6 days ago) - The Prometheus monitoring system and time series database.
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.4), 1 day ago) - Kubetail helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.314](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.314), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.5.0), 1 day ago) - Prometheus community Helm charts
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([api/v1.10.1](https://github.com/kubernetes/dashboard/releases/tag/api/v1.10.1), 2 days ago) - General-purpose web UI for Kubernetes clusters
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0-rc.0), 5 days ago) - Prometheus Alertmanager
+- [prometheus/common](https://github.com/prometheus/common) ([v0.60.1](https://github.com/prometheus/common/releases/tag/v0.60.1), 5 days ago) - Go libraries shared across Prometheus components and libraries.
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.258.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.258.0), 5 days ago) - A Go SDK for building backend plugins for Grafana
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.3](https://github.com/grafana/grafana/releases/tag/v11.2.3), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.0](https://github.com/prometheus/prometheus/releases/tag/v2.55.0), 1 week ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
-- [Remove router](https://github.com/cloudeteer/grafana-pdf-report-app/pull/114) on [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) (today)
-- [log warning if session id exists but not used.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/333) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [alertmanager: Replace typed fields with plain string values](https://github.com/prometheus/alertmanager/pull/4083) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (3 days ago)
+- [Remove router](https://github.com/cloudeteer/grafana-pdf-report-app/pull/114) on [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) (1 day ago)
+- [log warning if session id exists but not used.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/333) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [alertmanager: Replace typed fields with plain string values](https://github.com/prometheus/alertmanager/pull/4083) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (4 days ago)
 - [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1700) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [tcp: fix panic on collector](https://github.com/prometheus-community/windows_exporter/pull/1699) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [WSL: fix downloader plugin](https://github.com/jkroepke/helm-secrets/pull/482) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [fix: fail, if unknown collector is defined in enabled list](https://github.com/prometheus-community/windows_exporter/pull/1693) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [update: rename `updates` collector to `update`](https://github.com/prometheus-community/windows_exporter/pull/1692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
+- [WSL: fix downloader plugin](https://github.com/jkroepke/helm-secrets/pull/482) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
+- [fix: fail, if unknown collector is defined in enabled list](https://github.com/prometheus-community/windows_exporter/pull/1693) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
+- [update: rename `updates` collector to `update`](https://github.com/prometheus-community/windows_exporter/pull/1692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [logon: BREAKING: replace wmi query by Win32 API calls and expose detailed logon sessions. (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [*: Remove `teradici_pcoip` and `vmware_blast` collector](https://github.com/prometheus-community/windows_exporter/pull/1686) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (4 days ago)
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (5 days ago)
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (1 week ago)
 - [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb (2 weeks ago)
-- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (3 weeks ago)
+- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (4 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 month ago)
 - [recap/docker-mac-routes](https://github.com/recap/docker-mac-routes) - Routes IP traffic from MacOS host to docker containers in Docker Desktop (1 month ago)
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (1 month ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (1 month ago)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (1 month ago)
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (2 months ago)
 - [kharf/navecd](https://github.com/kharf/navecd) - A Type Safe Declarative Continuous Delivery Toolkit For Kubernetes (2 months ago)
 
 #### 👯 Check out some of my recent followers
