@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.10](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.10), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.7.0), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.32.0](https://github.com/zitadel/oidc/releases/tag/v3.32.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.2), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.2), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
