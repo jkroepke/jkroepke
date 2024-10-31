@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([web/v1.6.0](https://github.com/kubernetes/dashboard/releases/tag/web/v1.6.0), today) - General-purpose web UI for Kubernetes clusters
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.10.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.10.0), today) - General-purpose web UI for Kubernetes clusters
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.0), today) - A Grafana plugin app to create PDF reports of dashboards
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.41.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.3), 1 day ago) - 
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [hyperv: Added DataStore, Virtual SMB and Dynamic Memory Balancer metrics](https://github.com/prometheus-community/windows_exporter/pull/1712) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Optimize BuildFQName function](https://github.com/prometheus/client_golang/pull/1665) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (today)
 - [Remove router](https://github.com/cloudeteer/grafana-pdf-report-app/pull/114) on [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) (3 days ago)
 - [log warning if session id exists but not used.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/333) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [WSL: fix downloader plugin](https://github.com/jkroepke/helm-secrets/pull/482) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 - [fix: fail, if unknown collector is defined in enabled list](https://github.com/prometheus-community/windows_exporter/pull/1693) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [update: rename `updates` collector to `update`](https://github.com/prometheus-community/windows_exporter/pull/1692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [logon: BREAKING: replace wmi query by Win32 API calls and expose detailed logon sessions. (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
