@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 days ago)
-- [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (3 days ago)
+- [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
@@ -30,24 +30,24 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.1), today) - 
-- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.10.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.10.0), today) - General-purpose web UI for Kubernetes clusters
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.0), today) - A Grafana plugin app to create PDF reports of dashboards
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.41.0), today) - Prometheus community Helm charts
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.32.0](https://github.com/zitadel/oidc/releases/tag/v3.32.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.2), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.2), 2 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.4), 3 days ago) - Kubetail helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.1), 1 day ago) - 
+- [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.10.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.10.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.41.0), 1 day ago) - Prometheus community Helm charts
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.32.0](https://github.com/zitadel/oidc/releases/tag/v3.32.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.2), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.4), 4 days ago) - Kubetail helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0-rc.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0-rc.0), 1 week ago) - Prometheus Alertmanager
 
 #### 🔨 My recent Pull Requests
 
-- [hyperv: Added DataStore, Virtual SMB and Dynamic Memory Balancer metrics](https://github.com/prometheus-community/windows_exporter/pull/1712) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Optimize BuildFQName function](https://github.com/prometheus/client_golang/pull/1665) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (today)
-- [Remove router](https://github.com/cloudeteer/grafana-pdf-report-app/pull/114) on [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) (3 days ago)
-- [log warning if session id exists but not used.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/333) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [alertmanager: Replace typed fields with plain string values](https://github.com/prometheus/alertmanager/pull/4083) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (6 days ago)
+- [hyperv: Added DataStore, Virtual SMB and Dynamic Memory Balancer metrics](https://github.com/prometheus-community/windows_exporter/pull/1712) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [Optimize BuildFQName function](https://github.com/prometheus/client_golang/pull/1665) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (1 day ago)
+- [Remove router](https://github.com/cloudeteer/grafana-pdf-report-app/pull/114) on [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) (4 days ago)
+- [log warning if session id exists but not used.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/333) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
+- [alertmanager: Replace typed fields with plain string values](https://github.com/prometheus/alertmanager/pull/4083) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 week ago)
 - [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1700) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [tcp: fix panic on collector](https://github.com/prometheus-community/windows_exporter/pull/1699) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [WSL: fix downloader plugin](https://github.com/jkroepke/helm-secrets/pull/482) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
@@ -62,7 +62,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 month ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 month ago)
 - [recap/docker-mac-routes](https://github.com/recap/docker-mac-routes) - Routes IP traffic from MacOS host to docker containers in Docker Desktop (1 month ago)
-- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (1 month ago)
+- [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (2 months ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (2 months ago)
 - [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (2 months ago)
 - [kharf/navecd](https://github.com/kharf/navecd) - A Type Safe Declarative Continuous Delivery Toolkit For Kubernetes (2 months ago)
