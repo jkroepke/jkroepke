@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.0](https://github.com/sunny0826/kubecm/releases/tag/v0.32.0), today) - Manage your kubeconfig more easily.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.8.0), today) - Terraform provider for Azure Resource Manager
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2-rc3](https://github.com/project-zot/zot/releases/tag/v2.1.2-rc3), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.1), 1 day ago) - 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.10.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.10.0), 1 day ago) - General-purpose web UI for Kubernetes clusters
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.32.0](https://github.com/zitadel/oidc/releases/tag/v3.32.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.2), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.2), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.4), 4 days ago) - Kubetail helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.7.0), 1 week ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
