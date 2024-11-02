@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), today) - Helm-like configuration values loader with support for various sources
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.0](https://github.com/aquasecurity/trivy/releases/tag/v0.57.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.4), 1 day ago) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.32.1](https://github.com/zitadel/oidc/releases/tag/v3.32.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.0](https://github.com/sunny0826/kubecm/releases/tag/v0.32.0), 1 day ago) - Manage your kubeconfig more easily.
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.10.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.10.0), 2 days ago) - General-purpose web UI for Kubernetes clusters
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.0), 2 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.41.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.41.0), 2 days ago) - Prometheus community Helm charts
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-7.2.2](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-7.2.2), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.2), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
