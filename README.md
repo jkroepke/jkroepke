@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: trim newlines from files reading by secrets](https://github.com/jkroepke/openvpn-auth-oauth2/pull/343) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: enable sloglint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/342) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [fix: do not update refresh token on session refresh, if empty](https://github.com/jkroepke/openvpn-auth-oauth2/pull/341) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [deps: update all dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/339) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [log warning if session id exists but not used.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/333) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [alertmanager: Replace typed fields with plain string values](https://github.com/prometheus/alertmanager/pull/4083) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (1 week ago)
 - [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1700) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [tcp: fix panic on collector](https://github.com/prometheus-community/windows_exporter/pull/1699) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
