@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [add warning to post](https://github.com/actions/checkout/pull/1966) on [actions/checkout](https://github.com/actions/checkout) (today)
 - [cpu: implement int32 counter for PDH calls as well.](https://github.com/prometheus-community/windows_exporter/pull/1715) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1714) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mi: Revert &#34;replace all WMI calls with MI calls&#34;](https://github.com/prometheus-community/windows_exporter/pull/1713) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [deps: update all dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/339) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [hyperv: Added DataStore, Virtual SMB and Dynamic Memory Balancer metrics](https://github.com/prometheus-community/windows_exporter/pull/1712) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [Optimize BuildFQName function](https://github.com/prometheus/client_golang/pull/1665) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (3 days ago)
-- [Remove router](https://github.com/cloudeteer/grafana-pdf-report-app/pull/114) on [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) (6 days ago)
 
 #### ⭐ Recent Stars
 
