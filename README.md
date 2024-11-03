@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.5.0](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.5.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-0.5.0](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-0.5.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.8.0), today) - Prometheus community Helm charts
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 1 day ago) - Helm-like configuration values loader with support for various sources
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.0](https://github.com/aquasecurity/trivy/releases/tag/v0.57.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [added warning](https://github.com/actions/checkout/pull/1968) on [actions/checkout](https://github.com/actions/checkout) (today)
+- [added warning](https://github.com/actions/checkout/pull/1967) on [actions/checkout](https://github.com/actions/checkout) (today)
 - [add warning to post](https://github.com/actions/checkout/pull/1966) on [actions/checkout](https://github.com/actions/checkout) (today)
 - [cpu: implement int32 counter for PDH calls as well.](https://github.com/prometheus-community/windows_exporter/pull/1715) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1714) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: enable sloglint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/342) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [fix: do not update refresh token on session refresh, if empty](https://github.com/jkroepke/openvpn-auth-oauth2/pull/341) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [deps: update all dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/339) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [hyperv: Added DataStore, Virtual SMB and Dynamic Memory Balancer metrics](https://github.com/prometheus-community/windows_exporter/pull/1712) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [Optimize BuildFQName function](https://github.com/prometheus/client_golang/pull/1665) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (3 days ago)
 
 #### ⭐ Recent Stars
 
