@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.0](https://github.com/grafana/loki/releases/tag/operator/v0.7.0), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.29.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.15.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.15.1), today) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 2 days ago) - Helm-like configuration values loader with support for various sources
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.8.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2-rc3](https://github.com/project-zot/zot/releases/tag/v2.1.2-rc3), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) ([kubernetes-dashboard-7.10.0](https://github.com/kubernetes/dashboard/releases/tag/kubernetes-dashboard-7.10.0), 4 days ago) - General-purpose web UI for Kubernetes clusters
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.0), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
 
 #### 🔨 My recent Pull Requests
 
