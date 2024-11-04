@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.5](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.15.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.15.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.8.0), 1 day ago) - Prometheus community Helm charts
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 2 days ago) - Helm-like configuration values loader with support for various sources
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.0](https://github.com/aquasecurity/trivy/releases/tag/v0.57.0), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
