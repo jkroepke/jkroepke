@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.19.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.19.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.9.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.8.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.5), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.3](https://github.com/prometheus/prometheus/releases/tag/v2.53.3), today) - The Prometheus monitoring system and time series database.
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.0), today) - A Go SDK for building backend plugins for Grafana
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.0), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
