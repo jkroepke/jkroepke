@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.6](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.6), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.7.0), today) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.0.0-rc.0), today) - The Prometheus monitoring system and time series database.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.42.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.42.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.5.12](https://github.com/grafana/helm-charts/releases/tag/grafana-8.5.12), 1 day ago) - 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.0), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.0](https://github.com/grafana/loki/releases/tag/operator/v0.7.0), 1 day ago) - Like Prometheus, but for logs.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 3 days ago) - Helm-like configuration values loader with support for various sources
