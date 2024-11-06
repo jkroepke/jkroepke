@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
-- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (5 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (6 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
 - [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (1 week ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
@@ -30,29 +30,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.8.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.5), today) - 
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.3](https://github.com/prometheus/prometheus/releases/tag/v2.53.3), today) - The Prometheus monitoring system and time series database.
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.0), today) - A Go SDK for building backend plugins for Grafana
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.0), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.0](https://github.com/grafana/loki/releases/tag/operator/v0.7.0), 1 day ago) - Like Prometheus, but for logs.
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 3 days ago) - Helm-like configuration values loader with support for various sources
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.0](https://github.com/aquasecurity/trivy/releases/tag/v0.57.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.32.1](https://github.com/zitadel/oidc/releases/tag/v3.32.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.0](https://github.com/sunny0826/kubecm/releases/tag/v0.32.0), 4 days ago) - Manage your kubeconfig more easily.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.8.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.5), 1 day ago) - 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.3](https://github.com/prometheus/prometheus/releases/tag/v2.53.3), 1 day ago) - The Prometheus monitoring system and time series database.
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.0), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.0](https://github.com/grafana/loki/releases/tag/operator/v0.7.0), 2 days ago) - Like Prometheus, but for logs.
+- [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 4 days ago) - Helm-like configuration values loader with support for various sources
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.0](https://github.com/aquasecurity/trivy/releases/tag/v0.57.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.32.1](https://github.com/zitadel/oidc/releases/tag/v3.32.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.0](https://github.com/sunny0826/kubecm/releases/tag/v0.32.0), 5 days ago) - Manage your kubeconfig more easily.
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] Implement Gateway API for AM/Thanos Ruler](https://github.com/prometheus-community/helm-charts/pull/4971) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[grafana] Implement Gateway API](https://github.com/grafana/helm-charts/pull/3400) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
-- [added warning](https://github.com/actions/checkout/pull/1968) on [actions/checkout](https://github.com/actions/checkout) (2 days ago)
-- [added warning](https://github.com/actions/checkout/pull/1967) on [actions/checkout](https://github.com/actions/checkout) (2 days ago)
-- [add warning to post](https://github.com/actions/checkout/pull/1966) on [actions/checkout](https://github.com/actions/checkout) (2 days ago)
-- [cpu: implement int32 counter for PDH calls as well.](https://github.com/prometheus-community/windows_exporter/pull/1715) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1714) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [mi: Revert &#34;replace all WMI calls with MI calls&#34;](https://github.com/prometheus-community/windows_exporter/pull/1713) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [fix: trim newlines from files reading by secrets](https://github.com/jkroepke/openvpn-auth-oauth2/pull/343) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [chore: enable sloglint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/342) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [[kube-prometheus-stack] Implement Gateway API for AM/Thanos Ruler](https://github.com/prometheus-community/helm-charts/pull/4971) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[grafana] Implement Gateway API](https://github.com/grafana/helm-charts/pull/3400) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (2 days ago)
+- [added warning](https://github.com/actions/checkout/pull/1968) on [actions/checkout](https://github.com/actions/checkout) (3 days ago)
+- [added warning](https://github.com/actions/checkout/pull/1967) on [actions/checkout](https://github.com/actions/checkout) (3 days ago)
+- [add warning to post](https://github.com/actions/checkout/pull/1966) on [actions/checkout](https://github.com/actions/checkout) (3 days ago)
+- [cpu: implement int32 counter for PDH calls as well.](https://github.com/prometheus-community/windows_exporter/pull/1715) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1714) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [mi: Revert &#34;replace all WMI calls with MI calls&#34;](https://github.com/prometheus-community/windows_exporter/pull/1713) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [fix: trim newlines from files reading by secrets](https://github.com/jkroepke/openvpn-auth-oauth2/pull/343) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [chore: enable sloglint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/342) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [adriancperez2](https://github.com/adriancperez2)
 - [joriatyBen](https://github.com/joriatyBen)
 - [loafoe](https://github.com/loafoe)
 - [AssahBismarkabah](https://github.com/AssahBismarkabah)
 - [cyber8dave](https://github.com/cyber8dave)
-- [alfredkrohmer](https://github.com/alfredkrohmer)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
