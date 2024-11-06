@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-65.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-65.8.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.5), 1 day ago) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.3](https://github.com/prometheus/prometheus/releases/tag/v2.53.3), 1 day ago) - The Prometheus monitoring system and time series database.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 4 days ago) - Helm-like configuration values loader with support for various sources
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.0](https://github.com/aquasecurity/trivy/releases/tag/v0.57.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.32.1](https://github.com/zitadel/oidc/releases/tag/v3.32.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.0](https://github.com/sunny0826/kubecm/releases/tag/v0.32.0), 5 days ago) - Manage your kubeconfig more easily.
 
 #### 🔨 My recent Pull Requests
 
