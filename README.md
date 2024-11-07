@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.19.0-weekly.227](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.19.0-weekly.227), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.2), today) - A Go SDK for building backend plugins for Grafana
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.19.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.19.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.1.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
