@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.6), 1 day ago) - 
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.2), 1 day ago) - A Go SDK for building backend plugins for Grafana
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.0), 4 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.0](https://github.com/grafana/loki/releases/tag/operator/v0.7.0), 4 days ago) - Like Prometheus, but for logs.
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.37.8](https://github.com/helmfile/vals/releases/tag/v0.37.8), 6 days ago) - Helm-like configuration values loader with support for various sources
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.0](https://github.com/aquasecurity/trivy/releases/tag/v0.57.0), 6 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
