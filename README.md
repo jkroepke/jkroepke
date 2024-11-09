@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (1 week ago)
@@ -30,37 +30,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.13.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.13.0), today) - 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.3), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.0.0), today) - Prometheus community Helm charts
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.12](https://github.com/grafana/grafana/releases/tag/v10.4.12), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.9.0), today) - Terraform provider for Azure Resource Manager
-- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.2), 1 day ago) - A Go SDK for building backend plugins for Grafana
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.1), 2 days ago) - The Prometheus monitoring system and time series database.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.0), 4 days ago) - A set of modern Grafana dashboards for Kubernetes.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.13.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.13.0), 1 day ago) - 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.3), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.0.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.12](https://github.com/grafana/grafana/releases/tag/v10.4.12), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.9.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.2), 2 days ago) - A Go SDK for building backend plugins for Grafana
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.1), 3 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.0), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.0), 5 days ago) - A set of modern Grafana dashboards for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
-- [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/345) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [azurerm_pim_active_role_assignment: add support for RBAC conditions.](https://github.com/hashicorp/terraform-provider-azurerm/pull/27947) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (today)
-- [[kube-prometheus-stack] Implement Gateway API for AM/Thanos Ruler](https://github.com/prometheus-community/helm-charts/pull/4971) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[grafana] Implement Gateway API](https://github.com/grafana/helm-charts/pull/3400) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
-- [added warning](https://github.com/actions/checkout/pull/1968) on [actions/checkout](https://github.com/actions/checkout) (5 days ago)
-- [added warning](https://github.com/actions/checkout/pull/1967) on [actions/checkout](https://github.com/actions/checkout) (5 days ago)
-- [add warning to post](https://github.com/actions/checkout/pull/1966) on [actions/checkout](https://github.com/actions/checkout) (5 days ago)
-- [cpu: implement int32 counter for PDH calls as well.](https://github.com/prometheus-community/windows_exporter/pull/1715) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1714) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [mi: Revert &#34;replace all WMI calls with MI calls&#34;](https://github.com/prometheus-community/windows_exporter/pull/1713) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/345) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [azurerm_pim_active_role_assignment: add support for RBAC conditions.](https://github.com/hashicorp/terraform-provider-azurerm/pull/27947) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
+- [[kube-prometheus-stack] Implement Gateway API for AM/Thanos Ruler](https://github.com/prometheus-community/helm-charts/pull/4971) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[grafana] Implement Gateway API](https://github.com/grafana/helm-charts/pull/3400) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (5 days ago)
+- [added warning](https://github.com/actions/checkout/pull/1968) on [actions/checkout](https://github.com/actions/checkout) (6 days ago)
+- [added warning](https://github.com/actions/checkout/pull/1967) on [actions/checkout](https://github.com/actions/checkout) (6 days ago)
+- [add warning to post](https://github.com/actions/checkout/pull/1966) on [actions/checkout](https://github.com/actions/checkout) (6 days ago)
+- [cpu: implement int32 counter for PDH calls as well.](https://github.com/prometheus-community/windows_exporter/pull/1715) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1714) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [mi: Revert &#34;replace all WMI calls with MI calls&#34;](https://github.com/prometheus-community/windows_exporter/pull/1713) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (2 weeks ago)
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (2 weeks ago)
-- [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb (3 weeks ago)
+- [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb (4 weeks ago)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 month ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 month ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 months ago)
 - [recap/docker-mac-routes](https://github.com/recap/docker-mac-routes) - Routes IP traffic from MacOS host to docker containers in Docker Desktop (2 months ago)
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (2 months ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (2 months ago)
