@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.13](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.13), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.27.0), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.0), today) - Prometheus exporter for Windows machines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.3), today) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.13.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.13.0), 1 day ago) - 
