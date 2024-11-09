@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add perfcounter.engine CLI option as alternative to WINDOWS_EXPORTER_PERF_COUNTERS_ENGINE env](https://github.com/prometheus-community/windows_exporter/pull/1723) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/345) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [azurerm_pim_active_role_assignment: add support for RBAC conditions.](https://github.com/hashicorp/terraform-provider-azurerm/pull/27947) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 day ago)
 - [[kube-prometheus-stack] Implement Gateway API for AM/Thanos Ruler](https://github.com/prometheus-community/helm-charts/pull/4971) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [add warning to post](https://github.com/actions/checkout/pull/1966) on [actions/checkout](https://github.com/actions/checkout) (6 days ago)
 - [cpu: implement int32 counter for PDH calls as well.](https://github.com/prometheus-community/windows_exporter/pull/1715) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [mi: replace all WMI calls with MI calls](https://github.com/prometheus-community/windows_exporter/pull/1714) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [mi: Revert &#34;replace all WMI calls with MI calls&#34;](https://github.com/prometheus-community/windows_exporter/pull/1713) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
