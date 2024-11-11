@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.14.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.14.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.1](https://github.com/grafana/loki/releases/tag/operator/v0.7.1), today) - Like Prometheus, but for logs.
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.0.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.0), 2 days ago) - Prometheus exporter for Windows machines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.3), 2 days ago) - Terraform provider for Hetzner DNS
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.3), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
