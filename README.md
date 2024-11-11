@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.4.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.14.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.14.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.1](https://github.com/grafana/loki/releases/tag/operator/v0.7.1), today) - Like Prometheus, but for logs.
