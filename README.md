@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.0.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.0), 2 days ago) - Prometheus exporter for Windows machines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.9.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.1](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.1), 4 days ago) - The toolkit to pack, ship, store, and deliver container content
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.2), 4 days ago) - A Go SDK for building backend plugins for Grafana
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.55.1](https://github.com/prometheus/prometheus/releases/tag/v2.55.1), 5 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
