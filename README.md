@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [vmware: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1727) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/350) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: do not store refresh token, if empty.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/349) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [udp: Added UDP collector](https://github.com/prometheus-community/windows_exporter/pull/1725) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] Implement Gateway API for AM/Thanos Ruler](https://github.com/prometheus-community/helm-charts/pull/4971) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[grafana] Implement Gateway API](https://github.com/grafana/helm-charts/pull/3400) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [added warning](https://github.com/actions/checkout/pull/1968) on [actions/checkout](https://github.com/actions/checkout) (1 week ago)
-- [added warning](https://github.com/actions/checkout/pull/1967) on [actions/checkout](https://github.com/actions/checkout) (1 week ago)
 
 #### ⭐ Recent Stars
 
