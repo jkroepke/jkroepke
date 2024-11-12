@@ -17,37 +17,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (1 week ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 week ago)
-- [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (1 week ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (2 weeks ago)
+- [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (2 weeks ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (2 weeks ago)
 - [grafana/alloy](https://github.com/grafana/alloy) - OpenTelemetry Collector distribution with programmable pipelines (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.14.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.14.0), today) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.1](https://github.com/grafana/loki/releases/tag/operator/v0.7.1), today) - Like Prometheus, but for logs.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.0.0), today) - Contains Helm charts for Kubernetes related open source tools
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.0), 2 days ago) - Prometheus exporter for Windows machines
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.3), 2 days ago) - Terraform provider for Hetzner DNS
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.3), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.12](https://github.com/grafana/grafana/releases/tag/v10.4.12), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.9.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.0.0-rc.1), today) - The Prometheus monitoring system and time series database.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.14.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.14.0), 1 day ago) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.1](https://github.com/grafana/loki/releases/tag/operator/v0.7.1), 1 day ago) - Like Prometheus, but for logs.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.0.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.0), 3 days ago) - Prometheus exporter for Windows machines
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.3), 3 days ago) - Terraform provider for Hetzner DNS
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.3), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.12](https://github.com/grafana/grafana/releases/tag/v10.4.12), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
-- [udp: Added UDP collector](https://github.com/prometheus-community/windows_exporter/pull/1725) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [feat: add perfcounter.engine CLI option as alternative to WINDOWS_EXPORTER_PERF_COUNTERS_ENGINE env](https://github.com/prometheus-community/windows_exporter/pull/1723) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/345) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [azurerm_pim_active_role_assignment: add support for RBAC conditions.](https://github.com/hashicorp/terraform-provider-azurerm/pull/27947) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (3 days ago)
-- [[kube-prometheus-stack] Implement Gateway API for AM/Thanos Ruler](https://github.com/prometheus-community/helm-charts/pull/4971) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [udp: Added UDP collector](https://github.com/prometheus-community/windows_exporter/pull/1725) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [feat: add perfcounter.engine CLI option as alternative to WINDOWS_EXPORTER_PERF_COUNTERS_ENGINE env](https://github.com/prometheus-community/windows_exporter/pull/1723) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/345) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [azurerm_pim_active_role_assignment: add support for RBAC conditions.](https://github.com/hashicorp/terraform-provider-azurerm/pull/27947) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (4 days ago)
+- [[kube-prometheus-stack] Implement Gateway API for AM/Thanos Ruler](https://github.com/prometheus-community/helm-charts/pull/4971) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[grafana] Implement Gateway API](https://github.com/grafana/helm-charts/pull/3400) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 week ago)
 - [added warning](https://github.com/actions/checkout/pull/1968) on [actions/checkout](https://github.com/actions/checkout) (1 week ago)
 - [added warning](https://github.com/actions/checkout/pull/1967) on [actions/checkout](https://github.com/actions/checkout) (1 week ago)
