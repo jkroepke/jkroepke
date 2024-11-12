@@ -30,6 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.2](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.2), today) - Exec into node via kubectl
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.0&#43;security-01](https://github.com/grafana/grafana/releases/tag/v11.3.0%2Bsecurity-01), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.33.0](https://github.com/zitadel/oidc/releases/tag/v3.33.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.1), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.29](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.29), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
@@ -38,8 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.14.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.14.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.5.0-rc.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.7.1](https://github.com/grafana/loki/releases/tag/operator/v0.7.1), 1 day ago) - Like Prometheus, but for logs.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.0.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.0.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.0), 3 days ago) - Prometheus exporter for Windows machines
 
 #### 🔨 My recent Pull Requests
 
