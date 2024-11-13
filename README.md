@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.10.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.10.1), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0](https://github.com/grafana/alloy/releases/tag/v1.5.0), today) - OpenTelemetry Collector distribution with programmable pipelines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.10.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.10.0), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.33.1](https://github.com/zitadel/oidc/releases/tag/v3.33.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.4), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.2](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.2), 1 day ago) - Exec into node via kubectl
