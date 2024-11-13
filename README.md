@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Switch to hostprocess base image ](https://github.com/prometheus-community/windows_exporter/pull/1731) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [system: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1730) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [terminal_services: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1729) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [time: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1728) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [udp: Added UDP collector](https://github.com/prometheus-community/windows_exporter/pull/1725) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [feat: add perfcounter.engine CLI option as alternative to WINDOWS_EXPORTER_PERF_COUNTERS_ENGINE env](https://github.com/prometheus-community/windows_exporter/pull/1723) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [chore(deps): bump dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/345) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [azurerm_pim_active_role_assignment: add support for RBAC conditions.](https://github.com/hashicorp/terraform-provider-azurerm/pull/27947) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (5 days ago)
 
 #### ⭐ Recent Stars
 
