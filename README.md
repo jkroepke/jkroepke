@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [smb: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1740) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [smtp: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1739) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [remote_fx: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1738) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [SMTP: Support SASL XOAUTH2](https://github.com/prometheus/alertmanager/pull/4123) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [chore: use slog instead gokit for logging style](https://github.com/prometheus-community/windows_exporter/pull/1737) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [physical_disk: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1734) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: disable quay.io push, since no credentials are available.](https://github.com/prometheus-community/windows_exporter/pull/1733) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: Switch to hostprocess base image and add support for Windows Server 2025 on Kubernetes (click PR number for more information)](https://github.com/prometheus-community/windows_exporter/pull/1731) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [system: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1730) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [terminal_services: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1729) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
