@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[grafana] Expose basicAuth property for ServiceMonitor](https://github.com/grafana/helm-charts/pull/3432) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [smb: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1740) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [smtp: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1739) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [remote_fx: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1738) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [pagefile: BREAKING: move paging metrics from os to dedicated collector (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1735) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [physical_disk: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1734) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: disable quay.io push, since no credentials are available.](https://github.com/prometheus-community/windows_exporter/pull/1733) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [chore: Switch to hostprocess base image and add support for Windows Server 2025 on Kubernetes (click PR number for more information)](https://github.com/prometheus-community/windows_exporter/pull/1731) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
