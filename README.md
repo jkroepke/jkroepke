@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [SMTP: Support SASL XOAUTH2](https://github.com/prometheus/alertmanager/pull/4123) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [chore: use slog instead gokit for logging style](https://github.com/prometheus-community/windows_exporter/pull/1737) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [feat: Add arm64 windows support for docker](https://github.com/prometheus-community/windows_exporter/pull/1736) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [pagefile: BREAKING: move paging metrics from os to dedicated collector (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1735) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [system: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1730) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [terminal_services: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1729) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [time: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1728) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [vmware: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1727) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
