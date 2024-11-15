@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.2.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.22.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.22.0), 1 day ago) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.1), 1 day ago) - Prometheus exporter for Windows machines
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.4), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.2](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.2), 3 days ago) - Exec into node via kubectl
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.0&#43;security-01](https://github.com/grafana/grafana/releases/tag/v11.3.0%2Bsecurity-01), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.1.1), 3 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
+- [remote_fx: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1738) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [SMTP: Support SASL XOAUTH2](https://github.com/prometheus/alertmanager/pull/4123) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [chore: use slog instead gokit for logging style](https://github.com/prometheus-community/windows_exporter/pull/1737) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [feat: Add arm64 windows support for docker](https://github.com/prometheus-community/windows_exporter/pull/1736) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: Switch to hostprocess base image and add support for Windows Server 2025 on Kubernetes (click PR number for more information)](https://github.com/prometheus-community/windows_exporter/pull/1731) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [system: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1730) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [terminal_services: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1729) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [time: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1728) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
