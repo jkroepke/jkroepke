@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [mssql: expose server version info](https://github.com/prometheus-community/windows_exporter/pull/1741) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[grafana] Expose basicAuth property for ServiceMonitor](https://github.com/grafana/helm-charts/pull/3432) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (1 day ago)
 - [smb: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1740) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [smtp: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1739) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: Add arm64 windows support for docker](https://github.com/prometheus-community/windows_exporter/pull/1736) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [pagefile: BREAKING: move paging metrics from os to dedicated collector (click PR for more information)](https://github.com/prometheus-community/windows_exporter/pull/1735) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [physical_disk: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1734) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [chore: disable quay.io push, since no credentials are available.](https://github.com/prometheus-community/windows_exporter/pull/1733) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
