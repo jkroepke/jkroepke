@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.22.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.22.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.2.1), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.0](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.0), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.1), 2 days ago) - Prometheus exporter for Windows machines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0](https://github.com/prometheus/prometheus/releases/tag/v3.0.0), 2 days ago) - The Prometheus monitoring system and time series database.
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [a950216t](https://github.com/a950216t)
 - [adriancperez2](https://github.com/adriancperez2)
 - [joriatyBen](https://github.com/joriatyBen)
 - [loafoe](https://github.com/loafoe)
 - [AssahBismarkabah](https://github.com/AssahBismarkabah)
-- [cyber8dave](https://github.com/cyber8dave)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
