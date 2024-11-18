@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.2), today) - Prometheus exporter for Windows machines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.17](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.17), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.1), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.22.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.22.1), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.1), 4 days ago) - Prometheus exporter for Windows machines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0](https://github.com/prometheus/prometheus/releases/tag/v3.0.0), 4 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.0](https://github.com/grafana/alloy/releases/tag/v1.5.0), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.33.1](https://github.com/zitadel/oidc/releases/tag/v3.33.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
