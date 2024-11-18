@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.1](https://github.com/aquasecurity/trivy/releases/tag/v0.57.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.14](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.14), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.30](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.30), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.3), today) - Prometheus exporter for Windows machines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.17](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.17), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.1), 2 days ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.0](https://github.com/prometheus/prometheus/releases/tag/v3.0.0), 4 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
