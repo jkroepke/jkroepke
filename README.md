@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.12](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.12), today) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.3), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.6), today) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.317](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.317), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.2), today) - Prometheus exporter for Windows machines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.17](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.17), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.1), 2 days ago) - Prometheus community Helm charts
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [service: fixed buffer too low error](https://github.com/prometheus-community/windows_exporter/pull/1745) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [service: parallelize api calls](https://github.com/prometheus-community/windows_exporter/pull/1744) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Remove registry based perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1742) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [mssql: expose server version info](https://github.com/prometheus-community/windows_exporter/pull/1741) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [remote_fx: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1738) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [SMTP: Support SASL XOAUTH2](https://github.com/prometheus/alertmanager/pull/4123) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (3 days ago)
 - [chore: use slog instead gokit for logging style](https://github.com/prometheus-community/windows_exporter/pull/1737) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [feat: Add arm64 windows support for docker](https://github.com/prometheus-community/windows_exporter/pull/1736) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
