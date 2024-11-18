@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.17](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.17), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.1), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.22.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.22.1), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.10.0), 3 days ago) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.33.1](https://github.com/zitadel/oidc/releases/tag/v3.33.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.4](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.4), 6 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.10.2](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.10.2), 6 days ago) - Exec into node via kubectl
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.0&#43;security-01](https://github.com/grafana/grafana/releases/tag/v11.3.0%2Bsecurity-01), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
