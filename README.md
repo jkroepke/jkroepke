@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.13](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.13), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.1](https://github.com/aquasecurity/trivy/releases/tag/v0.57.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.14](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.14), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.30](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.30), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.3), 1 day ago) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.4.12](https://github.com/grafana/helm-charts/releases/tag/beyla-1.4.12), 1 day ago) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.3), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.6), 1 day ago) - Kubetail helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.17](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.17), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
