@@ -18,7 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) - A bridge to sent messages to an Azure Communication Gateway using managed identities. (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [logicaldisk: fix base counter values](https://github.com/prometheus-community/windows_exporter/pull/1747) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [init](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge/pull/1) on [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) (today)
 - [service: fixed buffer too low error](https://github.com/prometheus-community/windows_exporter/pull/1745) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [service: parallelize api calls](https://github.com/prometheus-community/windows_exporter/pull/1744) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [smb: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1740) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [smtp: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1739) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [remote_fx: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1738) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [SMTP: Support SASL XOAUTH2](https://github.com/prometheus/alertmanager/pull/4123) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (4 days ago)
 
 #### ⭐ Recent Stars
 
