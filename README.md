@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.4](https://github.com/grafana/grafana/releases/tag/v11.2.4), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.3.0](https://github.com/grafana/loki/releases/tag/v3.3.0), today) - Like Prometheus, but for logs.
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.1](https://github.com/grafana/grafana/releases/tag/v11.3.1), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.20.0-weekly.229](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.20.0-weekly.229), today) - 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.18](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.18), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.4), today) - Automatically provision and manage TLS certificates in Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.3), 1 day ago) - Prometheus exporter for Windows machines
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.3), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.6), 1 day ago) - Kubetail helm charts
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-25.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-25.30.1), 3 days ago) - Prometheus community Helm charts
 
 #### 🔨 My recent Pull Requests
 
