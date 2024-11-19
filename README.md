@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.8), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.0](https://github.com/grafana/loki/releases/tag/v3.3.0), today) - Like Prometheus, but for logs.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.1](https://github.com/grafana/grafana/releases/tag/v11.3.1), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.20.0-weekly.229](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.20.0-weekly.229), today) - 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.18](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.18), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.15.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.15.4), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.57.1](https://github.com/aquasecurity/trivy/releases/tag/v0.57.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
