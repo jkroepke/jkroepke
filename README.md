@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.3), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.8), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.0](https://github.com/grafana/loki/releases/tag/v3.3.0), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.1](https://github.com/grafana/grafana/releases/tag/v11.3.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.30](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.30), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.3), 2 days ago) - Prometheus exporter for Windows machines
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.3](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.3), 2 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.6), 2 days ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
