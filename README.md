@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.1), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.2), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.21.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.21.0), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.3), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.0](https://github.com/grafana/loki/releases/tag/v3.3.0), 1 day ago) - Like Prometheus, but for logs.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.1](https://github.com/grafana/grafana/releases/tag/v11.3.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
