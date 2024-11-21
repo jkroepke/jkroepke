@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [mssql: fix performance counter with additional server instance](https://github.com/prometheus-community/windows_exporter/pull/1753) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [logical_disk: Get Volume ID for NTFS Volume Mounts](https://github.com/prometheus-community/windows_exporter/pull/1752) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1750) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [exchange: Extend Transport Queue metrics](https://github.com/prometheus-community/windows_exporter/pull/1749) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [service: parallelize api calls](https://github.com/prometheus-community/windows_exporter/pull/1744) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [chore: Remove registry based perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1742) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [mssql: expose server version info](https://github.com/prometheus-community/windows_exporter/pull/1741) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [[grafana] Expose basicAuth property for ServiceMonitor](https://github.com/grafana/helm-charts/pull/3432) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
