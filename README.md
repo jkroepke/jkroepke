@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.22.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.22.2), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.31](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.31), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.2), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.3), 1 day ago) - A Go SDK for building backend plugins for Grafana
