@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [collector: remove windows_exporter_perflib_snapshot_duration_seconds metric](https://github.com/prometheus-community/windows_exporter/pull/1760) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mscluster: fix cluster and network sub collectors](https://github.com/prometheus-community/windows_exporter/pull/1759) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [hyperv: fail silent for non exists collectors](https://github.com/prometheus-community/windows_exporter/pull/1756) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [logical_disk: revert panic trigger on error](https://github.com/prometheus-community/windows_exporter/pull/1755) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mssql: fix performance counter with additional server instance](https://github.com/prometheus-community/windows_exporter/pull/1753) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [exchange: Extend Transport Queue metrics](https://github.com/prometheus-community/windows_exporter/pull/1749) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [logicaldisk: fix base counter values](https://github.com/prometheus-community/windows_exporter/pull/1747) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [init](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge/pull/1) on [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) (3 days ago)
-- [service: fixed buffer too low error](https://github.com/prometheus-community/windows_exporter/pull/1745) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [service: parallelize api calls](https://github.com/prometheus-community/windows_exporter/pull/1744) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
