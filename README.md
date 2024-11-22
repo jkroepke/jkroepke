@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.10](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.10), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.4), 1 day ago) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.3), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.7.31](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.7.31), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.2), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.3), 2 days ago) - A Go SDK for building backend plugins for Grafana
