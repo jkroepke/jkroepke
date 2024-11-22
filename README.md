@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.11), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.8.0), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.4), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.11.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.10](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.10), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.4), 1 day ago) - Prometheus exporter for Windows machines
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.2), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.3), 2 days ago) - A Go SDK for building backend plugins for Grafana
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [logical_disk: revert panic trigger on error](https://github.com/prometheus-community/windows_exporter/pull/1755) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mssql: fix performance counter with additional server instance](https://github.com/prometheus-community/windows_exporter/pull/1753) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [logical_disk: Get Volume ID for NTFS Volume Mounts](https://github.com/prometheus-community/windows_exporter/pull/1752) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1750) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [service: fixed buffer too low error](https://github.com/prometheus-community/windows_exporter/pull/1745) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [service: parallelize api calls](https://github.com/prometheus-community/windows_exporter/pull/1744) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [chore: Remove registry based perfdata collector](https://github.com/prometheus-community/windows_exporter/pull/1742) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [mssql: expose server version info](https://github.com/prometheus-community/windows_exporter/pull/1741) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
