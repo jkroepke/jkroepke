@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) - A bridge to sent messages to an Azure Communication Gateway using managed identities. (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) - A bridge to sent messages to an Azure Communication Gateway using managed identities. (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
@@ -26,37 +26,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (3 weeks ago)
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (3 weeks ago)
 - [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (3 weeks ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (4 weeks ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.20.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.20.0), today) - 
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.4](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.4), today) - A Go SDK for building backend plugins for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.8.0), today) - Prometheus community Helm charts
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.0), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.4), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.11.0), today) - Terraform provider for Azure Resource Manager
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.4), 1 day ago) - Prometheus exporter for Windows machines
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.2), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/loki](https://github.com/grafana/loki) ([v3.3.0](https://github.com/grafana/loki/releases/tag/v3.3.0), 3 days ago) - Like Prometheus, but for logs.
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.1](https://github.com/grafana/grafana/releases/tag/v11.3.1), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.20.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.20.0), 1 day ago) - 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.4](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.4), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.8.0), 1 day ago) - Prometheus community Helm charts
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.4), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.11.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.4), 2 days ago) - Prometheus exporter for Windows machines
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.2), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/loki](https://github.com/grafana/loki) ([v3.3.0](https://github.com/grafana/loki/releases/tag/v3.3.0), 4 days ago) - Like Prometheus, but for logs.
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.1](https://github.com/grafana/grafana/releases/tag/v11.3.1), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
-- [collector: remove windows_exporter_perflib_snapshot_duration_seconds metric](https://github.com/prometheus-community/windows_exporter/pull/1760) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mscluster: fix cluster and network sub collectors](https://github.com/prometheus-community/windows_exporter/pull/1759) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [hyperv: fail silent for non exists collectors](https://github.com/prometheus-community/windows_exporter/pull/1756) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [logical_disk: revert panic trigger on error](https://github.com/prometheus-community/windows_exporter/pull/1755) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mssql: fix performance counter with additional server instance](https://github.com/prometheus-community/windows_exporter/pull/1753) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [logical_disk: Get Volume ID for NTFS Volume Mounts](https://github.com/prometheus-community/windows_exporter/pull/1752) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1750) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [exchange: Extend Transport Queue metrics](https://github.com/prometheus-community/windows_exporter/pull/1749) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [logicaldisk: fix base counter values](https://github.com/prometheus-community/windows_exporter/pull/1747) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [init](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge/pull/1) on [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) (3 days ago)
+- [adfs: fix collector](https://github.com/prometheus-community/windows_exporter/pull/1761) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [collector: remove windows_exporter_perflib_snapshot_duration_seconds metric](https://github.com/prometheus-community/windows_exporter/pull/1760) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mscluster: fix cluster and network sub collectors](https://github.com/prometheus-community/windows_exporter/pull/1759) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [hyperv: fail silent for non exists collectors](https://github.com/prometheus-community/windows_exporter/pull/1756) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [logical_disk: revert panic trigger on error](https://github.com/prometheus-community/windows_exporter/pull/1755) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mssql: fix performance counter with additional server instance](https://github.com/prometheus-community/windows_exporter/pull/1753) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [logical_disk: Get Volume ID for NTFS Volume Mounts](https://github.com/prometheus-community/windows_exporter/pull/1752) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1750) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [exchange: Extend Transport Queue metrics](https://github.com/prometheus-community/windows_exporter/pull/1749) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [logicaldisk: fix base counter values](https://github.com/prometheus-community/windows_exporter/pull/1747) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (4 weeks ago)
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (1 month ago)
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (1 month ago)
 - [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb (1 month ago)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 month ago)
