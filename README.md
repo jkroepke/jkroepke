@@ -17,9 +17,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) - A bridge to sent messages to an Azure Communication Gateway using managed identities. (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.1), today) - A set of modern Grafana dashboards for Kubernetes.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.2.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.20.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.20.0), 1 day ago) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.4](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.4), 1 day ago) - A Go SDK for building backend plugins for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.8.0), 1 day ago) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.4), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.11.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.4), 2 days ago) - Prometheus exporter for Windows machines
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.2), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.0](https://github.com/grafana/loki/releases/tag/v3.3.0), 4 days ago) - Like Prometheus, but for logs.
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.1](https://github.com/grafana/grafana/releases/tag/v11.3.1), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
