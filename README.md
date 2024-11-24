@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [msmq: Use Performance Counter instead WMI](https://github.com/prometheus-community/windows_exporter/pull/1766) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [smb: extend smb share metrics](https://github.com/prometheus-community/windows_exporter/pull/1765) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [nps: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1764) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [collector: fix wrong perfdata instances](https://github.com/prometheus-community/windows_exporter/pull/1763) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hyperv: fail silent for non exists collectors](https://github.com/prometheus-community/windows_exporter/pull/1756) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [logical_disk: revert panic trigger on error](https://github.com/prometheus-community/windows_exporter/pull/1755) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [mssql: fix performance counter with additional server instance](https://github.com/prometheus-community/windows_exporter/pull/1753) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [logical_disk: Get Volume ID for NTFS Volume Mounts](https://github.com/prometheus-community/windows_exporter/pull/1752) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
