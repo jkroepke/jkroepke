@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: move exporter binary to cmd package](https://github.com/prometheus-community/windows_exporter/pull/1768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: fix copyright headers](https://github.com/prometheus-community/windows_exporter/pull/1767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [msmq: Use Performance Counter instead WMI](https://github.com/prometheus-community/windows_exporter/pull/1766) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [smb: extend smb share metrics](https://github.com/prometheus-community/windows_exporter/pull/1765) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [collector: remove windows_exporter_perflib_snapshot_duration_seconds metric](https://github.com/prometheus-community/windows_exporter/pull/1760) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [mscluster: fix cluster and network sub collectors](https://github.com/prometheus-community/windows_exporter/pull/1759) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [hyperv: fail silent for non exists collectors](https://github.com/prometheus-community/windows_exporter/pull/1756) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [logical_disk: revert panic trigger on error](https://github.com/prometheus-community/windows_exporter/pull/1755) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
