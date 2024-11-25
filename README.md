@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), today) - Contains Helm charts for Kubernetes related open source tools
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.1), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.2.2), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.20.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.20.0), 3 days ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.11.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.11.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.4), 4 days ago) - Prometheus exporter for Windows machines
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.2](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.2), 5 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/loki](https://github.com/grafana/loki) ([v3.3.0](https://github.com/grafana/loki/releases/tag/v3.3.0), 6 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
