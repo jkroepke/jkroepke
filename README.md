@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) - A bridge to sent messages to an Azure Communication Gateway using managed identities. (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Support OpenMetrics](https://github.com/prometheus-community/windows_exporter/pull/1772) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [fix: use log.file=eventlog as default value, if running as windows service](https://github.com/prometheus-community/windows_exporter/pull/1771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: move exporter binary to cmd package](https://github.com/prometheus-community/windows_exporter/pull/1768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: fix copyright headers](https://github.com/prometheus-community/windows_exporter/pull/1767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [nps: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1764) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [collector: fix wrong perfdata instances](https://github.com/prometheus-community/windows_exporter/pull/1763) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [adfs: fix collector](https://github.com/prometheus-community/windows_exporter/pull/1761) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [collector: remove windows_exporter_perflib_snapshot_duration_seconds metric](https://github.com/prometheus-community/windows_exporter/pull/1760) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [mscluster: fix cluster and network sub collectors](https://github.com/prometheus-community/windows_exporter/pull/1759) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
