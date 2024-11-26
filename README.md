@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [mssql: set windows_exporter_collector_success to 0, if errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [collector: don&#39;t fail if perf counters are empty.](https://github.com/prometheus-community/windows_exporter/pull/1776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [textfile: set windows_exporter_collector_success to 0, if an errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [collector: refactor metrics handler](https://github.com/prometheus-community/windows_exporter/pull/1773) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[windows-observ-lib] fix deep drill link if instanceLabel is not instance](https://github.com/grafana/jsonnet-libs/pull/1364) on [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) (today)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [chore: move exporter binary to cmd package](https://github.com/prometheus-community/windows_exporter/pull/1768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [chore: fix copyright headers](https://github.com/prometheus-community/windows_exporter/pull/1767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [msmq: Use Performance Counter instead WMI](https://github.com/prometheus-community/windows_exporter/pull/1766) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [smb: extend smb share metrics](https://github.com/prometheus-community/windows_exporter/pull/1765) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
