@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.2), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.5), 1 day ago) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.4.1), 1 day ago) - Prometheus community Helm charts
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 1 day ago) - Exec into node via kubectl
 - [grafana/agent](https://github.com/grafana/agent) ([v0.43.4](https://github.com/grafana/agent/releases/tag/v0.43.4), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.318](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.318), 1 day ago) - 
 - [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.1), 3 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.4](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.4), 4 days ago) - A Go SDK for building backend plugins for Grafana
