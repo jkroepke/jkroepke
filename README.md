@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.5.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.5.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.5.0), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-beta.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-beta.5), 1 day ago) - Prometheus exporter for Windows machines
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 1 day ago) - Exec into node via kubectl
 - [grafana/agent](https://github.com/grafana/agent) ([v0.43.4](https://github.com/grafana/agent/releases/tag/v0.43.4), 1 day ago) - Vendor-neutral programmable observability pipelines.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [collector: refactor metrics handler](https://github.com/prometheus-community/windows_exporter/pull/1773) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[windows-observ-lib] fix deep drill link if instanceLabel is not instance](https://github.com/grafana/jsonnet-libs/pull/1364) on [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) (today)
 - [feat: Support OpenMetrics](https://github.com/prometheus-community/windows_exporter/pull/1772) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: use log.file=eventlog as default value, if running as windows service](https://github.com/prometheus-community/windows_exporter/pull/1771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [msmq: Use Performance Counter instead WMI](https://github.com/prometheus-community/windows_exporter/pull/1766) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [smb: extend smb share metrics](https://github.com/prometheus-community/windows_exporter/pull/1765) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [nps: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1764) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [collector: fix wrong perfdata instances](https://github.com/prometheus-community/windows_exporter/pull/1763) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
