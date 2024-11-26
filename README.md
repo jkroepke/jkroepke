@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [textfile: set windows_exporter_collector_success to 0, if an errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [collector: refactor metrics handler](https://github.com/prometheus-community/windows_exporter/pull/1773) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[windows-observ-lib] fix deep drill link if instanceLabel is not instance](https://github.com/grafana/jsonnet-libs/pull/1364) on [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) (today)
 - [feat: Support OpenMetrics](https://github.com/prometheus-community/windows_exporter/pull/1772) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: fix copyright headers](https://github.com/prometheus-community/windows_exporter/pull/1767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [msmq: Use Performance Counter instead WMI](https://github.com/prometheus-community/windows_exporter/pull/1766) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [smb: extend smb share metrics](https://github.com/prometheus-community/windows_exporter/pull/1765) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [nps: refactor collector](https://github.com/prometheus-community/windows_exporter/pull/1764) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
