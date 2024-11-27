@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.22.0-weekly.230](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.22.0-weekly.230), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.3.0), today) - Prometheus community Helm charts
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.0), today) - A Go SDK for building backend plugins for Grafana
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.23.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.23.0), today) - 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.3](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.3), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.0), 1 day ago) - Prometheus exporter for Windows machines
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 2 days ago) - Exec into node via kubectl
