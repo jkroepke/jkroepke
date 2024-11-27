@@ -18,7 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) - A bridge to sent messages to an Azure Communication Gateway using managed identities. (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
@@ -30,29 +30,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.3](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.3), today) - A set of modern Grafana dashboards for Kubernetes.
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.0), today) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.4), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.5.1), today) - Prometheus community Helm charts
-- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 1 day ago) - Exec into node via kubectl
-- [grafana/agent](https://github.com/grafana/agent) ([v0.43.4](https://github.com/grafana/agent/releases/tag/v0.43.4), 1 day ago) - Vendor-neutral programmable observability pipelines.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 1 day ago) - Contains Helm charts for Kubernetes related open source tools
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.4](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.4), 4 days ago) - A Go SDK for building backend plugins for Grafana
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.0), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.4), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.3](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.3), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.0), 1 day ago) - Prometheus exporter for Windows machines
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.4), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.5.1), 1 day ago) - Prometheus community Helm charts
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 2 days ago) - Exec into node via kubectl
+- [grafana/agent](https://github.com/grafana/agent) ([v0.43.4](https://github.com/grafana/agent/releases/tag/v0.43.4), 2 days ago) - Vendor-neutral programmable observability pipelines.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.259.4](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.259.4), 5 days ago) - A Go SDK for building backend plugins for Grafana
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.0), 5 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.4), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
-- [mssql: set windows_exporter_collector_success to 0, if errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [collector: don&#39;t fail if perf counters are empty.](https://github.com/prometheus-community/windows_exporter/pull/1776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [textfile: set windows_exporter_collector_success to 0, if an errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [collector: refactor metrics handler](https://github.com/prometheus-community/windows_exporter/pull/1773) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[windows-observ-lib] fix deep drill link if instanceLabel is not instance](https://github.com/grafana/jsonnet-libs/pull/1364) on [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) (today)
-- [feat: Support OpenMetrics](https://github.com/prometheus-community/windows_exporter/pull/1772) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [fix: use log.file=eventlog as default value, if running as windows service](https://github.com/prometheus-community/windows_exporter/pull/1771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [chore: move exporter binary to cmd package](https://github.com/prometheus-community/windows_exporter/pull/1768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [chore: fix copyright headers](https://github.com/prometheus-community/windows_exporter/pull/1767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [mssql: set windows_exporter_collector_success to 0, if errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [collector: don&#39;t fail if perf counters are empty.](https://github.com/prometheus-community/windows_exporter/pull/1776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [textfile: set windows_exporter_collector_success to 0, if an errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [collector: refactor metrics handler](https://github.com/prometheus-community/windows_exporter/pull/1773) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[windows-observ-lib] fix deep drill link if instanceLabel is not instance](https://github.com/grafana/jsonnet-libs/pull/1364) on [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) (1 day ago)
+- [feat: Support OpenMetrics](https://github.com/prometheus-community/windows_exporter/pull/1772) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [fix: use log.file=eventlog as default value, if running as windows service](https://github.com/prometheus-community/windows_exporter/pull/1771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [chore: move exporter binary to cmd package](https://github.com/prometheus-community/windows_exporter/pull/1768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [chore: fix copyright headers](https://github.com/prometheus-community/windows_exporter/pull/1767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
