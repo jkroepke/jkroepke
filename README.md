@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.3), today) - 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.3](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.3), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.0), 1 day ago) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.4), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.5.1), 1 day ago) - Prometheus community Helm charts
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 2 days ago) - Exec into node via kubectl
 - [grafana/agent](https://github.com/grafana/agent) ([v0.43.4](https://github.com/grafana/agent/releases/tag/v0.43.4), 2 days ago) - Vendor-neutral programmable observability pipelines.
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [meysam81](https://github.com/meysam81)
 - [stelb](https://github.com/stelb)
 - [pgaijin66](https://github.com/pgaijin66)
 - [Goldendragon1029](https://github.com/Goldendragon1029)
 - [Sevenlive](https://github.com/Sevenlive)
-- [pascal-hofmann](https://github.com/pascal-hofmann)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
