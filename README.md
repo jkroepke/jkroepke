@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.12), today) - 
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.3](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.3), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.0), 1 day ago) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.5.1), 1 day ago) - Prometheus community Helm charts
