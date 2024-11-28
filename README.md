@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.1), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.22.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.22.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.3.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.3](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.3), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.0), 2 days ago) - Prometheus exporter for Windows machines
 - [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 3 days ago) - Exec into node via kubectl
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [kisermichael](https://github.com/kisermichael)
 - [meysam81](https://github.com/meysam81)
 - [stelb](https://github.com/stelb)
 - [pgaijin66](https://github.com/pgaijin66)
 - [Goldendragon1029](https://github.com/Goldendragon1029)
-- [Sevenlive](https://github.com/Sevenlive)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
