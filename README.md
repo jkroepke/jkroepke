@@ -17,42 +17,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) - A bridge to sent messages to an Azure Communication Gateway using managed identities. (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 weeks ago)
-- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (3 weeks ago)
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (4 weeks ago)
-- [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (4 weeks ago)
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (4 weeks ago)
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services (1 month ago)
+- [cloudeteer/grafana-pdf-report-app](https://github.com/cloudeteer/grafana-pdf-report-app) - Grafana app for generate PDFs based on dashboards (1 month ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.22.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.22.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.3.0), today) - Prometheus community Helm charts
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.0), today) - A Go SDK for building backend plugins for Grafana
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.3](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.3), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.0), 1 day ago) - Prometheus exporter for Windows machines
-- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 2 days ago) - Exec into node via kubectl
-- [grafana/agent](https://github.com/grafana/agent) ([v0.43.4](https://github.com/grafana/agent/releases/tag/v0.43.4), 2 days ago) - Vendor-neutral programmable observability pipelines.
-- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 2 days ago) - Contains Helm charts for Kubernetes related open source tools
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.0), 5 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.4), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.22.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.22.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.3.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.5.3](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.5.3), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.0), 2 days ago) - Prometheus exporter for Windows machines
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) ([v1.11.0](https://github.com/kvaps/kubectl-node-shell/releases/tag/v1.11.0), 3 days ago) - Exec into node via kubectl
+- [grafana/agent](https://github.com/grafana/agent) ([v0.43.4](https://github.com/grafana/agent/releases/tag/v0.43.4), 3 days ago) - Vendor-neutral programmable observability pipelines.
+- [vmware-tanzu/helm-charts](https://github.com/vmware-tanzu/helm-charts) ([velero-8.1.0](https://github.com/vmware-tanzu/helm-charts/releases/tag/velero-8.1.0), 3 days ago) - Contains Helm charts for Kubernetes related open source tools
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.0), 6 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.11.4](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.11.4), 6 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
-- [mssql: set windows_exporter_collector_success to 0, if errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [collector: don&#39;t fail if perf counters are empty.](https://github.com/prometheus-community/windows_exporter/pull/1776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [textfile: set windows_exporter_collector_success to 0, if an errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [collector: refactor metrics handler](https://github.com/prometheus-community/windows_exporter/pull/1773) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[windows-observ-lib] fix deep drill link if instanceLabel is not instance](https://github.com/grafana/jsonnet-libs/pull/1364) on [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) (1 day ago)
-- [feat: Support OpenMetrics](https://github.com/prometheus-community/windows_exporter/pull/1772) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [fix: use log.file=eventlog as default value, if running as windows service](https://github.com/prometheus-community/windows_exporter/pull/1771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [chore: move exporter binary to cmd package](https://github.com/prometheus-community/windows_exporter/pull/1768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [chore: fix copyright headers](https://github.com/prometheus-community/windows_exporter/pull/1767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [mssql: set windows_exporter_collector_success to 0, if errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [collector: don&#39;t fail if perf counters are empty.](https://github.com/prometheus-community/windows_exporter/pull/1776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [textfile: set windows_exporter_collector_success to 0, if an errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [collector: refactor metrics handler](https://github.com/prometheus-community/windows_exporter/pull/1773) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[windows-observ-lib] fix deep drill link if instanceLabel is not instance](https://github.com/grafana/jsonnet-libs/pull/1364) on [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) (2 days ago)
+- [feat: Support OpenMetrics](https://github.com/prometheus-community/windows_exporter/pull/1772) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [fix: use log.file=eventlog as default value, if running as windows service](https://github.com/prometheus-community/windows_exporter/pull/1771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [chore: move exporter binary to cmd package](https://github.com/prometheus-community/windows_exporter/pull/1768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [chore: fix copyright headers](https://github.com/prometheus-community/windows_exporter/pull/1767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
@@ -64,7 +64,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [recap/docker-mac-routes](https://github.com/recap/docker-mac-routes) - Routes IP traffic from MacOS host to docker containers in Docker Desktop (2 months ago)
 - [metacontroller/metacontroller](https://github.com/metacontroller/metacontroller) - Writing kubernetes controllers can be simple (2 months ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters runner for Go (2 months ago)
-- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (2 months ago)
+- [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon) - An open-source RAG-based tool for chatting with your documents. (3 months ago)
 - [kharf/navecd](https://github.com/kharf/navecd) - A Type Safe Declarative Continuous Delivery Toolkit For Kubernetes (3 months ago)
 
 #### 👯 Check out some of my recent followers
