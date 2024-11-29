@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [logical_disk: fix volume access with limited permission](https://github.com/prometheus-community/windows_exporter/pull/1786) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [hyperv: Removed `% Guest Idle Time` performance counters (introduced in 0.30.0-beta.4)](https://github.com/prometheus-community/windows_exporter/pull/1785) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [system: BREAKING rename `windows_system_system_up_time` to `windows_system_boot_time_timestamp_seconds`](https://github.com/prometheus-community/windows_exporter/pull/1784) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mssql: set windows_exporter_collector_success to 0, if errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[windows-observ-lib] fix deep drill link if instanceLabel is not instance](https://github.com/grafana/jsonnet-libs/pull/1364) on [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) (3 days ago)
 - [feat: Support OpenMetrics](https://github.com/prometheus-community/windows_exporter/pull/1772) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [fix: use log.file=eventlog as default value, if running as windows service](https://github.com/prometheus-community/windows_exporter/pull/1771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [feat: Tolerate collector failures](https://github.com/prometheus-community/windows_exporter/pull/1769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
