@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: update deps](https://github.com/prometheus-community/windows_exporter/pull/1796) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mssql: fix not collecting sql errors](https://github.com/prometheus-community/windows_exporter/pull/1793) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [iis: Fix label for Default Web Site](https://github.com/prometheus-community/windows_exporter/pull/1792) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [vmware: fix memory collector](https://github.com/prometheus-community/windows_exporter/pull/1791) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [system: BREAKING rename `windows_system_system_up_time` to `windows_system_boot_time_timestamp_seconds`](https://github.com/prometheus-community/windows_exporter/pull/1784) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [mssql: set windows_exporter_collector_success to 0, if errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [collector: don&#39;t fail if perf counters are empty.](https://github.com/prometheus-community/windows_exporter/pull/1776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [textfile: set windows_exporter_collector_success to 0, if an errors occurs](https://github.com/prometheus-community/windows_exporter/pull/1775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
