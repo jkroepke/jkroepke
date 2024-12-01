@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.21.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.21.0), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.2), 1 day ago) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.6.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.6.4), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.12.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.12.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.1](https://github.com/prometheus/prometheus/releases/tag/v3.0.1), 3 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.1), 3 days ago) - A Go SDK for building backend plugins for Grafana
