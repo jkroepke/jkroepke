@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: added tests](https://github.com/prometheus-community/windows_exporter/pull/1800) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mssql: add counter based on server version](https://github.com/prometheus-community/windows_exporter/pull/1799) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Clarify docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/362) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [promslog: always lowercase log level from CLI](https://github.com/prometheus/common/pull/728) on [prometheus/common](https://github.com/prometheus/common) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [vmware: fix memory collector](https://github.com/prometheus-community/windows_exporter/pull/1791) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [performancecounter: rename collector](https://github.com/prometheus-community/windows_exporter/pull/1787) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [logical_disk: fix volume access with limited permission](https://github.com/prometheus-community/windows_exporter/pull/1786) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [hyperv: Removed `% Guest Idle Time` performance counters (introduced in 0.30.0-beta.4)](https://github.com/prometheus-community/windows_exporter/pull/1785) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
