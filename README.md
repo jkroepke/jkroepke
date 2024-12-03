@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.10.1](https://github.com/grafana/helm-charts/releases/tag/alloy-0.10.1), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.1](https://github.com/grafana/alloy/releases/tag/v1.5.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.19](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.19), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.1), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.23.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.23.2), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0-rc.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0-rc.2), 3 days ago) - Prometheus exporter for Windows machines
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.12.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.12.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.0.1](https://github.com/prometheus/prometheus/releases/tag/v3.0.1), 5 days ago) - The Prometheus monitoring system and time series database.
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1804) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Upgrade azapi dependency to 2.0.0](https://github.com/cloudeteer/terraform-azurerm-vm/pull/45) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (today)
 - [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1803) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: added tests](https://github.com/prometheus-community/windows_exporter/pull/1800) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: update deps](https://github.com/prometheus-community/windows_exporter/pull/1796) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [mssql: fix not collecting sql errors](https://github.com/prometheus-community/windows_exporter/pull/1793) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [iis: Fix label for Default Web Site](https://github.com/prometheus-community/windows_exporter/pull/1792) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [vmware: fix memory collector](https://github.com/prometheus-community/windows_exporter/pull/1791) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
