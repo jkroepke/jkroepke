@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1803) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: added tests](https://github.com/prometheus-community/windows_exporter/pull/1800) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [mssql: add counter based on server version](https://github.com/prometheus-community/windows_exporter/pull/1799) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [Clarify docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/362) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [iis: Fix label for Default Web Site](https://github.com/prometheus-community/windows_exporter/pull/1792) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [vmware: fix memory collector](https://github.com/prometheus-community/windows_exporter/pull/1791) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [performancecounter: rename collector](https://github.com/prometheus-community/windows_exporter/pull/1787) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [logical_disk: fix volume access with limited permission](https://github.com/prometheus-community/windows_exporter/pull/1786) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
