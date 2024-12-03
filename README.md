@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1805) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [test](https://github.com/jkroepke/openvpn-auth-oauth2/pull/364) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1804) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Upgrade azapi dependency to 2.0.0](https://github.com/cloudeteer/terraform-azurerm-vm/pull/45) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Clarify docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/362) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [promslog: always lowercase log level from CLI](https://github.com/prometheus/common/pull/728) on [prometheus/common](https://github.com/prometheus/common) (2 days ago)
 - [chore: update deps](https://github.com/prometheus-community/windows_exporter/pull/1796) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [mssql: fix not collecting sql errors](https://github.com/prometheus-community/windows_exporter/pull/1793) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
