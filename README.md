@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.2.5](https://github.com/grafana/grafana/releases/tag/v11.2.5), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.2](https://github.com/grafana/grafana/releases/tag/v11.3.2), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.3.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.13), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.0](https://github.com/aquasecurity/trivy/releases/tag/v0.58.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
