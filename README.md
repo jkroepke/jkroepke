@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.13), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.0](https://github.com/aquasecurity/trivy/releases/tag/v0.58.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.10.1](https://github.com/grafana/helm-charts/releases/tag/alloy-0.10.1), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.5.1](https://github.com/grafana/alloy/releases/tag/v1.5.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.19](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.19), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.1), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
