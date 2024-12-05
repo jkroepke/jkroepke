@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.23.0-weekly.231](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.23.0-weekly.231), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.11](https://github.com/grafana/loki/releases/tag/v2.9.11), today) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.0](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.0), today) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.10.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.10.0), today) - 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.20](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.20), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.28.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.28.1), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.2.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.2.4), today) - Terraform provider for Hetzner DNS
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add example for DNS zone delegation](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/151) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (today)
 - [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1805) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [test](https://github.com/jkroepke/openvpn-auth-oauth2/pull/364) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1804) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mssql: add counter based on server version](https://github.com/prometheus-community/windows_exporter/pull/1799) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [Clarify docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/362) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [promslog: always lowercase log level from CLI](https://github.com/prometheus/common/pull/728) on [prometheus/common](https://github.com/prometheus/common) (4 days ago)
-- [chore: update deps](https://github.com/prometheus-community/windows_exporter/pull/1796) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
