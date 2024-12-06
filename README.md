@@ -43,7 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Add example for DNS zone delegation](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/151) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
+- [feat: add hetznerdns_nameserver data source](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/151) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 day ago)
 - [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1805) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [test](https://github.com/jkroepke/openvpn-auth-oauth2/pull/364) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1804) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
