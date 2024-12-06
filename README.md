@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.1), today) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.13.8](https://github.com/grafana/helm-charts/releases/tag/oncall-1.13.8), today) - 
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.0), today) - Terraform provider for Hetzner DNS
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.13.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.13.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.0](https://github.com/grafana/grafana/releases/tag/v11.4.0), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.11](https://github.com/grafana/loki/releases/tag/v2.9.11), 1 day ago) - Like Prometheus, but for logs.
