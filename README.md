@@ -19,8 +19,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 day ago)
-- [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (2 days ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [jhoelzel](https://github.com/jhoelzel)
 - [gfleury](https://github.com/gfleury)
 - [mgnisia](https://github.com/mgnisia)
 - [srinivaspitchubabu99](https://github.com/srinivaspitchubabu99)
 - [kisermichael](https://github.com/kisermichael)
-- [meysam81](https://github.com/meysam81)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
