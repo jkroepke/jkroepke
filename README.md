@@ -19,9 +19,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (4 days ago)
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (6 days ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (1 week ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.7), today) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.320](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.320), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.7.0), 1 day ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.2), 1 day ago) - Terraform provider for Hetzner DNS
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.0](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.0), 5 days ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v0.0.20](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v0.0.20), 5 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.28.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.28.1), 5 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [prometheus/common](https://github.com/prometheus/common) ([v0.61.0](https://github.com/prometheus/common/releases/tag/v0.61.0), 6 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
