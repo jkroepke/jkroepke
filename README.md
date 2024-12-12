@@ -17,35 +17,35 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (today)
-- [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (5 days ago)
+- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 day ago)
+- [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (6 days ago)
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (1 week ago)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module (1 week ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [cloudeteer/azure-communication-gateway-smtp-bridge](https://github.com/cloudeteer/azure-communication-gateway-smtp-bridge) - A bridge to sent messages to an Azure Communication Gateway using managed identities. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.1](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.1), today) - 
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.2), today) - A Go SDK for building backend plugins for Grafana
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.2), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.7.1), 1 day ago) - Prometheus community Helm charts
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.7), 1 day ago) - Kubetail helm charts
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.2), 2 days ago) - Terraform provider for Hetzner DNS
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.13.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.13.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.0](https://github.com/grafana/grafana/releases/tag/v11.4.0), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.11](https://github.com/grafana/loki/releases/tag/v2.9.11), 6 days ago) - Like Prometheus, but for logs.
-- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.0](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.0), 6 days ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.1](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.1), 1 day ago) - 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.2), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.2), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.7.1), 2 days ago) - Prometheus community Helm charts
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.7), 2 days ago) - Kubetail helm charts
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.2), 3 days ago) - Terraform provider for Hetzner DNS
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.13.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.13.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.0](https://github.com/grafana/grafana/releases/tag/v11.4.0), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.11](https://github.com/grafana/loki/releases/tag/v2.9.11), 1 week ago) - Like Prometheus, but for logs.
+- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.0](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.0), 1 week ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
 
 #### 🔨 My recent Pull Requests
 
-- [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/373) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [performancecounter: support yaml documents and tolerate collector errors](https://github.com/prometheus-community/windows_exporter/pull/1809) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [feat: add hetznerdns_nameserver data source](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/151) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (6 days ago)
+- [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/373) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [performancecounter: support yaml documents and tolerate collector errors](https://github.com/prometheus-community/windows_exporter/pull/1809) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [feat: add hetznerdns_nameserver data source](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/151) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 week ago)
 - [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1805) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [test](https://github.com/jkroepke/openvpn-auth-oauth2/pull/364) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1804) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
