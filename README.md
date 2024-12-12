@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.7.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.7.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.15](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.15), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.4.0), today) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.3), today) - Terraform provider for Hetzner DNS
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.2), 1 day ago) - A Go SDK for building backend plugins for Grafana
