@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.14](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.14), today) - Prometheus community Helm charts
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.3), today) - A Go SDK for building backend plugins for Grafana
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.14.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.14.0), today) - Terraform provider for Azure Resource Manager
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.3), 1 day ago) - Terraform provider for Hetzner DNS
