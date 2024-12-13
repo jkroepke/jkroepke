@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (2 days ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (3 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (1 week ago)
 - [prometheus/common](https://github.com/prometheus/common) - Go libraries shared across Prometheus components and libraries. (1 week ago)
@@ -30,13 +30,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.5.0), today) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.14.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.14.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.9](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.9), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.4.0), 1 day ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.3), 1 day ago) - Terraform provider for Hetzner DNS
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.2](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.2), 2 days ago) - A Go SDK for building backend plugins for Grafana
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.2), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.7), 3 days ago) - Kubetail helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.13.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.13.0), 1 week ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.0](https://github.com/grafana/grafana/releases/tag/v11.4.0), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.11](https://github.com/grafana/loki/releases/tag/v2.9.11), 1 week ago) - Like Prometheus, but for logs.
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.0](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.0), 1 week ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
