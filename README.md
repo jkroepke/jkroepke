@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1814) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/373) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [performancecounter: support yaml documents and tolerate collector errors](https://github.com/prometheus-community/windows_exporter/pull/1809) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [feat: add hetznerdns_nameserver data source](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/151) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Upgrade azapi dependency to 2.0.0](https://github.com/cloudeteer/terraform-azurerm-vm/pull/45) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (1 week ago)
 - [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1803) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [chore: added tests](https://github.com/prometheus-community/windows_exporter/pull/1800) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [mssql: add counter based on server version](https://github.com/prometheus-community/windows_exporter/pull/1799) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
