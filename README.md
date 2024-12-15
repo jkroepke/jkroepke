@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.7.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.18.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.2.0), 1 day ago) - Collection of charts used in my projects
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.1), 2 days ago) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.3), 2 days ago) - A Go SDK for building backend plugins for Grafana
