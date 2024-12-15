@@ -17,8 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (4 days ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (5 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.43.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.43.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-66.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-66.7.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.2.0), 1 day ago) - Collection of charts used in my projects
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.1), 2 days ago) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.3), 2 days ago) - A Go SDK for building backend plugins for Grafana
