@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-17.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-17.0.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.2.1), today) - Prometheus community Helm charts
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.28.3](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.28.3), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.3), 1 day ago) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.2.0), 3 days ago) - Collection of charts used in my projects
