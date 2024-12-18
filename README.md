@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-17.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-17.0.2), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.2](https://github.com/grafana/loki/releases/tag/v3.3.2), today) - Like Prometheus, but for logs.
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.2](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.2), today) - The toolkit to pack, ship, store, and deliver container content
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.28.4](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.28.4), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.3.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.3), 2 days ago) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.2.0), 4 days ago) - Collection of charts used in my projects
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.3), 5 days ago) - A Go SDK for building backend plugins for Grafana
