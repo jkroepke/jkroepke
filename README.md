@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.3.2](https://github.com/grafana/loki/releases/tag/v3.3.2), today) - Like Prometheus, but for logs.
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.2](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.2), today) - The toolkit to pack, ship, store, and deliver container content
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.28.4](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.28.4), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.3.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.14.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.14.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.3), 6 days ago) - Terraform provider for Hetzner DNS
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.2), 1 week ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.7), 1 week ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
