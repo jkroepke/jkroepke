@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.2](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.2), today) - The toolkit to pack, ship, store, and deliver container content
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.28.4](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.28.4), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.3.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.26.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.26.3), 2 days ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.3), 6 days ago) - Terraform provider for Hetzner DNS
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.2), 1 week ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.8.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.8.7), 1 week ago) - Kubetail helm charts
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.0](https://github.com/grafana/grafana/releases/tag/v11.4.0), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
