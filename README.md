@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 week ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.5), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2-rc4](https://github.com/project-zot/zot/releases/tag/v2.1.2-rc4), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.28.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.28.0), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.1.0-rc.0), today) - The Prometheus monitoring system and time series database.
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.2](https://github.com/grafana/loki/releases/tag/v3.3.2), 2 days ago) - Like Prometheus, but for logs.
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.2](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.2), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.28.4](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.28.4), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 
 #### 🔨 My recent Pull Requests
 
+- [Stricter lint rules](https://github.com/jkroepke/openvpn-auth-oauth2/pull/377) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: replace `Url` with `URL`](https://github.com/norwoodj/helm-docs/pull/281) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (3 days ago)
 - [[New Resource] `azurerm_resource_feature_registration`](https://github.com/hashicorp/terraform-provider-azurerm/pull/28303) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (4 days ago)
 - [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1814) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1805) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [test](https://github.com/jkroepke/openvpn-auth-oauth2/pull/364) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [process: fix metric labels for multiple process instances](https://github.com/prometheus-community/windows_exporter/pull/1804) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [Upgrade azapi dependency to 2.0.0](https://github.com/cloudeteer/terraform-azurerm-vm/pull/45) on [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
