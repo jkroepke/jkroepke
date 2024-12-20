@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.28.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.28.0), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.1.0-rc.0), today) - The Prometheus monitoring system and time series database.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.0), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2-rc4](https://github.com/project-zot/zot/releases/tag/v2.1.2-rc4), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.16), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.15.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.4.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.0), 1 day ago) - Vendor-neutral programmable observability pipelines.
