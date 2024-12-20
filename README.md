@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.0), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2-rc4](https://github.com/project-zot/zot/releases/tag/v2.1.2-rc4), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.16](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.16), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.15.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.2](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.2), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.28.4](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.28.4), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.2.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.2.0), 6 days ago) - Collection of charts used in my projects
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.260.3](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.260.3), 1 week ago) - A Go SDK for building backend plugins for Grafana
 
 #### 🔨 My recent Pull Requests
 
