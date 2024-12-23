@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-postgres-exporter-6.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-postgres-exporter-6.8.1), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.3), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.11), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.6.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.5), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2-rc4](https://github.com/project-zot/zot/releases/tag/v2.1.2-rc4), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.1.0-rc.0), 3 days ago) - The Prometheus monitoring system and time series database.
