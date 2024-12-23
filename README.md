@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.3), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.11), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.6.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.5), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.15.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.0](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.0), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.2](https://github.com/grafana/loki/releases/tag/v3.3.2), 5 days ago) - Like Prometheus, but for logs.
-- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.2](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.2), 5 days ago) - The toolkit to pack, ship, store, and deliver container content
 
 #### 🔨 My recent Pull Requests
 
