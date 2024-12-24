@@ -17,19 +17,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 week ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (2 weeks ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.3.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.3.1), today) - Collection of charts used in my projects
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.1](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.1), today) - A Grafana plugin app to create PDF reports of dashboards
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.1](https://github.com/aquasecurity/trivy/releases/tag/v0.58.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.11.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2-rc4](https://github.com/project-zot/zot/releases/tag/v2.1.2-rc4), 4 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.1.0-rc.0), 4 days ago) - The Prometheus monitoring system and time series database.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.0), 4 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.15.1), 5 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
