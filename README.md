@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.3.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.3.1), today) - Collection of charts used in my projects
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.18.1), today) - Prometheus community Helm charts
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.3.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.3.2), today) - Collection of charts used in my projects
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.1](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.1), today) - A Grafana plugin app to create PDF reports of dashboards
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.1](https://github.com/aquasecurity/trivy/releases/tag/v0.58.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.11.0), 1 day ago) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.3), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0-rc.11](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0-rc.11), 2 days ago) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.5](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.5), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
