@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (5 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (2 weeks ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (2 weeks ago)
@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingmesh-exporter-0.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingmesh-exporter-0.4.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.43.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.43.1), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.3.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.3.2), 1 day ago) - Collection of charts used in my projects
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.1](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.1), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.1](https://github.com/aquasecurity/trivy/releases/tag/v0.58.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Modernize chart](https://github.com/jkroepke/helm-charts/pull/66) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [iis: fix panic](https://github.com/prometheus-community/windows_exporter/pull/1820) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [chore: modernize code](https://github.com/jkroepke/openvpn-auth-oauth2/pull/378) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Stricter lint rules](https://github.com/jkroepke/openvpn-auth-oauth2/pull/377) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/373) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [performancecounter: support yaml documents and tolerate collector errors](https://github.com/prometheus-community/windows_exporter/pull/1809) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [feat: add hetznerdns_nameserver data source](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/151) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (2 weeks ago)
-- [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1805) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
