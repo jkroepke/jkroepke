@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [small lint fixes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/381) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Modernize chart](https://github.com/jkroepke/helm-charts/pull/66) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 day ago)
 - [iis: fix panic](https://github.com/prometheus-community/windows_exporter/pull/1820) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [chore: modernize code](https://github.com/jkroepke/openvpn-auth-oauth2/pull/378) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1814) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/373) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [performancecounter: support yaml documents and tolerate collector errors](https://github.com/prometheus-community/windows_exporter/pull/1809) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [feat: add hetznerdns_nameserver data source](https://github.com/germanbrew/terraform-provider-hetznerdns/pull/151) on [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
