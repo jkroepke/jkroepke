@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [performancecounter: fix panic with counter names having brackets](https://github.com/prometheus-community/windows_exporter/pull/1822) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [small lint fixes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/381) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Modernize chart](https://github.com/jkroepke/helm-charts/pull/66) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 days ago)
 - [iis: fix panic](https://github.com/prometheus-community/windows_exporter/pull/1820) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[New Resource] `azurerm_resource_feature_registration`](https://github.com/hashicorp/terraform-provider-azurerm/pull/28303) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (1 week ago)
 - [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1814) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/373) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
-- [performancecounter: support yaml documents and tolerate collector errors](https://github.com/prometheus-community/windows_exporter/pull/1809) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
