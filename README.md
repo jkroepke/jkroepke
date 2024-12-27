@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.0.0), today) - Prometheus community Helm charts
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.1](https://github.com/sunny0826/kubecm/releases/tag/v0.32.1), today) - Manage your kubeconfig more easily.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.0), 2 days ago) - Collection of charts used in my projects
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.13.0), 2 days ago) - Prometheus community Helm charts
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.1](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.1), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.1](https://github.com/aquasecurity/trivy/releases/tag/v0.58.1), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.8.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.8.3), 4 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
