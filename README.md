@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.16.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.323](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.323), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.28.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.28.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.1.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.0), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.1](https://github.com/sunny0826/kubecm/releases/tag/v0.32.1), 4 days ago) - Manage your kubeconfig more easily.
