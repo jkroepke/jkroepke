@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Implement client configs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/383) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [performancecounter: fix panic with counter names having brackets](https://github.com/prometheus-community/windows_exporter/pull/1822) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [small lint fixes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/381) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Modernize chart](https://github.com/jkroepke/helm-charts/pull/66) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (1 week ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: replace `Url` with `URL`](https://github.com/norwoodj/helm-docs/pull/281) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (2 weeks ago)
 - [[New Resource] `azurerm_resource_feature_registration`](https://github.com/hashicorp/terraform-provider-azurerm/pull/28303) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (2 weeks ago)
 - [process: Use registry collector for V1 data](https://github.com/prometheus-community/windows_exporter/pull/1814) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [update dependencies](https://github.com/jkroepke/openvpn-auth-oauth2/pull/373) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
