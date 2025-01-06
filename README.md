@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.324](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.324), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.8.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.17](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.17), 2 days ago) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.0](https://github.com/zitadel/oidc/releases/tag/v3.34.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0](https://github.com/prometheus/prometheus/releases/tag/v3.1.0), 4 days ago) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.0), 1 week ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
