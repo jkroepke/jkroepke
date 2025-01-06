@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.324](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.324), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.8.0), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.0](https://github.com/zitadel/oidc/releases/tag/v3.34.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0](https://github.com/prometheus/prometheus/releases/tag/v3.1.0), 4 days ago) - The Prometheus monitoring system and time series database.
