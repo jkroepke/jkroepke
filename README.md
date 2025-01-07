@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.2](https://github.com/sunny0826/kubecm/releases/tag/v0.32.2), today) - Manage your kubeconfig more easily.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.23.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.23.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.8.0), 1 day ago) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.0](https://github.com/zitadel/oidc/releases/tag/v3.34.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0](https://github.com/prometheus/prometheus/releases/tag/v3.1.0), 5 days ago) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.9.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.0), 1 week ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.1](https://github.com/sunny0826/kubecm/releases/tag/v0.32.1), 1 week ago) - Manage your kubeconfig more easily.
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.0), 1 week ago) - Collection of charts used in my projects
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.1](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.1), 2 weeks ago) - A Grafana plugin app to create PDF reports of dashboards
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.1](https://github.com/aquasecurity/trivy/releases/tag/v0.58.1), 2 weeks ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
