@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.1](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.7.1), today) - Prometheus community Helm charts
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.2](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.2), today) - A Grafana plugin app to create PDF reports of dashboards
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.2](https://github.com/sunny0826/kubecm/releases/tag/v0.32.2), today) - Manage your kubeconfig more easily.
