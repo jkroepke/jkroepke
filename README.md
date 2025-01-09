@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.18](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.18), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.261.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.261.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.9.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.2), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.2), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.9.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.0), 2 days ago) - 
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.2](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.2), 2 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.2](https://github.com/sunny0826/kubecm/releases/tag/v0.32.2), 2 days ago) - Manage your kubeconfig more easily.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.0](https://github.com/zitadel/oidc/releases/tag/v3.34.0), 6 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
