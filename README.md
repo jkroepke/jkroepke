@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.29.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.29.0), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.18](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.18), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.261.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.261.0), 2 days ago) - A Go SDK for building backend plugins for Grafana
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.2](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.2), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.2](https://github.com/sunny0826/kubecm/releases/tag/v0.32.2), 3 days ago) - Manage your kubeconfig more easily.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.0](https://github.com/zitadel/oidc/releases/tag/v3.34.0), 1 week ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.1.0](https://github.com/prometheus/prometheus/releases/tag/v3.1.0), 1 week ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
