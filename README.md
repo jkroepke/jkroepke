@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-6.0.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.15.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.15.0), today) - Terraform provider for Azure Resource Manager
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.29.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.29.0), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.261.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.261.0), 2 days ago) - A Go SDK for building backend plugins for Grafana
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.9.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.2), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.2), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.9.0), 2 days ago) - Prometheus community Helm charts
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.2](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.2), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
 
 #### 🔨 My recent Pull Requests
