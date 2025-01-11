@@ -23,23 +23,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 weeks ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 weeks ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 month ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (1 month ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-6.0.0), today) - Prometheus community Helm charts
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.15.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.15.0), today) - Terraform provider for Azure Resource Manager
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.29.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.29.0), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.18](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.18), 1 day ago) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.261.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.261.0), 2 days ago) - A Go SDK for building backend plugins for Grafana
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.9.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.2), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.2), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.2](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.2), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-6.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-6.0.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.0), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.15.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.15.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.29.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.29.0), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.18](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.18), 2 days ago) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.261.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.261.0), 3 days ago) - A Go SDK for building backend plugins for Grafana
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.9.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.2), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.2), 3 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.2](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.2), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
 
 #### 🔨 My recent Pull Requests
 
@@ -48,7 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [small lint fixes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/381) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [Modernize chart](https://github.com/jkroepke/helm-charts/pull/66) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 weeks ago)
 - [iis: fix panic](https://github.com/prometheus-community/windows_exporter/pull/1820) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [chore: modernize code](https://github.com/jkroepke/openvpn-auth-oauth2/pull/378) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
+- [chore: modernize code](https://github.com/jkroepke/openvpn-auth-oauth2/pull/378) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
 - [Stricter lint rules](https://github.com/jkroepke/openvpn-auth-oauth2/pull/377) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
 - [fix: replace `Url` with `URL`](https://github.com/norwoodj/helm-docs/pull/281) on [norwoodj/helm-docs](https://github.com/norwoodj/helm-docs) (3 weeks ago)
 - [[New Resource] `azurerm_resource_feature_registration`](https://github.com/hashicorp/terraform-provider-azurerm/pull/28303) on [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) (3 weeks ago)
@@ -56,8 +56,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (2 days ago)
-- [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (6 days ago)
+- [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (3 days ago)
+- [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (1 week ago)
 - [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (1 week ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 week ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (3 weeks ago)
