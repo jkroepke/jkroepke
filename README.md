@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0-weekly.325](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0-weekly.325), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-67.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-67.11.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.0), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.15.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.15.0), 3 days ago) - Terraform provider for Azure Resource Manager
