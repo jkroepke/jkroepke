@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.15](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.15), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.1](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.0.0), today) - Prometheus community Helm charts
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.0), 3 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.261.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.261.0), 5 days ago) - A Go SDK for building backend plugins for Grafana
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.9.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.9.2), 5 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.2), 5 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.2](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.2), 6 days ago) - A Grafana plugin app to create PDF reports of dashboards
 
 #### 🔨 My recent Pull Requests
 
