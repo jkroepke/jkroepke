@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([yet-another-cloudwatch-exporter-0.39.0](https://github.com/prometheus-community/helm-charts/releases/tag/yet-another-cloudwatch-exporter-0.39.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([yet-another-cloudwatch-exporter-0.39.1](https://github.com/prometheus-community/helm-charts/releases/tag/yet-another-cloudwatch-exporter-0.39.1), today) - Prometheus community Helm charts
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.2](https://github.com/aquasecurity/trivy/releases/tag/v0.58.2), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.262.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.262.0), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.19](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.19), 1 day ago) - 
