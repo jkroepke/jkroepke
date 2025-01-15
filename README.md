@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.12.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.12.0), today) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.1), today) - Collection of charts used in my projects
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.2), today) - 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0), today) - Prometheus Alertmanager
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.2), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
