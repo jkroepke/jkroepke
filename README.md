@@ -17,10 +17,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 month ago)
@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.1), today) - Collection of charts used in my projects
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.2), today) - 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0), today) - Prometheus Alertmanager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.3), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.2), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0), 1 day ago) - Prometheus exporter for Windows machines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.2](https://github.com/aquasecurity/trivy/releases/tag/v0.58.2), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.262.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.262.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.15](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.15), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.15.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.15.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
