@@ -17,41 +17,41 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 weeks ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 weeks ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 month ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (1 month ago)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) - Terraform provider for Hetzner DNS (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.17.0), today) - Prometheus community Helm charts
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.1), today) - Collection of charts used in my projects
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0), today) - Prometheus Alertmanager
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.2), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0), 1 day ago) - Prometheus exporter for Windows machines
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.2](https://github.com/aquasecurity/trivy/releases/tag/v0.58.2), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.262.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.262.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-2.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-2.17.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.1), 1 day ago) - Collection of charts used in my projects
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0), 1 day ago) - Prometheus Alertmanager
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.2), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.1), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0), 2 days ago) - Prometheus exporter for Windows machines
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.2](https://github.com/aquasecurity/trivy/releases/tag/v0.58.2), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.262.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.262.0), 2 days ago) - A Go SDK for building backend plugins for Grafana
 
 #### 🔨 My recent Pull Requests
 
-- [[prometheus-yet-another-cloudwatch-exporter] add migration guide](https://github.com/prometheus-community/helm-charts/pull/5178) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [docs: add CONTRIBUTING.md docs](https://github.com/prometheus-community/windows_exporter/pull/1834) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [netframework: add --collector.netframework.enabled CLI flag](https://github.com/prometheus-community/windows_exporter/pull/1833) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[kube-prometheus-stack] WIP: upgrade CRDs using helm](https://github.com/prometheus-community/helm-charts/pull/5175) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [performancecounter: Add the possibility to request formatted values](https://github.com/prometheus-community/windows_exporter/pull/1830) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Enrich FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/390) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [[prometheus-yet-another-cloudwatch-exporter] add migration guide](https://github.com/prometheus-community/helm-charts/pull/5178) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [docs: add CONTRIBUTING.md docs](https://github.com/prometheus-community/windows_exporter/pull/1834) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [netframework: add --collector.netframework.enabled CLI flag](https://github.com/prometheus-community/windows_exporter/pull/1833) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[kube-prometheus-stack] WIP: upgrade CRDs using helm](https://github.com/prometheus-community/helm-charts/pull/5175) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [performancecounter: Add the possibility to request formatted values](https://github.com/prometheus-community/windows_exporter/pull/1830) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Enrich FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/390) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [Implement client configs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/383) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [performancecounter: fix panic with counter names having brackets](https://github.com/prometheus-community/windows_exporter/pull/1822) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [small lint fixes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/381) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
+- [small lint fixes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/381) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
 - [Modernize chart](https://github.com/jkroepke/helm-charts/pull/66) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (3 weeks ago)
 
 #### ⭐ Recent Stars
