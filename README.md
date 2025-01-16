@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.31.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.31.0), today) - 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.16.0), today) - Terraform provider for Azure Resource Manager
+- [prometheus/common](https://github.com/prometheus/common) ([v0.62.0](https://github.com/prometheus/common/releases/tag/v0.62.0), today) - Go libraries shared across Prometheus components and libraries.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.3), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.39.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.39.3), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.6.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.6.3), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.1), 1 day ago) - Collection of charts used in my projects
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0), 1 day ago) - Prometheus Alertmanager
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.2), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.1), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.0), 2 days ago) - Prometheus exporter for Windows machines
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.58.2](https://github.com/aquasecurity/trivy/releases/tag/v0.58.2), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
