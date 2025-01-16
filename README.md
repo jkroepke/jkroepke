@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.30.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.30.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.1.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.6.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.6.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.1), 1 day ago) - Collection of charts used in my projects
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0), 1 day ago) - Prometheus Alertmanager
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [tibeer](https://github.com/tibeer)
 - [KaczMac](https://github.com/KaczMac)
 - [standardgalactic](https://github.com/standardgalactic)
 - [XiaomingX](https://github.com/XiaomingX)
 - [Hacker-Sam-is-here](https://github.com/Hacker-Sam-is-here)
-- [muandane](https://github.com/muandane)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
