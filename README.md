@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.31.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.31.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.24.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.24.1), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.16.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.62.0](https://github.com/prometheus/common/releases/tag/v0.62.0), today) - Go libraries shared across Prometheus components and libraries.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.3](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.3), today) - Automatically provision and manage TLS certificates in Kubernetes
