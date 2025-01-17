@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [net: fix sanitize # on the nic label for windows_net_nic_address_info](https://github.com/prometheus-community/windows_exporter/pull/1839) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [refactor maintainer metadata](https://github.com/prometheus-community/helm-charts/pull/5190) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-yet-another-cloudwatch-exporter] add migration guide](https://github.com/prometheus-community/helm-charts/pull/5178) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [docs: add CONTRIBUTING.md docs](https://github.com/prometheus-community/windows_exporter/pull/1834) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Enrich FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/390) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Implement client configs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/383) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [performancecounter: fix panic with counter names having brackets](https://github.com/prometheus-community/windows_exporter/pull/1822) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 weeks ago)
-- [small lint fixes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/381) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
