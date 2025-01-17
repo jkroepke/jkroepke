@@ -30,19 +30,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.25.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.25.0), today) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2-rc5](https://github.com/project-zot/zot/releases/tag/v2.1.2-rc5), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.2.1), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.1](https://github.com/zitadel/oidc/releases/tag/v3.34.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-alpha.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.3), today) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.263.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.263.0), today) - A Go SDK for building backend plugins for Grafana
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.4), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.16.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.62.0](https://github.com/prometheus/common/releases/tag/v0.62.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
+- [[ci] add skip_existing to chart-releaser](https://github.com/prometheus-community/helm-charts/pull/5195) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [net: fix sanitize # on the nic label for windows_net_nic_address_info](https://github.com/prometheus-community/windows_exporter/pull/1839) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[all] refactor maintainer metadata](https://github.com/prometheus-community/helm-charts/pull/5190) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-yet-another-cloudwatch-exporter] add migration guide](https://github.com/prometheus-community/helm-charts/pull/5178) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [performancecounter: Add the possibility to request formatted values](https://github.com/prometheus-community/windows_exporter/pull/1830) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [Enrich FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/390) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [Implement client configs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/383) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
-- [performancecounter: fix panic with counter names having brackets](https://github.com/prometheus-community/windows_exporter/pull/1822) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 weeks ago)
 
 #### ⭐ Recent Stars
 
