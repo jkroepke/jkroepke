@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.3), today) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.263.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.263.0), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.2.0), today) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.1), 2 days ago) - Collection of charts used in my projects
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.0](https://github.com/prometheus/alertmanager/releases/tag/v0.28.0), 2 days ago) - Prometheus Alertmanager
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.2), 2 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
