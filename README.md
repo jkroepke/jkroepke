@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[ci] add github workflow to the bump version of an Chart version](https://github.com/prometheus-community/helm-charts/pull/5196) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[ci] add skip_existing to chart-releaser](https://github.com/prometheus-community/helm-charts/pull/5195) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [net: fix sanitize # on the nic label for windows_net_nic_address_info](https://github.com/prometheus-community/windows_exporter/pull/1839) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[all] refactor maintainer metadata](https://github.com/prometheus-community/helm-charts/pull/5190) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] WIP: upgrade CRDs using helm](https://github.com/prometheus-community/helm-charts/pull/5175) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [performancecounter: Add the possibility to request formatted values](https://github.com/prometheus-community/windows_exporter/pull/1830) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [Enrich FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/390) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [Implement client configs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/383) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
