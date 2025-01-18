@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [dhcp: add dhcp scope stats](https://github.com/prometheus-community/windows_exporter/pull/1840) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[ci] add github workflow to the bump version of an Chart version](https://github.com/prometheus-community/helm-charts/pull/5196) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[ci] add skip_existing to chart-releaser](https://github.com/prometheus-community/helm-charts/pull/5195) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [net: fix sanitize # on the nic label for windows_net_nic_address_info](https://github.com/prometheus-community/windows_exporter/pull/1839) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [netframework: add --collector.netframework.enabled CLI flag](https://github.com/prometheus-community/windows_exporter/pull/1833) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [[kube-prometheus-stack] WIP: upgrade CRDs using helm](https://github.com/prometheus-community/helm-charts/pull/5175) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [performancecounter: Add the possibility to request formatted values](https://github.com/prometheus-community/windows_exporter/pull/1830) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [Enrich FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/390) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
