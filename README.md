@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.1.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.21](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.21), today) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2](https://github.com/project-zot/zot/releases/tag/v2.1.2), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.1](https://github.com/zitadel/oidc/releases/tag/v3.34.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
