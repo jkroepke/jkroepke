@@ -17,47 +17,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
+- [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
 - [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 month ago)
 - [grafana/jsonnet-libs](https://github.com/grafana/jsonnet-libs) - Grafana Labs&#39; Jsonnet libraries (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2](https://github.com/project-zot/zot/releases/tag/v2.1.2), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.25.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.25.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.2.1), today) - Prometheus community Helm charts
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.1](https://github.com/zitadel/oidc/releases/tag/v3.34.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-alpha.0), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.3), today) - A Grafana plugin app to create PDF reports of dashboards
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.263.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.263.0), today) - A Go SDK for building backend plugins for Grafana
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.16.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [prometheus/common](https://github.com/prometheus/common) ([v0.62.0](https://github.com/prometheus/common/releases/tag/v0.62.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2](https://github.com/project-zot/zot/releases/tag/v2.1.2), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.25.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.25.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.2.1), 1 day ago) - Prometheus community Helm charts
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.1](https://github.com/zitadel/oidc/releases/tag/v3.34.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-alpha.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.3), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.263.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.263.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.16.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus/common](https://github.com/prometheus/common) ([v0.62.0](https://github.com/prometheus/common/releases/tag/v0.62.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.1), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
-- [[ci] add github workflow to the bump version of an Chart version](https://github.com/prometheus-community/helm-charts/pull/5196) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[ci] add skip_existing to chart-releaser](https://github.com/prometheus-community/helm-charts/pull/5195) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [net: fix sanitize # on the nic label for windows_net_nic_address_info](https://github.com/prometheus-community/windows_exporter/pull/1839) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[all] refactor maintainer metadata](https://github.com/prometheus-community/helm-charts/pull/5190) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[prometheus-yet-another-cloudwatch-exporter] add migration guide](https://github.com/prometheus-community/helm-charts/pull/5178) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [docs: add CONTRIBUTING.md docs](https://github.com/prometheus-community/windows_exporter/pull/1834) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [netframework: add --collector.netframework.enabled CLI flag](https://github.com/prometheus-community/windows_exporter/pull/1833) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [[kube-prometheus-stack] WIP: upgrade CRDs using helm](https://github.com/prometheus-community/helm-charts/pull/5175) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [performancecounter: Add the possibility to request formatted values](https://github.com/prometheus-community/windows_exporter/pull/1830) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [Enrich FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/390) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [[ci] add github workflow to the bump version of an Chart version](https://github.com/prometheus-community/helm-charts/pull/5196) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[ci] add skip_existing to chart-releaser](https://github.com/prometheus-community/helm-charts/pull/5195) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [net: fix sanitize # on the nic label for windows_net_nic_address_info](https://github.com/prometheus-community/windows_exporter/pull/1839) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[all] refactor maintainer metadata](https://github.com/prometheus-community/helm-charts/pull/5190) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[prometheus-yet-another-cloudwatch-exporter] add migration guide](https://github.com/prometheus-community/helm-charts/pull/5178) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [docs: add CONTRIBUTING.md docs](https://github.com/prometheus-community/windows_exporter/pull/1834) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [netframework: add --collector.netframework.enabled CLI flag](https://github.com/prometheus-community/windows_exporter/pull/1833) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [[kube-prometheus-stack] WIP: upgrade CRDs using helm](https://github.com/prometheus-community/helm-charts/pull/5175) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [performancecounter: Add the possibility to request formatted values](https://github.com/prometheus-community/windows_exporter/pull/1830) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [Enrich FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/390) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
 - [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (1 week ago)
-- [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (1 week ago)
+- [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (2 weeks ago)
 - [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (2 weeks ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 weeks ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (1 month ago)
