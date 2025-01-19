@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.14.0), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.1), today) - Prometheus exporter for Windows machines
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.0), 1 day ago) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.1), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.1.0), 1 day ago) - Prometheus community Helm charts
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2](https://github.com/project-zot/zot/releases/tag/v2.1.2), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.1](https://github.com/zitadel/oidc/releases/tag/v3.34.1), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-alpha.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
