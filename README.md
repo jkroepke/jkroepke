@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.1), today) - Prometheus exporter for Windows machines
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.0), 1 day ago) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.1.0), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.3), 2 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.263.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.263.0), 2 days ago) - A Go SDK for building backend plugins for Grafana
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.16.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.16.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/common](https://github.com/prometheus/common) ([v0.62.0](https://github.com/prometheus/common/releases/tag/v0.62.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
@@ -48,7 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] renovate-bump-chart-version.yaml use github.head_ref instead github.ref_name](https://github.com/prometheus-community/helm-charts/pull/5204) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[ci] Strip quotes from list of changed charts](https://github.com/prometheus-community/helm-charts/pull/5203) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[ci] fix issue in renovate.json](https://github.com/prometheus-community/helm-charts/pull/5199) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [fix: Windows Server 2025 compatibility](https://github.com/prometheus-community/windows_exporter/pull/1841) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [fix: Windows 11/Windows Server 2025 service compatibility](https://github.com/prometheus-community/windows_exporter/pull/1841) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [dhcp: add dhcp scope stats](https://github.com/prometheus-community/windows_exporter/pull/1840) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [[ci] add github workflow to the bump version of an Chart version](https://github.com/prometheus-community/helm-charts/pull/5196) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[ci] add skip_existing to chart-releaser](https://github.com/prometheus-community/helm-charts/pull/5195) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
