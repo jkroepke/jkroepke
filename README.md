@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.326](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.326), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.15](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.15), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.325](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.325), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.1), 1 day ago) - Prometheus exporter for Windows machines
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.0), 2 days ago) - Kubetail helm charts
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2](https://github.com/project-zot/zot/releases/tag/v2.1.2), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
@@ -56,6 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of &#34;Kubernetes application&#34; — a set of resources with the same label (today)
 - [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (1 week ago)
 - [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (2 weeks ago)
 - [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (3 weeks ago)
@@ -65,7 +66,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries. (3 months ago)
 - [nickbabcock/OhmGraphite](https://github.com/nickbabcock/OhmGraphite) - Expose hardware sensor data to Graphite / InfluxDB / Prometheus / Postgres / Timescaledb (3 months ago)
 - [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (3 months ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
