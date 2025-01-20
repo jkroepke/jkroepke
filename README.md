@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: deprecate remote configuration](https://github.com/prometheus-community/windows_exporter/pull/1849) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[ci] disable yaml linter](https://github.com/prometheus-community/helm-charts/pull/5214) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[ci] migrate super-linter to action](https://github.com/prometheus-community/helm-charts/pull/5209) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[ci] update runners to 24.04](https://github.com/prometheus-community/helm-charts/pull/5208) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: Windows 11/Windows Server 2025 service compatibility](https://github.com/prometheus-community/windows_exporter/pull/1841) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [dhcp: add dhcp scope stats](https://github.com/prometheus-community/windows_exporter/pull/1840) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [[ci] add github workflow to the bump version of an Chart version](https://github.com/prometheus-community/helm-charts/pull/5196) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[ci] add skip_existing to chart-releaser](https://github.com/prometheus-community/helm-charts/pull/5195) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 
 #### ⭐ Recent Stars
 
