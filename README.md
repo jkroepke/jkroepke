@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.1), today) - Vendor-neutral programmable observability pipelines.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.2), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.326](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.326), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.15](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.15), today) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.1](https://github.com/zitadel/oidc/releases/tag/v3.34.1), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-alpha.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.3](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.3), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.263.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.263.0), 3 days ago) - A Go SDK for building backend plugins for Grafana
 
 #### 🔨 My recent Pull Requests
 
