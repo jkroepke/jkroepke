@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.3), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.2), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.0), today) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.0), 3 days ago) - Kubetail helm charts
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2](https://github.com/project-zot/zot/releases/tag/v2.1.2), 4 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.1](https://github.com/zitadel/oidc/releases/tag/v3.34.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-alpha.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-alpha.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
