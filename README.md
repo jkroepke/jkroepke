@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.2.2), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.0), today) - Prometheus community Helm charts
 - [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.1), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.6.0-rc.2), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.326](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.326), 1 day ago) - 
