@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [installer: force close application on uninstall](https://github.com/prometheus-community/windows_exporter/pull/1854) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [service: re-use buffer for return all services](https://github.com/prometheus-community/windows_exporter/pull/1853) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: process priority setting](https://github.com/prometheus-community/windows_exporter/pull/1852) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[kube-prometheus-stack] remove configmap-dashboards](https://github.com/prometheus-community/helm-charts/pull/5233) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] disable validate-maintainers in helm-chart-testing](https://github.com/prometheus-community/helm-charts/pull/5222) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[kube-prometheus-stack] Update ingress-nginx/kube-webhook-certgen to v1.5.1](https://github.com/prometheus-community/helm-charts/pull/5221) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [config: deprecate remote http configuration](https://github.com/prometheus-community/windows_exporter/pull/1849) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [[ci] disable yaml linter](https://github.com/prometheus-community/helm-charts/pull/5214) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
