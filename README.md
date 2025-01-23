@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: process priority setting](https://github.com/prometheus-community/windows_exporter/pull/1852) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[kube-prometheus-stack] remove configmap-dashboards](https://github.com/prometheus-community/helm-charts/pull/5233) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [amtool: fix panic if --verbose is in used.](https://github.com/prometheus/alertmanager/pull/4218) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [docs: fix type `CONFIG_HTTP_BASE_URL` -&gt; `CONFIG_HTTP_BASEURL`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/391) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [config: deprecate remote http configuration](https://github.com/prometheus-community/windows_exporter/pull/1849) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [[ci] disable yaml linter](https://github.com/prometheus-community/helm-charts/pull/5214) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[ci] migrate super-linter to action](https://github.com/prometheus-community/helm-charts/pull/5209) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[ci] update runners to 24.04](https://github.com/prometheus-community/helm-charts/pull/5208) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
