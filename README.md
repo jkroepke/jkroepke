@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] remove configmap-dashboards](https://github.com/prometheus-community/helm-charts/pull/5233) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [amtool: fix panic if --verbose is in used.](https://github.com/prometheus/alertmanager/pull/4218) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (today)
 - [docs: fix type `CONFIG_HTTP_BASE_URL` -&gt; `CONFIG_HTTP_BASEURL`](https://github.com/jkroepke/openvpn-auth-oauth2/pull/391) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [[ci] Extend image detection for values.yaml](https://github.com/prometheus-community/helm-charts/pull/5223) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[ci] disable validate-maintainers in helm-chart-testing](https://github.com/prometheus-community/helm-charts/pull/5222) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] disable yaml linter](https://github.com/prometheus-community/helm-charts/pull/5214) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[ci] migrate super-linter to action](https://github.com/prometheus-community/helm-charts/pull/5209) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[ci] update runners to 24.04](https://github.com/prometheus-community/helm-charts/pull/5208) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[ci] renovate-bump-chart-version.yaml use github.head_ref instead github.ref_name](https://github.com/prometheus-community/helm-charts/pull/5204) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[ci] Strip quotes from list of changed charts](https://github.com/prometheus-community/helm-charts/pull/5203) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
