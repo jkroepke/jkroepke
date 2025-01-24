@@ -17,19 +17,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (today)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
-- [jkroepke/adventofcode](https://github.com/jkroepke/adventofcode) -  (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc1](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc1), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.11.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.11.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.1](https://github.com/grafana/alloy/releases/tag/v1.6.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.1), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.1), 5 days ago) - Prometheus exporter for Windows machines
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.0), 6 days ago) - Kubetail helm charts
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.2](https://github.com/project-zot/zot/releases/tag/v2.1.2), 1 week ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 
 #### 🔨 My recent Pull Requests
 
