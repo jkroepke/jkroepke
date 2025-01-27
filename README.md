@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.0.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.0.1), today) - Microsoft 365 prometheus exporter
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.22](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.22), today) - 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.0.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.0.0), today) - Microsoft 365 prometheus exporter
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.29.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.29.1), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.2.2), 2 days ago) - Prometheus community Helm charts
@@ -43,6 +43,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix goreleaser step on main branch](https://github.com/cloudeteer/m365-exporter/pull/9) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
+- [chore: add correct labels for dependency updates](https://github.com/cloudeteer/m365-exporter/pull/8) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
+- [ci: attach binary builds to release](https://github.com/cloudeteer/m365-exporter/pull/6) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [Add super-lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/392) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [enable codecov](https://github.com/cloudeteer/m365-exporter/pull/5) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
 - [correctly annotate docker image](https://github.com/cloudeteer/m365-exporter/pull/4) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
@@ -50,9 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [process: negative values with windows_process_start_time](https://github.com/prometheus-community/windows_exporter/pull/1857) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [installer: force close application on uninstall](https://github.com/prometheus-community/windows_exporter/pull/1854) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [service: re-use buffer for return all services](https://github.com/prometheus-community/windows_exporter/pull/1853) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [fix: process priority setting](https://github.com/prometheus-community/windows_exporter/pull/1852) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [[kube-prometheus-stack] remove configmap-dashboards](https://github.com/prometheus-community/helm-charts/pull/5233) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [amtool: fix panic if --verbose is in used.](https://github.com/prometheus/alertmanager/pull/4218) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (4 days ago)
 
 #### ⭐ Recent Stars
 
