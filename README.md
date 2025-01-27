@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (1 day ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (2 days ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
@@ -30,36 +30,36 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.2.2), 1 day ago) - Prometheus community Helm charts
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc1](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc1), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.11.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.11.0), 3 days ago) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.1](https://github.com/grafana/alloy/releases/tag/v1.6.1), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0-rc.0), 5 days ago) - Prometheus instrumentation library for Go applications
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.3), 5 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.2), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.1), 6 days ago) - Vendor-neutral programmable observability pipelines.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.2.2), 2 days ago) - Prometheus community Helm charts
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc1](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc1), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.11.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.11.0), 4 days ago) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.1](https://github.com/grafana/alloy/releases/tag/v1.6.1), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0-rc.0), 6 days ago) - Prometheus instrumentation library for Go applications
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.3), 6 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.2), 6 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [grafana/agent](https://github.com/grafana/agent) ([v0.44.0-rc.1](https://github.com/grafana/agent/releases/tag/v0.44.0-rc.1), 1 week ago) - Vendor-neutral programmable observability pipelines.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.1), 1 week ago) - Prometheus exporter for Windows machines
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.0](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.0), 1 week ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
-- [Add super-lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/392) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [enable codecov](https://github.com/cloudeteer/m365-exporter/pull/5) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 day ago)
-- [correctly annotate docker image](https://github.com/cloudeteer/m365-exporter/pull/4) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 day ago)
-- [process: rename `windows_process_start_time` -&gt; `windows_process_start_time_seconds_timestamp`](https://github.com/prometheus-community/windows_exporter/pull/1858) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [process: negative values with windows_process_start_time](https://github.com/prometheus-community/windows_exporter/pull/1857) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [installer: force close application on uninstall](https://github.com/prometheus-community/windows_exporter/pull/1854) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [service: re-use buffer for return all services](https://github.com/prometheus-community/windows_exporter/pull/1853) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [fix: process priority setting](https://github.com/prometheus-community/windows_exporter/pull/1852) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [[kube-prometheus-stack] remove configmap-dashboards](https://github.com/prometheus-community/helm-charts/pull/5233) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [amtool: fix panic if --verbose is in used.](https://github.com/prometheus/alertmanager/pull/4218) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (3 days ago)
+- [Add super-lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/392) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [enable codecov](https://github.com/cloudeteer/m365-exporter/pull/5) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
+- [correctly annotate docker image](https://github.com/cloudeteer/m365-exporter/pull/4) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
+- [process: rename `windows_process_start_time` -&gt; `windows_process_start_time_seconds_timestamp`](https://github.com/prometheus-community/windows_exporter/pull/1858) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [process: negative values with windows_process_start_time](https://github.com/prometheus-community/windows_exporter/pull/1857) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [installer: force close application on uninstall](https://github.com/prometheus-community/windows_exporter/pull/1854) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [service: re-use buffer for return all services](https://github.com/prometheus-community/windows_exporter/pull/1853) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [fix: process priority setting](https://github.com/prometheus-community/windows_exporter/pull/1852) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [[kube-prometheus-stack] remove configmap-dashboards](https://github.com/prometheus-community/helm-charts/pull/5233) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [amtool: fix panic if --verbose is in used.](https://github.com/prometheus/alertmanager/pull/4218) on [prometheus/alertmanager](https://github.com/prometheus/alertmanager) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of &#34;Kubernetes application&#34; — a set of resources with the same label (6 days ago)
+- [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of &#34;Kubernetes application&#34; — a set of resources with the same label (1 week ago)
 - [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (2 weeks ago)
 - [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (3 weeks ago)
-- [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (3 weeks ago)
+- [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (4 weeks ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (4 weeks ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (1 month ago)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (3 months ago)
