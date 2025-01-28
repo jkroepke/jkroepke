@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.1](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.1), today) - Kubetail helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.0.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.0.1), 1 day ago) - Microsoft 365 prometheus exporter
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.22](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.22), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.1](https://github.com/grafana/alloy/releases/tag/v1.6.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0-rc.0), 1 week ago) - Prometheus instrumentation library for Go applications
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.3), 1 week ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v2.12.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v2.12.2), 1 week ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
