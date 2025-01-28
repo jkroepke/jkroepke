@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.1](https://github.com/grafana/grafana/releases/tag/v11.4.1), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.327](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.327), today) - 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.1](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.1), today) - Kubetail helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.0.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.0.1), 1 day ago) - Microsoft 365 prometheus exporter
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc1](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc1), 4 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.1](https://github.com/grafana/alloy/releases/tag/v1.6.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0-rc.0), 1 week ago) - Prometheus instrumentation library for Go applications
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.3), 1 week ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
