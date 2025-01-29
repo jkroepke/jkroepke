@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-beta.0), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.3), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.0](https://github.com/grafana/grafana/releases/tag/v11.5.0), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.327](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.327), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.29.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.29.1), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc1](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc1), 5 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.1](https://github.com/grafana/alloy/releases/tag/v1.6.1), 6 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0-rc.0), 1 week ago) - Prometheus instrumentation library for Go applications
 
 #### 🔨 My recent Pull Requests
 
