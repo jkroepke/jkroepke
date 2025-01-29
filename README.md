@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [netframework: fix MI_RESULT_INVALID_QUERY](https://github.com/prometheus-community/windows_exporter/pull/1862) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ManuallyProcessArgs: test kube-insecure-skip-tls-verify without value](https://github.com/jkroepke/helm/pull/160) on [jkroepke/helm](https://github.com/jkroepke/helm) (1 day ago)
 - [ManuallyProcessArgs: test kube-insecure-skip-tls-verify without value](https://github.com/helm/helm/pull/13675) on [helm/helm](https://github.com/helm/helm) (1 day ago)
 - [passthrough: fix instabilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/393) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add super-lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/392) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [enable codecov](https://github.com/cloudeteer/m365-exporter/pull/5) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 days ago)
 - [correctly annotate docker image](https://github.com/cloudeteer/m365-exporter/pull/4) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 days ago)
-- [process: rename `windows_process_start_time` -&gt; `windows_process_start_time_seconds_timestamp`](https://github.com/prometheus-community/windows_exporter/pull/1858) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
