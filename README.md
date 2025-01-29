@@ -17,50 +17,50 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 day ago)
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 days ago)
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.3), today) - Prometheus community Helm charts
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.0](https://github.com/grafana/grafana/releases/tag/v11.5.0), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.327](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.327), today) - 
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.1](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.1), today) - Kubetail helm charts
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.0.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.0.1), 1 day ago) - Microsoft 365 prometheus exporter
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.29.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.29.1), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc1](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc1), 4 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.1](https://github.com/grafana/alloy/releases/tag/v1.6.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.3.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.3.3), 1 day ago) - Prometheus community Helm charts
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.0](https://github.com/grafana/grafana/releases/tag/v11.5.0), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.327](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.327), 1 day ago) - 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.1](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.1), 1 day ago) - Kubetail helm charts
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.0.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.0.1), 2 days ago) - Microsoft 365 prometheus exporter
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.29.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.29.1), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc1](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc1), 5 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.6.1](https://github.com/grafana/alloy/releases/tag/v1.6.1), 6 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0-rc.0), 1 week ago) - Prometheus instrumentation library for Go applications
 
 #### 🔨 My recent Pull Requests
 
-- [ManuallyProcessArgs: test kube-insecure-skip-tls-verify without value](https://github.com/jkroepke/helm/pull/160) on [jkroepke/helm](https://github.com/jkroepke/helm) (today)
-- [ManuallyProcessArgs: test kube-insecure-skip-tls-verify without value](https://github.com/helm/helm/pull/13675) on [helm/helm](https://github.com/helm/helm) (today)
-- [passthrough: fix instabilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/393) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [ci: fix goreleaser step on main branch](https://github.com/cloudeteer/m365-exporter/pull/9) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 day ago)
-- [chore: add correct labels for dependency updates](https://github.com/cloudeteer/m365-exporter/pull/8) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 day ago)
-- [ci: attach binary builds to release](https://github.com/cloudeteer/m365-exporter/pull/6) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 day ago)
-- [Add super-lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/392) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [enable codecov](https://github.com/cloudeteer/m365-exporter/pull/5) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 days ago)
-- [correctly annotate docker image](https://github.com/cloudeteer/m365-exporter/pull/4) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 days ago)
-- [process: rename `windows_process_start_time` -&gt; `windows_process_start_time_seconds_timestamp`](https://github.com/prometheus-community/windows_exporter/pull/1858) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [ManuallyProcessArgs: test kube-insecure-skip-tls-verify without value](https://github.com/jkroepke/helm/pull/160) on [jkroepke/helm](https://github.com/jkroepke/helm) (1 day ago)
+- [ManuallyProcessArgs: test kube-insecure-skip-tls-verify without value](https://github.com/helm/helm/pull/13675) on [helm/helm](https://github.com/helm/helm) (1 day ago)
+- [passthrough: fix instabilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/393) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [ci: fix goreleaser step on main branch](https://github.com/cloudeteer/m365-exporter/pull/9) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
+- [chore: add correct labels for dependency updates](https://github.com/cloudeteer/m365-exporter/pull/8) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
+- [ci: attach binary builds to release](https://github.com/cloudeteer/m365-exporter/pull/6) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
+- [Add super-lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/392) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [enable codecov](https://github.com/cloudeteer/m365-exporter/pull/5) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 days ago)
+- [correctly annotate docker image](https://github.com/cloudeteer/m365-exporter/pull/4) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (4 days ago)
+- [process: rename `windows_process_start_time` -&gt; `windows_process_start_time_seconds_timestamp`](https://github.com/prometheus-community/windows_exporter/pull/1858) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 day ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 days ago)
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of &#34;Kubernetes application&#34; — a set of resources with the same label (1 week ago)
-- [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (2 weeks ago)
+- [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (3 weeks ago)
 - [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (3 weeks ago)
-- [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (4 weeks ago)
+- [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (1 month ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 month ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (1 month ago)
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean. (3 months ago)
