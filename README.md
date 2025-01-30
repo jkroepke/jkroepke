@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-operator-0.5.1](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-operator-0.5.1), today) - 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.0](https://github.com/aquasecurity/trivy/releases/tag/v0.59.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.29.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.2](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.2), today) - 
 - [grafana/agent](https://github.com/grafana/agent) ([v0.44.2](https://github.com/grafana/agent/releases/tag/v0.44.2), 1 day ago) - Vendor-neutral programmable observability pipelines.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.2](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.2), 1 day ago) - Kubetail helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-beta.0), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
