@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.17.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.23](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.23), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.3), 1 day ago) - Prometheus community Helm charts
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc2](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc2), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-beta.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.0](https://github.com/grafana/grafana/releases/tag/v11.5.0), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.0.1](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.0.1), 4 days ago) - Microsoft 365 prometheus exporter
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
