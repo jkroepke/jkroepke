@@ -17,19 +17,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 day ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (5 days ago)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
-- [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (2 weeks ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.0.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.0.0), today) - See expire date from certificates inside kubernetes secrets.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.2.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.6), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.17.0), 1 day ago) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.23.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.23.3), 3 days ago) - Find secrets with Gitleaks 🔑
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.2](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.2), 3 days ago) - Kubetail helm charts
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-beta.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.0](https://github.com/grafana/grafana/releases/tag/v11.5.0), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
