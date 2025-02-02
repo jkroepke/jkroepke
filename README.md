@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[all] remove bitnami repo &amp; enterprise-metrics](https://github.com/grafana/helm-charts/pull/3555) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (today)
 - [installer: add validation for EXTRA_FLAGS](https://github.com/prometheus-community/windows_exporter/pull/1867) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [add deno.lock to default exclusions](https://github.com/gitleaks/gitleaks/pull/1740) on [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) (2 days ago)
 - [feat!: FreeLens compatibility](https://github.com/jkroepke/lens-extension-certificate-info/pull/10) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [passthrough: fix instabilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/393) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [ci: fix goreleaser step on main branch](https://github.com/cloudeteer/m365-exporter/pull/9) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 days ago)
 - [chore: add correct labels for dependency updates](https://github.com/cloudeteer/m365-exporter/pull/8) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 days ago)
-- [ci: attach binary builds to release](https://github.com/cloudeteer/m365-exporter/pull/6) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
