@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.2), today) - Prometheus exporter for Windows machines
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.3), today) - Kubetail helm charts
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.14.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.2), today) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.0.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.0.0), 1 day ago) - See expire date from certificates inside kubernetes secrets.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.0](https://github.com/aquasecurity/trivy/releases/tag/v0.59.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/agent](https://github.com/grafana/agent) ([v0.44.2](https://github.com/grafana/agent/releases/tag/v0.44.2), 4 days ago) - Vendor-neutral programmable observability pipelines.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.23.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.23.3), 4 days ago) - Find secrets with Gitleaks 🔑
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0-beta.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0-beta.0), 4 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 
 #### 🔨 My recent Pull Requests
 
