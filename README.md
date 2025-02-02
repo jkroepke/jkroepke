@@ -17,21 +17,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (today)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
 - [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (6 days ago)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.14.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.14.2), today) - Prometheus community Helm charts
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.0.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.0.0), 1 day ago) - See expire date from certificates inside kubernetes secrets.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.2.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.8.6](https://github.com/grafana/helm-charts/releases/tag/grafana-8.8.6), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.17.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc2](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc2), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [installer: add validation for EXTRA_FLAGS](https://github.com/prometheus-community/windows_exporter/pull/1867) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [add deno.lock to default exclusions](https://github.com/gitleaks/gitleaks/pull/1740) on [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) (2 days ago)
 - [feat!: FreeLens compatibility](https://github.com/jkroepke/lens-extension-certificate-info/pull/10) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
 - [netframework: fix MI_RESULT_INVALID_QUERY](https://github.com/prometheus-community/windows_exporter/pull/1862) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ci: fix goreleaser step on main branch](https://github.com/cloudeteer/m365-exporter/pull/9) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 days ago)
 - [chore: add correct labels for dependency updates](https://github.com/cloudeteer/m365-exporter/pull/8) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 days ago)
 - [ci: attach binary builds to release](https://github.com/cloudeteer/m365-exporter/pull/6) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 days ago)
-- [Add super-lint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/392) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
