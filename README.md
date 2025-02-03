@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.1](https://github.com/grafana/grafana/releases/tag/v11.5.1), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.328](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.328), today) - 
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.0), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.2), 1 day ago) - Prometheus exporter for Windows machines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.17.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.17.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc2](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc2), 4 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.0](https://github.com/aquasecurity/trivy/releases/tag/v0.59.0), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [grafana/agent](https://github.com/grafana/agent) ([v0.44.2](https://github.com/grafana/agent/releases/tag/v0.44.2), 5 days ago) - Vendor-neutral programmable observability pipelines.
 
 #### 🔨 My recent Pull Requests
 
