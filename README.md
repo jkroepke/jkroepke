@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.3), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.1](https://github.com/aquasecurity/trivy/releases/tag/v0.59.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.8](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.8), today) - 
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.3](https://github.com/sunny0826/kubecm/releases/tag/v0.32.3), today) - Manage your kubeconfig more easily.
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.1](https://github.com/grafana/grafana/releases/tag/v11.5.1), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.0), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.2), 3 days ago) - Prometheus exporter for Windows machines
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.3](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.3), 3 days ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
