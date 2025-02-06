@@ -17,12 +17,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 day ago)
-- [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (3 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (4 days ago)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (2 days ago)
+- [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (5 days ago)
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 week ago)
@@ -30,25 +30,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.1), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.25.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.25.1), today) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.3), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.1](https://github.com/aquasecurity/trivy/releases/tag/v0.59.1), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.3](https://github.com/sunny0826/kubecm/releases/tag/v0.32.3), today) - Manage your kubeconfig more easily.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.5), 1 day ago) - Prometheus community Helm charts
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0), 2 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.1](https://github.com/grafana/grafana/releases/tag/v11.5.1), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.0), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.1), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.25.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.25.1), 1 day ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.3](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.3), 1 day ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.1](https://github.com/aquasecurity/trivy/releases/tag/v0.59.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.3](https://github.com/sunny0826/kubecm/releases/tag/v0.32.3), 1 day ago) - Manage your kubeconfig more easily.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-68.4.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-68.4.5), 2 days ago) - Prometheus community Helm charts
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.1](https://github.com/grafana/grafana/releases/tag/v11.5.1), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.0), 3 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: add more debug logging](https://github.com/jkroepke/openvpn-auth-oauth2/pull/395) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Update Dockerfile](https://github.com/jkroepke/docker-wixtoolset/pull/5) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (1 day ago)
-- [[all] remove bitnami repo &amp; enterprise-metrics](https://github.com/grafana/helm-charts/pull/3555) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (3 days ago)
-- [installer: add validation for EXTRA_FLAGS](https://github.com/prometheus-community/windows_exporter/pull/1867) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [add deno.lock to default exclusions](https://github.com/gitleaks/gitleaks/pull/1740) on [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) (5 days ago)
-- [feat!: FreeLens compatibility](https://github.com/jkroepke/lens-extension-certificate-info/pull/10) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (5 days ago)
+- [chore: add more debug logging](https://github.com/jkroepke/openvpn-auth-oauth2/pull/395) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Update Dockerfile](https://github.com/jkroepke/docker-wixtoolset/pull/5) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (2 days ago)
+- [[all] remove bitnami repo &amp; enterprise-metrics](https://github.com/grafana/helm-charts/pull/3555) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (4 days ago)
+- [installer: add validation for EXTRA_FLAGS](https://github.com/prometheus-community/windows_exporter/pull/1867) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [add deno.lock to default exclusions](https://github.com/gitleaks/gitleaks/pull/1740) on [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) (6 days ago)
+- [feat!: FreeLens compatibility](https://github.com/jkroepke/lens-extension-certificate-info/pull/10) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (6 days ago)
 - [netframework: fix MI_RESULT_INVALID_QUERY](https://github.com/prometheus-community/windows_exporter/pull/1862) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [ManuallyProcessArgs: test kube-insecure-skip-tls-verify without value](https://github.com/jkroepke/helm/pull/160) on [jkroepke/helm](https://github.com/jkroepke/helm) (1 week ago)
 - [ManuallyProcessArgs: test kube-insecure-skip-tls-verify without value](https://github.com/helm/helm/pull/13675) on [helm/helm](https://github.com/helm/helm) (1 week ago)
@@ -56,8 +56,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (today)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free Open Source Kubernetes IDE (5 days ago)
+- [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (1 day ago)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free Open Source Kubernetes IDE (6 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 week ago)
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of &#34;Kubernetes application&#34; — a set of resources with the same label (2 weeks ago)
 - [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (4 weeks ago)
