@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.1.1), today) - Prometheus community Helm charts
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.0), today) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.1), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-18.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-18.0.0), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.4), today) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.1), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.1](https://github.com/aquasecurity/trivy/releases/tag/v0.59.1), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.0](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.0), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.1](https://github.com/grafana/grafana/releases/tag/v11.5.1), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.0](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.0), 3 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 
 #### 🔨 My recent Pull Requests
 
