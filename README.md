@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.0.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.18.0), today) - Terraform provider for Azure Resource Manager
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.4), today) - Kubetail helm charts
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.0), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
