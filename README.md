@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.6](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.6), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.0.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.18.0), today) - Terraform provider for Azure Resource Manager
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.4), today) - Kubetail helm charts
@@ -39,10 +40,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.1), 2 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.1](https://github.com/aquasecurity/trivy/releases/tag/v0.59.1), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.3](https://github.com/sunny0826/kubecm/releases/tag/v0.32.3), 2 days ago) - Manage your kubeconfig more easily.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.0-rc.1), 3 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
+- [Update .goreleaser.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/405) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: remove tools](https://github.com/jkroepke/openvpn-auth-oauth2/pull/402) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [OE-100: exchange: add mailflow metrics](https://github.com/cloudeteer/m365-exporter/pull/10) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [[all] Add MAINTAINERS.md](https://github.com/prometheus-community/helm-charts/pull/5293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[all] remove bitnami repo &amp; enterprise-metrics](https://github.com/grafana/helm-charts/pull/3555) on [grafana/helm-charts](https://github.com/grafana/helm-charts) (5 days ago)
 - [installer: add validation for EXTRA_FLAGS](https://github.com/prometheus-community/windows_exporter/pull/1867) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [add deno.lock to default exclusions](https://github.com/gitleaks/gitleaks/pull/1740) on [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) (1 week ago)
-- [feat!: FreeLens compatibility](https://github.com/jkroepke/lens-extension-certificate-info/pull/10) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 week ago)
 
 #### ⭐ Recent Stars
 
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [FloSchick](https://github.com/FloSchick)
 - [nliebelt](https://github.com/nliebelt)
 - [pszymkowiak](https://github.com/pszymkowiak)
 - [nholuongut](https://github.com/nholuongut)
 - [Xeus-Territory](https://github.com/Xeus-Territory)
-- [jmichalek132](https://github.com/jmichalek132)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
