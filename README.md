@@ -18,13 +18,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (3 days ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (5 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (6 days ago)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 week ago)
 - [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (1 week ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 week ago)
 - [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) - The Microsoft community Windows Package Manager manifest repository (1 week ago)
 
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: remove tools](https://github.com/jkroepke/openvpn-auth-oauth2/pull/402) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [OE-100: exchange: add mailflow metrics](https://github.com/cloudeteer/m365-exporter/pull/10) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (today)
 - [[all] Add MAINTAINERS.md](https://github.com/prometheus-community/helm-charts/pull/5293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [fix: slow stop if run as service](https://github.com/prometheus-community/windows_exporter/pull/1870) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [installer: add validation for EXTRA_FLAGS](https://github.com/prometheus-community/windows_exporter/pull/1867) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [add deno.lock to default exclusions](https://github.com/gitleaks/gitleaks/pull/1740) on [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) (1 week ago)
 - [feat!: FreeLens compatibility](https://github.com/jkroepke/lens-extension-certificate-info/pull/10) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 week ago)
-- [netframework: fix MI_RESULT_INVALID_QUERY](https://github.com/prometheus-community/windows_exporter/pull/1862) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
