@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.30.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.6](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.6), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.0.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.18.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.4), 1 day ago) - Kubetail helm charts
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.0), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
