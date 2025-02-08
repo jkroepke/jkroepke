@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: sign binaries ](https://github.com/prometheus-community/windows_exporter/pull/1875) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1874) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: windows_exporter uses own event log source to correctly format messages.](https://github.com/prometheus-community/windows_exporter/pull/1873) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Feat: Add serviceName field to the Alertmanager CRD](https://github.com/prometheus-operator/prometheus-operator/pull/7329) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[all] Add MAINTAINERS.md](https://github.com/prometheus-community/helm-charts/pull/5293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix: slow stop if run as service](https://github.com/prometheus-community/windows_exporter/pull/1870) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [chore: add more debug logging](https://github.com/jkroepke/openvpn-auth-oauth2/pull/395) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Update Dockerfile](https://github.com/jkroepke/docker-wixtoolset/pull/5) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (4 days ago)
 
 #### ⭐ Recent Stars
 
