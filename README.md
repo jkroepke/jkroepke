@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([25.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/25.2.0), today) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.30.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.6](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.6), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.18.0), 2 days ago) - Terraform provider for Azure Resource Manager
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.4), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.1), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.1](https://github.com/aquasecurity/trivy/releases/tag/v0.59.1), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [sunny0826/kubecm](https://github.com/sunny0826/kubecm) ([v0.32.3](https://github.com/sunny0826/kubecm/releases/tag/v0.32.3), 4 days ago) - Manage your kubeconfig more easily.
 
 #### 🔨 My recent Pull Requests
 
