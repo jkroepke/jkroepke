@@ -43,6 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [config: remove remote config files](https://github.com/prometheus-community/windows_exporter/pull/1877) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [config: multiple web.listen-address args results into an error, if --config.file is defined.](https://github.com/prometheus-community/windows_exporter/pull/1876) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: sign binaries ](https://github.com/prometheus-community/windows_exporter/pull/1875) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [feat: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1874) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [feat: windows_exporter uses own event log source to correctly format messages.](https://github.com/prometheus-community/windows_exporter/pull/1873) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -51,8 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: remove tools](https://github.com/jkroepke/openvpn-auth-oauth2/pull/402) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [OE-100: exchange: add mailflow metrics](https://github.com/cloudeteer/m365-exporter/pull/10) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (2 days ago)
 - [[all] Add MAINTAINERS.md](https://github.com/prometheus-community/helm-charts/pull/5293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [fix: slow stop if run as service](https://github.com/prometheus-community/windows_exporter/pull/1870) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [chore: add more debug logging](https://github.com/jkroepke/openvpn-auth-oauth2/pull/395) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
