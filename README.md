@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.4), 2 days ago) - Kubetail helm charts
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.0), 3 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.1), 3 days ago) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.4), 3 days ago) - For hosting manifests to allow for the deployment of OAuth2-Proxy/OAuth2-Proxy
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.4), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.1), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.59.1](https://github.com/aquasecurity/trivy/releases/tag/v0.59.1), 4 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
