@@ -30,16 +30,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-0.13.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-0.13.0), today) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.2), today) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.5), today) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.329](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.329), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.265.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.265.0), today) - A Go SDK for building backend plugins for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.1), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.5), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([25.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/25.2.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.6](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.6), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.18.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.0), 4 days ago) - A set of modern Grafana dashboards for Kubernetes.
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.1), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
