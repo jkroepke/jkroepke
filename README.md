@@ -18,7 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (6 days ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (1 week ago)
@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.24](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.24), today) - 
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-0.13.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-0.13.0), today) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.2), today) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.5), today) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.329](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.329), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.265.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.265.0), today) - A Go SDK for building backend plugins for Grafana
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.5), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([25.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/25.2.0), 1 day ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [mscluster: restore support for Windows Server 2016-2019](https://github.com/prometheus-community/windows_exporter/pull/1882) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [cs: fix metric description](https://github.com/prometheus-community/windows_exporter/pull/1881) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1878) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [config: remove remote config files](https://github.com/prometheus-community/windows_exporter/pull/1877) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: windows_exporter uses own event log source to correctly format messages.](https://github.com/prometheus-community/windows_exporter/pull/1873) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [Feat: Add serviceName field to the Alertmanager CRD](https://github.com/prometheus-operator/prometheus-operator/pull/7329) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (3 days ago)
 - [Update .goreleaser.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/405) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [chore: remove tools](https://github.com/jkroepke/openvpn-auth-oauth2/pull/402) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 
 #### ⭐ Recent Stars
 
