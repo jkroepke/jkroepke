@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.329](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.329), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.265.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.265.0), today) - A Go SDK for building backend plugins for Grafana
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.1), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.10.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.10.5), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -38,11 +39,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.18.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.4](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.4), 3 days ago) - Kubetail helm charts
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.0), 4 days ago) - A set of modern Grafana dashboards for Kubernetes.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.1](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.1), 4 days ago) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.1](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.1), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
+- [cs: fix metric description](https://github.com/prometheus-community/windows_exporter/pull/1881) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1878) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [config: remove remote config files](https://github.com/prometheus-community/windows_exporter/pull/1877) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [config: multiple web.listen-address args results into an error, if --config.file is defined.](https://github.com/prometheus-community/windows_exporter/pull/1876) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Feat: Add serviceName field to the Alertmanager CRD](https://github.com/prometheus-operator/prometheus-operator/pull/7329) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (3 days ago)
 - [Update .goreleaser.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/405) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [chore: remove tools](https://github.com/jkroepke/openvpn-auth-oauth2/pull/402) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [OE-100: exchange: add mailflow metrics](https://github.com/cloudeteer/m365-exporter/pull/10) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
