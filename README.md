@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.1), today) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.24](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.24), 1 day ago) - 
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-0.13.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-0.13.0), 1 day ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.2), 1 day ago) - Prometheus community Helm charts
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [webdevops/azure-resourcemanager-exporter](https://github.com/webdevops/azure-resourcemanager-exporter) ([25.2.0](https://github.com/webdevops/azure-resourcemanager-exporter/releases/tag/25.2.0), 2 days ago) - Prometheus exporter for Azure ResourceManager informations (infos, quotas, limits, usages, public IPs, portscanner)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.6](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.6), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.18.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.18.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.0](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.0), 5 days ago) - A set of modern Grafana dashboards for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
