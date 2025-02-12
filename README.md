@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.6), today) - Kubetail helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.7](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.7), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.26.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.26.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.0](https://github.com/grafana/loki/releases/tag/v3.4.0), today) - Like Prometheus, but for logs.
@@ -38,7 +39,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.3](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.3), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-0.13.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-0.13.0), 2 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.5), 2 days ago) - Kubetail helm charts
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.265.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.265.0), 2 days ago) - A Go SDK for building backend plugins for Grafana
 
 #### 🔨 My recent Pull Requests
