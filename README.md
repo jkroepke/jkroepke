@@ -18,15 +18,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 week ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (1 week ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (1 week ago)
 - [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (2 weeks ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
