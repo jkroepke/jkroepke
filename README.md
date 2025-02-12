@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Make deploy.enableServiceLinks configurable](https://github.com/oauth2-proxy/manifests/pull/284) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (today)
 - [mscluster: restore support for Windows Server 2016-2019](https://github.com/prometheus-community/windows_exporter/pull/1882) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [cs: fix metric description](https://github.com/prometheus-community/windows_exporter/pull/1881) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [fix: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1878) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1874) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [feat: windows_exporter uses own event log source to correctly format messages.](https://github.com/prometheus-community/windows_exporter/pull/1873) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [Feat: Add serviceName field to the Alertmanager CRD](https://github.com/prometheus-operator/prometheus-operator/pull/7329) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (5 days ago)
-- [Update .goreleaser.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/405) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
