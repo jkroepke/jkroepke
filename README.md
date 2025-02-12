@@ -18,10 +18,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy (today)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 week ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (1 week ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.4), today) - Prometheus community Helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.4.1](https://github.com/grafana/loki/releases/tag/v3.4.1), today) - Like Prometheus, but for logs.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.6), today) - Kubetail helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.7](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.7), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.26.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.26.0), today) - 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.4.0](https://github.com/grafana/loki/releases/tag/v3.4.0), today) - Like Prometheus, but for logs.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.11.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.11.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.3), 1 day ago) - Prometheus community Helm charts
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.3](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.3), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-0.13.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-0.13.0), 2 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
