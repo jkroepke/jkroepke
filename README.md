@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.26.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.26.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.0](https://github.com/grafana/loki/releases/tag/v3.4.0), today) - Like Prometheus, but for logs.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.11.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.11.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.3), 1 day ago) - Prometheus community Helm charts
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.3](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.3), 1 day ago) - The toolkit to pack, ship, store, and deliver container content
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.6.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.6.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.24](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.24), 2 days ago) - 
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-0.13.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-0.13.0), 2 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.5](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.5), 2 days ago) - Kubetail helm charts
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.265.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.265.0), 2 days ago) - A Go SDK for building backend plugins for Grafana
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
-- [Gabrieliam42](https://github.com/Gabrieliam42)
 - [FloSchick](https://github.com/FloSchick)
 - [nliebelt](https://github.com/nliebelt)
 - [pszymkowiak](https://github.com/pszymkowiak)
 - [nholuongut](https://github.com/nholuongut)
+- [Xeus-Territory](https://github.com/Xeus-Territory)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
