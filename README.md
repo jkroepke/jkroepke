@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy (1 day ago)
@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.4), today) - Prometheus exporter for Windows machines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.25](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.25), today) - 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.3), today) - Prometheus exporter for Windows machines
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.4), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.3](https://github.com/grafana/loki/releases/tag/v3.3.3), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.4), 1 day ago) - Prometheus community Helm charts
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [ci: pin wix toolset version to avoid installing incompatible extensions](https://github.com/prometheus-community/windows_exporter/pull/1885) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mask password from openvpn clients in debug logs. (user password from SSO accounts not affected)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/416) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Make deploy.enableServiceLinks configurable](https://github.com/oauth2-proxy/manifests/pull/284) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (1 day ago)
 - [mscluster: restore support for Windows Server 2016-2019](https://github.com/prometheus-community/windows_exporter/pull/1882) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [config: multiple web.listen-address args results into an error, if --config.file is defined.](https://github.com/prometheus-community/windows_exporter/pull/1876) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [feat: sign binaries ](https://github.com/prometheus-community/windows_exporter/pull/1875) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [feat: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1874) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [feat: windows_exporter uses own event log source to correctly format messages.](https://github.com/prometheus-community/windows_exporter/pull/1873) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
