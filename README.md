@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.17.1](https://github.com/cert-manager/cert-manager/releases/tag/v1.17.1), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.4), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v3.3.3](https://github.com/grafana/loki/releases/tag/v3.3.3), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.4), 1 day ago) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.6), 1 day ago) - Kubetail helm charts
