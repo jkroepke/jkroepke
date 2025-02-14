@@ -30,8 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.27.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.27.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.3.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.14.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.14.4), today) - 
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), today) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.2](https://github.com/grafana/loki/releases/tag/v3.4.2), today) - Like Prometheus, but for logs.
