@@ -30,14 +30,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.9.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.9.1), today) - 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), today) - Automatically provision and manage TLS certificates in Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.0](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-json-exporter-0.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-json-exporter-0.16.0), today) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.2](https://github.com/grafana/loki/releases/tag/v3.4.2), today) - Like Prometheus, but for logs.
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.266.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.266.0), today) - A Go SDK for building backend plugins for Grafana
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.19.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.19.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.4), 1 day ago) - Prometheus exporter for Windows machines
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.16.4](https://github.com/cert-manager/cert-manager/releases/tag/v1.16.4), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.2.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.2.4), 2 days ago) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.6), 2 days ago) - Kubetail helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.7](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.7), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
