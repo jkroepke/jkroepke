@@ -17,42 +17,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy (2 days ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy (3 days ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 days ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 week ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (1 week ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 weeks ago)
 - [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.27.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.27.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.3.0), today) - Prometheus community Helm charts
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), today) - Automatically provision and manage TLS certificates in Kubernetes
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/loki](https://github.com/grafana/loki) ([v3.4.2](https://github.com/grafana/loki/releases/tag/v3.4.2), today) - Like Prometheus, but for logs.
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.266.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.266.0), today) - A Go SDK for building backend plugins for Grafana
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.19.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.19.0), today) - Terraform provider for Azure Resource Manager
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.4), 1 day ago) - Prometheus exporter for Windows machines
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.6), 2 days ago) - Kubetail helm charts
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.7](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.7), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.27.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.27.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.3.0), 1 day ago) - Prometheus community Helm charts
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), 1 day ago) - Automatically provision and manage TLS certificates in Kubernetes
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [grafana/loki](https://github.com/grafana/loki) ([v3.4.2](https://github.com/grafana/loki/releases/tag/v3.4.2), 1 day ago) - Like Prometheus, but for logs.
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.266.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.266.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.19.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.19.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.4), 2 days ago) - Prometheus exporter for Windows machines
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.6), 3 days ago) - Kubetail helm charts
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.7](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.7), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
-- [ci: pin wix toolset version to avoid installing incompatible extensions](https://github.com/prometheus-community/windows_exporter/pull/1885) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [mask password from openvpn clients in debug logs. (user password from SSO accounts not affected)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/416) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Make deploy.enableServiceLinks configurable](https://github.com/oauth2-proxy/manifests/pull/284) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (2 days ago)
-- [mscluster: restore support for Windows Server 2016-2019](https://github.com/prometheus-community/windows_exporter/pull/1882) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [cs: fix metric description](https://github.com/prometheus-community/windows_exporter/pull/1881) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [fix: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1878) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [config: remove remote config files](https://github.com/prometheus-community/windows_exporter/pull/1877) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [config: multiple web.listen-address args results into an error, if --config.file is defined.](https://github.com/prometheus-community/windows_exporter/pull/1876) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [feat: sign binaries ](https://github.com/prometheus-community/windows_exporter/pull/1875) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [feat: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1874) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [ci: pin wix toolset version to avoid installing incompatible extensions](https://github.com/prometheus-community/windows_exporter/pull/1885) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [mask password from openvpn clients in debug logs. (user password from SSO accounts not affected)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/416) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [Make deploy.enableServiceLinks configurable](https://github.com/oauth2-proxy/manifests/pull/284) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (3 days ago)
+- [mscluster: restore support for Windows Server 2016-2019](https://github.com/prometheus-community/windows_exporter/pull/1882) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [cs: fix metric description](https://github.com/prometheus-community/windows_exporter/pull/1881) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [fix: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1878) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [config: remove remote config files](https://github.com/prometheus-community/windows_exporter/pull/1877) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [config: multiple web.listen-address args results into an error, if --config.file is defined.](https://github.com/prometheus-community/windows_exporter/pull/1876) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [feat: sign binaries ](https://github.com/prometheus-community/windows_exporter/pull/1875) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
+- [feat: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1874) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
