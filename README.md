@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.1), 1 day ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.11.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.11.1), today) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.330](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.330), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-7.0.0), 1 day ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.4), 2 days ago) - Terraform provider for Hetzner DNS
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.266.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.266.0), 3 days ago) - A Go SDK for building backend plugins for Grafana
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.19.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.19.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.4), 4 days ago) - Prometheus exporter for Windows machines
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.6](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.6), 5 days ago) - Kubetail helm charts
 
 #### 🔨 My recent Pull Requests
 
