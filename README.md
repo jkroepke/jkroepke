@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.44.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.44.0), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.11.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.11.1), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.330](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.330), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-7.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-7.0.0), 1 day ago) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.4), 2 days ago) - Terraform provider for Hetzner DNS
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), 3 days ago) - Automatically provision and manage TLS certificates in Kubernetes
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
