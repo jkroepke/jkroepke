@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: log to the Windows temp directory if of service detection failures.](https://github.com/prometheus-community/windows_exporter/pull/1890) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [docs: add disk activity query.](https://github.com/prometheus-community/windows_exporter/pull/1889) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: pin wix toolset version to avoid installing incompatible extensions](https://github.com/prometheus-community/windows_exporter/pull/1885) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [mask password from openvpn clients in debug logs. (user password from SSO accounts not affected)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/416) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: sign binaries](https://github.com/prometheus-community/windows_exporter/pull/1878) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [config: remove remote config files](https://github.com/prometheus-community/windows_exporter/pull/1877) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [config: multiple web.listen-address args results into an error, if --config.file is defined.](https://github.com/prometheus-community/windows_exporter/pull/1876) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [feat: sign binaries ](https://github.com/prometheus-community/windows_exporter/pull/1875) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
