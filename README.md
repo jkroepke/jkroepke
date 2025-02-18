@@ -18,7 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (6 days ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy (6 days ago)
@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-elasticsearch-exporter-6.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-elasticsearch-exporter-6.6.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.3.2), today) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.0](https://github.com/prometheus/prometheus/releases/tag/v3.2.0), 1 day ago) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.11.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.11.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.330](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.330), 1 day ago) - 
