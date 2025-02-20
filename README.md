@@ -30,9 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.2), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.20.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.20.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-2.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-2.1.1), today) - Prometheus community Helm charts
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.0), today) - Find secrets with Gitleaks 🔑
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0), 1 day ago) - Prometheus instrumentation library for Go applications
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.2](https://github.com/grafana/grafana/releases/tag/v11.5.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
