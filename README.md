@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.0), today) - Find secrets with Gitleaks 🔑
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0), 1 day ago) - Prometheus instrumentation library for Go applications
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.2](https://github.com/grafana/grafana/releases/tag/v11.5.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.11.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.11.1), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.4), 5 days ago) - Terraform provider for Hetzner DNS
 - [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ([v1.12.16](https://github.com/cert-manager/cert-manager/releases/tag/v1.12.16), 6 days ago) - Automatically provision and manage TLS certificates in Kubernetes
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.15.2](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.15.2), 6 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
