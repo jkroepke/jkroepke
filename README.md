@@ -17,25 +17,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy (1 week ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (2 weeks ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (2 weeks ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (2 weeks ago)
-- [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-2.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-2.1.1), today) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.0), today) - Find secrets with Gitleaks 🔑
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0), 1 day ago) - Prometheus instrumentation library for Go applications
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.2](https://github.com/grafana/grafana/releases/tag/v11.5.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.24.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.24.0), 2 days ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-rabbitmq-exporter-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-rabbitmq-exporter-2.1.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.0](https://github.com/prometheus/prometheus/releases/tag/v3.2.0), 3 days ago) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.11.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.11.1), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.3.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.3.4), 5 days ago) - Terraform provider for Hetzner DNS
