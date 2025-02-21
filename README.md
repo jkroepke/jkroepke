@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.2](https://github.com/zitadel/oidc/releases/tag/v3.34.2), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.11.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.11.2), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.1), today) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.12](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.12), 1 day ago) - 
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.0), 1 day ago) - Find secrets with Gitleaks 🔑
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0), 2 days ago) - Prometheus instrumentation library for Go applications
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.2](https://github.com/grafana/grafana/releases/tag/v11.5.2), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.0](https://github.com/prometheus/prometheus/releases/tag/v3.2.0), 4 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
