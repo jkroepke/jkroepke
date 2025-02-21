@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.13](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.13), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.4.1), today) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.3](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.3), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.0), today) - Terraform provider for Hetzner DNS
