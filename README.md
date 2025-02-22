@@ -30,8 +30,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.11.1), today) - Prometheus community Helm charts
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.4](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.4), today) - A Grafana plugin app to create PDF reports of dashboards
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.1), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.3](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.3), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.0), 1 day ago) - Terraform provider for Hetzner DNS
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.1), 1 day ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.20.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.20.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.0), 2 days ago) - Find secrets with Gitleaks 🔑
-- [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.0](https://github.com/prometheus/client_golang/releases/tag/v1.21.0), 3 days ago) - Prometheus instrumentation library for Go applications
 
 #### 🔨 My recent Pull Requests
 
