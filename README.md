@@ -30,11 +30,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.4](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.4), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.11.1), 1 day ago) - Prometheus community Helm charts
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.4](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.4), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.0), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.1), 2 days ago) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.3](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.3), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.0), 2 days ago) - Terraform provider for Hetzner DNS
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.34.2](https://github.com/zitadel/oidc/releases/tag/v3.34.2), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.1), 2 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
