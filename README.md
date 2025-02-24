@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0](https://github.com/grafana/alloy/releases/tag/v1.7.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), today) - Microsoft 365 prometheus exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.35.0](https://github.com/zitadel/oidc/releases/tag/v3.35.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.331](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.331), today) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.4](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.4), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.11.1), 2 days ago) - Prometheus community Helm charts
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.4](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.4), 2 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.0), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -69,11 +69,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
-- [turret8084](https://github.com/turret8084)
 - [ibakshay](https://github.com/ibakshay)
 - [duyhenryer](https://github.com/duyhenryer)
 - [flaviopavim](https://github.com/flaviopavim)
 - [LinuxJS](https://github.com/LinuxJS)
+- [AlexanderSabirov](https://github.com/AlexanderSabirov)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
