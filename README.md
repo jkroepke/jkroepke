@@ -30,7 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.12.0](https://github.com/grafana/helm-charts/releases/tag/alloy-0.12.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.3), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0](https://github.com/grafana/alloy/releases/tag/v1.7.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), today) - Microsoft 365 prometheus exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.35.0](https://github.com/zitadel/oidc/releases/tag/v3.35.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
