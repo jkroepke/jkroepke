@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), today) - Microsoft 365 prometheus exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.35.0](https://github.com/zitadel/oidc/releases/tag/v3.35.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.331](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.331), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0-rc.4](https://github.com/grafana/alloy/releases/tag/v1.7.0-rc.4), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.0), 3 days ago) - Terraform provider for Hetzner DNS
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.1), 3 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.20.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.20.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.0), 4 days ago) - Find secrets with Gitleaks 🔑
 
 #### 🔨 My recent Pull Requests
 
