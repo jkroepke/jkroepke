@@ -30,6 +30,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.4), today) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.5.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.7.3](https://github.com/grafana/helm-charts/releases/tag/beyla-1.7.3), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.0](https://github.com/grafana/alloy/releases/tag/v1.7.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.0), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.0](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.0), 4 days ago) - Terraform provider for Hetzner DNS
 - [kiwigrid/k8s-sidecar](https://github.com/kiwigrid/k8s-sidecar) ([1.30.1](https://github.com/kiwigrid/k8s-sidecar/releases/tag/1.30.1), 4 days ago) - This is a docker container intended to run inside a kubernetes cluster to collect config maps with a specified label and store the included files in a local folder.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.20.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.20.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
