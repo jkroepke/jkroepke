@@ -30,7 +30,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.5.0), today) - Prometheus community Helm charts
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.7), today) - Kubetail helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.2), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.1](https://github.com/grafana/alloy/releases/tag/v1.7.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.267.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.267.0), today) - A Go SDK for building backend plugins for Grafana
@@ -39,7 +40,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.4), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), 2 days ago) - Microsoft 365 prometheus exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.35.0](https://github.com/zitadel/oidc/releases/tag/v3.35.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.4](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.4), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
 
 #### 🔨 My recent Pull Requests
 
