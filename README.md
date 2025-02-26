@@ -17,7 +17,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (6 days ago)
@@ -30,10 +30,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.2), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.1](https://github.com/grafana/alloy/releases/tag/v1.7.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.267.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.267.0), today) - A Go SDK for building backend plugins for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.15.1), today) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.1), today) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.4), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
