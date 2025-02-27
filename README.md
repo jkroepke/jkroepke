@@ -17,11 +17,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (6 days ago)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 week ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (1 week ago)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) - Helm charts to allow for the deployment of OAuth2-Proxy (2 weeks ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (3 weeks ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (3 weeks ago)
@@ -30,25 +30,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.5.0), today) - Prometheus community Helm charts
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.7), today) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.2), today) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.1](https://github.com/grafana/alloy/releases/tag/v1.7.1), today) - OpenTelemetry Collector distribution with programmable pipelines
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.267.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.267.0), today) - A Go SDK for building backend plugins for Grafana
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.1), today) - The Prometheus monitoring system and time series database.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.4), 1 day ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), 2 days ago) - Microsoft 365 prometheus exporter
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.35.0](https://github.com/zitadel/oidc/releases/tag/v3.35.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.5.0), 1 day ago) - Prometheus community Helm charts
+- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.7), 1 day ago) - Kubetail helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.2), 1 day ago) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.1](https://github.com/grafana/alloy/releases/tag/v1.7.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.267.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.267.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.1), 1 day ago) - The Prometheus monitoring system and time series database.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.1), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.4), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.1.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.1.0), 3 days ago) - Microsoft 365 prometheus exporter
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.35.0](https://github.com/zitadel/oidc/releases/tag/v3.35.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
-- [time: fix panic if counters aren&#39;t present](https://github.com/prometheus-community/windows_exporter/pull/1898) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [docs: fix physical_disk docs](https://github.com/prometheus-community/windows_exporter/pull/1897) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [chore: fix codecov](https://github.com/cloudeteer/m365-exporter/pull/18) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (6 days ago)
+- [time: fix panic if counters aren&#39;t present](https://github.com/prometheus-community/windows_exporter/pull/1898) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [docs: fix physical_disk docs](https://github.com/prometheus-community/windows_exporter/pull/1897) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [chore: fix codecov](https://github.com/cloudeteer/m365-exporter/pull/18) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
 - [fix: log to the Windows temp directory if of service detection failures.](https://github.com/prometheus-community/windows_exporter/pull/1890) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [docs: add disk activity query.](https://github.com/prometheus-community/windows_exporter/pull/1889) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [ci: pin wix toolset version to avoid installing incompatible extensions](https://github.com/prometheus-community/windows_exporter/pull/1885) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
+- [ci: pin wix toolset version to avoid installing incompatible extensions](https://github.com/prometheus-community/windows_exporter/pull/1885) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
 - [mask password from openvpn clients in debug logs. (user password from SSO accounts not affected)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/416) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 - [Make deploy.enableServiceLinks configurable](https://github.com/oauth2-proxy/manifests/pull/284) on [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) (2 weeks ago)
 - [mscluster: restore support for Windows Server 2016-2019](https://github.com/prometheus-community/windows_exporter/pull/1882) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
@@ -56,7 +56,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (2 weeks ago)
+- [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (3 weeks ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (3 weeks ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (3 weeks ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 month ago)
@@ -64,7 +64,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (1 month ago)
 - [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (1 month ago)
 - [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (1 month ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (1 month ago)
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (2 months ago)
 - [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (2 months ago)
 
 #### 👯 Check out some of my recent followers
