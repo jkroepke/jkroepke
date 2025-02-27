@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.27](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.27), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.2), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.268.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.268.1), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.2), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.5.0), 1 day ago) - Prometheus community Helm charts
 - [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.7), 1 day ago) - Kubetail helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.2), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.1](https://github.com/grafana/alloy/releases/tag/v1.7.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.0.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.0.4), 2 days ago) - ☁️ Cloudeteer&#39;s Terraform AzureRM virtual machine module
