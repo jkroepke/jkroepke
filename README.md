@@ -18,6 +18,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (1 week ago)
@@ -26,7 +27,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (3 weeks ago)
 - [jkroepke/signed-commit-action](https://github.com/jkroepke/signed-commit-action) - An action to create signed and verifiable commits from github actions (3 weeks ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (3 weeks ago)
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑 (4 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -43,6 +43,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix helm_wrapper does not honor escaped commas in --set arguments](https://github.com/jkroepke/helm-secrets/pull/501) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [fix: Support running as Windows Service within containers](https://github.com/prometheus-community/windows_exporter/pull/1907) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [terminal_services: fix panic in collect](https://github.com/prometheus-community/windows_exporter/pull/1906) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: fix checksum](https://github.com/prometheus-community/windows_exporter/pull/1905) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -52,7 +53,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: log to the Windows temp directory if of service detection failures.](https://github.com/prometheus-community/windows_exporter/pull/1890) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [docs: add disk activity query.](https://github.com/prometheus-community/windows_exporter/pull/1889) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [ci: pin wix toolset version to avoid installing incompatible extensions](https://github.com/prometheus-community/windows_exporter/pull/1885) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [mask password from openvpn clients in debug logs. (user password from SSO accounts not affected)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/416) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
