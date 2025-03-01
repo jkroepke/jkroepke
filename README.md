@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-opencost-exporter-0.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-opencost-exporter-0.1.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.30.1), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.2), today) - Collection of charts used in my projects
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.3](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.3), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.1), 1 day ago) - Terraform provider for Azure Resource Manager
