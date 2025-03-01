@@ -15,7 +15,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [{{with repo "jkroepke" "terraform-provider-azureakscommand"}}⭐️ {{.Stargazers}}{{end}} - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [{{with repo "jkroepke" "lens-extension-certificate-info"}}⭐️ {{.Stargazers}}{{end}} - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 
-### ❤️ Sponsors
+#### ❤️ Sponsors
 {{range sponsors 5}}
 - [{{.User.Login}} ({{.User.Name}})]({{.User.URL}})
 {{end}}
