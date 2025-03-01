@@ -43,8 +43,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.2), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.268.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.268.1), 2 days ago) - A Go SDK for building backend plugins for Grafana
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.2), 2 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [kubetail-org/helm-charts](https://github.com/kubetail-org/helm-charts) ([kubetail-0.9.7](https://github.com/kubetail-org/helm-charts/releases/tag/kubetail-0.9.7), 3 days ago) - Kubetail helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.1](https://github.com/grafana/alloy/releases/tag/v1.7.1), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.1), 3 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
