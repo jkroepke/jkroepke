@@ -35,13 +35,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.6.1), today) - Prometheus community Helm charts
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.269.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.269.0), today) - A Go SDK for building backend plugins for Grafana
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.0.2), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.2), 2 days ago) - Collection of charts used in my projects
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.3](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.3), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.1), 3 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.27](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.27), 4 days ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.2), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.268.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.268.1), 4 days ago) - A Go SDK for building backend plugins for Grafana
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.2), 4 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.1](https://github.com/grafana/alloy/releases/tag/v1.7.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.2.1](https://github.com/prometheus/prometheus/releases/tag/v3.2.1), 5 days ago) - The Prometheus monitoring system and time series database.
