@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.7.1), today) - Prometheus community Helm charts
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.269.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.269.0), today) - A Go SDK for building backend plugins for Grafana
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.0.2), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.2), 2 days ago) - Collection of charts used in my projects
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.3](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.3), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.1), 3 days ago) - Terraform provider for Azure Resource Manager
