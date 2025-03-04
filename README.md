@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [container: refactor collector and support hostprocess](https://github.com/prometheus-community/windows_exporter/pull/1911) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [time: `windows_time_clock_frequency_adjustment_ppb_total` -> `windows_time_clock_frequency_adjustment_ppb` and add `windows_time_clock_frequency_adjustment` metric for Win2016](https://github.com/prometheus-community/windows_exporter/pull/1910) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [docs: added examples for alternative installer dir](https://github.com/prometheus-community/windows_exporter/pull/1909) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [netframework: fix metric names (re-add the collector sub-type to metrics)](https://github.com/prometheus-community/windows_exporter/pull/1908) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ci: fix checksum](https://github.com/prometheus-community/windows_exporter/pull/1905) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [time: fix panic if counters aren't present](https://github.com/prometheus-community/windows_exporter/pull/1898) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [docs: fix physical_disk docs](https://github.com/prometheus-community/windows_exporter/pull/1897) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [chore: fix codecov](https://github.com/cloudeteer/m365-exporter/pull/18) on [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
