@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.1](https://github.com/prometheus/client_golang/releases/tag/v1.21.1), today) - Prometheus instrumentation library for Go applications
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-4.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-4.13.0), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.4](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.4), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.0), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.2](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.2), 3 days ago) - Collection of charts used in my projects
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.3](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.3), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v3.117.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v3.117.1), 4 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0-beta.2](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0-beta.2), 5 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 
 #### 🔨 My recent Pull Requests
 
