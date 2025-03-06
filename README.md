@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.7.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.7.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.3](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.3), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.5), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.0.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.0.3), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.269.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.269.1), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.60.0](https://github.com/aquasecurity/trivy/releases/tag/v0.60.0), 1 day ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.2](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.2), 1 day ago) - cloudeteer's helm chart repositories
