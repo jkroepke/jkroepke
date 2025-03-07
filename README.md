@@ -35,16 +35,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.1](https://github.com/prometheus/alertmanager/releases/tag/v0.28.1), today) - Prometheus Alertmanager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.2](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.2), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.5), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.269.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.269.1), 2 days ago) - A Go SDK for building backend plugins for Grafana
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.60.0](https://github.com/aquasecurity/trivy/releases/tag/v0.60.0), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.2](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.2), 2 days ago) - cloudeteer's helm chart repositories
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.21.1](https://github.com/prometheus/client_golang/releases/tag/v1.21.1), 3 days ago) - Prometheus instrumentation library for Go applications
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.0), 3 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.5](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.5), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
 
 #### 🔨 My recent Pull Requests
 
