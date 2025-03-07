@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.3), today) - 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.22.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.22.0-rc.0), today) - Prometheus instrumentation library for Go applications
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.1](https://github.com/prometheus/alertmanager/releases/tag/v0.28.1), today) - Prometheus Alertmanager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.18.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.18.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.0), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.5](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.5), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
