@@ -61,6 +61,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (today)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (1 month ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (1 month ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 month ago)
@@ -70,7 +71,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (2 months ago)
 - [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (2 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (2 months ago)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay). (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
