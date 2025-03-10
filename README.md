@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.2), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.3), 3 days ago) - 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.22.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.22.0-rc.0), 3 days ago) - Prometheus instrumentation library for Go applications
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.1](https://github.com/prometheus/alertmanager/releases/tag/v0.28.1), 3 days ago) - Prometheus Alertmanager
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), 3 days ago) - Terraform provider for Azure Resource Manager
