@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.2](https://github.com/grafana/alloy/releases/tag/v1.7.2), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.6](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.6), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.3), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.2), 1 day ago) - Prometheus community Helm charts
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.269.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.269.1), 5 days ago) - A Go SDK for building backend plugins for Grafana
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.60.0](https://github.com/aquasecurity/trivy/releases/tag/v0.60.0), 5 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.2](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.2), 5 days ago) - cloudeteer's helm chart repositories
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.0), 6 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
