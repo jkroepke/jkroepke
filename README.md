@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc3](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc3), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.0), today) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.270.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.270.0), today) - A Go SDK for building backend plugins for Grafana
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.22.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.22.0-rc.0), 4 days ago) - Prometheus instrumentation library for Go applications
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.1](https://github.com/prometheus/alertmanager/releases/tag/v0.28.1), 4 days ago) - Prometheus Alertmanager
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.60.0](https://github.com/aquasecurity/trivy/releases/tag/v0.60.0), 6 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 
 #### 🔨 My recent Pull Requests
 
