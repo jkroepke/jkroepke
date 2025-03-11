@@ -35,8 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.4), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.270.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.270.0), today) - A Go SDK for building backend plugins for Grafana
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.28.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.28.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.2](https://github.com/grafana/alloy/releases/tag/v1.7.2), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.6](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.6), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.2), 2 days ago) - Prometheus community Helm charts
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.1](https://github.com/prometheus/alertmanager/releases/tag/v0.28.1), 4 days ago) - Prometheus Alertmanager
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.60.0](https://github.com/aquasecurity/trivy/releases/tag/v0.60.0), 6 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.2](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.2), 6 days ago) - cloudeteer's helm chart repositories
 
 #### 🔨 My recent Pull Requests
 
