@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.270.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.270.0), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.28.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.28.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.2](https://github.com/grafana/alloy/releases/tag/v1.7.2), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.6](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.6), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.22.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.22.0-rc.0), 4 days ago) - Prometheus instrumentation library for Go applications
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.1](https://github.com/prometheus/alertmanager/releases/tag/v0.28.1), 4 days ago) - Prometheus Alertmanager
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.269.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.269.1), 6 days ago) - A Go SDK for building backend plugins for Grafana
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.60.0](https://github.com/aquasecurity/trivy/releases/tag/v0.60.0), 6 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.0.2](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.0.2), 6 days ago) - cloudeteer's helm chart repositories
 
