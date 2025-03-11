@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.0), today) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0), today) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.4), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.270.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.270.0), today) - A Go SDK for building backend plugins for Grafana
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.2](https://github.com/grafana/alloy/releases/tag/v1.7.2), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.6](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.6), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
