@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.1), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc3](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc3), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.0), 1 day ago) - 
 - [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-69.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-69.8.2), 3 days ago) - Prometheus community Helm charts
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.22.0-rc.0](https://github.com/prometheus/client_golang/releases/tag/v1.22.0-rc.0), 5 days ago) - Prometheus instrumentation library for Go applications
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) ([v0.28.1](https://github.com/prometheus/alertmanager/releases/tag/v0.28.1), 5 days ago) - Prometheus Alertmanager
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.22.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.22.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
