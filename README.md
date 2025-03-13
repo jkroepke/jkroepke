@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.12.5](https://github.com/grafana/helm-charts/releases/tag/alloy-0.12.5), today) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), today) - Go libraries shared across Prometheus components and libraries.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.23.0), today) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.28](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.28), today) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.3](https://github.com/grafana/alloy/releases/tag/v1.7.3), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.273.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.273.0), today) - A Go SDK for building backend plugins for Grafana
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.7.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.7.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.13](https://github.com/grafana/loki/releases/tag/v2.9.13), 1 day ago) - Like Prometheus, but for logs.
