@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.12.4](https://github.com/grafana/helm-charts/releases/tag/alloy-0.12.4), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.28](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.28), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.3](https://github.com/grafana/alloy/releases/tag/v1.7.3), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.273.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.273.0), today) - A Go SDK for building backend plugins for Grafana
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.7.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.7.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [hyperv: fix Windows Server 2016 compatibility](https://github.com/prometheus-community/windows_exporter/pull/1925) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: update dependencies](https://github.com/prometheus-community/windows_exporter/pull/1920) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [[kube-prometheus-stack] Cut off breaking changes from README.md](https://github.com/prometheus-community/helm-charts/pull/5409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[admin] docs for admin responsibilities](https://github.com/prometheus-community/helm-charts/pull/5402) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [docs: added examples for alternative installer dir](https://github.com/prometheus-community/windows_exporter/pull/1909) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [netframework: fix metric names (re-add the collector sub-type to metrics)](https://github.com/prometheus-community/windows_exporter/pull/1908) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [fix helm_wrapper does not honor escaped commas in --set arguments](https://github.com/jkroepke/helm-secrets/pull/501) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [fix: Support running as Windows Service within containers](https://github.com/prometheus-community/windows_exporter/pull/1907) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
