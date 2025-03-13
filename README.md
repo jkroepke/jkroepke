@@ -22,34 +22,34 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (3 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (1 week ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer's helm chart repositories (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 weeks ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 weeks ago)
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.5), today) - 
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.7.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.7.1), today) - A set of modern Grafana dashboards for Kubernetes.
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.13](https://github.com/grafana/loki/releases/tag/v2.9.13), today) - Like Prometheus, but for logs.
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.271.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.271.0), today) - A Go SDK for building backend plugins for Grafana
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.0](https://github.com/zitadel/oidc/releases/tag/v3.36.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.0), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.1), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc3](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc3), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0), 1 day ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.2](https://github.com/grafana/alloy/releases/tag/v1.7.2), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.5](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.5), 1 day ago) - 
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.7.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.7.1), 1 day ago) - A set of modern Grafana dashboards for Kubernetes.
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.13](https://github.com/grafana/loki/releases/tag/v2.9.13), 1 day ago) - Like Prometheus, but for logs.
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.271.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.271.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.0](https://github.com/zitadel/oidc/releases/tag/v3.36.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.0), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.1.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.1.1), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc3](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc3), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [grafana/grafana-infinity-datasource](https://github.com/grafana/grafana-infinity-datasource) ([v3.0.0](https://github.com/grafana/grafana-infinity-datasource/releases/tag/v3.0.0), 2 days ago) - CSV, JSON, GraphQL, XML and HTML datasource for grafana.
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.2](https://github.com/grafana/alloy/releases/tag/v1.7.2), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
-- [fix: update dependencies](https://github.com/prometheus-community/windows_exporter/pull/1920) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[kube-prometheus-stack] Cut off breaking changes from README.md](https://github.com/prometheus-community/helm-charts/pull/5409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [fix: update dependencies](https://github.com/prometheus-community/windows_exporter/pull/1920) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[kube-prometheus-stack] Cut off breaking changes from README.md](https://github.com/prometheus-community/helm-charts/pull/5409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[admin] docs for admin responsibilities](https://github.com/prometheus-community/helm-charts/pull/5402) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [initial commit](https://github.com/cloudeteer/helm-charts/pull/1) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 week ago)
 - [container: refactor collector and support hostprocess](https://github.com/prometheus-community/windows_exporter/pull/1911) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
@@ -61,7 +61,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (3 days ago)
+- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (4 days ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (1 month ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (1 month ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 month ago)
