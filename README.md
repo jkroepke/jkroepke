@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [brew: setup shell completion](https://github.com/stackitcloud/homebrew-tap/pull/3) on [stackitcloud/homebrew-tap](https://github.com/stackitcloud/homebrew-tap) (today)
 - [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/1939) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [pin version of go ci linter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/422) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore(deps): update dependency go to v1.24.1](https://github.com/prometheus-community/windows_exporter/pull/1937) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: add renovate](https://github.com/prometheus-community/windows_exporter/pull/1928) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [hyperv: fix Windows Server 2016 compatibility](https://github.com/prometheus-community/windows_exporter/pull/1925) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: update dependencies](https://github.com/prometheus-community/windows_exporter/pull/1920) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [[kube-prometheus-stack] Cut off breaking changes from README.md](https://github.com/prometheus-community/helm-charts/pull/5409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
