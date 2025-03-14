@@ -22,7 +22,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.12.5](https://github.com/grafana/helm-charts/releases/tag/alloy-0.12.5), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.6](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.6), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.23.0), 1 day ago) - Terraform provider for Azure Resource Manager
@@ -48,16 +48,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Improve counterInfo performance](https://github.com/prometheus-community/windows_exporter/pull/1936) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [fix: return Windows 11 as product name, if build number is >= 22000](https://github.com/prometheus-community/windows_exporter/pull/1935) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [chore: add quay.io registry](https://github.com/prometheus-community/windows_exporter/pull/1934) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [chore: add renovate](https://github.com/prometheus-community/windows_exporter/pull/1928) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [hyperv: fix Windows Server 2016 compatibility](https://github.com/prometheus-community/windows_exporter/pull/1925) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: update dependencies](https://github.com/prometheus-community/windows_exporter/pull/1920) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [[kube-prometheus-stack] Cut off breaking changes from README.md](https://github.com/prometheus-community/helm-charts/pull/5409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[admin] docs for admin responsibilities](https://github.com/prometheus-community/helm-charts/pull/5402) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [initial commit](https://github.com/cloudeteer/helm-charts/pull/1) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 week ago)
 - [container: refactor collector and support hostprocess](https://github.com/prometheus-community/windows_exporter/pull/1911) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [time: `windows_time_clock_frequency_adjustment_ppb_total` -> `windows_time_clock_frequency_adjustment_ppb` and add `windows_time_clock_frequency_adjustment` metric for Win2016](https://github.com/prometheus-community/windows_exporter/pull/1910) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [docs: added examples for alternative installer dir](https://github.com/prometheus-community/windows_exporter/pull/1909) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [netframework: fix metric names (re-add the collector sub-type to metrics)](https://github.com/prometheus-community/windows_exporter/pull/1908) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 weeks ago)
-- [fix helm_wrapper does not honor escaped commas in --set arguments](https://github.com/jkroepke/helm-secrets/pull/501) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
