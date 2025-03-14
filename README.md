@@ -35,12 +35,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.274.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.274.0), today) - A Go SDK for building backend plugins for Grafana
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.1](https://github.com/zitadel/oidc/releases/tag/v3.36.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.32.7](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.32.7), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.23.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.273.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.273.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.7.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.7.1), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.13](https://github.com/grafana/loki/releases/tag/v2.9.13), 2 days ago) - Like Prometheus, but for logs.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.0), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
