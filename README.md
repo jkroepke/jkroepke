@@ -22,6 +22,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
@@ -30,7 +31,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer's helm chart repositories (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 weeks ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
@@ -48,7 +48,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Improve counterInfo performance](https://github.com/prometheus-community/windows_exporter/pull/1936) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [pin version of go ci linter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/422) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [chore(deps): update dependency go to v1.24.1](https://github.com/prometheus-community/windows_exporter/pull/1937) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [fix: buffer length panic](https://github.com/prometheus-community/windows_exporter/pull/1936) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: return Windows 11 as product name, if build number is >= 22000](https://github.com/prometheus-community/windows_exporter/pull/1935) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: add quay.io registry](https://github.com/prometheus-community/windows_exporter/pull/1934) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: add renovate](https://github.com/prometheus-community/windows_exporter/pull/1928) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: update dependencies](https://github.com/prometheus-community/windows_exporter/pull/1920) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [[kube-prometheus-stack] Cut off breaking changes from README.md](https://github.com/prometheus-community/helm-charts/pull/5409) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[admin] docs for admin responsibilities](https://github.com/prometheus-community/helm-charts/pull/5402) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [initial commit](https://github.com/cloudeteer/helm-charts/pull/1) on [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) (1 week ago)
-- [container: refactor collector and support hostprocess](https://github.com/prometheus-community/windows_exporter/pull/1911) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
