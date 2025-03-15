@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/436) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/435) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Accept custom transport of custom http client](https://github.com/stackitcloud/stackit-sdk-go/pull/1627) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (today)
 - [net: move net IP addresses from `windows_net_nic_info` to `windows_net_nic_address_info` and introduce mac addresses](https://github.com/prometheus-community/windows_exporter/pull/1940) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/1939) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [pin version of go ci linter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/422) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [chore(deps): update dependency go to v1.24.1](https://github.com/prometheus-community/windows_exporter/pull/1937) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [fix: buffer length panic](https://github.com/prometheus-community/windows_exporter/pull/1936) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
