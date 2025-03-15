@@ -22,46 +22,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (4 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (5 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (1 week ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer's helm chart repositories (1 week ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.6](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.6), today) - A Grafana plugin app to create PDF reports of dashboards
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.29), today) - 
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.274.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.274.0), today) - A Go SDK for building backend plugins for Grafana
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.1](https://github.com/zitadel/oidc/releases/tag/v3.36.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.23.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.7.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.7.1), 2 days ago) - A set of modern Grafana dashboards for Kubernetes.
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.13](https://github.com/grafana/loki/releases/tag/v2.9.13), 2 days ago) - Like Prometheus, but for logs.
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.0), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.6](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.6), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.29), 1 day ago) - 
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.274.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.274.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.1](https://github.com/zitadel/oidc/releases/tag/v3.36.1), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.23.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.7.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.7.1), 3 days ago) - A set of modern Grafana dashboards for Kubernetes.
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.13](https://github.com/grafana/loki/releases/tag/v2.9.13), 3 days ago) - Like Prometheus, but for logs.
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.0), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
-- [brew: setup shell completion](https://github.com/stackitcloud/homebrew-tap/pull/3) on [stackitcloud/homebrew-tap](https://github.com/stackitcloud/homebrew-tap) (today)
-- [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/1939) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [pin version of go ci linter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/422) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [chore(deps): update dependency go to v1.24.1](https://github.com/prometheus-community/windows_exporter/pull/1937) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix: buffer length panic](https://github.com/prometheus-community/windows_exporter/pull/1936) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix: return Windows 11 as product name, if build number is >= 22000](https://github.com/prometheus-community/windows_exporter/pull/1935) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [chore: add quay.io registry](https://github.com/prometheus-community/windows_exporter/pull/1934) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [chore: add renovate](https://github.com/prometheus-community/windows_exporter/pull/1928) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [hyperv: fix Windows Server 2016 compatibility](https://github.com/prometheus-community/windows_exporter/pull/1925) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [fix: update dependencies](https://github.com/prometheus-community/windows_exporter/pull/1920) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [brew: setup shell completion](https://github.com/stackitcloud/homebrew-tap/pull/3) on [stackitcloud/homebrew-tap](https://github.com/stackitcloud/homebrew-tap) (1 day ago)
+- [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/1939) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [pin version of go ci linter](https://github.com/jkroepke/openvpn-auth-oauth2/pull/422) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [chore(deps): update dependency go to v1.24.1](https://github.com/prometheus-community/windows_exporter/pull/1937) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [fix: buffer length panic](https://github.com/prometheus-community/windows_exporter/pull/1936) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [fix: return Windows 11 as product name, if build number is >= 22000](https://github.com/prometheus-community/windows_exporter/pull/1935) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [chore: add quay.io registry](https://github.com/prometheus-community/windows_exporter/pull/1934) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [chore: add renovate](https://github.com/prometheus-community/windows_exporter/pull/1928) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [hyperv: fix Windows Server 2016 compatibility](https://github.com/prometheus-community/windows_exporter/pull/1925) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [fix: update dependencies](https://github.com/prometheus-community/windows_exporter/pull/1920) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (5 days ago)
+- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (6 days ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (1 month ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (1 month ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 month ago)
