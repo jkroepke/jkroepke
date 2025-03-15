@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.0.0), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.5), today) - Prometheus exporter for Windows machines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.6](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.6), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
@@ -44,10 +45,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.23.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [dotdc/grafana-dashboards-kubernetes](https://github.com/dotdc/grafana-dashboards-kubernetes) ([v2.7.1](https://github.com/dotdc/grafana-dashboards-kubernetes/releases/tag/v2.7.1), 3 days ago) - A set of modern Grafana dashboards for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
+- [Accept custom transport of custom http client](https://github.com/stackitcloud/stackit-sdk-go/pull/1627) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (today)
 - [net: move net IP addresses from `windows_net_nic_info` to `windows_net_nic_address_info` and introduce mac addresses](https://github.com/prometheus-community/windows_exporter/pull/1940) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [remove deprecated settings](https://github.com/jkroepke/openvpn-auth-oauth2/pull/434) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Update go.mod](https://github.com/jkroepke/openvpn-auth-oauth2/pull/433) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore(deps): update dependency go to v1.24.1](https://github.com/prometheus-community/windows_exporter/pull/1937) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: buffer length panic](https://github.com/prometheus-community/windows_exporter/pull/1936) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: return Windows 11 as product name, if build number is >= 22000](https://github.com/prometheus-community/windows_exporter/pull/1935) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [chore: add quay.io registry](https://github.com/prometheus-community/windows_exporter/pull/1934) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
