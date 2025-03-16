@@ -48,6 +48,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] add renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5427) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [[ci] added post-upgrade hooks for renovate](https://github.com/prometheus-community/helm-charts/pull/5425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Add support for OIDC client credentials](https://github.com/jkroepke/openvpn-auth-oauth2/pull/439) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[ci] use own renovate helper app to bump chart versions](https://github.com/prometheus-community/helm-charts/pull/5423) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [WIP: Add override username functionality.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/437) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Accept custom transport of custom http client](https://github.com/stackitcloud/stackit-sdk-go/pull/1627) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (1 day ago)
 - [net: move net IP addresses from `windows_net_nic_info` to `windows_net_nic_address_info` and introduce mac addresses](https://github.com/prometheus-community/windows_exporter/pull/1940) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [remove deprecated settings](https://github.com/jkroepke/openvpn-auth-oauth2/pull/434) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Update go.mod](https://github.com/jkroepke/openvpn-auth-oauth2/pull/433) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [brew: setup shell completion](https://github.com/stackitcloud/homebrew-tap/pull/3) on [stackitcloud/homebrew-tap](https://github.com/stackitcloud/homebrew-tap) (2 days ago)
 
 #### ⭐ Recent Stars
 
