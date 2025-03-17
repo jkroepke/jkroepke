@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.8.0](https://github.com/grafana/loki/releases/tag/operator/v0.8.0), today) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.0.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.10.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.10.4), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 2 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.1](https://github.com/zitadel/oidc/releases/tag/v3.36.1), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.23.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.23.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
