@@ -31,7 +31,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer's helm chart repositories (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 weeks ago)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
