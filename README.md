@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.19](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.19), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.1.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-weekly.334](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-weekly.334), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.4](https://github.com/prometheus/prometheus/releases/tag/v2.53.4), 1 day ago) - The Prometheus monitoring system and time series database.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.5), 4 days ago) - Prometheus exporter for Windows machines
