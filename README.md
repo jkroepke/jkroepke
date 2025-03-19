@@ -22,9 +22,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (1 week ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (1 week ago)
@@ -35,29 +35,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.4](https://github.com/prometheus/prometheus/releases/tag/v2.53.4), today) - The Prometheus monitoring system and time series database.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.0](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.27.0), today) - Prometheus community Helm charts
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.5), 3 days ago) - Prometheus exporter for Windows machines
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.6](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.6), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.274.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.274.0), 4 days ago) - A Go SDK for building backend plugins for Grafana
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.1](https://github.com/zitadel/oidc/releases/tag/v3.36.1), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.4](https://github.com/prometheus/prometheus/releases/tag/v2.53.4), 1 day ago) - The Prometheus monitoring system and time series database.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.0](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-cloudwatch-exporter-0.27.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-cloudwatch-exporter-0.27.0), 1 day ago) - Prometheus community Helm charts
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.5), 4 days ago) - Prometheus exporter for Windows machines
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.6](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.6), 5 days ago) - A Grafana plugin app to create PDF reports of dashboards
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.274.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.274.0), 5 days ago) - A Go SDK for building backend plugins for Grafana
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.1](https://github.com/zitadel/oidc/releases/tag/v3.36.1), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 6 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 6 days ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
-- [[kube-prometheus-stack] add renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5427) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[ci] added post-upgrade hooks for renovate](https://github.com/prometheus-community/helm-charts/pull/5425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [Add support for OIDC client credentials](https://github.com/jkroepke/openvpn-auth-oauth2/pull/439) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [[ci] use own renovate helper app to bump chart versions](https://github.com/prometheus-community/helm-charts/pull/5423) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [WIP: Add override username functionality.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/437) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/436) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/435) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Accept custom transport of custom http client](https://github.com/stackitcloud/stackit-sdk-go/pull/1627) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (3 days ago)
-- [net: move net IP addresses from `windows_net_nic_info` to `windows_net_nic_address_info` and introduce mac addresses](https://github.com/prometheus-community/windows_exporter/pull/1940) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [remove deprecated settings](https://github.com/jkroepke/openvpn-auth-oauth2/pull/434) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [[kube-prometheus-stack] add renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5427) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[ci] added post-upgrade hooks for renovate](https://github.com/prometheus-community/helm-charts/pull/5425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [Add support for OIDC client credentials](https://github.com/jkroepke/openvpn-auth-oauth2/pull/439) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [[ci] use own renovate helper app to bump chart versions](https://github.com/prometheus-community/helm-charts/pull/5423) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [WIP: Add override username functionality.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/437) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/436) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/435) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Accept custom transport of custom http client](https://github.com/stackitcloud/stackit-sdk-go/pull/1627) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (4 days ago)
+- [net: move net IP addresses from `windows_net_nic_info` to `windows_net_nic_address_info` and introduce mac addresses](https://github.com/prometheus-community/windows_exporter/pull/1940) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [remove deprecated settings](https://github.com/jkroepke/openvpn-auth-oauth2/pull/434) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
