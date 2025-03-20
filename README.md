@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[ci] more precise regex for renovate images detection](https://github.com/prometheus-community/helm-charts/pull/5461) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[renovate] Exclude images references with values.](https://github.com/prometheus-community/helm-charts/pull/5457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [chore: Add quay.io readme](https://github.com/prometheus-community/windows_exporter/pull/1946) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Update question issue template](https://github.com/prometheus-community/windows_exporter/pull/1945) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] added post-upgrade hooks for renovate](https://github.com/prometheus-community/helm-charts/pull/5425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [Add support for OIDC client credentials](https://github.com/jkroepke/openvpn-auth-oauth2/pull/439) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [[ci] use own renovate helper app to bump chart versions](https://github.com/prometheus-community/helm-charts/pull/5423) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [WIP: Add override username functionality.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/437) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
