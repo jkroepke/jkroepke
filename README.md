@@ -22,7 +22,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
@@ -35,7 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.1.0), today) - Prometheus community Helm charts
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.1), today) - Terraform provider for Hetzner DNS
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-9.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-9.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.19](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.19), 1 day ago) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.4](https://github.com/prometheus/prometheus/releases/tag/v2.53.4), 2 days ago) - The Prometheus monitoring system and time series database.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 5 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -44,10 +45,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.274.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.274.0), 6 days ago) - A Go SDK for building backend plugins for Grafana
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.1](https://github.com/zitadel/oidc/releases/tag/v3.36.1), 6 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.4](https://github.com/grafana/alloy/releases/tag/v1.7.4), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus/common](https://github.com/prometheus/common) ([v0.63.0](https://github.com/prometheus/common/releases/tag/v0.63.0), 1 week ago) - Go libraries shared across Prometheus components and libraries.
 
 #### 🔨 My recent Pull Requests
 
+- [[renovate] Exclude images references with values.](https://github.com/prometheus-community/helm-charts/pull/5457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [chore: Add quay.io readme](https://github.com/prometheus-community/windows_exporter/pull/1946) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Update question issue template](https://github.com/prometheus-community/windows_exporter/pull/1945) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[CI] Enable renovate for all charts](https://github.com/prometheus-community/helm-charts/pull/5437) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add support for OIDC client credentials](https://github.com/jkroepke/openvpn-auth-oauth2/pull/439) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [[ci] use own renovate helper app to bump chart versions](https://github.com/prometheus-community/helm-charts/pull/5423) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [WIP: Add override username functionality.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/437) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/436) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
