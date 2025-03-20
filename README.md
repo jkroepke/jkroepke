@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Add quay.io readme](https://github.com/prometheus-community/windows_exporter/pull/1946) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Update question issue template](https://github.com/prometheus-community/windows_exporter/pull/1945) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[CI] Enable renovate for all charts](https://github.com/prometheus-community/helm-charts/pull/5437) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[kube-prometheus-stack] install jb command inside renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5434) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] use own renovate helper app to bump chart versions](https://github.com/prometheus-community/helm-charts/pull/5423) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [WIP: Add override username functionality.](https://github.com/jkroepke/openvpn-auth-oauth2/pull/437) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/436) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [fix: tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/435) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
