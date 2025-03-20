@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.10](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.10), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.5](https://github.com/grafana/alloy/releases/tag/v1.7.5), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.4](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.31.0), today) - Prometheus community Helm charts
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.5), 5 days ago) - Prometheus exporter for Windows machines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.6](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.6), 6 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.274.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.274.0), 6 days ago) - A Go SDK for building backend plugins for Grafana
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.36.1](https://github.com/zitadel/oidc/releases/tag/v3.36.1), 6 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
