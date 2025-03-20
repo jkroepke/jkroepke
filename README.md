@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.6.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.10](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.10), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.5](https://github.com/grafana/alloy/releases/tag/v1.7.5), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.4](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.4), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.31.0), today) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.1), today) - Terraform provider for Hetzner DNS
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v2.53.4](https://github.com/prometheus/prometheus/releases/tag/v2.53.4), 2 days ago) - The Prometheus monitoring system and time series database.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.16.1), 5 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
