@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] add renovate version hint](https://github.com/prometheus-community/helm-charts/pull/5465) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[ci] Set automatic schedule and remove manually approve](https://github.com/prometheus-community/helm-charts/pull/5463) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Implement APT release process](https://github.com/jkroepke/openvpn-auth-oauth2/pull/445) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [[ci] more precise regex for renovate images detection](https://github.com/prometheus-community/helm-charts/pull/5461) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[CI] Enable renovate for all charts](https://github.com/prometheus-community/helm-charts/pull/5437) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] install jb command inside renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5434) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] add renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5427) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[ci] added post-upgrade hooks for renovate](https://github.com/prometheus-community/helm-charts/pull/5425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
