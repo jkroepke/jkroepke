@@ -22,9 +22,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/modern-developer-platform](https://github.com/jkroepke/modern-developer-platform) - A demo for a Kubernetes based developer platform (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (1 week ago)
@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[ci] Set automatic schedule and remove manually approve](https://github.com/prometheus-community/helm-charts/pull/5463) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Implement APT release process](https://github.com/jkroepke/openvpn-auth-oauth2/pull/445) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [[ci] more precise regex for renovate images detection](https://github.com/prometheus-community/helm-charts/pull/5461) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[renovate] Exclude images references with values.](https://github.com/prometheus-community/helm-charts/pull/5457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[kube-prometheus-stack] install jb command inside renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5434) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[kube-prometheus-stack] add renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5427) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[ci] added post-upgrade hooks for renovate](https://github.com/prometheus-community/helm-charts/pull/5425) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [Add support for OIDC client credentials](https://github.com/jkroepke/openvpn-auth-oauth2/pull/439) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
