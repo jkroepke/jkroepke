@@ -35,16 +35,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.7](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.7), today) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.0), today) - 
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.1.1](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.1.1), 1 day ago) - See expire date from certificates inside kubernetes secrets.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.7.0), 2 days ago) - Prometheus community Helm charts
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.4](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.4), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.2), 2 days ago) - Find secrets with Gitleaks 🔑
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.30), 2 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.24.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.24.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.11](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.11), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.5](https://github.com/grafana/alloy/releases/tag/v1.7.5), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.1](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.1), 4 days ago) - Terraform provider for Hetzner DNS
 
 #### 🔨 My recent Pull Requests
 
