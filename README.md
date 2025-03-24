@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-rc.0), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.7](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.7), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.0), today) - 
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.1.1](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.1.1), 1 day ago) - See expire date from certificates inside kubernetes secrets.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.7.0), 2 days ago) - Prometheus community Helm charts
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.4](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.4), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
