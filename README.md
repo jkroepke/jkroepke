@@ -22,9 +22,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/modern-developer-platform](https://github.com/jkroepke/modern-developer-platform) - A demo for a Kubernetes based developer platform (4 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.16.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-rc.0), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.7](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.7), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.1.1](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.1.1), 1 day ago) - See expire date from certificates inside kubernetes secrets.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.7.0), 2 days ago) - Prometheus community Helm charts
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.4](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.4), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.2), 2 days ago) - Find secrets with Gitleaks 🔑
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.24.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.24.0), 3 days ago) - Terraform provider for Azure Resource Manager
