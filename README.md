@@ -35,6 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.37.0](https://github.com/zitadel/oidc/releases/tag/v3.37.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc4](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc4), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.16.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.7.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.7.0-rc.0), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.7](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.7), today) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -43,8 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.2), 2 days ago) - Find secrets with Gitleaks 🔑
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.24.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.24.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 3 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.22.11](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.22.11), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.7.5](https://github.com/grafana/alloy/releases/tag/v1.7.5), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
