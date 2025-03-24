@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[alertmanager-snmp-notifier] deprecate chart](https://github.com/prometheus-community/helm-charts/pull/5476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [fix: release](https://github.com/jkroepke/lens-extension-certificate-info/pull/11) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 day ago)
 - [[prometheus] add renovate version hint](https://github.com/prometheus-community/helm-charts/pull/5465) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[ci] Set automatic schedule and remove manually approve](https://github.com/prometheus-community/helm-charts/pull/5463) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: Add quay.io readme](https://github.com/prometheus-community/windows_exporter/pull/1946) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [chore: Update question issue template](https://github.com/prometheus-community/windows_exporter/pull/1945) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [[CI] Enable renovate for all charts](https://github.com/prometheus-community/helm-charts/pull/5437) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[kube-prometheus-stack] install jb command inside renovate-post-upgrade-hook.sh](https://github.com/prometheus-community/helm-charts/pull/5434) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
