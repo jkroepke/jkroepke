@@ -35,7 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.7.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.2.0), today) - Prometheus community Helm charts
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.3](https://github.com/grafana/grafana/releases/tag/v11.4.3), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.19.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.19.0), today) - 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.2.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.2.0), today) - Microsoft 365 prometheus exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.37.0](https://github.com/zitadel/oidc/releases/tag/v3.37.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.1.1](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.1.1), 2 days ago) - See expire date from certificates inside kubernetes secrets.
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.4](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.4), 3 days ago) - The toolkit to pack, ship, store, and deliver container content
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.2), 3 days ago) - Find secrets with Gitleaks 🔑
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.24.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.24.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
