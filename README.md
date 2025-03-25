@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.19.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.19.0), today) - 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.2.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.2.0), today) - Microsoft 365 prometheus exporter
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.0-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.0-beta.1), 1 day ago) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.37.0](https://github.com/zitadel/oidc/releases/tag/v3.37.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc4](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc4), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.7](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.7), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
