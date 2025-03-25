@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.2.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.2.0), today) - Microsoft 365 prometheus exporter
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-systemd-exporter-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-systemd-exporter-0.5.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.0-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.0-beta.1), 1 day ago) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.37.0](https://github.com/zitadel/oidc/releases/tag/v3.37.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0-rc.4](https://github.com/distribution/distribution/releases/tag/v3.0.0-rc.4), 3 days ago) - The toolkit to pack, ship, store, and deliver container content
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.2), 3 days ago) - Find secrets with Gitleaks 🔑
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.24.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.24.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.0), 4 days ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 
 #### 🔨 My recent Pull Requests
 
