@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.29.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.29.0), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.3.0-rc.0), today) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.8), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.3.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.1-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.1-beta.1), today) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.3](https://github.com/grafana/grafana/releases/tag/v11.4.3), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.2.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.2.0), 1 day ago) - Microsoft 365 prometheus exporter
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.37.0](https://github.com/zitadel/oidc/releases/tag/v3.37.0), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
