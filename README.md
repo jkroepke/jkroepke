@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [service: fix windows.EnumServicesStatusEx reports buffer too small](https://github.com/prometheus-community/windows_exporter/pull/1954) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[alertmanager-snmp-notifier] deprecate chart](https://github.com/prometheus-community/helm-charts/pull/5476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [fix: release](https://github.com/jkroepke/lens-extension-certificate-info/pull/11) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (3 days ago)
 - [[prometheus] add renovate version hint](https://github.com/prometheus-community/helm-charts/pull/5465) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[renovate] Exclude images references with values.](https://github.com/prometheus-community/helm-charts/pull/5457) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [chore: Add quay.io readme](https://github.com/prometheus-community/windows_exporter/pull/1946) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [chore: Update question issue template](https://github.com/prometheus-community/windows_exporter/pull/1945) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [[CI] Enable renovate for all charts](https://github.com/prometheus-community/helm-charts/pull/5437) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
