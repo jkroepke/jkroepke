@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1664 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1665 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 242 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 3 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -48,6 +48,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [logon: expose logoff metric](https://github.com/prometheus-community/windows_exporter/pull/1957) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [logon: expose logoff metric](https://github.com/jkroepke/windows_exporter/pull/2) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
 - [net: expose operation status of nic](https://github.com/prometheus-community/windows_exporter/pull/1956) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[prometheus-windows-exporter] Add renovate hint](https://github.com/prometheus-community/helm-charts/pull/5485) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[admin] add deprecate and remove chart process](https://github.com/prometheus-community/helm-charts/pull/5484) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: release](https://github.com/jkroepke/lens-extension-certificate-info/pull/11) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (5 days ago)
 - [[prometheus] add renovate version hint](https://github.com/prometheus-community/helm-charts/pull/5465) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [[ci] Set automatic schedule and remove manually approve](https://github.com/prometheus-community/helm-charts/pull/5463) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [Implement APT release process](https://github.com/jkroepke/openvpn-auth-oauth2/pull/445) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [[ci] more precise regex for renovate images detection](https://github.com/prometheus-community/helm-charts/pull/5461) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
