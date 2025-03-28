@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.25.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.25.0), today) - Terraform provider for Azure Resource Manager
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.61.0](https://github.com/aquasecurity/trivy/releases/tag/v0.61.0), today) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.335](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.335), 1 day ago) - 
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.0.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.0.0), 1 day ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.3.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.8), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.3](https://github.com/grafana/grafana/releases/tag/v11.4.3), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.2.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.2.0), 3 days ago) - Microsoft 365 prometheus exporter
 
 #### 🔨 My recent Pull Requests
 
