@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Improve tests and reduce deadlocks possibilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/457) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [mssql: support initial non default instances names](https://github.com/prometheus-community/windows_exporter/pull/1958) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [logon: expose logoff metric](https://github.com/prometheus-community/windows_exporter/pull/1957) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [logon: expose logoff metric](https://github.com/jkroepke/windows_exporter/pull/2) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (2 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [service: fix windows.EnumServicesStatusEx reports buffer too small](https://github.com/prometheus-community/windows_exporter/pull/1954) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [[alertmanager-snmp-notifier] deprecate chart](https://github.com/prometheus-community/helm-charts/pull/5476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 - [fix: release](https://github.com/jkroepke/lens-extension-certificate-info/pull/11) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 week ago)
-- [[prometheus] add renovate version hint](https://github.com/prometheus-community/helm-charts/pull/5465) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
