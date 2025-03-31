@@ -20,41 +20,41 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (6 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
 - [jkroepke/modern-developer-platform](https://github.com/jkroepke/modern-developer-platform) - A demo for a Kubernetes based developer platform (1 week ago)
-- [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (2 weeks ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
+- [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (3 weeks ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 weeks ago)
 - [prometheus/alertmanager](https://github.com/prometheus/alertmanager) - Prometheus Alertmanager (3 weeks ago)
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) - cloudeteer's helm chart repositories (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), 2 days ago) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.25.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.25.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.61.0](https://github.com/aquasecurity/trivy/releases/tag/v0.61.0), 2 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.0.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.0.0), 3 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.1.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.1.0), 3 days ago) - cloudeteer's helm chart repositories
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-03-27](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-03-27), 3 days ago) - The STACKIT SDK for Go
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.2), 3 days ago) - Prometheus community Helm charts
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.3.0-rc.0), 4 days ago) - The Prometheus monitoring system and time series database.
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.8), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.3](https://github.com/grafana/grafana/releases/tag/v11.4.3), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.31), 3 days ago) - 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.25.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.25.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ([v0.61.0](https://github.com/aquasecurity/trivy/releases/tag/v0.61.0), 3 days ago) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.0.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.0.0), 4 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.1.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.1.0), 4 days ago) - cloudeteer's helm chart repositories
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-03-27](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-03-27), 4 days ago) - The STACKIT SDK for Go
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.9.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.9.2), 4 days ago) - Prometheus community Helm charts
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.3.0-rc.0), 5 days ago) - The Prometheus monitoring system and time series database.
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.8](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.8), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.3](https://github.com/grafana/grafana/releases/tag/v11.4.3), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
-- [Improve tests and reduce deadlocks possibilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/457) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [mssql: support initial non default instances names](https://github.com/prometheus-community/windows_exporter/pull/1958) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [logon: expose logoff metric](https://github.com/prometheus-community/windows_exporter/pull/1957) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [logon: expose logoff metric](https://github.com/jkroepke/windows_exporter/pull/2) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (2 days ago)
-- [net: expose operation status of nic](https://github.com/prometheus-community/windows_exporter/pull/1956) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [[prometheus-windows-exporter] Add renovate hint](https://github.com/prometheus-community/helm-charts/pull/5485) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[admin] add deprecate and remove chart process](https://github.com/prometheus-community/helm-charts/pull/5484) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [service: fix windows.EnumServicesStatusEx reports buffer too small](https://github.com/prometheus-community/windows_exporter/pull/1954) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [[alertmanager-snmp-notifier] deprecate chart](https://github.com/prometheus-community/helm-charts/pull/5476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [Improve tests and reduce deadlocks possibilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/457) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [mssql: support initial non default instances names](https://github.com/prometheus-community/windows_exporter/pull/1958) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [logon: expose logoff metric](https://github.com/prometheus-community/windows_exporter/pull/1957) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [logon: expose logoff metric](https://github.com/jkroepke/windows_exporter/pull/2) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (3 days ago)
+- [net: expose operation status of nic](https://github.com/prometheus-community/windows_exporter/pull/1956) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [[prometheus-windows-exporter] Add renovate hint](https://github.com/prometheus-community/helm-charts/pull/5485) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[admin] add deprecate and remove chart process](https://github.com/prometheus-community/helm-charts/pull/5484) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [service: fix windows.EnumServicesStatusEx reports buffer too small](https://github.com/prometheus-community/windows_exporter/pull/1954) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [[alertmanager-snmp-notifier] deprecate chart](https://github.com/prometheus-community/helm-charts/pull/5476) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [fix: release](https://github.com/jkroepke/lens-extension-certificate-info/pull/11) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 week ago)
 
 #### ⭐ Recent Stars
