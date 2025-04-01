@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[ci] renovate post upgrade hooks: use local files instead shell variables](https://github.com/prometheus-community/helm-charts/pull/5496) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [make assets directory configurable again](https://github.com/jkroepke/openvpn-auth-oauth2/pull/458) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [memory: fix panics if metrics does not exists](https://github.com/prometheus-community/windows_exporter/pull/1960) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Improve tests and reduce deadlocks possibilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/457) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [net: expose operation status of nic](https://github.com/prometheus-community/windows_exporter/pull/1956) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [[prometheus-windows-exporter] Add renovate hint](https://github.com/prometheus-community/helm-charts/pull/5485) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [[admin] add deprecate and remove chart process](https://github.com/prometheus-community/helm-charts/pull/5484) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [service: fix windows.EnumServicesStatusEx reports buffer too small](https://github.com/prometheus-community/windows_exporter/pull/1954) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
