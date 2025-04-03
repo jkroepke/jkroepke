@@ -33,8 +33,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-0.12.6](https://github.com/grafana/helm-charts/releases/tag/alloy-0.12.6), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.8.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.20.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.20.0), today) - 
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0](https://github.com/distribution/distribution/releases/tag/v3.0.0), today) - The toolkit to pack, ship, store, and deliver container content
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.3), 2 days ago) - Collection of charts used in my projects
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.23.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.23.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
