@@ -1,5 +1,5 @@
 # Jan-Otto Kröpke - @jkroepke
-### Site Reliability Engineer @ [cloudeteer](https://cloudeteer.de/)
+### Cloud Architect 
 
 Hi, welcome to my GitHub profile! 👋
 
