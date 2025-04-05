@@ -33,8 +33,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.22.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.11.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.11.3), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.2), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0](https://github.com/distribution/distribution/releases/tag/v3.0.0), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
