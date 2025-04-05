@@ -20,8 +20,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
@@ -33,10 +33,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.22.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.22.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.11.3](https://github.com/grafana/helm-charts/releases/tag/grafana-8.11.3), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.2), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.8.0), 2 days ago) - Prometheus community Helm charts
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0](https://github.com/distribution/distribution/releases/tag/v3.0.0), 2 days ago) - The toolkit to pack, ship, store, and deliver container content
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.3), 4 days ago) - Collection of charts used in my projects
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.23.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.23.0), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [STACKIT service discovery](https://github.com/prometheus/prometheus/pull/16401) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [Release 0.30.6](https://github.com/prometheus-community/windows_exporter/pull/1977) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/1968) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [system: Metric `windows_system_boot_time_timestamp` returns a UNIX timestamp again.](https://github.com/prometheus-community/windows_exporter/pull/1967) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [memory: fix panics if metrics does not exists](https://github.com/prometheus-community/windows_exporter/pull/1960) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [Improve tests and reduce deadlocks possibilities](https://github.com/jkroepke/openvpn-auth-oauth2/pull/457) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [mssql: support initial non default instances names](https://github.com/prometheus-community/windows_exporter/pull/1958) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [logon: deprecate collector. Use `terminal_services` instead](https://github.com/prometheus-community/windows_exporter/pull/1957) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
