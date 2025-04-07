@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.45.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.45.1), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.6](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.6), 1 day ago) - Prometheus exporter for Windows machines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.0), 2 days ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.2), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
