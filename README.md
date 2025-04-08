@@ -33,13 +33,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.3](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.3), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.337](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.337), today) - 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.1), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.0), today) - Prometheus community Helm charts
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.22.0](https://github.com/prometheus/client_golang/releases/tag/v1.22.0), today) - Prometheus instrumentation library for Go applications
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.3.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.6](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.6), 2 days ago) - Prometheus exporter for Windows machines
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.2), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0](https://github.com/distribution/distribution/releases/tag/v3.0.0), 5 days ago) - The toolkit to pack, ship, store, and deliver container content
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.3), 1 week ago) - Collection of charts used in my projects
