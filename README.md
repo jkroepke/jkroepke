@@ -20,12 +20,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (1 week ago)
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (2 weeks ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
 - [jkroepke/modern-developer-platform](https://github.com/jkroepke/modern-developer-platform) - A demo for a Kubernetes based developer platform (2 weeks ago)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (4 weeks ago)
@@ -33,39 +33,39 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.7.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.1), today) - 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.0), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.6](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.6), 1 day ago) - Prometheus exporter for Windows machines
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.2), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0](https://github.com/distribution/distribution/releases/tag/v3.0.0), 4 days ago) - The toolkit to pack, ship, store, and deliver container content
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.3), 6 days ago) - Collection of charts used in my projects
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.7.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.26.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.26.1), 1 day ago) - 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.0), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.6](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.6), 2 days ago) - Prometheus exporter for Windows machines
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.2), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0](https://github.com/distribution/distribution/releases/tag/v3.0.0), 5 days ago) - The toolkit to pack, ship, store, and deliver container content
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.4.3](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.4.3), 1 week ago) - Collection of charts used in my projects
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.23.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.23.0), 1 week ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.0.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.0.0), 1 week ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Update Copyright](https://github.com/prometheus-community/windows_exporter/pull/1981) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[0.30] support web.listen-addr from CLI](https://github.com/jkroepke/windows_exporter/pull/3) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (2 days ago)
-- [discovery: add STACKIT SD](https://github.com/prometheus/prometheus/pull/16401) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
-- [Release 0.30.6](https://github.com/prometheus-community/windows_exporter/pull/1977) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/1968) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [system: Metric `windows_system_boot_time_timestamp` returns a UNIX timestamp again.](https://github.com/prometheus-community/windows_exporter/pull/1967) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [fix: windows_cpu_processor_utility_total is always 0](https://github.com/prometheus-community/windows_exporter/pull/1966) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [[ci] renovate post upgrade hooks: use local files instead shell variables](https://github.com/prometheus-community/helm-charts/pull/5496) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
+- [chore: Update Copyright](https://github.com/prometheus-community/windows_exporter/pull/1981) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[0.30] support web.listen-addr from CLI](https://github.com/jkroepke/windows_exporter/pull/3) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (3 days ago)
+- [discovery: add STACKIT SD](https://github.com/prometheus/prometheus/pull/16401) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
+- [Release 0.30.6](https://github.com/prometheus-community/windows_exporter/pull/1977) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/1968) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [system: Metric `windows_system_boot_time_timestamp` returns a UNIX timestamp again.](https://github.com/prometheus-community/windows_exporter/pull/1967) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [fix: windows_cpu_processor_utility_total is always 0](https://github.com/prometheus-community/windows_exporter/pull/1966) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [[ci] renovate post upgrade hooks: use local files instead shell variables](https://github.com/prometheus-community/helm-charts/pull/5496) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [make assets directory configurable again](https://github.com/jkroepke/openvpn-auth-oauth2/pull/458) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [memory: fix panics if metrics does not exists](https://github.com/prometheus-community/windows_exporter/pull/1960) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (4 weeks ago)
+- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (1 month ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (2 months ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (2 months ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (2 months ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (2 months ago)
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label (2 months ago)
-- [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (2 months ago)
+- [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (3 months ago)
 - [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (3 months ago)
 - [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (3 months ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (3 months ago)
