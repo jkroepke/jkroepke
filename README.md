@@ -20,9 +20,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (2 weeks ago)
@@ -33,7 +33,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.35.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.35.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.11.4](https://github.com/grafana/helm-charts/releases/tag/grafana-8.11.4), today) - 
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-09), today) - The STACKIT SDK for Go
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.0), today) - Collection of charts used in my projects
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.3](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.3), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.1), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.3.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.6](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.6), 3 days ago) - Prometheus exporter for Windows machines
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [distribution/distribution](https://github.com/distribution/distribution) ([v3.0.0](https://github.com/distribution/distribution/releases/tag/v3.0.0), 6 days ago) - The toolkit to pack, ship, store, and deliver container content
 
 #### 🔨 My recent Pull Requests
 
