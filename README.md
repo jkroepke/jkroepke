@@ -33,10 +33,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.3](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.3), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.0), today) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0](https://github.com/grafana/alloy/releases/tag/v1.8.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-09), today) - The STACKIT SDK for Go
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.0), today) - Collection of charts used in my projects
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0-rc.3](https://github.com/grafana/alloy/releases/tag/v1.8.0-rc.3), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.1), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.22.0](https://github.com/prometheus/client_golang/releases/tag/v1.22.0), 1 day ago) - Prometheus instrumentation library for Go applications
