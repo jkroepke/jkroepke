@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.31.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.31.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.32.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0](https://github.com/grafana/alloy/releases/tag/v1.8.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-09), today) - The STACKIT SDK for Go
