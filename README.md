@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.9), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.32.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0](https://github.com/grafana/alloy/releases/tag/v1.8.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
@@ -42,10 +43,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.22.0](https://github.com/prometheus/client_golang/releases/tag/v1.22.0), 2 days ago) - Prometheus instrumentation library for Go applications
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.3.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.6](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.6), 4 days ago) - Prometheus exporter for Windows machines
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.26.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.26.0), 6 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
+- [docs: fix checkout url in README](https://github.com/TOA-Anakin/udemy-transcript-downloader/pull/2) on [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) (today)
 - [chore: Update Copyright](https://github.com/prometheus-community/windows_exporter/pull/1981) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [[0.30] support web.listen-addr from CLI](https://github.com/jkroepke/windows_exporter/pull/3) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (5 days ago)
 - [discovery: add STACKIT SD](https://github.com/prometheus/prometheus/pull/16401) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (5 days ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: windows_cpu_processor_utility_total is always 0](https://github.com/prometheus-community/windows_exporter/pull/1966) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [[ci] renovate post upgrade hooks: use local files instead shell variables](https://github.com/prometheus-community/helm-charts/pull/5496) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [make assets directory configurable again](https://github.com/jkroepke/openvpn-auth-oauth2/pull/458) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [memory: fix panics if metrics does not exists](https://github.com/prometheus-community/windows_exporter/pull/1960) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
