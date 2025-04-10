@@ -33,9 +33,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.17.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.17.1), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.9), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.32.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.0](https://github.com/grafana/alloy/releases/tag/v1.8.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-09), 1 day ago) - The STACKIT SDK for Go
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.0), 1 day ago) - Collection of charts used in my projects
@@ -59,6 +59,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (today)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (1 month ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (2 months ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (2 months ago)
@@ -68,7 +69,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (3 months ago)
 - [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (3 months ago)
 - [wayfair-incubator/telefonistka](https://github.com/wayfair-incubator/telefonistka) - Safe and Controlled GitOps Promotion Across Environments/Failure-Domains (3 months ago)
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
