@@ -20,11 +20,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (2 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (2 weeks ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 weeks ago)
@@ -33,33 +33,33 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.276.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.276.0), today) - A Go SDK for building backend plugins for Grafana
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.3), today) - Find secrets with Gitleaks 🔑
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), today) - Prometheus community Helm charts
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.1), today) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.1), today) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.1](https://github.com/grafana/alloy/releases/tag/v1.8.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.9), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-09), 2 days ago) - The STACKIT SDK for Go
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.0), 2 days ago) - Collection of charts used in my projects
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.1), 3 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.276.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.276.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.3), 1 day ago) - Find secrets with Gitleaks 🔑
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), 1 day ago) - Prometheus community Helm charts
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.1), 1 day ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.1), 1 day ago) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.1](https://github.com/grafana/alloy/releases/tag/v1.8.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.9), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-09), 3 days ago) - The STACKIT SDK for Go
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.0), 3 days ago) - Collection of charts used in my projects
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.1), 4 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
-- [exchange: fix The specified counter could not be found](https://github.com/prometheus-community/windows_exporter/pull/1994) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix race condition in pass-through client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/469) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Update config.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/464) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [docs: fix checkout url in README](https://github.com/TOA-Anakin/udemy-transcript-downloader/pull/2) on [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) (1 day ago)
-- [chore: Update Copyright](https://github.com/prometheus-community/windows_exporter/pull/1981) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [[0.30] support web.listen-addr from CLI](https://github.com/jkroepke/windows_exporter/pull/3) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (6 days ago)
-- [discovery: add STACKIT SD](https://github.com/prometheus/prometheus/pull/16401) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (6 days ago)
+- [exchange: fix The specified counter could not be found](https://github.com/prometheus-community/windows_exporter/pull/1994) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [fix race condition in pass-through client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/469) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [Update config.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/464) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [docs: fix checkout url in README](https://github.com/TOA-Anakin/udemy-transcript-downloader/pull/2) on [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) (2 days ago)
+- [chore: Update Copyright](https://github.com/prometheus-community/windows_exporter/pull/1981) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [[0.30] support web.listen-addr from CLI](https://github.com/jkroepke/windows_exporter/pull/3) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (1 week ago)
+- [discovery: add STACKIT SD](https://github.com/prometheus/prometheus/pull/16401) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [Release 0.30.6](https://github.com/prometheus-community/windows_exporter/pull/1977) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/1968) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [system: Metric `windows_system_boot_time_timestamp` returns a UNIX timestamp again.](https://github.com/prometheus-community/windows_exporter/pull/1967) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 day ago)
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (2 days ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (1 month ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (2 months ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (2 months ago)
