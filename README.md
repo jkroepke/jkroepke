@@ -20,10 +20,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (2 weeks ago)
@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.1](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.27.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.27.0), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.276.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.276.0), 3 days ago) - A Go SDK for building backend plugins for Grafana
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.3), 3 days ago) - Find secrets with Gitleaks 🔑
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), 3 days ago) - Prometheus community Helm charts
