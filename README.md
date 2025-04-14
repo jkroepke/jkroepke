@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.12.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.12.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.37.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.37.0), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.276.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.276.0), 3 days ago) - A Go SDK for building backend plugins for Grafana
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.3), 3 days ago) - Find secrets with Gitleaks 🔑
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-19.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-19.1.0), 3 days ago) - Prometheus community Helm charts
