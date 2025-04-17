@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.2), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.7.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.12.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.12.1), 1 day ago) - 
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.7](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.7), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.1](https://github.com/grafana/alloy/releases/tag/v1.8.1), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.9](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.9), 1 week ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-09), 1 week ago) - The STACKIT SDK for Go
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.0](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.0), 1 week ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
 
