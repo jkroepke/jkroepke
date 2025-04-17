@@ -33,9 +33,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.27.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.27.1), today) - 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.2), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.7.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.12.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.12.1), 1 day ago) - 
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.7](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.7), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.277.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.277.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.3), 6 days ago) - Find secrets with Gitleaks 🔑
