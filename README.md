@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.5](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.38.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.38.1), today) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc5](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc5), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.2), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-70.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-70.7.0), today) - Prometheus community Helm charts
