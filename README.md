@@ -21,10 +21,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (5 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (3 weeks ago)
@@ -33,8 +33,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.25](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.25), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.6), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.10.0), today) - Prometheus community Helm charts
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc5](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc5), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.2), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.7](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.7), 2 days ago) - A Grafana plugin app to create PDF reports of dashboards
