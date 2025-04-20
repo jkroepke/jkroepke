@@ -33,8 +33,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.23.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.23.0), today) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.2), today) - Terraform provider for Hetzner DNS
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.11.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0](https://github.com/prometheus/prometheus/releases/tag/v3.3.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.6), 2 days ago) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc5](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc5), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
@@ -47,7 +47,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 🔨 My recent Pull Requests
 
 - [MAINTAINERS: add Jan-Otto Kröpke as an discovery/azure maintainer](https://github.com/prometheus/prometheus/pull/16460) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
-- [chore: add loader for fs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/483) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [chore: refactor config](https://github.com/jkroepke/openvpn-auth-oauth2/pull/483) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [feat: Add reload command for systemd](https://github.com/jkroepke/openvpn-auth-oauth2/pull/482) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [feat(http_config): support JWT token auth as alternative to client secret (RFC 7523 3.1)](https://github.com/prometheus/common/pull/781) on [prometheus/common](https://github.com/prometheus/common) (4 days ago)
 - [docs: remove config.file.insecure-skip-verify](https://github.com/prometheus-community/windows_exporter/pull/1997) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
