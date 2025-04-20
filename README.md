@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.2), today) - Terraform provider for Hetzner DNS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.11.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0](https://github.com/prometheus/prometheus/releases/tag/v3.3.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.15.6](https://github.com/grafana/helm-charts/releases/tag/oncall-1.15.6), 2 days ago) - 
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.277.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.277.0), 4 days ago) - A Go SDK for building backend plugins for Grafana
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.3), 1 week ago) - Find secrets with Gitleaks 🔑
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.16.1](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.16.1), 1 week ago) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.1](https://github.com/grafana/alloy/releases/tag/v1.8.1), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
