@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.2](https://github.com/grafana/alloy/releases/tag/v1.8.2), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.6](https://github.com/grafana/grafana/releases/tag/v11.3.6), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.1.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.2](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.2), 1 day ago) - 
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.2.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.2.2), 6 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.7](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.7), 1 week ago) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.277.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.277.0), 1 week ago) - A Go SDK for building backend plugins for Grafana
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.24.3](https://github.com/gitleaks/gitleaks/releases/tag/v8.24.3), 1 week ago) - Find secrets with Gitleaks 🔑
 
 #### 🔨 My recent Pull Requests
 
