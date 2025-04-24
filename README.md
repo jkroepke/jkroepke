@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1716 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1717 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 249 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Remove copyright dates](https://github.com/prometheus-community/windows_exporter/pull/2010) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: Support running as Windows Service within containers [0.30.x]](https://github.com/prometheus-community/windows_exporter/pull/2009) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [service: fix inconsistent values for windows_service_start_mode](https://github.com/prometheus-community/windows_exporter/pull/2007) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [MAINTAINERS: add Jan-Otto Kröpke as an discovery/azure maintainer](https://github.com/prometheus/prometheus/pull/16460) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (5 days ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [docs: remove config.file.insecure-skip-verify](https://github.com/prometheus-community/windows_exporter/pull/1997) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Fix Cannot read properties of null](https://github.com/TOA-Anakin/udemy-transcript-downloader/pull/6) on [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) (1 week ago)
 - [exchange: fix The specified counter could not be found](https://github.com/prometheus-community/windows_exporter/pull/1994) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [fix race condition in pass-through client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/469) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
