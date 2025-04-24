@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), today) - Microsoft 365 prometheus exporter
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.13.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.13.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-smartctl-exporter-0.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-smartctl-exporter-0.14.0), today) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.1](https://github.com/grafana/grafana/releases/tag/v11.6.1), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -42,10 +43,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0](https://github.com/prometheus/prometheus/releases/tag/v3.3.0), 6 days ago) - The Prometheus monitoring system and time series database.
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc5](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc5), 1 week ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.7.7](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.7.7), 1 week ago) - A Grafana plugin app to create PDF reports of dashboards
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.277.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.277.0), 1 week ago) - A Go SDK for building backend plugins for Grafana
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Add config file validation](https://github.com/prometheus-community/windows_exporter/pull/2011) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Remove copyright dates](https://github.com/prometheus-community/windows_exporter/pull/2010) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: Support running as Windows Service within containers [0.30.x]](https://github.com/prometheus-community/windows_exporter/pull/2009) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [service: fix inconsistent values for windows_service_start_mode](https://github.com/prometheus-community/windows_exporter/pull/2007) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat(http_config): support JWT token auth as alternative to client secret (RFC 7523 3.1)](https://github.com/prometheus/common/pull/781) on [prometheus/common](https://github.com/prometheus/common) (1 week ago)
 - [docs: remove config.file.insecure-skip-verify](https://github.com/prometheus-community/windows_exporter/pull/1997) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Fix Cannot read properties of null](https://github.com/TOA-Anakin/udemy-transcript-downloader/pull/6) on [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) (1 week ago)
-- [exchange: fix The specified counter could not be found](https://github.com/prometheus-community/windows_exporter/pull/1994) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
