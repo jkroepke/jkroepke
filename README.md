@@ -20,16 +20,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (5 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (1 month ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 month ago)
-- [jkroepke/modern-developer-platform](https://github.com/jkroepke/modern-developer-platform) - A demo for a Kubernetes based developer platform (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Support running as Windows Service within containers [0.30.x]](https://github.com/prometheus-community/windows_exporter/pull/2009) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [service: fix inconsistent values for windows_service_start_mode](https://github.com/prometheus-community/windows_exporter/pull/2007) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [MAINTAINERS: add Jan-Otto Kröpke as an discovery/azure maintainer](https://github.com/prometheus/prometheus/pull/16460) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (5 days ago)
 - [chore: refactor config](https://github.com/jkroepke/openvpn-auth-oauth2/pull/483) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix Cannot read properties of null](https://github.com/TOA-Anakin/udemy-transcript-downloader/pull/6) on [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) (1 week ago)
 - [exchange: fix The specified counter could not be found](https://github.com/prometheus-community/windows_exporter/pull/1994) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [fix race condition in pass-through client](https://github.com/jkroepke/openvpn-auth-oauth2/pull/469) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [Update config.yaml](https://github.com/jkroepke/openvpn-auth-oauth2/pull/464) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
 
 #### ⭐ Recent Stars
 
