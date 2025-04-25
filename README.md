@@ -33,10 +33,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.6.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.5-beta.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.5-beta.1), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.45.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.45.3), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), today) - Terraform provider for Azure Resource Manager
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 1 day ago) - Microsoft 365 prometheus exporter
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.13.1](https://github.com/grafana/helm-charts/releases/tag/grafana-8.13.1), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.1](https://github.com/grafana/grafana/releases/tag/v11.6.1), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.1), 2 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.2](https://github.com/grafana/alloy/releases/tag/v1.8.2), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
