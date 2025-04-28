@@ -20,10 +20,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (2 weeks ago)
@@ -33,25 +33,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6-beta.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6-beta.4), 1 day ago) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 3 days ago) - Microsoft 365 prometheus exporter
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.1](https://github.com/grafana/grafana/releases/tag/v11.6.1), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.1), 4 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.2](https://github.com/grafana/alloy/releases/tag/v1.8.2), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6-beta.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6-beta.4), 2 days ago) - 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 4 days ago) - Microsoft 365 prometheus exporter
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.1](https://github.com/grafana/grafana/releases/tag/v11.6.1), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.1), 5 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.2](https://github.com/grafana/alloy/releases/tag/v1.8.2), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.2](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.2), 1 week ago) - Terraform provider for Hetzner DNS
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.0](https://github.com/prometheus/prometheus/releases/tag/v3.3.0), 1 week ago) - The Prometheus monitoring system and time series database.
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc5](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc5), 1 week ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 
 #### 🔨 My recent Pull Requests
 
-- [Upgraded npm dependencies pre 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16493) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
-- [feat: Add OpenContainers spec labels to Dockerfile](https://github.com/prometheus/prometheus/pull/16483) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
-- [feat: Add config file validation](https://github.com/prometheus-community/windows_exporter/pull/2011) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [chore: Remove copyright dates](https://github.com/prometheus-community/windows_exporter/pull/2010) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [fix: Support running as Windows Service within containers [0.30.x]](https://github.com/prometheus-community/windows_exporter/pull/2009) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [service: fix inconsistent values for windows_service_start_mode](https://github.com/prometheus-community/windows_exporter/pull/2007) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [Upgraded npm dependencies pre 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16493) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
+- [feat: Add OpenContainers spec labels to Dockerfile](https://github.com/prometheus/prometheus/pull/16483) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
+- [feat: Add config file validation](https://github.com/prometheus-community/windows_exporter/pull/2011) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [chore: Remove copyright dates](https://github.com/prometheus-community/windows_exporter/pull/2010) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [fix: Support running as Windows Service within containers [0.30.x]](https://github.com/prometheus-community/windows_exporter/pull/2009) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [service: fix inconsistent values for windows_service_start_mode](https://github.com/prometheus-community/windows_exporter/pull/2007) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [MAINTAINERS: add Jan-Otto Kröpke as an discovery/azure maintainer](https://github.com/prometheus/prometheus/pull/16460) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [chore: refactor config](https://github.com/jkroepke/openvpn-auth-oauth2/pull/483) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [feat: Add reload command for systemd](https://github.com/jkroepke/openvpn-auth-oauth2/pull/482) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
