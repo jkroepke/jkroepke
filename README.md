@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [WIP: Prepare release 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16517) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [[BUILD] Remove Go toolchain line in internal/tools](https://github.com/prometheus/prometheus/pull/16516) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [Upgraded npm dependencies pre 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16493) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [feat: Add OpenContainers spec labels to Dockerfile](https://github.com/prometheus/prometheus/pull/16483) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [service: fix inconsistent values for windows_service_start_mode](https://github.com/prometheus-community/windows_exporter/pull/2007) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [MAINTAINERS: add Jan-Otto Kröpke as an discovery/azure maintainer](https://github.com/prometheus/prometheus/pull/16460) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [chore: refactor config](https://github.com/jkroepke/openvpn-auth-oauth2/pull/483) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [feat: Add reload command for systemd](https://github.com/jkroepke/openvpn-auth-oauth2/pull/482) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
