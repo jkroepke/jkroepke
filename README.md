@@ -22,8 +22,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (2 weeks ago)
@@ -33,12 +33,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.13.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.13.2), today) - 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.25.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.25.0), today) - Find secrets with Gitleaks 🔑
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.11](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.11), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-20.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-20.0.0), today) - Prometheus community Helm charts
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.1.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.1.0), 1 day ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.0), 1 day ago) - cloudeteer's helm chart repositories
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6-beta.4](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6-beta.4), 3 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 5 days ago) - Microsoft 365 prometheus exporter
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.1](https://github.com/grafana/grafana/releases/tag/v11.6.1), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
@@ -46,7 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [WIP: Prepare release 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16517) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
+- [Prepare release 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16517) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [[BUILD] Remove Go toolchain line in internal/tools](https://github.com/prometheus/prometheus/pull/16516) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [Upgraded npm dependencies pre 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16493) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [feat: Add OpenContainers spec labels to Dockerfile](https://github.com/prometheus/prometheus/pull/16483) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
