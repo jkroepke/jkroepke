@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-71.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-71.0.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-20.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-20.0.0), today) - Prometheus community Helm charts
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.1.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.1.0), 1 day ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.10](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.10), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.0), 1 day ago) - cloudeteer's helm chart repositories
@@ -72,11 +72,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [ForcemCS](https://github.com/ForcemCS)
 - [h3adex](https://github.com/h3adex)
 - [1a11](https://github.com/1a11)
 - [hbakir](https://github.com/hbakir)
 - [a-mnich](https://github.com/a-mnich)
-- [roxit](https://github.com/roxit)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
