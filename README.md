@@ -21,10 +21,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 weeks ago)
@@ -46,6 +46,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix cygwin tests](https://github.com/jkroepke/helm-secrets/pull/510) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
+- [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [Add FAQ for auth limit retries](https://github.com/jkroepke/openvpn-auth-oauth2/pull/485) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix config load via env variables](https://github.com/jkroepke/openvpn-auth-oauth2/pull/484) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Prepare release 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16517) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
@@ -54,8 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: Add OpenContainers spec labels to Dockerfile](https://github.com/prometheus/prometheus/pull/16483) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (5 days ago)
 - [feat: Add config file validation](https://github.com/prometheus-community/windows_exporter/pull/2011) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [chore: Remove copyright dates](https://github.com/prometheus-community/windows_exporter/pull/2010) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [fix: Support running as Windows Service within containers [0.30.x]](https://github.com/prometheus-community/windows_exporter/pull/2009) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [service: fix inconsistent values for windows_service_start_mode](https://github.com/prometheus-community/windows_exporter/pull/2007) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
