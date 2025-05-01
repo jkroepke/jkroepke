@@ -21,11 +21,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 weeks ago)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (1 month ago)
@@ -33,37 +33,37 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.28.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.28.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.24.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.24.1), today) - Prometheus community Helm charts
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.25.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.25.1), today) - Find secrets with Gitleaks 🔑
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.12](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.12), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-30](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-30), today) - The STACKIT SDK for Go
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.1.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.1.0), 2 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.0), 2 days ago) - cloudeteer's helm chart repositories
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 6 days ago) - Microsoft 365 prometheus exporter
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.28.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.28.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.24.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.24.1), 1 day ago) - Prometheus community Helm charts
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.25.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.25.1), 1 day ago) - Find secrets with Gitleaks 🔑
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.12](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.12), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-30](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-30), 1 day ago) - The STACKIT SDK for Go
+- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.1.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.1.0), 3 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.0), 3 days ago) - cloudeteer's helm chart repositories
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 1 week ago) - Microsoft 365 prometheus exporter
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.1](https://github.com/grafana/grafana/releases/tag/v11.6.1), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
-- [Add locking to prevent deadlocks](https://github.com/jkroepke/openvpn-auth-oauth2/pull/490) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [fix cygwin tests](https://github.com/jkroepke/helm-secrets/pull/510) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [Add FAQ for auth limit retries](https://github.com/jkroepke/openvpn-auth-oauth2/pull/485) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [fix config load via env variables](https://github.com/jkroepke/openvpn-auth-oauth2/pull/484) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Prepare release 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16517) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
-- [[BUILD] Remove Go toolchain line in internal/tools](https://github.com/prometheus/prometheus/pull/16516) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
-- [Upgraded npm dependencies pre 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16493) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
-- [feat: Add OpenContainers spec labels to Dockerfile](https://github.com/prometheus/prometheus/pull/16483) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (5 days ago)
-- [feat: Add config file validation](https://github.com/prometheus-community/windows_exporter/pull/2011) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [Add locking to prevent deadlocks](https://github.com/jkroepke/openvpn-auth-oauth2/pull/490) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [fix cygwin tests](https://github.com/jkroepke/helm-secrets/pull/510) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [Add FAQ for auth limit retries](https://github.com/jkroepke/openvpn-auth-oauth2/pull/485) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [fix config load via env variables](https://github.com/jkroepke/openvpn-auth-oauth2/pull/484) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Prepare release 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16517) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
+- [[BUILD] Remove Go toolchain line in internal/tools](https://github.com/prometheus/prometheus/pull/16516) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
+- [Upgraded npm dependencies pre 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16493) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
+- [feat: Add OpenContainers spec labels to Dockerfile](https://github.com/prometheus/prometheus/pull/16483) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (6 days ago)
+- [feat: Add config file validation](https://github.com/prometheus-community/windows_exporter/pull/2011) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (2 weeks ago)
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 weeks ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (1 month ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (2 months ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (2 months ago)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (2 months ago)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (3 months ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 months ago)
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label (3 months ago)
 - [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (3 months ago)
