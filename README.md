@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.3.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-0.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-0.5.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.6](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.6), today) - 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.2.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.2.0), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1](https://github.com/jkroepke/setup-sops/releases/tag/v1), today) - Github Action for installing vals (https://github.com/getsops/sops)
