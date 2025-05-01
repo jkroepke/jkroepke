@@ -21,15 +21,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) -  (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (2 weeks ago)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (1 month ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 month ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -46,6 +46,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [modernize sops action](https://github.com/jkroepke/setup-sops/pull/2) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
+- [modernize sops](https://github.com/jkroepke/mozilla-sops-action/pull/1) on [jkroepke/mozilla-sops-action](https://github.com/jkroepke/mozilla-sops-action) (today)
 - [Add locking to prevent deadlocks](https://github.com/jkroepke/openvpn-auth-oauth2/pull/490) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [fix cygwin tests](https://github.com/jkroepke/helm-secrets/pull/510) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
@@ -54,8 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Prepare release 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16517) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [[BUILD] Remove Go toolchain line in internal/tools](https://github.com/prometheus/prometheus/pull/16516) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [Upgraded npm dependencies pre 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16493) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
-- [feat: Add OpenContainers spec labels to Dockerfile](https://github.com/prometheus/prometheus/pull/16483) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (6 days ago)
-- [feat: Add config file validation](https://github.com/prometheus-community/windows_exporter/pull/2011) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
