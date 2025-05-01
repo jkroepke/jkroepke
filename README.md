@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [refactor](https://github.com/jkroepke/setup-sops/pull/17) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [remove release](https://github.com/jkroepke/setup-sops/pull/16) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [Update REAMDE](https://github.com/jkroepke/setup-sops/pull/15) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [Add FUNDING](https://github.com/jkroepke/setup-sops/pull/12) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix cygwin tests](https://github.com/jkroepke/helm-secrets/pull/510) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Add FAQ for auth limit retries](https://github.com/jkroepke/openvpn-auth-oauth2/pull/485) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [fix config load via env variables](https://github.com/jkroepke/openvpn-auth-oauth2/pull/484) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 
 #### ⭐ Recent Stars
 
