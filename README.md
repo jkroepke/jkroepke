@@ -20,11 +20,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) -  (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1](https://github.com/jkroepke/setup-sops/releases/tag/v1), today) - 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.1), today) - Collection of charts used in my projects
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.28.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.28.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.24.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.24.1), 1 day ago) - Prometheus community Helm charts
@@ -42,10 +43,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.1.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.1.0), 3 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.0), 3 days ago) - cloudeteer's helm chart repositories
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.27.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.27.0), 6 days ago) - Terraform provider for Azure Resource Manager
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.3.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.3.0), 1 week ago) - Microsoft 365 prometheus exporter
 
 #### 🔨 My recent Pull Requests
 
+- [remove release](https://github.com/jkroepke/setup-sops/pull/16) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
+- [Update REAMDE](https://github.com/jkroepke/setup-sops/pull/15) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
+- [Add FUNDING](https://github.com/jkroepke/setup-sops/pull/12) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [modernize sops action](https://github.com/jkroepke/setup-sops/pull/2) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [modernize sops](https://github.com/jkroepke/mozilla-sops-action/pull/1) on [jkroepke/mozilla-sops-action](https://github.com/jkroepke/mozilla-sops-action) (today)
 - [Add locking to prevent deadlocks](https://github.com/jkroepke/openvpn-auth-oauth2/pull/490) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -53,9 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Add FAQ for auth limit retries](https://github.com/jkroepke/openvpn-auth-oauth2/pull/485) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [fix config load via env variables](https://github.com/jkroepke/openvpn-auth-oauth2/pull/484) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Prepare release 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16517) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
-- [[BUILD] Remove Go toolchain line in internal/tools](https://github.com/prometheus/prometheus/pull/16516) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
-- [Upgraded npm dependencies pre 3.4.0-rc.0](https://github.com/prometheus/prometheus/pull/16493) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
 
 #### ⭐ Recent Stars
 
