@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.12.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.46.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.46.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.5](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.5), today) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.4](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.4), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.2.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.2.0), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
