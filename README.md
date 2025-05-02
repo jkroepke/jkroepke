@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc6](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc6), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0-rc.0), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-71.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-71.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.14.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.14.2), today) - 
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.1), 1 day ago) - Collection of charts used in my projects
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.25.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.25.1), 2 days ago) - Find secrets with Gitleaks 🔑
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.12](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.12), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-30](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-30), 2 days ago) - The STACKIT SDK for Go
 
 #### 🔨 My recent Pull Requests
 
@@ -72,11 +72,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [WhitneyLampkin](https://github.com/WhitneyLampkin)
 - [asherf](https://github.com/asherf)
 - [feisuhei](https://github.com/feisuhei)
 - [ForcemCS](https://github.com/ForcemCS)
 - [h3adex](https://github.com/h3adex)
-- [1a11](https://github.com/1a11)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
