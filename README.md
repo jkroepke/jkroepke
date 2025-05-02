@@ -21,10 +21,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 day ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 day ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 days ago)
@@ -33,8 +33,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.14.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.14.2), today) - 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.3.1](https://github.com/prometheus/prometheus/releases/tag/v3.3.1), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.46.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.46.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([loki-distributed-0.80.5](https://github.com/grafana/helm-charts/releases/tag/loki-distributed-0.80.5), today) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.4](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.4), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.2.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.2.0), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1](https://github.com/jkroepke/setup-sops/releases/tag/v1), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.25.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.25.1), 2 days ago) - Find secrets with Gitleaks 🔑
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.12](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.12), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-30](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-30), 2 days ago) - The STACKIT SDK for Go
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.1.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.1.0), 4 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
