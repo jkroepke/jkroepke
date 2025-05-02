@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.4](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.4), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-71.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-71.1.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.16.0](https://github.com/grafana/helm-charts/releases/tag/oncall-1.16.0), 1 day ago) - 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.2.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.2.0), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.12](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.12), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-04-30](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-04-30), 2 days ago) - The STACKIT SDK for Go
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.1.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.1.0), 4 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.0), 4 days ago) - cloudeteer's helm chart repositories
 
 #### 🔨 My recent Pull Requests
 
