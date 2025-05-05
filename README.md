@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.339+dev.1](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.339%2Bdev.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.339-dev.2](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.339-dev.2), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.3](https://github.com/grafana/alloy/releases/tag/v1.8.3), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.2), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.2), 2 days ago) - Prometheus community Helm charts
