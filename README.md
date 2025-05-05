@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 1724 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 270 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 271 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 61 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
@@ -20,46 +20,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (3 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (3 days ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (4 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (4 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (6 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [TOA-Anakin/udemy-transcript-downloader](https://github.com/TOA-Anakin/udemy-transcript-downloader) - A tool for downloading transcripts from Udemy with Puppeteer (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.2), 1 day ago) - Prometheus community Helm charts
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc6](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc6), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.14.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.14.2), 2 days ago) - 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.4](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.4), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.2.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.2.0), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1](https://github.com/jkroepke/setup-sops/releases/tag/v1), 3 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.1), 3 days ago) - Collection of charts used in my projects
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.25.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.25.1), 4 days ago) - Find secrets with Gitleaks 🔑
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.12](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.12), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.2), 2 days ago) - Prometheus community Helm charts
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc6](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc6), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0-rc.0), 3 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-8.14.2](https://github.com/grafana/helm-charts/releases/tag/grafana-8.14.2), 3 days ago) - 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.4](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.4), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.2.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.2.0), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1](https://github.com/jkroepke/setup-sops/releases/tag/v1), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.1), 4 days ago) - Collection of charts used in my projects
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.25.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.25.1), 5 days ago) - Find secrets with Gitleaks 🔑
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.12](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.12), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [refactor](https://github.com/jkroepke/setup-sops/pull/18) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
-- [refactor](https://github.com/jkroepke/setup-vals/pull/115) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (3 days ago)
-- [refactor](https://github.com/jkroepke/setup-sops/pull/17) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
-- [remove release](https://github.com/jkroepke/setup-sops/pull/16) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
-- [Update REAMDE](https://github.com/jkroepke/setup-sops/pull/15) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
-- [Add FUNDING](https://github.com/jkroepke/setup-sops/pull/12) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
-- [modernize sops action](https://github.com/jkroepke/setup-sops/pull/2) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
-- [Add locking to prevent deadlocks](https://github.com/jkroepke/openvpn-auth-oauth2/pull/490) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [fix cygwin tests](https://github.com/jkroepke/helm-secrets/pull/510) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
-- [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
+- [refactor](https://github.com/jkroepke/setup-sops/pull/18) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
+- [refactor](https://github.com/jkroepke/setup-vals/pull/115) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 days ago)
+- [refactor](https://github.com/jkroepke/setup-sops/pull/17) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
+- [remove release](https://github.com/jkroepke/setup-sops/pull/16) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
+- [Update REAMDE](https://github.com/jkroepke/setup-sops/pull/15) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
+- [Add FUNDING](https://github.com/jkroepke/setup-sops/pull/12) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
+- [modernize sops action](https://github.com/jkroepke/setup-sops/pull/2) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
+- [Add locking to prevent deadlocks](https://github.com/jkroepke/openvpn-auth-oauth2/pull/490) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [fix cygwin tests](https://github.com/jkroepke/helm-secrets/pull/510) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
+- [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 weeks ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (1 month ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (2 months ago)
