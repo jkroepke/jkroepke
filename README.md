@@ -33,6 +33,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.3](https://github.com/grafana/alloy/releases/tag/v1.8.3), today) - OpenTelemetry Collector distribution with programmable pipelines
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.2), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.2), 2 days ago) - Prometheus community Helm charts
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc6](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc6), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0-rc.0), 3 days ago) - The Prometheus monitoring system and time series database.
@@ -41,8 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.2.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.2.0), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1](https://github.com/jkroepke/setup-sops/releases/tag/v1), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([amazon-eks-pod-identity-webhook-2.5.1](https://github.com/jkroepke/helm-charts/releases/tag/amazon-eks-pod-identity-webhook-2.5.1), 4 days ago) - Collection of charts used in my projects
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.25.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.25.1), 5 days ago) - Find secrets with Gitleaks 🔑
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.12](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.12), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
