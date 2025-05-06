@@ -33,8 +33,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.35](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.35), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.0.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.39.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.39.1), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.0](https://github.com/grafana/grafana/releases/tag/v12.0.0), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.3](https://github.com/grafana/alloy/releases/tag/v1.8.3), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.2), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
