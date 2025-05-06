@@ -21,8 +21,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (5 days ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (5 days ago)
@@ -46,6 +46,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Hardening builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/492) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [feat: add CLI flag to disable re-authentication](https://github.com/jkroepke/openvpn-auth-oauth2/pull/491) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [refactor](https://github.com/jkroepke/setup-sops/pull/18) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (5 days ago)
 - [refactor](https://github.com/jkroepke/setup-vals/pull/115) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (5 days ago)
 - [refactor](https://github.com/jkroepke/setup-sops/pull/17) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (5 days ago)
@@ -54,8 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add FUNDING](https://github.com/jkroepke/setup-sops/pull/12) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (5 days ago)
 - [modernize sops action](https://github.com/jkroepke/setup-sops/pull/2) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (5 days ago)
 - [Add locking to prevent deadlocks](https://github.com/jkroepke/openvpn-auth-oauth2/pull/490) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [fix cygwin tests](https://github.com/jkroepke/helm-secrets/pull/510) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
-- [update test dependencies](https://github.com/jkroepke/helm-secrets/pull/507) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 
 #### ⭐ Recent Stars
 
