@@ -20,9 +20,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (6 days ago)
@@ -33,7 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.341](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.341), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.0.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.0.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.12.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.0](https://github.com/grafana/grafana/releases/tag/v12.0.0), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.3](https://github.com/grafana/alloy/releases/tag/v1.8.3), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
