@@ -22,52 +22,52 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (today)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.1.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.3](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.3), today) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.13](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.13), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.0](https://github.com/grafana/grafana/releases/tag/v12.0.0), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.3](https://github.com/grafana/alloy/releases/tag/v1.8.3), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.2), 2 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc6](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc6), 5 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0-rc.0), 5 days ago) - The Prometheus monitoring system and time series database.
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.4](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.4), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.2.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.2.0), 6 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.0.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.0.0), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.1.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.3](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.3), 1 day ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.13](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.13), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.0](https://github.com/grafana/grafana/releases/tag/v12.0.0), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.3](https://github.com/grafana/alloy/releases/tag/v1.8.3), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.2](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.2), 3 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3-rc6](https://github.com/project-zot/zot/releases/tag/v2.1.3-rc6), 6 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0-rc.0), 6 days ago) - The Prometheus monitoring system and time series database.
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.4](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.4), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
-- [initial commit](https://github.com/jkroepke/setup-stackit-cli/pull/2) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
-- [feat: Hardening builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/492) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [feat: add CLI flag to disable re-authentication](https://github.com/jkroepke/openvpn-auth-oauth2/pull/491) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [refactor](https://github.com/jkroepke/setup-sops/pull/18) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (6 days ago)
-- [refactor](https://github.com/jkroepke/setup-vals/pull/115) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (6 days ago)
-- [refactor](https://github.com/jkroepke/setup-sops/pull/17) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (6 days ago)
-- [remove release](https://github.com/jkroepke/setup-sops/pull/16) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (6 days ago)
-- [Update REAMDE](https://github.com/jkroepke/setup-sops/pull/15) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (6 days ago)
-- [Add FUNDING](https://github.com/jkroepke/setup-sops/pull/12) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (6 days ago)
-- [modernize sops action](https://github.com/jkroepke/setup-sops/pull/2) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (6 days ago)
+- [initial commit](https://github.com/jkroepke/setup-stackit-cli/pull/2) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (1 day ago)
+- [feat: Hardening builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/492) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [feat: add CLI flag to disable re-authentication](https://github.com/jkroepke/openvpn-auth-oauth2/pull/491) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [refactor](https://github.com/jkroepke/setup-sops/pull/18) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
+- [refactor](https://github.com/jkroepke/setup-vals/pull/115) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (1 week ago)
+- [refactor](https://github.com/jkroepke/setup-sops/pull/17) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
+- [remove release](https://github.com/jkroepke/setup-sops/pull/16) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
+- [Update REAMDE](https://github.com/jkroepke/setup-sops/pull/15) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
+- [Add FUNDING](https://github.com/jkroepke/setup-sops/pull/12) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
+- [modernize sops action](https://github.com/jkroepke/setup-sops/pull/2) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (3 weeks ago)
-- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (1 month ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
+- [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (4 weeks ago)
+- [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (2 months ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (3 months ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (3 months ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (3 months ago)
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) - Microsoft 365 prometheus exporter (3 months ago)
 - [carvel-dev/kapp](https://github.com/carvel-dev/kapp) - kapp is a simple deployment tool focused on the concept of "Kubernetes application" — a set of resources with the same label (3 months ago)
-- [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (3 months ago)
+- [wube/factorio-data](https://github.com/wube/factorio-data) - Tracks changes of the lua prototype definitions in factorio inbetween releases. (4 months ago)
 - [Xeinaemm/Factorio-Tileable-Factories](https://github.com/Xeinaemm/Factorio-Tileable-Factories) - Book of factories that are as simple and compact as possible to build advanced factories. (4 months ago)
 
 #### 👯 Check out some of my recent followers
