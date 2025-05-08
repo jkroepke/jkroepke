@@ -33,10 +33,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.0.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.0.11), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.7](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.7), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.2.0), today) - Prometheus community Helm charts
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.277.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.277.1), today) - A Go SDK for building backend plugins for Grafana
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.0.10](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.0.10), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.13](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.13), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.0](https://github.com/grafana/grafana/releases/tag/v12.0.0), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.8.3](https://github.com/grafana/alloy/releases/tag/v1.8.3), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: Enable automatic dependency bumps and releases](https://github.com/jkroepke/setup-sops/pull/21) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [chore: fix README](https://github.com/jkroepke/setup-stackit-cli/pull/13) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
 - [fix: release automation](https://github.com/jkroepke/setup-stackit-cli/pull/10) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
 - [fix(release): Changelog Generator](https://github.com/jkroepke/setup-stackit-cli/pull/9) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: add CLI flag to disable re-authentication](https://github.com/jkroepke/openvpn-auth-oauth2/pull/491) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [refactor](https://github.com/jkroepke/setup-sops/pull/18) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
 - [refactor](https://github.com/jkroepke/setup-vals/pull/115) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (1 week ago)
-- [refactor](https://github.com/jkroepke/setup-sops/pull/17) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
 
 #### ⭐ Recent Stars
 
