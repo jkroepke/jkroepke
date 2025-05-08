@@ -46,6 +46,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [core: Add STACKIT CLI Auth flow](https://github.com/stackitcloud/stackit-sdk-go/pull/2179) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (today)
+- [fix panic in auth.TokenExpired](https://github.com/stackitcloud/stackit-cli/pull/736) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (today)
 - [feat: Add automatic releasing](https://github.com/jkroepke/setup-vals/pull/120) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (today)
 - [feat: Enable automatic dependency bumps and releases](https://github.com/jkroepke/setup-sops/pull/21) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [chore: fix README](https://github.com/jkroepke/setup-stackit-cli/pull/13) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
@@ -54,8 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix(release): Changelog Generator](https://github.com/jkroepke/setup-stackit-cli/pull/8) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
 - [initial commit](https://github.com/jkroepke/setup-stackit-cli/pull/2) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (1 day ago)
 - [feat: Hardening builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/492) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [feat: add CLI flag to disable re-authentication](https://github.com/jkroepke/openvpn-auth-oauth2/pull/491) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [refactor](https://github.com/jkroepke/setup-sops/pull/18) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
 
 #### ⭐ Recent Stars
 
