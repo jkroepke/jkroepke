@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 1726 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 286 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 287 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 61 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
@@ -22,8 +22,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (today)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (today)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
@@ -33,11 +33,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.13.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.1), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.1.1](https://github.com/jkroepke/setup-sops/releases/tag/v1.1.1), today) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.0.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.0.11), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.7](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.7), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.2.0), today) - Prometheus community Helm charts
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.277.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.277.1), today) - A Go SDK for building backend plugins for Grafana
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.13](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.13), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.0](https://github.com/grafana/grafana/releases/tag/v12.0.0), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
