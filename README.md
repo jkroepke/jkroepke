@@ -26,14 +26,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 week ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.0.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.0.0), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.0.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.0.4), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.1.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.0.3](https://github.com/grafana/helm-charts/releases/tag/alloy-1.0.3), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.13](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.13), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -46,6 +46,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add templates](https://github.com/jkroepke/setup-stackit-cli/pull/10) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
+- [fix(release): Changelog Generator](https://github.com/jkroepke/setup-stackit-cli/pull/9) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
+- [fix(release): Changelog Generator](https://github.com/jkroepke/setup-stackit-cli/pull/8) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
 - [initial commit](https://github.com/jkroepke/setup-stackit-cli/pull/2) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (1 day ago)
 - [feat: Hardening builds](https://github.com/jkroepke/openvpn-auth-oauth2/pull/492) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [feat: add CLI flag to disable re-authentication](https://github.com/jkroepke/openvpn-auth-oauth2/pull/491) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -53,9 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [refactor](https://github.com/jkroepke/setup-vals/pull/115) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (1 week ago)
 - [refactor](https://github.com/jkroepke/setup-sops/pull/17) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
 - [remove release](https://github.com/jkroepke/setup-sops/pull/16) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
-- [Update REAMDE](https://github.com/jkroepke/setup-sops/pull/15) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
-- [Add FUNDING](https://github.com/jkroepke/setup-sops/pull/12) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
-- [modernize sops action](https://github.com/jkroepke/setup-sops/pull/2) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
 
 #### ⭐ Recent Stars
 
