@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1726 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1727 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 287 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -33,11 +33,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.2), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.28.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.28.0), today) - Terraform provider for Azure Resource Manager
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-05-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-05-09), today) - The STACKIT SDK for Go
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.36](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.36), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.13.0), 1 day ago) - Prometheus community Helm charts
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.1), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.1.1](https://github.com/jkroepke/setup-sops/releases/tag/v1.1.1), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.0.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.0.11), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.277.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.277.1), 1 day ago) - A Go SDK for building backend plugins for Grafana
