@@ -62,6 +62,7 @@ Say Hello, I don't bite!
 are not counted.
 
 [![committers.top badge](https://user-badge.committers.top/germany/jkroepke.svg)](https://user-badge.committers.top/germany/jkroepke)
+[![committers.top badge](https://user-badge.committers.top/germany_public/jkroepke.svg)](https://user-badge.committers.top/germany_public/jkroepke)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jkroepke&count_private=false&theme=tokyonight&show_icons=true)
 
