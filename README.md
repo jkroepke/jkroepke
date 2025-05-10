@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1727 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1728 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 289 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -22,10 +22,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (2 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (2 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
@@ -46,6 +46,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add tests](https://github.com/jkroepke/setup-vals/pull/123) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (today)
+- [chore: add tests](https://github.com/jkroepke/setup-sops/pull/23) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [chore: Add make help command](https://github.com/stackitcloud/stackit-sdk-go/pull/2180) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (2 days ago)
 - [core: Add STACKIT CLI Auth flow](https://github.com/stackitcloud/stackit-sdk-go/pull/2179) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (2 days ago)
 - [fix panic in auth.TokenExpired](https://github.com/stackitcloud/stackit-cli/pull/736) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (2 days ago)
@@ -54,8 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: fix README](https://github.com/jkroepke/setup-stackit-cli/pull/13) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (2 days ago)
 - [fix: release automation](https://github.com/jkroepke/setup-stackit-cli/pull/10) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (2 days ago)
 - [fix(release): Changelog Generator](https://github.com/jkroepke/setup-stackit-cli/pull/9) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (2 days ago)
-- [fix(release): Changelog Generator](https://github.com/jkroepke/setup-stackit-cli/pull/8) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (2 days ago)
-- [initial commit](https://github.com/jkroepke/setup-stackit-cli/pull/2) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (3 days ago)
 
 #### ⭐ Recent Stars
 
