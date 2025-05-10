@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (today)
 - [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (today)
 - [feat: run command at the end](https://github.com/jkroepke/setup-stackit-cli/pull/16) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (today)
 - [chore: add tests](https://github.com/jkroepke/setup-vals/pull/123) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (today)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix panic in auth.TokenExpired](https://github.com/stackitcloud/stackit-cli/pull/736) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (2 days ago)
 - [feat: Add automatic releasing](https://github.com/jkroepke/setup-vals/pull/120) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (2 days ago)
 - [feat: Enable automatic dependency bumps and releases](https://github.com/jkroepke/setup-sops/pull/21) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (2 days ago)
-- [chore: fix README](https://github.com/jkroepke/setup-stackit-cli/pull/13) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (2 days ago)
 
 #### ⭐ Recent Stars
 
