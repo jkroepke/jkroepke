@@ -33,9 +33,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pgbouncer-exporter-0.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pgbouncer-exporter-0.7.1), today) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.0), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.0), today) - Github Action for installing vals (https://github.com/getsops/sops)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.19](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.19), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.13.1](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.13.1), 1 day ago) - 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.2), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.28.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.28.0), 1 day ago) - Terraform provider for Azure Resource Manager
