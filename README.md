@@ -20,16 +20,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (2 days ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (2 days ago)
+- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (2 days ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (today)
 - [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (2 days ago)
 - [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (2 days ago)
 - [feat: run command at the end](https://github.com/jkroepke/setup-stackit-cli/pull/16) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (2 days ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [core: Add STACKIT CLI Auth flow](https://github.com/stackitcloud/stackit-sdk-go/pull/2179) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (4 days ago)
 - [fix panic in auth.TokenExpired](https://github.com/stackitcloud/stackit-cli/pull/736) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (4 days ago)
 - [feat: Add automatic releasing](https://github.com/jkroepke/setup-vals/pull/120) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 days ago)
-- [feat: Enable automatic dependency bumps and releases](https://github.com/jkroepke/setup-sops/pull/21) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
 
 #### ⭐ Recent Stars
 
