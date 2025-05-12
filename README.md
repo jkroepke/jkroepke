@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.26.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.26.0), today) - Find secrets with Gitleaks 🔑
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1-alpha1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1-alpha1), today) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.40.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.40.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.39.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.39.4), today) - 
@@ -42,10 +43,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.28.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.28.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-05-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-05-09), 3 days ago) - The STACKIT SDK for Go
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.277.1](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.277.1), 4 days ago) - A Go SDK for building backend plugins for Grafana
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.13](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.13), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
+- [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (today)
 - [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (today)
 - [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (2 days ago)
 - [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (2 days ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: Add make help command](https://github.com/stackitcloud/stackit-sdk-go/pull/2180) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (4 days ago)
 - [core: Add STACKIT CLI Auth flow](https://github.com/stackitcloud/stackit-sdk-go/pull/2179) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (4 days ago)
 - [fix panic in auth.TokenExpired](https://github.com/stackitcloud/stackit-cli/pull/736) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (4 days ago)
-- [feat: Add automatic releasing](https://github.com/jkroepke/setup-vals/pull/120) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 days ago)
 
 #### ⭐ Recent Stars
 
