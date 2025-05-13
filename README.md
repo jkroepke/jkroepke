@@ -21,23 +21,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (3 days ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (3 days ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (3 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.14.0), today) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1), today) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.29), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.18.0), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.32.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.32.0), today) - A command-line interface to manage STACKIT resources
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.26.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.26.0), 1 day ago) - Find secrets with Gitleaks 🔑
-- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1-alpha1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1-alpha1), 1 day ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.0), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.0), 3 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.2), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
