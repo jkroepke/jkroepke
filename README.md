@@ -46,6 +46,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [terminal_services: Expose disconnected sessions agains](https://github.com/prometheus-community/windows_exporter/pull/2026) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 day ago)
 - [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (1 day ago)
 - [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (3 days ago)
@@ -55,7 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: add tests](https://github.com/jkroepke/setup-sops/pull/23) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
 - [chore: Add make help command](https://github.com/stackitcloud/stackit-sdk-go/pull/2180) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (5 days ago)
 - [core: Add STACKIT CLI Auth flow](https://github.com/stackitcloud/stackit-sdk-go/pull/2179) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (5 days ago)
-- [fix panic in auth.TokenExpired](https://github.com/stackitcloud/stackit-cli/pull/736) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (5 days ago)
 
 #### ⭐ Recent Stars
 
