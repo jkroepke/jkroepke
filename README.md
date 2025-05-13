@@ -33,9 +33,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.29), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.18.0), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.32.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.32.0), today) - A command-line interface to manage STACKIT resources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.18.0](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.18.0), today) - 
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.26.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.26.0), 1 day ago) - Find secrets with Gitleaks 🔑
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1-alpha1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1-alpha1), 1 day ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.0), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
