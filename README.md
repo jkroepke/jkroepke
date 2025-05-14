@@ -20,46 +20,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 day ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (3 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (3 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (2 days ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (4 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (4 days ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.14.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1), today) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.29), today) - 
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.32.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.32.0), today) - A command-line interface to manage STACKIT resources
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.26.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.26.0), 1 day ago) - Find secrets with Gitleaks 🔑
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.0), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.0), 3 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.2), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.28.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.28.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-05-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-05-09), 4 days ago) - The STACKIT SDK for Go
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.14.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1), 1 day ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.29), 1 day ago) - 
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.32.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.32.0), 1 day ago) - A command-line interface to manage STACKIT resources
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.26.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.26.0), 2 days ago) - Find secrets with Gitleaks 🔑
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.0), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.0), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.2), 5 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.28.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.28.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-05-09](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-05-09), 5 days ago) - The STACKIT SDK for Go
 
 #### 🔨 My recent Pull Requests
 
-- [terminal_services: Expose disconnected sessions agains](https://github.com/prometheus-community/windows_exporter/pull/2026) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (1 day ago)
-- [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (1 day ago)
-- [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (3 days ago)
-- [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
-- [feat: run command at the end](https://github.com/jkroepke/setup-stackit-cli/pull/16) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (3 days ago)
-- [chore: add tests](https://github.com/jkroepke/setup-vals/pull/123) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (3 days ago)
-- [chore: add tests](https://github.com/jkroepke/setup-sops/pull/23) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (3 days ago)
-- [chore: Add make help command](https://github.com/stackitcloud/stackit-sdk-go/pull/2180) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (5 days ago)
-- [core: Add STACKIT CLI Auth flow](https://github.com/stackitcloud/stackit-sdk-go/pull/2179) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (5 days ago)
+- [terminal_services: Expose disconnected sessions agains](https://github.com/prometheus-community/windows_exporter/pull/2026) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
+- [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (2 days ago)
+- [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (4 days ago)
+- [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
+- [feat: run command at the end](https://github.com/jkroepke/setup-stackit-cli/pull/16) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (4 days ago)
+- [chore: add tests](https://github.com/jkroepke/setup-vals/pull/123) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 days ago)
+- [chore: add tests](https://github.com/jkroepke/setup-sops/pull/23) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
+- [chore: Add make help command](https://github.com/stackitcloud/stackit-sdk-go/pull/2180) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (6 days ago)
+- [core: Add STACKIT CLI Auth flow](https://github.com/stackitcloud/stackit-sdk-go/pull/2179) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (2 days ago)
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 month ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (2 months ago)
