@@ -33,6 +33,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.17.0), today) - Configure external DNS servers dynamically from Kubernetes resources
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.1), today) - cloudeteer's helm chart repositories
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.14.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1), 1 day ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
@@ -42,7 +43,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.0), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.0), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.2), 5 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.28.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.28.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
