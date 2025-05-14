@@ -33,11 +33,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.30), today) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.17.0), today) - Configure external DNS servers dynamically from Kubernetes resources
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.1), today) - cloudeteer's helm chart repositories
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.14.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1), 1 day ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.29](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.29), 1 day ago) - 
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.32.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.32.0), 1 day ago) - A command-line interface to manage STACKIT resources
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.26.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.26.0), 2 days ago) - Find secrets with Gitleaks 🔑
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.0), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
