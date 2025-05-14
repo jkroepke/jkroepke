@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1729 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1730 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 291 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -46,6 +46,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/prometheus-community/windows_exporter/pull/2030) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/jkroepke/windows_exporter/pull/4) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
 - [docs: add example about add cmdline to process metrics.](https://github.com/prometheus-community/windows_exporter/pull/2029) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [terminal_services: Expose disconnected sessions agains](https://github.com/prometheus-community/windows_exporter/pull/2026) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (2 days ago)
@@ -54,8 +56,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
 - [feat: run command at the end](https://github.com/jkroepke/setup-stackit-cli/pull/16) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (4 days ago)
 - [chore: add tests](https://github.com/jkroepke/setup-vals/pull/123) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 days ago)
-- [chore: add tests](https://github.com/jkroepke/setup-sops/pull/23) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
-- [chore: Add make help command](https://github.com/stackitcloud/stackit-sdk-go/pull/2180) on [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) (6 days ago)
 
 #### ⭐ Recent Stars
 
