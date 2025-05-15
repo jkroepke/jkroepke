@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Prepare release 3.4.0](https://github.com/prometheus/prometheus/pull/16600) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/prometheus-community/windows_exporter/pull/2030) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/jkroepke/windows_exporter/pull/4) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (1 day ago)
 - [docs: add example about add cmdline to process metrics.](https://github.com/prometheus-community/windows_exporter/pull/2029) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (5 days ago)
 - [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (5 days ago)
 - [feat: run command at the end](https://github.com/jkroepke/setup-stackit-cli/pull/16) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (5 days ago)
-- [chore: add tests](https://github.com/jkroepke/setup-vals/pull/123) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (5 days ago)
 
 #### ⭐ Recent Stars
 
