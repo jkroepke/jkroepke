@@ -35,11 +35,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.1.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.1.0), today) - 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.64.0](https://github.com/prometheus/common/releases/tag/v0.64.0), today) - Go libraries shared across Prometheus components and libraries.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.3), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.4.0), today) - Prometheus community Helm charts
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.3), today) - Terraform provider for Hetzner DNS
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.30](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.30), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.17.0), 1 day ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.1), 1 day ago) - cloudeteer's helm chart repositories
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1), 2 days ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
