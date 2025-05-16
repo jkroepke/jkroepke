@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.1](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.1), today) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.2), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.15.0), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-05-15](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-05-15), today) - The STACKIT SDK for Go
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.3), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.3), 1 day ago) - Terraform provider for Hetzner DNS
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.17.0), 2 days ago) - Configure external DNS servers dynamically from Kubernetes resources
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.1), 2 days ago) - cloudeteer's helm chart repositories
 
 #### 🔨 My recent Pull Requests
 
