@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.1](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.1), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.29.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.29.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.64.0](https://github.com/prometheus/common/releases/tag/v0.64.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.17.0), 2 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.2.1](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.2.1), 2 days ago) - cloudeteer's helm chart repositories
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) ([v2.7.1](https://github.com/hashicorp/terraform-provider-archive/releases/tag/v2.7.1), 3 days ago) - Utility provider that provides a data source that can create zip archives for individual files or collections of files.
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.32.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.32.0), 3 days ago) - A command-line interface to manage STACKIT resources
 
 #### 🔨 My recent Pull Requests
 
