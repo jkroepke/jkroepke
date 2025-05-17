@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.16.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.0), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.7), today) - Prometheus exporter for Windows machines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0), today) - The Prometheus monitoring system and time series database.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.2), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
