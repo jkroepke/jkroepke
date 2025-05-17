@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16609) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [feat: [helm] Added affinity property to the loki-canary deamonset](https://github.com/grafana/loki/pull/17720) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
 - [Prepare release 3.4.0](https://github.com/prometheus/prometheus/pull/16600) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/prometheus-community/windows_exporter/pull/2030) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (5 days ago)
 - [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (5 days ago)
 - [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (1 week ago)
-- [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
 
 #### ⭐ Recent Stars
 
