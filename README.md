@@ -48,6 +48,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [tcp: relax metrics collectos on error](https://github.com/prometheus-community/windows_exporter/pull/2041) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [tcp: relax errors](https://github.com/jkroepke/windows_exporter/pull/6) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
 - [dns: add enhanced metrics (#1999)](https://github.com/prometheus-community/windows_exporter/pull/2040) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [terminal_services: Expose disconnected sessions agains (#2026)](https://github.com/prometheus-community/windows_exporter/pull/2039) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [exchange: fix The specified counter could not be found (#1994)](https://github.com/prometheus-community/windows_exporter/pull/2038) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Prepare release 3.4.0](https://github.com/prometheus/prometheus/pull/16600) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/prometheus-community/windows_exporter/pull/2030) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/jkroepke/windows_exporter/pull/4) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (3 days ago)
-- [docs: add example about add cmdline to process metrics.](https://github.com/prometheus-community/windows_exporter/pull/2029) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [terminal_services: Expose disconnected sessions agains](https://github.com/prometheus-community/windows_exporter/pull/2026) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
