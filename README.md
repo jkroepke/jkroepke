@@ -22,46 +22,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (today)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (3 days ago)
-- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (4 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (6 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (6 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (1 day ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (4 days ago)
+- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (5 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 week ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 week ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.2), today) - Github Action for installing vals (https://github.com/getsops/sops)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.2), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.15.0), today) - Prometheus community Helm charts
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-05-15](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-05-15), today) - The STACKIT SDK for Go
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), today) - 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.29.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.29.0), today) - Terraform provider for Azure Resource Manager
-- [prometheus/common](https://github.com/prometheus/common) ([v0.64.0](https://github.com/prometheus/common/releases/tag/v0.64.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.3), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.3), 1 day ago) - Terraform provider for Hetzner DNS
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.17.0), 2 days ago) - Configure external DNS servers dynamically from Kubernetes resources
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.2), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.2), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.15.0), 1 day ago) - Prometheus community Helm charts
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-05-15](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-05-15), 1 day ago) - The STACKIT SDK for Go
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), 1 day ago) - 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.29.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.29.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [prometheus/common](https://github.com/prometheus/common) ([v0.64.0](https://github.com/prometheus/common/releases/tag/v0.64.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.3), 2 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.3), 2 days ago) - Terraform provider for Hetzner DNS
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.17.0), 3 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 
 #### 🔨 My recent Pull Requests
 
-- [feat: [helm] Added affinity property to the loki-canary deamonset](https://github.com/grafana/loki/pull/17720) on [grafana/loki](https://github.com/grafana/loki) (today)
-- [Prepare release 3.4.0](https://github.com/prometheus/prometheus/pull/16600) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
-- [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/prometheus-community/windows_exporter/pull/2030) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/jkroepke/windows_exporter/pull/4) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (2 days ago)
-- [docs: add example about add cmdline to process metrics.](https://github.com/prometheus-community/windows_exporter/pull/2029) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [terminal_services: Expose disconnected sessions agains](https://github.com/prometheus-community/windows_exporter/pull/2026) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (4 days ago)
-- [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (4 days ago)
-- [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (6 days ago)
-- [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (6 days ago)
+- [feat: [helm] Added affinity property to the loki-canary deamonset](https://github.com/grafana/loki/pull/17720) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
+- [Prepare release 3.4.0](https://github.com/prometheus/prometheus/pull/16600) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
+- [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/prometheus-community/windows_exporter/pull/2030) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/jkroepke/windows_exporter/pull/4) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (3 days ago)
+- [docs: add example about add cmdline to process metrics.](https://github.com/prometheus-community/windows_exporter/pull/2029) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [terminal_services: Expose disconnected sessions agains](https://github.com/prometheus-community/windows_exporter/pull/2026) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (5 days ago)
+- [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (5 days ago)
+- [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (1 week ago)
+- [feat: run command at the end](https://github.com/jkroepke/setup-sops/pull/24) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (5 days ago)
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 month ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (2 months ago)
