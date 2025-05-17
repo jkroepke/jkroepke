@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.7), today) - Prometheus exporter for Windows machines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0), today) - The Prometheus monitoring system and time series database.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.2), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.2), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -44,10 +45,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.29.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.29.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.64.0](https://github.com/prometheus/common/releases/tag/v0.64.0), 2 days ago) - Go libraries shared across Prometheus components and libraries.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.3), 2 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.3](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.3), 2 days ago) - Terraform provider for Hetzner DNS
 
 #### 🔨 My recent Pull Requests
 
+- [dns: add enhanced metrics (#1999)](https://github.com/prometheus-community/windows_exporter/pull/2040) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [terminal_services: Expose disconnected sessions agains (#2026)](https://github.com/prometheus-community/windows_exporter/pull/2039) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [exchange: fix The specified counter could not be found (#1994)](https://github.com/prometheus-community/windows_exporter/pull/2038) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16609) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
 - [feat: [helm] Added affinity property to the loki-canary deamonset](https://github.com/grafana/loki/pull/17720) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
 - [Prepare release 3.4.0](https://github.com/prometheus/prometheus/pull/16600) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
@@ -55,9 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/jkroepke/windows_exporter/pull/4) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (3 days ago)
 - [docs: add example about add cmdline to process metrics.](https://github.com/prometheus-community/windows_exporter/pull/2029) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [terminal_services: Expose disconnected sessions agains](https://github.com/prometheus-community/windows_exporter/pull/2026) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [fix(auth-proxy-set-headers): Validate authorization header values](https://github.com/kubernetes/ingress-nginx/pull/13371) on [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) (5 days ago)
-- [disable crash](https://github.com/jkroepke/docker-wixtoolset/pull/8) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (5 days ago)
-- [Update versions](https://github.com/jkroepke/docker-wixtoolset/pull/7) on [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) (1 week ago)
 
 #### ⭐ Recent Stars
 
