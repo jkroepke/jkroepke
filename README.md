@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: enable govet](https://github.com/jkroepke/openvpn-auth-oauth2/pull/501) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [tcp: relax metrics collectos on error](https://github.com/prometheus-community/windows_exporter/pull/2041) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [tcp: relax errors](https://github.com/jkroepke/windows_exporter/pull/6) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (1 day ago)
 - [dns: add enhanced metrics (#1999)](https://github.com/prometheus-community/windows_exporter/pull/2040) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: [helm] Added affinity property to the loki-canary deamonset](https://github.com/grafana/loki/pull/17720) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
 - [Prepare release 3.4.0](https://github.com/prometheus/prometheus/pull/16600) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
 - [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/prometheus-community/windows_exporter/pull/2030) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [docs: Remove CLI flag `telemetry.max-requests` and hardcoded to 1.](https://github.com/jkroepke/windows_exporter/pull/4) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
