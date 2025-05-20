@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.343](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.343), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.3.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.31), today) - 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.7), 3 days ago) - Prometheus exporter for Windows machines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0), 3 days ago) - The Prometheus monitoring system and time series database.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.2), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
