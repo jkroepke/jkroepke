@@ -35,13 +35,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.31](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.31), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-1.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-1.19.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.7), 3 days ago) - Prometheus exporter for Windows machines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0), 3 days ago) - The Prometheus monitoring system and time series database.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.2), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.2), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-05-15](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-05-15), 4 days ago) - The STACKIT SDK for Go
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.13.4](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.13.4), 4 days ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.29.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.29.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/common](https://github.com/prometheus/common) ([v0.64.0](https://github.com/prometheus/common/releases/tag/v0.64.0), 5 days ago) - Go libraries shared across Prometheus components and libraries.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.3](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.3), 5 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
