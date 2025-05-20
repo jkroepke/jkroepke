@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.8](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.8), today) - 
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.3.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.3.0), today) - cloudeteer's helm chart repositories
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.29.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.29.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.3.1), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.7), 3 days ago) - Prometheus exporter for Windows machines
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0), 3 days ago) - The Prometheus monitoring system and time series database.
