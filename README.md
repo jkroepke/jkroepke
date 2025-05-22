@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.9](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.9), today) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3](https://github.com/project-zot/zot/releases/tag/v2.1.3), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.30.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.30.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.10.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.1.1](https://github.com/grafana/helm-charts/releases/tag/grafana-9.1.1), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.14](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.14), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.4), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
