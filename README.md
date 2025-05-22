@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1741 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1742 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 293 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -22,42 +22,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (4 days ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (5 days ago)
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (5 days ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (6 days ago)
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (6 days ago)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (1 week ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.0), today) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.14](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.14), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.3), today) - Prometheus community Helm charts
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.4), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.3.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.3.0), 1 day ago) - cloudeteer's helm chart repositories
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.7), 4 days ago) - Prometheus exporter for Windows machines
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0), 4 days ago) - The Prometheus monitoring system and time series database.
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.2), 5 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.2), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.30.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.30.0), 1 day ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.14](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.14), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.5.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.5.3), 1 day ago) - Prometheus community Helm charts
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.4](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.4), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.3.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.3.0), 2 days ago) - cloudeteer's helm chart repositories
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.7), 5 days ago) - Prometheus exporter for Windows machines
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.0](https://github.com/prometheus/prometheus/releases/tag/v3.4.0), 5 days ago) - The Prometheus monitoring system and time series database.
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.2), 6 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.2), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 
 #### 🔨 My recent Pull Requests
 
-- [fix editorconfig-checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/502) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [service: report invalid parameter errors as debug](https://github.com/prometheus-community/windows_exporter/pull/2051) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [update: expose publish date of updates](https://github.com/prometheus-community/windows_exporter/pull/2050) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [chore: enable govet](https://github.com/jkroepke/openvpn-auth-oauth2/pull/501) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [tcp: relax metrics collectos on error](https://github.com/prometheus-community/windows_exporter/pull/2041) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [tcp: relax errors](https://github.com/jkroepke/windows_exporter/pull/6) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (4 days ago)
-- [dns: add enhanced metrics (#1999)](https://github.com/prometheus-community/windows_exporter/pull/2040) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [terminal_services: Expose disconnected sessions agains (#2026)](https://github.com/prometheus-community/windows_exporter/pull/2039) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [exchange: fix The specified counter could not be found (#1994)](https://github.com/prometheus-community/windows_exporter/pull/2038) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16609) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
+- [fix editorconfig-checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/502) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [service: report invalid parameter errors as debug](https://github.com/prometheus-community/windows_exporter/pull/2051) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [update: expose publish date of updates](https://github.com/prometheus-community/windows_exporter/pull/2050) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [chore: enable govet](https://github.com/jkroepke/openvpn-auth-oauth2/pull/501) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [tcp: relax metrics collectos on error](https://github.com/prometheus-community/windows_exporter/pull/2041) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [tcp: relax errors](https://github.com/jkroepke/windows_exporter/pull/6) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (5 days ago)
+- [dns: add enhanced metrics (#1999)](https://github.com/prometheus-community/windows_exporter/pull/2040) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [terminal_services: Expose disconnected sessions agains (#2026)](https://github.com/prometheus-community/windows_exporter/pull/2039) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [exchange: fix The specified counter could not be found (#1994)](https://github.com/prometheus-community/windows_exporter/pull/2038) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16609) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (5 days ago)
 
 #### ⭐ Recent Stars
 
