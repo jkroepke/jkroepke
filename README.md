@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.10.3), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19](https://github.com/grafana/grafana/releases/tag/v10.4.19), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.2.9](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.2.9), 1 day ago) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3](https://github.com/project-zot/zot/releases/tag/v2.1.3), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.30.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.30.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.14](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.14), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
