@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [time: expose clock source sync](https://github.com/prometheus-community/windows_exporter/pull/2058) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [container: fix collector](https://github.com/prometheus-community/windows_exporter/pull/2057) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: fix test](https://github.com/prometheus-community/windows_exporter/pull/2055) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [fix editorconfig-checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/502) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [tcp: relax metrics collectos on error](https://github.com/prometheus-community/windows_exporter/pull/2041) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [tcp: relax errors](https://github.com/jkroepke/windows_exporter/pull/6) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (1 week ago)
 - [dns: add enhanced metrics (#1999)](https://github.com/prometheus-community/windows_exporter/pull/2040) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [terminal_services: Expose disconnected sessions agains (#2026)](https://github.com/prometheus-community/windows_exporter/pull/2039) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
