@@ -22,11 +22,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 week ago)
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) - The STACKIT SDK for Go (1 week ago)
@@ -35,34 +35,34 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.38](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.38), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.3.0), 1 day ago) - Prometheus community Helm charts
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.3), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.9.0-rc.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.5](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.5), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19](https://github.com/grafana/grafana/releases/tag/v10.4.19), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3](https://github.com/project-zot/zot/releases/tag/v2.1.3), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.30.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.30.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.14](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.14), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.38](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.38), 2 days ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.3.0), 2 days ago) - Prometheus community Helm charts
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.3), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.9.0-rc.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.5](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.5), 2 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19](https://github.com/grafana/grafana/releases/tag/v10.4.19), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3](https://github.com/project-zot/zot/releases/tag/v2.1.3), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.30.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.30.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.14](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.14), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 5 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
-- [time: expose clock source sync](https://github.com/prometheus-community/windows_exporter/pull/2058) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [container: fix collector](https://github.com/prometheus-community/windows_exporter/pull/2057) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [chore: fix test](https://github.com/prometheus-community/windows_exporter/pull/2055) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [fix editorconfig-checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/502) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [service: report invalid parameter errors as debug](https://github.com/prometheus-community/windows_exporter/pull/2051) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [update: expose publish date of updates](https://github.com/prometheus-community/windows_exporter/pull/2050) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [chore: enable govet](https://github.com/jkroepke/openvpn-auth-oauth2/pull/501) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
+- [time: expose clock source sync](https://github.com/prometheus-community/windows_exporter/pull/2058) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [container: fix collector](https://github.com/prometheus-community/windows_exporter/pull/2057) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [chore: fix test](https://github.com/prometheus-community/windows_exporter/pull/2055) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [fix editorconfig-checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/502) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [service: report invalid parameter errors as debug](https://github.com/prometheus-community/windows_exporter/pull/2051) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [update: expose publish date of updates](https://github.com/prometheus-community/windows_exporter/pull/2050) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [chore: enable govet](https://github.com/jkroepke/openvpn-auth-oauth2/pull/501) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [tcp: relax metrics collectos on error](https://github.com/prometheus-community/windows_exporter/pull/2041) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [tcp: relax errors](https://github.com/jkroepke/windows_exporter/pull/6) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (1 week ago)
 - [dns: add enhanced metrics (#1999)](https://github.com/prometheus-community/windows_exporter/pull/2040) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (1 week ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 weeks ago)
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (2 weeks ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 weeks ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 month ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (2 months ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (3 months ago)
