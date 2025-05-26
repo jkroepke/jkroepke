@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.33.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.33.2), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.16](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.16), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.8.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.8.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.9.0-rc.2), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.3), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.5](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.5), 3 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
