@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1751 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1752 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 294 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.15](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.15), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.6.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.40.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.40.2), 1 day ago) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.3), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -43,7 +44,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19](https://github.com/grafana/grafana/releases/tag/v10.4.19), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3](https://github.com/project-zot/zot/releases/tag/v2.1.3), 4 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.30.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.30.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.14](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.14), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.5](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.5), 6 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
