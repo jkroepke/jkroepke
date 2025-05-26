@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 1752 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 294 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 295 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 61 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.8.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.8.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.9.0-rc.2), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.15](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.15), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.6.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.6.3), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.40.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.40.2), 1 day ago) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.3), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.5](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.5), 3 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19](https://github.com/grafana/grafana/releases/tag/v10.4.19), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
