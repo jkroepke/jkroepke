@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.6.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.6.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.17](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.17), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -44,10 +45,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.1](https://github.com/grafana/loki/releases/tag/v3.5.1), 1 week ago) - Like Prometheus, but for logs.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19](https://github.com/grafana/grafana/releases/tag/v10.4.19), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.3](https://github.com/project-zot/zot/releases/tag/v2.1.3), 1 week ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.30.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.30.0), 1 week ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
+- [fix: Avoid COINIT_MULTITHREADED in CoInitializeEx](https://github.com/prometheus-community/windows_exporter/pull/2066) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [process: fix duplicate labels](https://github.com/prometheus-community/windows_exporter/pull/2065) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [process: fix duplicate labels](https://github.com/jkroepke/windows_exporter/pull/7) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
 - [process: fix duplicate labels issue](https://github.com/prometheus-community/windows_exporter/pull/2064) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix editorconfig-checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/502) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [service: report invalid parameter errors as debug](https://github.com/prometheus-community/windows_exporter/pull/2051) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [update: expose publish date of updates](https://github.com/prometheus-community/windows_exporter/pull/2050) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [chore: enable govet](https://github.com/jkroepke/openvpn-auth-oauth2/pull/501) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
