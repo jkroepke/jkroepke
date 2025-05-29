@@ -23,9 +23,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
@@ -48,6 +48,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2069) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2068) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: Avoid COINIT_MULTITHREADED in CoInitializeEx](https://github.com/prometheus-community/windows_exporter/pull/2066) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [process: fix duplicate labels](https://github.com/prometheus-community/windows_exporter/pull/2065) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [process: fix duplicate labels](https://github.com/jkroepke/windows_exporter/pull/7) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [container: fix collector](https://github.com/prometheus-community/windows_exporter/pull/2057) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [chore: fix test](https://github.com/prometheus-community/windows_exporter/pull/2055) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [fix editorconfig-checker](https://github.com/jkroepke/openvpn-auth-oauth2/pull/502) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [service: report invalid parameter errors as debug](https://github.com/prometheus-community/windows_exporter/pull/2051) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [update: expose publish date of updates](https://github.com/prometheus-community/windows_exporter/pull/2050) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
