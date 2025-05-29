@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 1754 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 296 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 297 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 61 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
@@ -48,6 +48,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [process: fix duplicate labels](https://github.com/prometheus-community/windows_exporter/pull/2065) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [process: fix duplicate labels](https://github.com/jkroepke/windows_exporter/pull/7) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
 - [process: fix duplicate labels issue](https://github.com/prometheus-community/windows_exporter/pull/2064) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [time: expose clock source sync](https://github.com/prometheus-community/windows_exporter/pull/2058) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [container: fix collector](https://github.com/prometheus-community/windows_exporter/pull/2057) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [service: report invalid parameter errors as debug](https://github.com/prometheus-community/windows_exporter/pull/2051) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [update: expose publish date of updates](https://github.com/prometheus-community/windows_exporter/pull/2050) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [chore: enable govet](https://github.com/jkroepke/openvpn-auth-oauth2/pull/501) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [tcp: relax metrics collectos on error](https://github.com/prometheus-community/windows_exporter/pull/2041) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [tcp: relax errors](https://github.com/jkroepke/windows_exporter/pull/6) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
