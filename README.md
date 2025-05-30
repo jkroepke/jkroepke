@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), today) - Github Action for installing vals (https://github.com/getsops/sops)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.10.2), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), today) - Collection of charts used in my projects
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 1 day ago) - Terraform provider for Azure Resource Manager
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.3), 1 week ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.5](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.5), 1 week ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.1](https://github.com/grafana/loki/releases/tag/v3.5.1), 1 week ago) - Like Prometheus, but for logs.
-- [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19](https://github.com/grafana/grafana/releases/tag/v10.4.19), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
