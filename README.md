@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.11.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.17.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.3), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), today) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), today) - Collection of charts used in my projects
