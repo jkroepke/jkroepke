@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [WIP](https://github.com/prometheus-community/windows_exporter/pull/2071) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [gpu: add info metric about devices](https://github.com/prometheus-community/windows_exporter/pull/2070) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2069) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2068) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [process: fix duplicate labels issue](https://github.com/prometheus-community/windows_exporter/pull/2064) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [time: expose clock source sync](https://github.com/prometheus-community/windows_exporter/pull/2058) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [container: fix collector](https://github.com/prometheus-community/windows_exporter/pull/2057) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [chore: fix test](https://github.com/prometheus-community/windows_exporter/pull/2055) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
