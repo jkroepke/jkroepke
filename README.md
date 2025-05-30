@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.8.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.3), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), today) - Github Action for installing vals (https://github.com/getsops/sops)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.10.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.10.2), today) - Prometheus community Helm charts
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), today) - Collection of charts used in my projects
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), 1 day ago) - 
@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update renovate.json](https://github.com/prometheus-community/helm-charts/pull/5711) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-crds] automate CRDs bumps](https://github.com/prometheus-community/helm-charts/pull/5698) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[renovate] enable builtin version bump](https://github.com/prometheus-community/helm-charts/pull/5697) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [WIP](https://github.com/prometheus-community/windows_exporter/pull/2071) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: Avoid COINIT_MULTITHREADED in CoInitializeEx](https://github.com/prometheus-community/windows_exporter/pull/2066) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [process: fix duplicate labels](https://github.com/prometheus-community/windows_exporter/pull/2065) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [process: fix duplicate labels](https://github.com/jkroepke/windows_exporter/pull/7) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (1 day ago)
-- [process: fix duplicate labels issue](https://github.com/prometheus-community/windows_exporter/pull/2064) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
