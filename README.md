@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.1](https://github.com/prometheus/prometheus/releases/tag/v3.4.1), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-20.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-20.0.1), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.3), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.17](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.17), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.9.0-rc.2), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.3), 1 week ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.3.5](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.3.5), 1 week ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
