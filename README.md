@@ -22,47 +22,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (today)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (today)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.9.0), today) - Prometheus community Helm charts
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.4), today) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.1](https://github.com/prometheus/prometheus/releases/tag/v3.4.1), today) - The Prometheus monitoring system and time series database.
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), 1 day ago) - Collection of charts used in my projects
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), 2 days ago) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.17](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.17), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.9.0-rc.2), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.9.0), 1 day ago) - Prometheus community Helm charts
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.4), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.1](https://github.com/prometheus/prometheus/releases/tag/v3.4.1), 1 day ago) - The Prometheus monitoring system and time series database.
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), 2 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), 2 days ago) - Collection of charts used in my projects
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([promtail-6.17.0](https://github.com/grafana/helm-charts/releases/tag/promtail-6.17.0), 3 days ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.17](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.17), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0-rc.2](https://github.com/grafana/alloy/releases/tag/v1.9.0-rc.2), 6 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.3), 1 week ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 
 #### 🔨 My recent Pull Requests
 
-- [[CI] Enable auto merge for ci and prometheus-operator-crds](https://github.com/prometheus-community/helm-charts/pull/5716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[CI] fix Setup Auto Approval](https://github.com/prometheus-community/helm-charts/pull/5715) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[CI] Setup Auto Approval](https://github.com/prometheus-community/helm-charts/pull/5714) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16653) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (today)
-- [Prepare release 3.4.1](https://github.com/prometheus/prometheus/pull/16652) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
-- [Update renovate.json](https://github.com/prometheus-community/helm-charts/pull/5711) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[prometheus-operator-crds] automate CRDs bumps](https://github.com/prometheus-community/helm-charts/pull/5698) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [[renovate] enable builtin version bump](https://github.com/prometheus-community/helm-charts/pull/5697) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [WIP](https://github.com/prometheus-community/windows_exporter/pull/2071) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [gpu: add info metric about devices](https://github.com/prometheus-community/windows_exporter/pull/2070) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[CI] Enable auto merge for ci and prometheus-operator-crds](https://github.com/prometheus-community/helm-charts/pull/5716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[CI] fix Setup Auto Approval](https://github.com/prometheus-community/helm-charts/pull/5715) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [[CI] Setup Auto Approval](https://github.com/prometheus-community/helm-charts/pull/5714) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16653) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 day ago)
+- [Prepare release 3.4.1](https://github.com/prometheus/prometheus/pull/16652) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
+- [Update renovate.json](https://github.com/prometheus-community/helm-charts/pull/5711) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[prometheus-operator-crds] automate CRDs bumps](https://github.com/prometheus-community/helm-charts/pull/5698) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[renovate] enable builtin version bump](https://github.com/prometheus-community/helm-charts/pull/5697) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [WIP](https://github.com/prometheus-community/windows_exporter/pull/2071) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [gpu: add info metric about devices](https://github.com/prometheus-community/windows_exporter/pull/2070) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (2 weeks ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 weeks ago)
+- [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (3 weeks ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 weeks ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 month ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (2 months ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A log viewer for Kubernetes troubleshooting (3 months ago)
