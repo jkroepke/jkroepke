@@ -27,9 +27,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.19.0), today) - Prometheus community Helm charts
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.0), today) - Find secrets with Gitleaks 🔑
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.4.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.4), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.1](https://github.com/prometheus/prometheus/releases/tag/v3.4.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), 2 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add tests in token decryption](https://github.com/jkroepke/openvpn-auth-oauth2/pull/507) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: optimize state decode/encode functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/506) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [windows support via cross-env](https://github.com/actions/typescript-action/pull/1059) on [actions/typescript-action](https://github.com/actions/typescript-action) (today)
 - [[CI] Enable auto merge for ci and prometheus-operator-crds](https://github.com/prometheus-community/helm-charts/pull/5716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Prepare release 3.4.1](https://github.com/prometheus/prometheus/pull/16652) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
 - [Update renovate.json](https://github.com/prometheus-community/helm-charts/pull/5711) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [[prometheus-operator-crds] automate CRDs bumps](https://github.com/prometheus-community/helm-charts/pull/5698) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[renovate] enable builtin version bump](https://github.com/prometheus-community/helm-charts/pull/5697) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 
 #### ⭐ Recent Stars
 
