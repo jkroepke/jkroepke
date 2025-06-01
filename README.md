@@ -17,6 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ❤️ Sponsors
 
+- [miinsun (민선 (minnie))](https://github.com/miinsun)
+
 - [numberly (Numberly)](https://github.com/numberly)
 
 
