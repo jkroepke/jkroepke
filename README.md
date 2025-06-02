@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.19.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.34.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.34.1), today) - Prometheus community Helm charts
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.0), 1 day ago) - Find secrets with Gitleaks 🔑
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.4), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.1](https://github.com/prometheus/prometheus/releases/tag/v3.4.1), 2 days ago) - The Prometheus monitoring system and time series database.
