@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.2.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.2.0), today) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-72.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-72.9.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0](https://github.com/grafana/alloy/releases/tag/v1.9.0), today) - OpenTelemetry Collector distribution with programmable pipelines
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), 3 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), 3 days ago) - Collection of charts used in my projects
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.17](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.17), 6 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
@@ -76,11 +76,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [sins921](https://github.com/sins921)
 - [cschindlbeck](https://github.com/cschindlbeck)
 - [georgen88](https://github.com/georgen88)
 - [ballisnate](https://github.com/ballisnate)
 - [toms-place](https://github.com/toms-place)
-- [alikhil](https://github.com/alikhil)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
