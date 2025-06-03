@@ -37,9 +37,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-10.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-10.0.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-73.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-73.0.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.41.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.41.1), today) - 
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.2.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.2.0), 1 day ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.0), 1 day ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0](https://github.com/grafana/alloy/releases/tag/v1.9.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.0), 2 days ago) - Find secrets with Gitleaks 🔑
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.4), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
