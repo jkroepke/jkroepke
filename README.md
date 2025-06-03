@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1759 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1760 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 299 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -24,48 +24,48 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 day ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (2 days ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.19.0), today) - Prometheus community Helm charts
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.2.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.2.0), today) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.0), today) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0](https://github.com/grafana/alloy/releases/tag/v1.9.0), today) - OpenTelemetry Collector distribution with programmable pipelines
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.0), 1 day ago) - Find secrets with Gitleaks 🔑
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.4), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.1](https://github.com/prometheus/prometheus/releases/tag/v3.4.1), 2 days ago) - The Prometheus monitoring system and time series database.
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), 3 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), 3 days ago) - Collection of charts used in my projects
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 4 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.19.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.19.0), 1 day ago) - Prometheus community Helm charts
+- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.2.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.2.0), 1 day ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.0), 1 day ago) - 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.0](https://github.com/grafana/alloy/releases/tag/v1.9.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.0), 2 days ago) - Find secrets with Gitleaks 🔑
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.4), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.1](https://github.com/prometheus/prometheus/releases/tag/v3.4.1), 3 days ago) - The Prometheus monitoring system and time series database.
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), 4 days ago) - Collection of charts used in my projects
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.31.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.31.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
-- [chore: add tests in token decryption](https://github.com/jkroepke/openvpn-auth-oauth2/pull/507) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [chore: optimize state decode/encode functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/506) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [windows support via cross-env](https://github.com/actions/typescript-action/pull/1059) on [actions/typescript-action](https://github.com/actions/typescript-action) (1 day ago)
-- [[CI] Enable auto merge for ci and prometheus-operator-crds](https://github.com/prometheus-community/helm-charts/pull/5716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[CI] fix Setup Auto Approval](https://github.com/prometheus-community/helm-charts/pull/5715) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[CI] Setup Auto Approval](https://github.com/prometheus-community/helm-charts/pull/5714) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16653) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (2 days ago)
-- [Prepare release 3.4.1](https://github.com/prometheus/prometheus/pull/16652) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
-- [Update renovate.json](https://github.com/prometheus-community/helm-charts/pull/5711) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[prometheus-operator-crds] automate CRDs bumps](https://github.com/prometheus-community/helm-charts/pull/5698) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [chore: add tests in token decryption](https://github.com/jkroepke/openvpn-auth-oauth2/pull/507) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [chore: optimize state decode/encode functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/506) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [windows support via cross-env](https://github.com/actions/typescript-action/pull/1059) on [actions/typescript-action](https://github.com/actions/typescript-action) (2 days ago)
+- [[CI] Enable auto merge for ci and prometheus-operator-crds](https://github.com/prometheus-community/helm-charts/pull/5716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[CI] fix Setup Auto Approval](https://github.com/prometheus-community/helm-charts/pull/5715) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [[CI] Setup Auto Approval](https://github.com/prometheus-community/helm-charts/pull/5714) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16653) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (3 days ago)
+- [Prepare release 3.4.1](https://github.com/prometheus/prometheus/pull/16652) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (4 days ago)
+- [Update renovate.json](https://github.com/prometheus-community/helm-charts/pull/5711) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[prometheus-operator-crds] automate CRDs bumps](https://github.com/prometheus-community/helm-charts/pull/5698) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (today)
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (1 day ago)
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (3 weeks ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 weeks ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 month ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (1 month ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (2 months ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A log viewer for Kubernetes troubleshooting (3 months ago)
