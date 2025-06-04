@@ -37,7 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.24.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.24.3), today) - Prometheus community Helm charts
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0-beta.2), today) - Prometheus exporter for Windows machines
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.25.0), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.33.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.33.1), today) - A command-line interface to manage STACKIT resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.41.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.41.1), 1 day ago) - 
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.2.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.2.0), 2 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.4), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.1](https://github.com/prometheus/prometheus/releases/tag/v3.4.1), 4 days ago) - The Prometheus monitoring system and time series database.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.3](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.3), 5 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) ([github-exporter-1.3.0](https://github.com/jkroepke/helm-charts/releases/tag/github-exporter-1.3.0), 5 days ago) - Collection of charts used in my projects
 
 #### 🔨 My recent Pull Requests
 
