@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-crd-1.0.0](https://github.com/grafana/helm-charts/releases/tag/alloy-crd-1.0.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.1](https://github.com/grafana/alloy/releases/tag/v1.9.1), today) - OpenTelemetry Collector distribution with programmable pipelines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.13.1](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.13.1), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0-beta.2), 1 day ago) - Prometheus exporter for Windows machines
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.33.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.33.1), 1 day ago) - A command-line interface to manage STACKIT resources
