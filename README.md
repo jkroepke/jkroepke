@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.36.0), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0-beta.2), 1 day ago) - Prometheus exporter for Windows machines
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.25.0), 1 day ago) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.33.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.33.1), 1 day ago) - A command-line interface to manage STACKIT resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.41.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.41.1), 2 days ago) - 
 - [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.2.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.2.0), 3 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
