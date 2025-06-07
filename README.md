@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Deny os.stdout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/518) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix GitHub check comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/517) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: add test for token cleanup](https://github.com/jkroepke/openvpn-auth-oauth2/pull/516) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add AGENTS instructions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/515) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: add tests in token decryption](https://github.com/jkroepke/openvpn-auth-oauth2/pull/507) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [chore: optimize state decode/encode functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/506) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [windows support via cross-env](https://github.com/actions/typescript-action/pull/1059) on [actions/typescript-action](https://github.com/actions/typescript-action) (6 days ago)
-- [[CI] Enable auto merge for ci and prometheus-operator-crds](https://github.com/prometheus-community/helm-charts/pull/5716) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
