@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([repodata](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/repodata), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.5](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.5), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.4), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.4.0), 1 day ago) - Prometheus community Helm charts
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.1](https://github.com/grafana/alloy/releases/tag/v1.9.1), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0-beta.2), 3 days ago) - Prometheus exporter for Windows machines
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.33.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.33.1), 3 days ago) - A command-line interface to manage STACKIT resources
-- [kubernetes-monitoring/kubernetes-mixin](https://github.com/kubernetes-monitoring/kubernetes-mixin) ([version-1.2.0](https://github.com/kubernetes-monitoring/kubernetes-mixin/releases/tag/version-1.2.0), 5 days ago) -  A set of Grafana dashboards and Prometheus alerts for Kubernetes.
 
 #### 🔨 My recent Pull Requests
 
