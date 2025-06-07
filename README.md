@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix passthrough scanner error handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/512) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: add tests in token decryption](https://github.com/jkroepke/openvpn-auth-oauth2/pull/507) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [chore: optimize state decode/encode functions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/506) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [windows support via cross-env](https://github.com/actions/typescript-action/pull/1059) on [actions/typescript-action](https://github.com/actions/typescript-action) (6 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16653) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [Prepare release 3.4.1](https://github.com/prometheus/prometheus/pull/16652) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [Update renovate.json](https://github.com/prometheus-community/helm-charts/pull/5711) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [[prometheus-operator-crds] automate CRDs bumps](https://github.com/prometheus-community/helm-charts/pull/5698) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
