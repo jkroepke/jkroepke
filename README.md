@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.1](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.1), today) - Find secrets with Gitleaks 🔑
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([repodata](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/repodata), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.5](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.5), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.4), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.0), 3 days ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.1](https://github.com/grafana/alloy/releases/tag/v1.9.1), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0-beta.2), 4 days ago) - Prometheus exporter for Windows machines
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.33.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.33.1), 4 days ago) - A command-line interface to manage STACKIT resources
 
 #### 🔨 My recent Pull Requests
 
