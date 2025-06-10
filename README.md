@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.8.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.8.0), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.15](https://github.com/grafana/loki/releases/tag/v2.9.15), today) - Like Prometheus, but for logs.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.2), 1 day ago) - Find secrets with Gitleaks 🔑
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.23.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.23.1), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.4.0), 4 days ago) - Prometheus community Helm charts
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.4](https://github.com/project-zot/zot/releases/tag/v2.1.4), 4 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.32.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.32.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.0), 5 days ago) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.1](https://github.com/grafana/alloy/releases/tag/v1.9.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
