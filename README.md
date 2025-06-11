@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.346](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.346), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.23.0](https://github.com/grafana/helm-charts/releases/tag/tempo-1.23.0), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.18](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.18), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.15](https://github.com/grafana/loki/releases/tag/v2.9.15), 1 day ago) - Like Prometheus, but for logs.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.2), 2 days ago) - Find secrets with Gitleaks 🔑
