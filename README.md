@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.0), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.18](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.18), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.39](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.39), 1 day ago) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.15](https://github.com/grafana/loki/releases/tag/v2.9.15), 1 day ago) - Like Prometheus, but for logs.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.2), 2 days ago) - Find secrets with Gitleaks 🔑
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.23.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.23.1), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
