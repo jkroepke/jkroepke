@@ -25,7 +25,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (5 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (5 days ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (5 days ago)
@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.13.2](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.13.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.32](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.32), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.18](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.18), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.15](https://github.com/grafana/loki/releases/tag/v2.9.15), 1 day ago) - Like Prometheus, but for logs.
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.23.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.23.1), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.5](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.5), 5 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.4), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pushgateway-3.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pushgateway-3.4.0), 5 days ago) - Prometheus community Helm charts
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.4](https://github.com/project-zot/zot/releases/tag/v2.1.4), 5 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.32.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.32.0), 6 days ago) - Terraform provider for Azure Resource Manager
 
