@@ -24,8 +24,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (5 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (5 days ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (5 days ago)
@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: loading custom template via env](https://github.com/jkroepke/openvpn-auth-oauth2/pull/522) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[ci] remove hour restriction from renovate schedule](https://github.com/prometheus-community/helm-charts/pull/5746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [feat: add soft-reload](https://github.com/jkroepke/openvpn-auth-oauth2/pull/519) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Deny os.stdout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/518) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Fix typos in HTTPS Listener docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/514) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Add developer documentation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/513) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [Fix passthrough scanner error handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/512) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [chore: add tests in token decryption](https://github.com/jkroepke/openvpn-auth-oauth2/pull/507) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
