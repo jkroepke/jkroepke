@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.13.2](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.13.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-73.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-73.2.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.32](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.32), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.18](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.18), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.15](https://github.com/grafana/loki/releases/tag/v2.9.15), 1 day ago) - Like Prometheus, but for logs.
