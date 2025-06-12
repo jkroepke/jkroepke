@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Bitlocker](https://github.com/prometheus-community/windows_exporter/pull/2076) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: add bitlocker collector](https://github.com/jkroepke/windows_exporter/pull/8) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
 - [[CI] fix renovate auto merge](https://github.com/prometheus-community/helm-charts/pull/5763) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[CI] fix renovate post-hook action with larger files](https://github.com/prometheus-community/helm-charts/pull/5762) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[prometheus-operator-crds] fix renovate post hook script](https://github.com/prometheus-community/helm-charts/pull/5758) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[prometheus-operator-crds] add renovate hints.](https://github.com/prometheus-community/helm-charts/pull/5756) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [chore fix func](https://github.com/jkroepke/openvpn-auth-oauth2/pull/526) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [chore: Simplify lookupEnvOrDefault](https://github.com/jkroepke/openvpn-auth-oauth2/pull/525) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 
 #### ⭐ Recent Stars
 
