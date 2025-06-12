@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: simplify run func](https://github.com/jkroepke/openvpn-auth-oauth2/pull/523) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: loading custom template via env](https://github.com/jkroepke/openvpn-auth-oauth2/pull/522) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [[ci] remove hour restriction from renovate schedule](https://github.com/prometheus-community/helm-charts/pull/5746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [feat: add soft-reload](https://github.com/jkroepke/openvpn-auth-oauth2/pull/519) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add AGENTS instructions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/515) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [Fix typos in HTTPS Listener docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/514) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [Add developer documentation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/513) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Fix passthrough scanner error handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/512) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
