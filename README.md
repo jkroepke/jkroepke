@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 1767 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 299 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 300 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 61 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
@@ -24,48 +24,48 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (5 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (5 days ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (5 days ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (6 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (6 days ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (6 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (6 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-73.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-73.2.2), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.32](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.32), today) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.18](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.18), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/loki](https://github.com/grafana/loki) ([v2.9.15](https://github.com/grafana/loki/releases/tag/v2.9.15), 1 day ago) - Like Prometheus, but for logs.
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.2), 2 days ago) - Find secrets with Gitleaks 🔑
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.23.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.23.1), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.5](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.5), 5 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.4), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.4](https://github.com/project-zot/zot/releases/tag/v2.1.4), 5 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.32.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.32.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-73.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-73.2.2), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.32](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.32), 1 day ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.18](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.18), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [grafana/loki](https://github.com/grafana/loki) ([v2.9.15](https://github.com/grafana/loki/releases/tag/v2.9.15), 2 days ago) - Like Prometheus, but for logs.
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.27.2](https://github.com/gitleaks/gitleaks/releases/tag/v8.27.2), 3 days ago) - Find secrets with Gitleaks 🔑
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.23.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.23.1), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.5](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.5), 6 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.4), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.4](https://github.com/project-zot/zot/releases/tag/v2.1.4), 6 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.32.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.32.0), 1 week ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
-- [fix: loading custom template via env](https://github.com/jkroepke/openvpn-auth-oauth2/pull/522) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [[ci] remove hour restriction from renovate schedule](https://github.com/prometheus-community/helm-charts/pull/5746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [feat: add soft-reload](https://github.com/jkroepke/openvpn-auth-oauth2/pull/519) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Deny os.stdout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/518) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Fix GitHub check comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/517) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [chore: add test for token cleanup](https://github.com/jkroepke/openvpn-auth-oauth2/pull/516) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Add AGENTS instructions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/515) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Fix typos in HTTPS Listener docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/514) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Add developer documentation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/513) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [Fix passthrough scanner error handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/512) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [fix: loading custom template via env](https://github.com/jkroepke/openvpn-auth-oauth2/pull/522) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [[ci] remove hour restriction from renovate schedule](https://github.com/prometheus-community/helm-charts/pull/5746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
+- [feat: add soft-reload](https://github.com/jkroepke/openvpn-auth-oauth2/pull/519) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [Deny os.stdout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/518) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Fix GitHub check comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/517) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [chore: add test for token cleanup](https://github.com/jkroepke/openvpn-auth-oauth2/pull/516) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Add AGENTS instructions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/515) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Fix typos in HTTPS Listener docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/514) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Add developer documentation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/513) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [Fix passthrough scanner error handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/512) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 day ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.  (1 day ago)
-- [CoolBeingBurrito/homelab](https://github.com/CoolBeingBurrito/homelab) - ein kleines clüsterchen (2 days ago)
+- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It's written in Swift, and optimized for Apple silicon.  (2 days ago)
+- [CoolBeingBurrito/homelab](https://github.com/CoolBeingBurrito/homelab) - ein kleines clüsterchen (3 days ago)
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (1 week ago)
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (1 month ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 month ago)
