@@ -50,6 +50,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore fix func](https://github.com/jkroepke/openvpn-auth-oauth2/pull/526) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [chore: Simplify lookupEnvOrDefault](https://github.com/jkroepke/openvpn-auth-oauth2/pull/525) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: support time.Duration via env](https://github.com/jkroepke/openvpn-auth-oauth2/pull/524) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: simplify run func](https://github.com/jkroepke/openvpn-auth-oauth2/pull/523) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: loading custom template via env](https://github.com/jkroepke/openvpn-auth-oauth2/pull/522) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [[ci] remove hour restriction from renovate schedule](https://github.com/prometheus-community/helm-charts/pull/5746) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -57,9 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Deny os.stdout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/518) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [Fix GitHub check comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/517) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [chore: add test for token cleanup](https://github.com/jkroepke/openvpn-auth-oauth2/pull/516) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Add AGENTS instructions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/515) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Fix typos in HTTPS Listener docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/514) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
-- [Add developer documentation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/513) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 
 #### ⭐ Recent Stars
 
