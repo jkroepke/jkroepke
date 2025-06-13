@@ -37,10 +37,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.33.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.33.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-74.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-74.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19+security-01](https://github.com/grafana/grafana/releases/tag/v10.4.19%2Bsecurity-01), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.23.1](https://github.com/grafana/helm-charts/releases/tag/tempo-1.23.1), 1 day ago) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.24.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.24.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.18](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.18), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/loki](https://github.com/grafana/loki) ([v2.9.15](https://github.com/grafana/loki/releases/tag/v2.9.15), 3 days ago) - Like Prometheus, but for logs.
