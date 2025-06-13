@@ -37,9 +37,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.7](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.7), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.37.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.37.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.6](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.6), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.6](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.6), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.4](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.4), today) - Github Action for installing vals (https://github.com/getsops/sops)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.3), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.33.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.33.0), 1 day ago) - Terraform provider for Azure Resource Manager
