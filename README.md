@@ -24,22 +24,22 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 day ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 day ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 day ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 day ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-74.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-74.2.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.1), today) - 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.7](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.7), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-5.37.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-5.37.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.6](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.6), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.4](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.4), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.33.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.33.0), 2 days ago) - Terraform provider for Azure Resource Manager
