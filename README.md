@@ -24,20 +24,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (1 day ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (2 days ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (2 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (2 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (2 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.5.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.5.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.1), 1 day ago) - 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.7](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.7), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.6](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.6), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[ci] bump Chart.yaml if changes are only in sub-directories.](https://github.com/prometheus-community/helm-charts/pull/5782) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[ci] add rebaseWhen option in renovate.json](https://github.com/prometheus-community/helm-charts/pull/5779) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[ci] enable auto merge for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/5776) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [logical_disk: add bitlocker status](https://github.com/prometheus-community/windows_exporter/pull/2077) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[CI] fix renovate post-hook action with larger files](https://github.com/prometheus-community/helm-charts/pull/5762) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[CI] fix renovate post-hook action with larger files](https://github.com/prometheus-community/helm-charts/pull/5761) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[CI] For prometheus-operator-crds, bump major version else patch](https://github.com/prometheus-community/helm-charts/pull/5760) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[CI] For prometheus-operator-crds, bump major version](https://github.com/prometheus-community/helm-charts/pull/5759) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 
 #### ⭐ Recent Stars
 
@@ -76,11 +76,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Dionysus-jr](https://github.com/Dionysus-jr)
 - [maex52e5](https://github.com/maex52e5)
 - [rizkyfaza20](https://github.com/rizkyfaza20)
 - [AffanAminPK](https://github.com/AffanAminPK)
 - [komaganrk](https://github.com/komaganrk)
-- [sins921](https://github.com/sins921)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
