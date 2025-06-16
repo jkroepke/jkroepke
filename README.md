@@ -50,6 +50,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [process: do not fail, if collector.process.iis is enabled and WMI WebAdministration is not present.](https://github.com/prometheus-community/windows_exporter/pull/2082) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [config: fix validation error with empty config files](https://github.com/prometheus-community/windows_exporter/pull/2080) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[ci] bump Chart.yaml if changes are only in sub-directories.](https://github.com/prometheus-community/helm-charts/pull/5782) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[ci] add rebaseWhen option in renovate.json](https://github.com/prometheus-community/helm-charts/pull/5779) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [[ci] enable auto merge for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/5776) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -58,8 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: add bitlocker collector](https://github.com/jkroepke/windows_exporter/pull/8) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (4 days ago)
 - [[CI] fix renovate auto merge](https://github.com/prometheus-community/helm-charts/pull/5763) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [[CI] fix renovate post-hook action with larger files](https://github.com/prometheus-community/helm-charts/pull/5762) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[CI] fix renovate post-hook action with larger files](https://github.com/prometheus-community/helm-charts/pull/5761) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[CI] For prometheus-operator-crds, bump major version else patch](https://github.com/prometheus-community/helm-charts/pull/5760) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
