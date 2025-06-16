@@ -37,8 +37,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.1), today) - 
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-06-16](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-06-16), today) - The STACKIT SDK for Go
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.0.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.4](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.4), today) - 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.4), 1 day ago) - Terraform provider for Hetzner DNS
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.7](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.7), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.6](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.6), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.33.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.33.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana](https://github.com/grafana/grafana) ([v10.4.19+security-01](https://github.com/grafana/grafana/releases/tag/v10.4.19%2Bsecurity-01), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.24.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.24.0), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.18](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.18), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
