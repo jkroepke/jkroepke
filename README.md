@@ -37,9 +37,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-74.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-74.2.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.4](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.4), today) - 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.4), 1 day ago) - Terraform provider for Hetzner DNS
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.5.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.7](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.7), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.6](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.6), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.4](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.4), 3 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
