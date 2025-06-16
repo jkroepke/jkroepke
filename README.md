@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.347](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.347), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.4](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.4), today) - 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.4), 1 day ago) - Terraform provider for Hetzner DNS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.5.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.7](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.7), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
