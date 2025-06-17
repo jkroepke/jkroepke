@@ -37,16 +37,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.2.1), today) - Prometheus community Helm charts
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.17.0), today) - Configure external DNS servers dynamically from Kubernetes resources
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.3.8](https://github.com/grafana/grafana/releases/tag/v11.3.8), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.2), today) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.5](https://github.com/project-zot/zot/releases/tag/v2.1.5), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.34.5](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.34.5), today) - A command-line interface to manage STACKIT resources
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.2.0), today) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.0), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-06-16](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-06-16), 1 day ago) - The STACKIT SDK for Go
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.4), 2 days ago) - Terraform provider for Hetzner DNS
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.7](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.7), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.6](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.6), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.2.4](https://github.com/jkroepke/setup-sops/releases/tag/v1.2.4), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 
 #### 🔨 My recent Pull Requests
 
