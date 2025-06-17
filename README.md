@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.6.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.1](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.1), 1 day ago) - 
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-06-16](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-06-16), 1 day ago) - The STACKIT SDK for Go
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.4), 2 days ago) - Terraform provider for Hetzner DNS
