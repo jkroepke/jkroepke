@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.2), today) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.5](https://github.com/project-zot/zot/releases/tag/v2.1.5), today) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.6](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.6), today) - 
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.34.5](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.34.5), today) - A command-line interface to manage STACKIT resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.2.0), today) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.0), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
