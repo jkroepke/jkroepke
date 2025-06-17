@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1775 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1774 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 303 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[ci] limit schedule for git-refs](https://github.com/prometheus-community/helm-charts/pull/5790) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [fix: added count checks](https://github.com/prometheus-community/windows_exporter/pull/2083) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [process: do not fail, if collector.process.iis is enabled and WMI WebAdministration is not present.](https://github.com/prometheus-community/windows_exporter/pull/2082) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [config: fix validation error with empty config files](https://github.com/prometheus-community/windows_exporter/pull/2080) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [logical_disk: add bitlocker status sub-collector](https://github.com/prometheus-community/windows_exporter/pull/2077) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [feat: add bitlocker collector](https://github.com/prometheus-community/windows_exporter/pull/2076) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [feat: add bitlocker collector](https://github.com/jkroepke/windows_exporter/pull/8) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (5 days ago)
-- [[CI] fix renovate auto merge](https://github.com/prometheus-community/helm-charts/pull/5763) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
