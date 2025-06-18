@@ -37,9 +37,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.4.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.2), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2](https://github.com/grafana/grafana/releases/tag/v12.0.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.2.1), 1 day ago) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.17.0), 1 day ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.5](https://github.com/project-zot/zot/releases/tag/v2.1.5), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.34.5](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.34.5), 1 day ago) - A command-line interface to manage STACKIT resources
@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix documentation typos and update admin references](https://github.com/jkroepke/openvpn-auth-oauth2/pull/529) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[ci] limit schedule for git-refs](https://github.com/prometheus-community/helm-charts/pull/5790) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix: added count checks](https://github.com/prometheus-community/windows_exporter/pull/2083) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [process: do not fail, if collector.process.iis is enabled and WMI WebAdministration is not present.](https://github.com/prometheus-community/windows_exporter/pull/2082) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] enable auto merge for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/5776) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [logical_disk: add bitlocker status sub-collector](https://github.com/prometheus-community/windows_exporter/pull/2077) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [feat: add bitlocker collector](https://github.com/prometheus-community/windows_exporter/pull/2076) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [feat: add bitlocker collector](https://github.com/jkroepke/windows_exporter/pull/8) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
