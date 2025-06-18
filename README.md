@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-memcached-exporter-0.4.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-memcached-exporter-0.4.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.2), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2](https://github.com/grafana/grafana/releases/tag/v12.0.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.17.0), 1 day ago) - Configure external DNS servers dynamically from Kubernetes resources
