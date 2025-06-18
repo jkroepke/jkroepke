@@ -27,18 +27,18 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (3 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
 - [jkroepke/pxe-node-provisioning](https://github.com/jkroepke/pxe-node-provisioning) - Treat Kubernetes nodes as cattle, not pets (3 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (3 days ago)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (4 days ago)
-- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.2), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.2), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.7](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.7), today) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2](https://github.com/grafana/grafana/releases/tag/v12.0.2), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.17.0), 1 day ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.5](https://github.com/project-zot/zot/releases/tag/v2.1.5), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[kube-prometheus-stack] Allow renovate to bump patch versions from prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/5799) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [Fix documentation typos and update admin references](https://github.com/jkroepke/openvpn-auth-oauth2/pull/529) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[ci] limit schedule for git-refs](https://github.com/prometheus-community/helm-charts/pull/5790) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
 - [fix: added count checks](https://github.com/prometheus-community/windows_exporter/pull/2083) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] add rebaseWhen option in renovate.json](https://github.com/prometheus-community/helm-charts/pull/5779) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
 - [[ci] enable auto merge for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/5776) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
 - [logical_disk: add bitlocker status sub-collector](https://github.com/prometheus-community/windows_exporter/pull/2077) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [feat: add bitlocker collector](https://github.com/prometheus-community/windows_exporter/pull/2076) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
