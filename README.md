@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.30.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.30.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.3.5](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.3.5), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.40](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.40), 1 day ago) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2](https://github.com/grafana/grafana/releases/tag/v12.0.2), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.17.0), 2 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.5](https://github.com/project-zot/zot/releases/tag/v2.1.5), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
