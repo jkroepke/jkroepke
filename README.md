@@ -25,8 +25,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (3 days ago)
@@ -50,16 +50,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add comment for httphandler.New](https://github.com/jkroepke/openvpn-auth-oauth2/pull/537) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Add missing GoDoc comments](https://github.com/jkroepke/openvpn-auth-oauth2/pull/536) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Add Execute doc comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/535) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Add comment on client message parsing](https://github.com/jkroepke/openvpn-auth-oauth2/pull/534) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Add config method comments](https://github.com/jkroepke/openvpn-auth-oauth2/pull/533) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Improve OAuth2 docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/532) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [Add missing OpenVPN client docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/531) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Improve testutils documentation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/530) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [dhcp: fix log level for dhcp server, if not present](https://github.com/prometheus-community/windows_exporter/pull/2086) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [[kube-prometheus-stack] Allow renovate to bump patch versions from prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/5799) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [Fix documentation typos and update admin references](https://github.com/jkroepke/openvpn-auth-oauth2/pull/529) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [[ci] limit schedule for git-refs](https://github.com/prometheus-community/helm-charts/pull/5790) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [fix: added count checks](https://github.com/prometheus-community/windows_exporter/pull/2083) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [process: do not fail, if collector.process.iis is enabled and WMI WebAdministration is not present.](https://github.com/prometheus-community/windows_exporter/pull/2082) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [config: fix validation error with empty config files](https://github.com/prometheus-community/windows_exporter/pull/2080) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [[ci] bump Chart.yaml if changes are only in sub-directories.](https://github.com/prometheus-community/helm-charts/pull/5782) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [[ci] add rebaseWhen option in renovate.json](https://github.com/prometheus-community/helm-charts/pull/5779) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 
 #### ⭐ Recent Stars
 
