@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add comments for http server methods](https://github.com/jkroepke/openvpn-auth-oauth2/pull/538) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add comment for httphandler.New](https://github.com/jkroepke/openvpn-auth-oauth2/pull/537) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add missing GoDoc comments](https://github.com/jkroepke/openvpn-auth-oauth2/pull/536) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Add Execute doc comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/535) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add missing OpenVPN client docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/531) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Improve testutils documentation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/530) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [dhcp: fix log level for dhcp server, if not present](https://github.com/prometheus-community/windows_exporter/pull/2086) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[kube-prometheus-stack] Allow renovate to bump patch versions from prometheus-operator](https://github.com/prometheus-community/helm-charts/pull/5799) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 
 #### ⭐ Recent Stars
 
