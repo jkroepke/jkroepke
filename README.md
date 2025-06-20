@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.8.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.7](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.7), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.0.2), 1 day ago) - 
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.34.5](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.34.5), 3 days ago) - A command-line interface to manage STACKIT resources
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.0), 3 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-06-16](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-06-16), 4 days ago) - The STACKIT SDK for Go
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.4](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.4), 5 days ago) - Terraform provider for Hetzner DNS
 
 #### 🔨 My recent Pull Requests
 
