@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.10.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.10.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.12.0), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.8](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.8), today) - Prometheus exporter for Windows machines
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.7](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.7), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -76,11 +76,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [kjxai](https://github.com/kjxai)
 - [Dionysus-jr](https://github.com/Dionysus-jr)
 - [maex52e5](https://github.com/maex52e5)
 - [rizkyfaza20](https://github.com/rizkyfaza20)
 - [AffanAminPK](https://github.com/AffanAminPK)
-- [komaganrk](https://github.com/komaganrk)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
