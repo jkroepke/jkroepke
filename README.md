@@ -24,42 +24,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (4 days ago)
-- [jkroepke/pxe-node-provisioning](https://github.com/jkroepke/pxe-node-provisioning) - Treat Kubernetes nodes as cattle, not pets (6 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (5 days ago)
+- [jkroepke/pxe-node-provisioning](https://github.com/jkroepke/pxe-node-provisioning) - Treat Kubernetes nodes as cattle, not pets (1 week ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 week ago)
 - [jkroepke/azure-vm-exporter](https://github.com/jkroepke/azure-vm-exporter) - A prometheus exporter to expose azure virtual machine metrics (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.8.0), today) - Prometheus community Helm charts
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.8](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.8), today) - Prometheus exporter for Windows machines
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.7](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.7), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.0.2), 2 days ago) - 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2](https://github.com/grafana/grafana/releases/tag/v12.0.2), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.17.0), 4 days ago) - Configure external DNS servers dynamically from Kubernetes resources
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.5](https://github.com/project-zot/zot/releases/tag/v2.1.5), 4 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.34.5](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.34.5), 4 days ago) - A command-line interface to manage STACKIT resources
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.0), 4 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([jiralert-1.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/jiralert-1.8.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.8](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.8), 1 day ago) - Prometheus exporter for Windows machines
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.7](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.7), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.0.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.0.2), 3 days ago) - 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2](https://github.com/grafana/grafana/releases/tag/v12.0.2), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.17.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.17.0), 5 days ago) - Configure external DNS servers dynamically from Kubernetes resources
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.5](https://github.com/project-zot/zot/releases/tag/v2.1.5), 5 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.34.5](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.34.5), 5 days ago) - A command-line interface to manage STACKIT resources
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.0), 5 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add note about Server 2012](https://github.com/prometheus-community/windows_exporter/pull/2093) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[0.30] service: report invalid parameter errors as debug (#2051)](https://github.com/prometheus-community/windows_exporter/pull/2092) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[0.30] fix: Avoid COINIT_MULTITHREADED in CoInitializeEx (#2066)](https://github.com/prometheus-community/windows_exporter/pull/2091) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[0.30] logical_disk: skip unmounted volumes (#2084)](https://github.com/prometheus-community/windows_exporter/pull/2090) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[0.30] fix: added count checks (#2083)](https://github.com/prometheus-community/windows_exporter/pull/2089) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: Clearify Windows Server 2012R2 support](https://github.com/prometheus-community/windows_exporter/pull/2087) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Add comments for http server methods](https://github.com/jkroepke/openvpn-auth-oauth2/pull/538) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Add comment for httphandler.New](https://github.com/jkroepke/openvpn-auth-oauth2/pull/537) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Add missing GoDoc comments](https://github.com/jkroepke/openvpn-auth-oauth2/pull/536) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [Add Execute doc comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/535) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [docs: add note about Server 2012](https://github.com/prometheus-community/windows_exporter/pull/2093) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[0.30] service: report invalid parameter errors as debug (#2051)](https://github.com/prometheus-community/windows_exporter/pull/2092) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[0.30] fix: Avoid COINIT_MULTITHREADED in CoInitializeEx (#2066)](https://github.com/prometheus-community/windows_exporter/pull/2091) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[0.30] logical_disk: skip unmounted volumes (#2084)](https://github.com/prometheus-community/windows_exporter/pull/2090) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [[0.30] fix: added count checks (#2083)](https://github.com/prometheus-community/windows_exporter/pull/2089) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [docs: Clearify Windows Server 2012R2 support](https://github.com/prometheus-community/windows_exporter/pull/2087) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Add comments for http server methods](https://github.com/jkroepke/openvpn-auth-oauth2/pull/538) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Add comment for httphandler.New](https://github.com/jkroepke/openvpn-auth-oauth2/pull/537) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Add missing GoDoc comments](https://github.com/jkroepke/openvpn-auth-oauth2/pull/536) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [Add Execute doc comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/535) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 
 #### ⭐ Recent Stars
 
