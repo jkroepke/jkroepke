@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: exclude OTEL instrumentation via build tag](https://github.com/zitadel/oidc/pull/760) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [docs: add note about Server 2012](https://github.com/prometheus-community/windows_exporter/pull/2093) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [[0.30] service: report invalid parameter errors as debug (#2051)](https://github.com/prometheus-community/windows_exporter/pull/2092) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [[0.30] fix: Avoid COINIT_MULTITHREADED in CoInitializeEx (#2066)](https://github.com/prometheus-community/windows_exporter/pull/2091) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add comments for http server methods](https://github.com/jkroepke/openvpn-auth-oauth2/pull/538) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Add comment for httphandler.New](https://github.com/jkroepke/openvpn-auth-oauth2/pull/537) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [Add missing GoDoc comments](https://github.com/jkroepke/openvpn-auth-oauth2/pull/536) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Add Execute doc comment](https://github.com/jkroepke/openvpn-auth-oauth2/pull/535) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 
 #### ⭐ Recent Stars
 
