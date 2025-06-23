@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[ci] Exclude major version bumps from auto merge](https://github.com/prometheus-community/helm-charts/pull/5825) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [chore: add test non working refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/540) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [feat: exclude OTEL instrumentation via build tag](https://github.com/zitadel/oidc/pull/760) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 day ago)
 - [docs: add note about Server 2012](https://github.com/prometheus-community/windows_exporter/pull/2093) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[0.30] fix: added count checks (#2083)](https://github.com/prometheus-community/windows_exporter/pull/2089) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [docs: Clearify Windows Server 2012R2 support](https://github.com/prometheus-community/windows_exporter/pull/2087) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [Add comments for http server methods](https://github.com/jkroepke/openvpn-auth-oauth2/pull/538) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Add comment for httphandler.New](https://github.com/jkroepke/openvpn-auth-oauth2/pull/537) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 
 #### ⭐ Recent Stars
 
