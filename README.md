@@ -37,9 +37,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.34](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.34), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.278.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.278.0), today) - A Go SDK for building backend plugins for Grafana
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.6.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.42.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.42.3), 1 day ago) - 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.4.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.4.0), 2 days ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.1), 2 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus/common](https://github.com/prometheus/common) ([v0.65.0](https://github.com/prometheus/common/releases/tag/v0.65.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
