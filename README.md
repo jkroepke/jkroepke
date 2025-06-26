@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.34](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.34), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.14.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.14.0), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.278.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.278.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.6.0), 2 days ago) - Prometheus community Helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.4.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.4.0), 3 days ago) - Microsoft 365 prometheus exporter
