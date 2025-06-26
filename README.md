@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), today) - Configure external DNS servers dynamically from Kubernetes resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.14.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.14.0), today) - 
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.278.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.278.0), 1 day ago) - A Go SDK for building backend plugins for Grafana
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.6.0), 2 days ago) - Prometheus community Helm charts
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.8](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.8), 5 days ago) - Prometheus exporter for Windows machines
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.34.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.34.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.7](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.7), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2](https://github.com/grafana/grafana/releases/tag/v12.0.2), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
