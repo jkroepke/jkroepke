@@ -39,6 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.2](https://github.com/prometheus/prometheus/releases/tag/v3.4.2), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.0](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.8.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.8.0), today) - A Grafana plugin app to create PDF reports of dashboards
@@ -48,7 +49,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.4.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.4.0), 3 days ago) - Microsoft 365 prometheus exporter
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.4.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.4.1), 3 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [prometheus/common](https://github.com/prometheus/common) ([v0.65.0](https://github.com/prometheus/common/releases/tag/v0.65.0), 4 days ago) - Go libraries shared across Prometheus components and libraries.
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.8](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.8), 5 days ago) - Prometheus exporter for Windows machines
 
 #### 🔨 My recent Pull Requests
 
