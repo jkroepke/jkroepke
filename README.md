@@ -26,8 +26,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
@@ -39,8 +39,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.1.2](https://github.com/grafana/helm-charts/releases/tag/alloy-1.1.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-6.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-6.1.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.6.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.6.1), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.2.9](https://github.com/grafana/helm-charts/releases/tag/grafana-9.2.9), today) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.4.2](https://github.com/prometheus/prometheus/releases/tag/v3.4.2), 1 day ago) - The Prometheus monitoring system and time series database.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.8.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.8.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
