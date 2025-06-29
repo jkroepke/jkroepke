@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [service: fix nil pointer](https://github.com/prometheus-community/windows_exporter/pull/2098) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mssql: fix ratio based counter](https://github.com/prometheus-community/windows_exporter/pull/2096) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[ci] enable auto merge for prometheus-couchdb-exporter](https://github.com/prometheus-community/helm-charts/pull/5849) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[ci] renovate auto-merge: enable auto-merge for prometheus-to-sd and prometheus-consul-exporter](https://github.com/prometheus-community/helm-charts/pull/5848) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: add test non working refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/540) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [feat: exclude OTEL instrumentation via build tag](https://github.com/zitadel/oidc/pull/760) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 week ago)
 - [docs: add note about Server 2012](https://github.com/prometheus-community/windows_exporter/pull/2093) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [[0.30] service: report invalid parameter errors as debug (#2051)](https://github.com/prometheus-community/windows_exporter/pull/2092) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
