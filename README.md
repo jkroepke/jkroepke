@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [diskdrive: fix not exposing state "Pred Fail"](https://github.com/prometheus-community/windows_exporter/pull/2101) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [service: fix nil pointer](https://github.com/prometheus-community/windows_exporter/pull/2098) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [mssql: fix ratio based counter](https://github.com/prometheus-community/windows_exporter/pull/2096) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [[ci] enable auto merge for prometheus-couchdb-exporter](https://github.com/prometheus-community/helm-charts/pull/5849) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] Exclude major version bumps from auto merge](https://github.com/prometheus-community/helm-charts/pull/5825) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [chore: add test non working refresh](https://github.com/jkroepke/openvpn-auth-oauth2/pull/540) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [feat: exclude OTEL instrumentation via build tag](https://github.com/zitadel/oidc/pull/760) on [zitadel/oidc](https://github.com/zitadel/oidc) (1 week ago)
-- [docs: add note about Server 2012](https://github.com/prometheus-community/windows_exporter/pull/2093) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
