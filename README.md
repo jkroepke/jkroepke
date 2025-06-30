@@ -39,9 +39,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.6.2), today) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.0), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.7.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.8.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.8.0), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), 4 days ago) - Configure external DNS servers dynamically from Kubernetes resources
