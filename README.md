@@ -19,8 +19,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [ioncoa (Ion Coada)](https://github.com/ioncoa)
 
-- [miinsun (민선 (minnie))](https://github.com/miinsun)
-
 - [numberly (Numberly)](https://github.com/numberly)
 
 
