@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.3.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.35.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.35.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.7.0), 1 day ago) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.35.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.35.0), 1 day ago) - A command-line interface to manage STACKIT resources
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.0), 2 days ago) - 
