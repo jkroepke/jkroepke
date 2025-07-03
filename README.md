@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add RKE2 in distribution detector](https://github.com/freelensapp/freelens/pull/947) on [freelensapp/freelens](https://github.com/freelensapp/freelens) (today)
 - [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [iis: missing metrics if app-include is set.](https://github.com/prometheus-community/windows_exporter/pull/2103) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [diskdrive: fix not exposing state "Pred Fail"](https://github.com/prometheus-community/windows_exporter/pull/2101) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[ci] renovate auto-merge: enable auto-merge for prometheus-to-sd and prometheus-consul-exporter](https://github.com/prometheus-community/helm-charts/pull/5848) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
 - [merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16787) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16786) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
-- [[ci] Exclude major version bumps from auto merge](https://github.com/prometheus-community/helm-charts/pull/5825) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
 
