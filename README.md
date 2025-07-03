@@ -24,41 +24,41 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (5 days ago)
+- [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 - [jkroepke/pxe-node-provisioning](https://github.com/jkroepke/pxe-node-provisioning) - Treat Kubernetes nodes as cattle, not pets (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.3.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.35.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.35.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.35.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.35.0), 1 day ago) - A command-line interface to manage STACKIT resources
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.0), 2 days ago) - 
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), 6 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.8.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.8.0), 6 days ago) - A Grafana plugin app to create PDF reports of dashboards
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), 6 days ago) - Configure external DNS servers dynamically from Kubernetes resources
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.3.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.35.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.35.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.35.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.35.0), 2 days ago) - A command-line interface to manage STACKIT resources
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.0), 3 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.8.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.8.0), 1 week ago) - A Grafana plugin app to create PDF reports of dashboards
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), 1 week ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.278.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.278.0), 1 week ago) - A Go SDK for building backend plugins for Grafana
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.4.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.4.0), 1 week ago) - Microsoft 365 prometheus exporter
 
 #### 🔨 My recent Pull Requests
 
-- [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [iis: missing metrics if app-include is set.](https://github.com/prometheus-community/windows_exporter/pull/2103) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [diskdrive: fix not exposing state "Pred Fail"](https://github.com/prometheus-community/windows_exporter/pull/2101) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2098) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [mssql: fix ratio based counter](https://github.com/prometheus-community/windows_exporter/pull/2096) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [[ci] enable auto merge for prometheus-couchdb-exporter](https://github.com/prometheus-community/helm-charts/pull/5849) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [[ci] renovate auto-merge: enable auto-merge for prometheus-to-sd and prometheus-consul-exporter](https://github.com/prometheus-community/helm-charts/pull/5848) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16787) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (6 days ago)
-- [merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16786) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (6 days ago)
+- [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [iis: missing metrics if app-include is set.](https://github.com/prometheus-community/windows_exporter/pull/2103) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [diskdrive: fix not exposing state "Pred Fail"](https://github.com/prometheus-community/windows_exporter/pull/2101) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2098) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [mssql: fix ratio based counter](https://github.com/prometheus-community/windows_exporter/pull/2096) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [[ci] enable auto merge for prometheus-couchdb-exporter](https://github.com/prometheus-community/helm-charts/pull/5849) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[ci] renovate auto-merge: enable auto-merge for prometheus-to-sd and prometheus-consul-exporter](https://github.com/prometheus-community/helm-charts/pull/5848) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
+- [merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16787) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
+- [merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16786) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 - [[ci] Exclude major version bumps from auto merge](https://github.com/prometheus-community/helm-charts/pull/5825) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 
 #### ⭐ Recent Stars
@@ -68,7 +68,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [CoolBeingBurrito/homelab](https://github.com/CoolBeingBurrito/homelab) - ein kleines clüsterchen (3 weeks ago)
 - [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (1 month ago)
 - [samuelngs/apple-emoji-linux](https://github.com/samuelngs/apple-emoji-linux) - Brings Apple's vibrant emojis to your Linux experience (1 month ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 month ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 months ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (2 months ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (3 months ago)
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A log viewer for Kubernetes troubleshooting (4 months ago)
@@ -76,11 +76,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [Rxfa](https://github.com/Rxfa)
 - [hcavarsan](https://github.com/hcavarsan)
 - [kjxai](https://github.com/kjxai)
 - [Dionysus-jr](https://github.com/Dionysus-jr)
 - [maex52e5](https://github.com/maex52e5)
-- [rizkyfaza20](https://github.com/rizkyfaza20)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
