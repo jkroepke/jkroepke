@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.8](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.8), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.5](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.5), 1 day ago) - Terraform provider for Hetzner DNS
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.0](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-sql-exporter-0.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-sql-exporter-0.3.0), 2 days ago) - Prometheus community Helm charts
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.8.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.8.0), 1 week ago) - A Grafana plugin app to create PDF reports of dashboards
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), 1 week ago) - Configure external DNS servers dynamically from Kubernetes resources
-- [grafana/grafana-plugin-sdk-go](https://github.com/grafana/grafana-plugin-sdk-go) ([v0.278.0](https://github.com/grafana/grafana-plugin-sdk-go/releases/tag/v0.278.0), 1 week ago) - A Go SDK for building backend plugins for Grafana
 
 #### 🔨 My recent Pull Requests
 
