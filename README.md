@@ -17,6 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ❤️ Sponsors
 
+- [Zero-Down-Time (Zero Down Time IT Consulting)](https://github.com/Zero-Down-Time)
+
 - [ioncoa (Ion Coada)](https://github.com/ioncoa)
 
 - [numberly (Numberly)](https://github.com/numberly)
