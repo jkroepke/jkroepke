@@ -52,6 +52,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [update: remove deprecated flags](https://github.com/prometheus-community/windows_exporter/pull/2113) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [system: remove windows_system_boot_time_timestamp_seconds](https://github.com/prometheus-community/windows_exporter/pull/2112) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mssql: Use PatchLevel instead Version](https://github.com/prometheus-community/windows_exporter/pull/2108) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [feat: add RKE2 in distribution detector](https://github.com/freelensapp/freelens/pull/947) on [freelensapp/freelens](https://github.com/freelensapp/freelens) (2 days ago)
 - [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
@@ -60,8 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2098) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [mssql: fix ratio based counter](https://github.com/prometheus-community/windows_exporter/pull/2096) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [[ci] enable auto merge for prometheus-couchdb-exporter](https://github.com/prometheus-community/helm-charts/pull/5849) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
-- [[ci] renovate auto-merge: enable auto-merge for prometheus-to-sd and prometheus-consul-exporter](https://github.com/prometheus-community/helm-charts/pull/5848) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
-- [merge release-3.4 into main](https://github.com/prometheus/prometheus/pull/16787) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
 
 #### ⭐ Recent Stars
 
