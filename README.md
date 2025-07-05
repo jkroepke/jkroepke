@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.8.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.43.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.43.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.8.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.8](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.8), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.5](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.5), 2 days ago) - Terraform provider for Hetzner DNS
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.35.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.35.0), 4 days ago) - Terraform provider for Azure Resource Manager
