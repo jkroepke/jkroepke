@@ -39,6 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0), today) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.8.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.43.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.43.0), 1 day ago) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.8](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.8), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -48,10 +49,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.0), 5 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.8.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.8.0), 1 week ago) - A Grafana plugin app to create PDF reports of dashboards
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.18.0), 1 week ago) - Configure external DNS servers dynamically from Kubernetes resources
 
 #### 🔨 My recent Pull Requests
 
+- [os: remove deprecated metrics](https://github.com/prometheus-community/windows_exporter/pull/2116) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [cs: remove deprecated cs collector](https://github.com/prometheus-community/windows_exporter/pull/2115) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [logon: remove logon collector. Use `terminal_services` instead.](https://github.com/prometheus-community/windows_exporter/pull/2114) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [update: remove deprecated flags](https://github.com/prometheus-community/windows_exporter/pull/2113) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [system: remove windows_system_boot_time_timestamp_seconds](https://github.com/prometheus-community/windows_exporter/pull/2112) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mssql: Use PatchLevel instead Version](https://github.com/prometheus-community/windows_exporter/pull/2108) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -59,9 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [iis: missing metrics if app-include is set.](https://github.com/prometheus-community/windows_exporter/pull/2103) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [diskdrive: fix not exposing state "Pred Fail"](https://github.com/prometheus-community/windows_exporter/pull/2101) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2098) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [mssql: fix ratio based counter](https://github.com/prometheus-community/windows_exporter/pull/2096) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [[ci] enable auto merge for prometheus-couchdb-exporter](https://github.com/prometheus-community/helm-charts/pull/5849) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
