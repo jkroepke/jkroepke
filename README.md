@@ -26,42 +26,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
-- [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (today)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
-- [jkroepke/pxe-node-provisioning](https://github.com/jkroepke/pxe-node-provisioning) - Treat Kubernetes nodes as cattle, not pets (2 weeks ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (2 weeks ago)
+- [jkroepke/pxe-node-provisioning](https://github.com/jkroepke/pxe-node-provisioning) - Treat Kubernetes nodes as cattle, not pets (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.9.0), today) - Prometheus community Helm charts
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0), today) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.43.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.43.0), 1 day ago) - 
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.8](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.8), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.5](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.5), 2 days ago) - Terraform provider for Hetzner DNS
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.35.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.35.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.35.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.35.0), 4 days ago) - A command-line interface to manage STACKIT resources
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.0), 5 days ago) - The Prometheus monitoring system and time series database.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.9.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0), 1 day ago) - Prometheus exporter for Windows machines
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.43.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.43.0), 2 days ago) - 
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.8](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.8), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.5](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.5), 3 days ago) - Terraform provider for Hetzner DNS
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.35.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.35.0), 5 days ago) - Terraform provider for Azure Resource Manager
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.35.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.35.0), 5 days ago) - A command-line interface to manage STACKIT resources
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.0), 6 days ago) - The Prometheus monitoring system and time series database.
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.4.0](https://github.com/freelensapp/freelens/releases/tag/v1.4.0), 1 week ago) - Free IDE for Kubernetes
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.8.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.8.0), 1 week ago) - A Grafana plugin app to create PDF reports of dashboards
 
 #### 🔨 My recent Pull Requests
 
-- [os: remove deprecated metrics](https://github.com/prometheus-community/windows_exporter/pull/2116) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [cs: remove deprecated cs collector](https://github.com/prometheus-community/windows_exporter/pull/2115) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [logon: remove logon collector. Use `terminal_services` instead.](https://github.com/prometheus-community/windows_exporter/pull/2114) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [update: remove deprecated flags](https://github.com/prometheus-community/windows_exporter/pull/2113) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [system: remove windows_system_boot_time_timestamp_seconds](https://github.com/prometheus-community/windows_exporter/pull/2112) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mssql: Use PatchLevel instead Version](https://github.com/prometheus-community/windows_exporter/pull/2108) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Detect RKE2 cluster with distribution detector](https://github.com/freelensapp/freelens/pull/947) on [freelensapp/freelens](https://github.com/freelensapp/freelens) (2 days ago)
-- [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [iis: missing metrics if app-include is set.](https://github.com/prometheus-community/windows_exporter/pull/2103) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [diskdrive: fix not exposing state "Pred Fail"](https://github.com/prometheus-community/windows_exporter/pull/2101) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [os: remove deprecated metrics](https://github.com/prometheus-community/windows_exporter/pull/2116) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [cs: remove deprecated cs collector](https://github.com/prometheus-community/windows_exporter/pull/2115) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [logon: remove logon collector. Use `terminal_services` instead.](https://github.com/prometheus-community/windows_exporter/pull/2114) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [update: remove deprecated flags](https://github.com/prometheus-community/windows_exporter/pull/2113) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [system: remove windows_system_boot_time_timestamp_seconds](https://github.com/prometheus-community/windows_exporter/pull/2112) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mssql: Use PatchLevel instead Version](https://github.com/prometheus-community/windows_exporter/pull/2108) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Detect RKE2 cluster with distribution detector](https://github.com/freelensapp/freelens/pull/947) on [freelensapp/freelens](https://github.com/freelensapp/freelens) (3 days ago)
+- [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [iis: missing metrics if app-include is set.](https://github.com/prometheus-community/windows_exporter/pull/2103) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [diskdrive: fix not exposing state "Pred Fail"](https://github.com/prometheus-community/windows_exporter/pull/2101) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
@@ -73,7 +73,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 months ago)
 - [zapier/kubechecks](https://github.com/zapier/kubechecks) - Check your Kubernetes changes before they hit the cluster (2 months ago)
 - [appvia/terranetes-controller](https://github.com/appvia/terranetes-controller) - The terranetes controller manages the lifecycle of an OpenTofu or Terraform resource, allowing developers to self-serve dependencies in a controlled manner. (3 months ago)
-- [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A log viewer for Kubernetes troubleshooting (4 months ago)
+- [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A log viewer for Kubernetes troubleshooting (5 months ago)
 - [takaishi/tfclean](https://github.com/takaishi/tfclean) - tfclean is tool to remove applied moved block, import block, etc (5 months ago)
 
 #### 👯 Check out some of my recent followers
