@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1797 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1798 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 309 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [[prometheus] Add DaemonSet deployment type](https://github.com/prometheus-community/helm-charts/pull/5869) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [fix ARGs in Dockerfile](https://github.com/brancz/kube-rbac-proxy/pull/383) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (today)
 - [Add --upstream-insecure-skip-verify flag](https://github.com/brancz/kube-rbac-proxy/pull/382) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (today)
 - [os: remove deprecated metrics](https://github.com/prometheus-community/windows_exporter/pull/2116) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [system: remove windows_system_boot_time_timestamp_seconds](https://github.com/prometheus-community/windows_exporter/pull/2112) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [mssql: Use PatchLevel instead Version](https://github.com/prometheus-community/windows_exporter/pull/2108) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [Detect RKE2 cluster with distribution detector](https://github.com/freelensapp/freelens/pull/947) on [freelensapp/freelens](https://github.com/freelensapp/freelens) (3 days ago)
-- [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
