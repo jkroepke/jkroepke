@@ -30,12 +30,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (4 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
+- [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
-- [jkroepke/pxe-node-provisioning](https://github.com/jkroepke/pxe-node-provisioning) - Treat Kubernetes nodes as cattle, not pets (3 weeks ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -52,6 +52,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix ARGs in Dockerfile](https://github.com/brancz/kube-rbac-proxy/pull/383) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (today)
+- [Add --upstream-insecure-skip-verify flag](https://github.com/brancz/kube-rbac-proxy/pull/382) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (today)
 - [os: remove deprecated metrics](https://github.com/prometheus-community/windows_exporter/pull/2116) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [cs: remove deprecated cs collector](https://github.com/prometheus-community/windows_exporter/pull/2115) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [logon: remove logon collector. Use `terminal_services` instead.](https://github.com/prometheus-community/windows_exporter/pull/2114) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -60,8 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [mssql: Use PatchLevel instead Version](https://github.com/prometheus-community/windows_exporter/pull/2108) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [Detect RKE2 cluster with distribution detector](https://github.com/freelensapp/freelens/pull/947) on [freelensapp/freelens](https://github.com/freelensapp/freelens) (3 days ago)
 - [os: missing deprecated metric windows_os_processes](https://github.com/prometheus-community/windows_exporter/pull/2104) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [iis: missing metrics if app-include is set.](https://github.com/prometheus-community/windows_exporter/pull/2103) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [diskdrive: fix not exposing state "Pred Fail"](https://github.com/prometheus-community/windows_exporter/pull/2101) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
