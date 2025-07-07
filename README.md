@@ -39,16 +39,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-1.6.42](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-1.6.42), today) - 
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-07-07](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-07-07), today) - The STACKIT SDK for Go
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.19](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.19), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.9.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.0), 2 days ago) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.43.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.43.0), 3 days ago) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.8](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.8), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.5](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.5), 4 days ago) - Terraform provider for Hetzner DNS
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.35.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.35.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.35.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.35.0), 6 days ago) - A command-line interface to manage STACKIT resources
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.0), 1 week ago) - The Prometheus monitoring system and time series database.
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.4.0](https://github.com/freelensapp/freelens/releases/tag/v1.4.0), 1 week ago) - Free IDE for Kubernetes
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.9.2](https://github.com/grafana/alloy/releases/tag/v1.9.2), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
