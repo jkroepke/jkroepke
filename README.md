@@ -39,7 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.35](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.35), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.1), today) - 
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.36.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.36.0), today) - A command-line interface to manage STACKIT resources
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-07-07](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-07-07), today) - The STACKIT SDK for Go
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.12.19](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.12.19), today) - Helm charts to allow for the deployment of OAuth2-Proxy
