@@ -39,7 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.0.5](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.0.5), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.44.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.44.1), today) - 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.6), today) - Terraform provider for Hetzner DNS
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.7.1), 1 day ago) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.5.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.5.0), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
