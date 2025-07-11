@@ -39,7 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.10.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.23](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.23), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), today) - Like Prometheus, but for logs.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.45.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.45.0), today) - 
@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [gpu: fix windows_gpu_info metric](https://github.com/prometheus-community/windows_exporter/pull/2130) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [container: fix memory leaks](https://github.com/prometheus-community/windows_exporter/pull/2129) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix(helm): Fix setting X-Scope-OrgID header](https://github.com/grafana/loki/pull/18414) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
 - [fix Medium link](https://github.com/dillonzq/LoveIt/pull/985) on [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) (1 day ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat(helm): Add non-default-values.yaml to increase test coverage](https://github.com/grafana/loki/pull/18360) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
 - [filetime: support windows paths](https://github.com/prometheus-community/windows_exporter/pull/2118) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [[prometheus] Add DaemonSet deployment type](https://github.com/prometheus-community/helm-charts/pull/5869) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (5 days ago)
-- [fix ARGs in Dockerfile](https://github.com/brancz/kube-rbac-proxy/pull/383) on [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) (5 days ago)
 
 #### ⭐ Recent Stars
 
