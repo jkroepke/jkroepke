@@ -39,13 +39,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.22](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.22), today) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.45.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.45.0), today) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.9](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.9), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.36.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.36.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.10.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.6), 2 days ago) - Terraform provider for Hetzner DNS
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.7.1), 3 days ago) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.5.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.5.0), 3 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.36.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.36.0), 4 days ago) - A command-line interface to manage STACKIT resources
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-07-07](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-07-07), 4 days ago) - The STACKIT SDK for Go
