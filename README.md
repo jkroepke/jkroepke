@@ -39,7 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.24.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.0), today) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), 1 day ago) - Like Prometheus, but for logs.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.45.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.45.0), 1 day ago) - 
