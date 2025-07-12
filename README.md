@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [rector main function](https://github.com/jkroepke/openvpn-auth-oauth2/pull/553) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [gpu: fix windows_gpu_info metric](https://github.com/prometheus-community/windows_exporter/pull/2130) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [container: fix memory leaks](https://github.com/prometheus-community/windows_exporter/pull/2129) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix(helm): Fix setting X-Scope-OrgID header](https://github.com/grafana/loki/pull/18414) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [docs: Update README.md](https://github.com/prometheus-community/windows_exporter/pull/2121) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [feat(helm): Add non-default-values.yaml to increase test coverage](https://github.com/grafana/loki/pull/18360) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
 - [filetime: support windows paths](https://github.com/prometheus-community/windows_exporter/pull/2118) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [[prometheus] Add DaemonSet deployment type](https://github.com/prometheus-community/helm-charts/pull/5869) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
