@@ -27,48 +27,48 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (6 days ago)
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. (6 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 week ago)
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. (1 week ago)
 - [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.0), today) - Prometheus community Helm charts
-- [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), 1 day ago) - Like Prometheus, but for logs.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.45.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.45.0), 1 day ago) - 
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.9](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.9), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.36.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.36.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.10.0-rc.0), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.6), 3 days ago) - Terraform provider for Hetzner DNS
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.5.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.5.0), 4 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.36.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.36.0), 5 days ago) - A command-line interface to manage STACKIT resources
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.0), 1 day ago) - Prometheus community Helm charts
+- [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), 2 days ago) - Like Prometheus, but for logs.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.45.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.45.0), 2 days ago) - 
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.9](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.9), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.36.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.36.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.10.0-rc.0), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.6), 4 days ago) - Terraform provider for Hetzner DNS
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.5.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.5.0), 5 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.36.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.36.0), 6 days ago) - A command-line interface to manage STACKIT resources
 
 #### 🔨 My recent Pull Requests
 
-- [filetime: support case insensitive matching](https://github.com/prometheus-community/windows_exporter/pull/2132) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [rector main function](https://github.com/jkroepke/openvpn-auth-oauth2/pull/553) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [gpu: fix windows_gpu_info metric](https://github.com/prometheus-community/windows_exporter/pull/2130) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [container: fix memory leaks](https://github.com/prometheus-community/windows_exporter/pull/2129) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [fix(helm): Fix setting X-Scope-OrgID header](https://github.com/grafana/loki/pull/18414) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
-- [fix Medium link](https://github.com/dillonzq/LoveIt/pull/985) on [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) (2 days ago)
-- [config: fix lists](https://github.com/prometheus-community/windows_exporter/pull/2124) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [docs: strip readme to avoid dockerhub limitations](https://github.com/prometheus-community/windows_exporter/pull/2123) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [docs: Update README.md](https://github.com/prometheus-community/windows_exporter/pull/2121) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [feat(helm): Add non-default-values.yaml to increase test coverage](https://github.com/grafana/loki/pull/18360) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
+- [filetime: support case insensitive matching](https://github.com/prometheus-community/windows_exporter/pull/2132) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [rector main function](https://github.com/jkroepke/openvpn-auth-oauth2/pull/553) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [gpu: fix windows_gpu_info metric](https://github.com/prometheus-community/windows_exporter/pull/2130) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [container: fix memory leaks](https://github.com/prometheus-community/windows_exporter/pull/2129) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [fix(helm): Fix setting X-Scope-OrgID header](https://github.com/grafana/loki/pull/18414) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
+- [fix Medium link](https://github.com/dillonzq/LoveIt/pull/985) on [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) (3 days ago)
+- [config: fix lists](https://github.com/prometheus-community/windows_exporter/pull/2124) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [docs: strip readme to avoid dockerhub limitations](https://github.com/prometheus-community/windows_exporter/pull/2123) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [docs: Update README.md](https://github.com/prometheus-community/windows_exporter/pull/2121) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [feat(helm): Add non-default-values.yaml to increase test coverage](https://github.com/grafana/loki/pull/18360) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (today)
-- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (3 days ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (3 days ago)
-- [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator (6 days ago)
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 day ago)
+- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (4 days ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (4 days ago)
+- [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator (1 week ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 month ago)
 - [CoolBeingBurrito/homelab](https://github.com/CoolBeingBurrito/homelab) - ein kleines clüsterchen (1 month ago)
