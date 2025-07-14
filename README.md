@@ -26,21 +26,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 week ago)
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. (1 week ago)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 week ago)
 - [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.5](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.5), today) - 
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.0](https://github.com/freelensapp/freelens/releases/tag/v1.5.0), today) - Free IDE for Kubernetes
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.16.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.16.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), 3 days ago) - Like Prometheus, but for logs.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.5.0-rc.1), 3 days ago) - The Prometheus monitoring system and time series database.
