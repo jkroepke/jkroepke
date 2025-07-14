@@ -39,6 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.0](https://github.com/freelensapp/freelens/releases/tag/v1.5.0), today) - Free IDE for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([oncall-1.16.4](https://github.com/grafana/helm-charts/releases/tag/oncall-1.16.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), 3 days ago) - Like Prometheus, but for logs.
@@ -48,7 +49,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.10.0-rc.0), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.6), 5 days ago) - Terraform provider for Hetzner DNS
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.5.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.5.0), 6 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.36.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.36.0), 1 week ago) - A command-line interface to manage STACKIT resources
 
 #### 🔨 My recent Pull Requests
 
