@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: exclude OTEL instrumentation via build tag](https://github.com/zitadel/oidc/pull/770) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [filetime: support case insensitive matching](https://github.com/prometheus-community/windows_exporter/pull/2132) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [rector main function](https://github.com/jkroepke/openvpn-auth-oauth2/pull/553) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [gpu: fix windows_gpu_info metric](https://github.com/prometheus-community/windows_exporter/pull/2130) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [config: fix lists](https://github.com/prometheus-community/windows_exporter/pull/2124) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [docs: strip readme to avoid dockerhub limitations](https://github.com/prometheus-community/windows_exporter/pull/2123) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [docs: Update README.md](https://github.com/prometheus-community/windows_exporter/pull/2121) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [feat(helm): Add non-default-values.yaml to increase test coverage](https://github.com/grafana/loki/pull/18360) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 
 #### ⭐ Recent Stars
 
