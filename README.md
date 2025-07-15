@@ -26,6 +26,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
@@ -34,13 +35,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. (1 week ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 week ago)
 - [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 weeks ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.11.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.3), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.0.1), today) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), today) - Configure external DNS servers dynamically from Kubernetes resources
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0), 1 day ago) - The Prometheus monitoring system and time series database.
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.0](https://github.com/freelensapp/freelens/releases/tag/v1.5.0), 1 day ago) - Free IDE for Kubernetes
@@ -52,6 +52,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Renovate: exclude prometheus-operator minor updates for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/5891) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
+- [handle 403 errors from google, if user is not part of the group](https://github.com/jkroepke/openvpn-auth-oauth2/pull/554) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [feat: exclude OTEL instrumentation via build tag](https://github.com/zitadel/oidc/pull/770) on [zitadel/oidc](https://github.com/zitadel/oidc) (today)
 - [filetime: support case insensitive matching](https://github.com/prometheus-community/windows_exporter/pull/2132) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [rector main function](https://github.com/jkroepke/openvpn-auth-oauth2/pull/553) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
@@ -60,8 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix(helm): Fix setting X-Scope-OrgID header](https://github.com/grafana/loki/pull/18414) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
 - [fix Medium link](https://github.com/dillonzq/LoveIt/pull/985) on [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) (5 days ago)
 - [config: fix lists](https://github.com/prometheus-community/windows_exporter/pull/2124) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [docs: strip readme to avoid dockerhub limitations](https://github.com/prometheus-community/windows_exporter/pull/2123) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [docs: Update README.md](https://github.com/prometheus-community/windows_exporter/pull/2121) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
