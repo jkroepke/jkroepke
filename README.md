@@ -39,9 +39,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.0.1), today) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), today) - Configure external DNS servers dynamically from Kubernetes resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.36](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.36), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.25.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0), 1 day ago) - The Prometheus monitoring system and time series database.
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.0](https://github.com/freelensapp/freelens/releases/tag/v1.5.0), 1 day ago) - Free IDE for Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), 4 days ago) - Like Prometheus, but for logs.
