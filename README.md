@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1804 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1805 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 312 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -39,6 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.18.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.18.0), today) - Configure external DNS servers dynamically from Kubernetes resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.36](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.36), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.25.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.25.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.5.0](https://github.com/prometheus/prometheus/releases/tag/v3.5.0), 1 day ago) - The Prometheus monitoring system and time series database.
@@ -48,7 +49,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.36.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.36.0), 5 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.10.0-rc.0), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.6](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.6), 6 days ago) - Terraform provider for Hetzner DNS
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.5.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.5.0), 1 week ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
