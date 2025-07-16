@@ -39,6 +39,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0](https://github.com/grafana/alloy/releases/tag/v1.10.0), today) - OpenTelemetry Collector distribution with programmable pipelines
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.0-rc.1](https://github.com/prometheus/client_golang/releases/tag/v1.23.0-rc.1), today) - Prometheus instrumentation library for Go applications
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.41.0](https://github.com/zitadel/oidc/releases/tag/v3.41.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.9.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.32.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.32.0), 1 day ago) - 
@@ -47,8 +49,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.0](https://github.com/freelensapp/freelens/releases/tag/v1.5.0), 2 days ago) - Free IDE for Kubernetes
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.5](https://github.com/grafana/loki/releases/tag/v3.4.5), 5 days ago) - Like Prometheus, but for logs.
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.9](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.9), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.36.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.36.0), 6 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.10.0-rc.0), 6 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
