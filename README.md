@@ -39,7 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-snmp-exporter-9.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-snmp-exporter-9.6.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.26.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.26.0), today) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.24.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.24.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0](https://github.com/grafana/alloy/releases/tag/v1.10.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.0-rc.1](https://github.com/prometheus/client_golang/releases/tag/v1.23.0-rc.1), 1 day ago) - Prometheus instrumentation library for Go applications
