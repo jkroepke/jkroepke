@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix no-storage.tsdb.allow-overlapping-compaction argument](https://github.com/prometheus-operator/prometheus-operator/pull/7731) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (today)
 - [container: fix network metrics](https://github.com/prometheus-community/windows_exporter/pull/2136) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [[admin] Enable Auto Merge for renovate dependency bumps by default](https://github.com/prometheus-community/helm-charts/pull/5897) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
 - [Renovate: exclude prometheus-operator minor updates for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/5891) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [rector main function](https://github.com/jkroepke/openvpn-auth-oauth2/pull/553) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [gpu: fix windows_gpu_info metric](https://github.com/prometheus-community/windows_exporter/pull/2130) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [container: fix memory leaks](https://github.com/prometheus-community/windows_exporter/pull/2129) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [fix(helm): Fix setting X-Scope-OrgID header](https://github.com/grafana/loki/pull/18414) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 
 #### ⭐ Recent Stars
 
