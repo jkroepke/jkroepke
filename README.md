@@ -39,7 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.2](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.2.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.2.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.9.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.9.3), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.1](https://github.com/freelensapp/freelens/releases/tag/v1.5.1), 1 day ago) - Free IDE for Kubernetes
