@@ -39,8 +39,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.12.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.2.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.2.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.9.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.9.3), today) - Prometheus community Helm charts
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.1](https://github.com/freelensapp/freelens/releases/tag/v1.5.1), 1 day ago) - Free IDE for Kubernetes
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2+security-01](https://github.com/grafana/grafana/releases/tag/v12.0.2%2Bsecurity-01), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
