@@ -39,9 +39,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.10.1), today) - Prometheus community Helm charts
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.2](https://github.com/freelensapp/freelens/releases/tag/v1.5.2), today) - Free IDE for Kubernetes
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.28.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.28.0), today) - Find secrets with Gitleaks 🔑
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingdom-exporter-3.4.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingdom-exporter-3.4.1), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.9](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.9), today) - Prometheus exporter for Windows machines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.0), 1 day ago) - 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
