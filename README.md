@@ -26,49 +26,49 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (1 week ago)
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. (1 week ago)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (2 weeks ago)
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. (2 weeks ago)
 - [jkroepke/grafana-champions-contribution-tracker](https://github.com/jkroepke/grafana-champions-contribution-tracker) -  (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-pingmesh-exporter-0.4.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-pingmesh-exporter-0.4.3), today) - Prometheus community Helm charts
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.1](https://github.com/freelensapp/freelens/releases/tag/v1.5.1), 2 days ago) - Free IDE for Kubernetes
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2+security-01](https://github.com/grafana/grafana/releases/tag/v12.0.2%2Bsecurity-01), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.37.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.37.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.1), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.24.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.24.1), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0](https://github.com/grafana/alloy/releases/tag/v1.10.0), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.0-rc.1](https://github.com/prometheus/client_golang/releases/tag/v1.23.0-rc.1), 3 days ago) - Prometheus instrumentation library for Go applications
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.11.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.11.2), today) - Prometheus community Helm charts
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.1](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.1), today) - Prometheus exporter for Windows machines
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.0), 1 day ago) - 
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.1](https://github.com/freelensapp/freelens/releases/tag/v1.5.1), 3 days ago) - Free IDE for Kubernetes
+- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2+security-01](https://github.com/grafana/grafana/releases/tag/v12.0.2%2Bsecurity-01), 3 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.37.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.37.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.1), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.24.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.24.1), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.0](https://github.com/grafana/alloy/releases/tag/v1.10.0), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
-- [chore: test coverage](https://github.com/jkroepke/openvpn-auth-oauth2/pull/558) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Fix no-storage.tsdb.allow-overlapping-compaction argument](https://github.com/prometheus-operator/prometheus-operator/pull/7731) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (1 day ago)
-- [container: fix network metrics](https://github.com/prometheus-community/windows_exporter/pull/2136) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [[admin] Enable Auto Merge for renovate dependency bumps by default](https://github.com/prometheus-community/helm-charts/pull/5897) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (3 days ago)
-- [Renovate: exclude prometheus-operator minor updates for kube-prometheus-stack](https://github.com/prometheus-community/helm-charts/pull/5891) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [handle 403 errors from google, if user is not part of the group](https://github.com/jkroepke/openvpn-auth-oauth2/pull/554) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [feat: exclude OTEL instrumentation via build tag](https://github.com/zitadel/oidc/pull/770) on [zitadel/oidc](https://github.com/zitadel/oidc) (4 days ago)
-- [filetime: support case insensitive matching](https://github.com/prometheus-community/windows_exporter/pull/2132) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [rector main function](https://github.com/jkroepke/openvpn-auth-oauth2/pull/553) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [gpu: fix windows_gpu_info metric](https://github.com/prometheus-community/windows_exporter/pull/2130) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
+- [filetime: support windows paths (#2118)](https://github.com/prometheus-community/windows_exporter/pull/2146) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [diskdrive: fix not exposing state "Pred Fail" (#2101)](https://github.com/prometheus-community/windows_exporter/pull/2145) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [[0.30] os: missing deprecated metric windows_os_processes (#2104)](https://github.com/prometheus-community/windows_exporter/pull/2144) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [[0.30] docs: allow backport PR title prefix. (#2142)](https://github.com/prometheus-community/windows_exporter/pull/2143) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [docs: allow backport PR title prefix.](https://github.com/prometheus-community/windows_exporter/pull/2142) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [[0.30] iis: missing metrics if app-include is set. (#2103)](https://github.com/prometheus-community/windows_exporter/pull/2141) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [[0.30] fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2140) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [[0.30] mssql: fix incorrect patch version in windows_mssql_instance_info](https://github.com/prometheus-community/windows_exporter/pull/2139) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [[0.30] mssql: fix ratio based counter](https://github.com/prometheus-community/windows_exporter/pull/2138) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [process: fix `windows_process_start_time_seconds_timestamp` return relative time on Windows Server 2019](https://github.com/prometheus-community/windows_exporter/pull/2137) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 week ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (1 week ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (1 week ago)
-- [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator (1 week ago)
+- [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator (2 weeks ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 month ago)
 - [CoolBeingBurrito/homelab](https://github.com/CoolBeingBurrito/homelab) - ein kleines clüsterchen (1 month ago)
