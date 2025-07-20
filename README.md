@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [filetime: support windows paths (#2118)](https://github.com/prometheus-community/windows_exporter/pull/2146) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [diskdrive: fix not exposing state "Pred Fail" (#2101)](https://github.com/prometheus-community/windows_exporter/pull/2145) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[0.30] os: missing deprecated metric windows_os_processes (#2104)](https://github.com/prometheus-community/windows_exporter/pull/2144) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[0.30] fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2140) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[0.30] mssql: fix incorrect patch version in windows_mssql_instance_info](https://github.com/prometheus-community/windows_exporter/pull/2139) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[0.30] mssql: fix ratio based counter](https://github.com/prometheus-community/windows_exporter/pull/2138) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [process: fix `windows_process_start_time_seconds_timestamp` return relative time on Windows Server 2019](https://github.com/prometheus-community/windows_exporter/pull/2137) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
