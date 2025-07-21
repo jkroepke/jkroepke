@@ -39,6 +39,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.0), today) - A command-line interface to manage STACKIT resources
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-07-21](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-07-21), today) - The STACKIT SDK for Go
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.0), today) - Prometheus community Helm charts
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.2](https://github.com/freelensapp/freelens/releases/tag/v1.5.2), 1 day ago) - Free IDE for Kubernetes
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.28.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.28.0), 1 day ago) - Find secrets with Gitleaks 🔑
@@ -47,8 +49,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2+security-01](https://github.com/grafana/grafana/releases/tag/v12.0.2%2Bsecurity-01), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.37.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.37.0), 4 days ago) - Terraform provider for Azure Resource Manager
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.1), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.24.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.24.1), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
