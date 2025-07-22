@@ -39,8 +39,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.1](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.13.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.5), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.2), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.0), 1 day ago) - A command-line interface to manage STACKIT resources
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-07-21](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-07-21), 1 day ago) - The STACKIT SDK for Go
