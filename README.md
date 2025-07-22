@@ -26,11 +26,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (5 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (6 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 weeks ago)
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (2 weeks ago)
@@ -39,29 +39,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.5), today) - 
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.2), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.0), today) - A command-line interface to manage STACKIT resources
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-07-21](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-07-21), today) - The STACKIT SDK for Go
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.0), today) - Prometheus community Helm charts
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.2](https://github.com/freelensapp/freelens/releases/tag/v1.5.2), 1 day ago) - Free IDE for Kubernetes
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.28.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.28.0), 1 day ago) - Find secrets with Gitleaks 🔑
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.9](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.9), 1 day ago) - Prometheus exporter for Windows machines
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2+security-01](https://github.com/grafana/grafana/releases/tag/v12.0.2%2Bsecurity-01), 4 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.1.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.1.5), 1 day ago) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.2), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.0), 1 day ago) - A command-line interface to manage STACKIT resources
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-07-21](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-07-21), 1 day ago) - The STACKIT SDK for Go
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.0), 1 day ago) - Prometheus community Helm charts
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.2](https://github.com/freelensapp/freelens/releases/tag/v1.5.2), 2 days ago) - Free IDE for Kubernetes
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.28.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.28.0), 2 days ago) - Find secrets with Gitleaks 🔑
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.9](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.9), 2 days ago) - Prometheus exporter for Windows machines
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.2+security-01](https://github.com/grafana/grafana/releases/tag/v12.0.2%2Bsecurity-01), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
-- [feat(helm): Support separate loki ruler storage configuration](https://github.com/grafana/loki/pull/18510) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
-- [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
-- [filetime: support windows paths (#2118)](https://github.com/prometheus-community/windows_exporter/pull/2146) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [diskdrive: fix not exposing state "Pred Fail" (#2101)](https://github.com/prometheus-community/windows_exporter/pull/2145) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[0.30] os: missing deprecated metric windows_os_processes (#2104)](https://github.com/prometheus-community/windows_exporter/pull/2144) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[0.30] docs: allow backport PR title prefix. (#2142)](https://github.com/prometheus-community/windows_exporter/pull/2143) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [docs: allow backport PR title prefix.](https://github.com/prometheus-community/windows_exporter/pull/2142) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[0.30] iis: missing metrics if app-include is set. (#2103)](https://github.com/prometheus-community/windows_exporter/pull/2141) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[0.30] fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2140) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [[0.30] mssql: fix incorrect patch version in windows_mssql_instance_info](https://github.com/prometheus-community/windows_exporter/pull/2139) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [feat(helm): Support separate loki ruler storage configuration](https://github.com/grafana/loki/pull/18510) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
+- [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
+- [filetime: support windows paths (#2118)](https://github.com/prometheus-community/windows_exporter/pull/2146) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [diskdrive: fix not exposing state "Pred Fail" (#2101)](https://github.com/prometheus-community/windows_exporter/pull/2145) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[0.30] os: missing deprecated metric windows_os_processes (#2104)](https://github.com/prometheus-community/windows_exporter/pull/2144) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[0.30] docs: allow backport PR title prefix. (#2142)](https://github.com/prometheus-community/windows_exporter/pull/2143) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [docs: allow backport PR title prefix.](https://github.com/prometheus-community/windows_exporter/pull/2142) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[0.30] iis: missing metrics if app-include is set. (#2103)](https://github.com/prometheus-community/windows_exporter/pull/2141) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[0.30] fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2140) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [[0.30] mssql: fix incorrect patch version in windows_mssql_instance_info](https://github.com/prometheus-community/windows_exporter/pull/2139) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
