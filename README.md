@@ -39,7 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.28.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.28.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.47.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.47.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.33.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.33.0), today) - 
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.3](https://github.com/grafana/grafana/releases/tag/v12.0.3), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), today) - Like Prometheus, but for logs.
