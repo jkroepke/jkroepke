@@ -39,6 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.7](https://github.com/grafana/grafana/releases/tag/v11.4.7), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.1](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.13.0), 1 day ago) - Prometheus community Helm charts
@@ -48,7 +49,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.2](https://github.com/freelensapp/freelens/releases/tag/v1.5.2), 3 days ago) - Free IDE for Kubernetes
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) ([v8.28.0](https://github.com/gitleaks/gitleaks/releases/tag/v8.28.0), 3 days ago) - Find secrets with Gitleaks 🔑
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.30.9](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.30.9), 3 days ago) - Prometheus exporter for Windows machines
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.8](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.8), 5 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 
 #### 🔨 My recent Pull Requests
 
