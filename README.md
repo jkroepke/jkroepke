@@ -39,7 +39,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.7](https://github.com/grafana/grafana/releases/tag/v11.4.7), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.7](https://github.com/grafana/grafana/releases/tag/v11.5.7), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.1](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.13.0), 1 day ago) - Prometheus community Helm charts
@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add support for userinfo endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/560) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [feat(helm): Support separate loki ruler storage configuration](https://github.com/grafana/loki/pull/18510) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
 - [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
 - [filetime: support windows paths (#2118)](https://github.com/prometheus-community/windows_exporter/pull/2146) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [docs: allow backport PR title prefix.](https://github.com/prometheus-community/windows_exporter/pull/2142) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [[0.30] iis: missing metrics if app-include is set. (#2103)](https://github.com/prometheus-community/windows_exporter/pull/2141) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [[0.30] fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2140) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [[0.30] mssql: fix incorrect patch version in windows_mssql_instance_info](https://github.com/prometheus-community/windows_exporter/pull/2139) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 
 #### ⭐ Recent Stars
 
