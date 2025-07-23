@@ -39,9 +39,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.4](https://github.com/grafana/grafana/releases/tag/v11.6.4), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.33.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.33.0), today) - 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.3](https://github.com/grafana/grafana/releases/tag/v12.0.3), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pdc-agent-0.0.1](https://github.com/grafana/helm-charts/releases/tag/pdc-agent-0.0.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.13.0), 1 day ago) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.2), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.0), 2 days ago) - A command-line interface to manage STACKIT resources
