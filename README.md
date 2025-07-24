@@ -52,6 +52,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(auth): support output format in stackit auth get-access-token command](https://github.com/stackitcloud/stackit-cli/pull/889) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (today)
 - [Add support for userinfo endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/560) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [feat(helm): Support separate loki ruler storage configuration](https://github.com/grafana/loki/pull/18510) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
 - [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
@@ -61,7 +62,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[0.30] docs: allow backport PR title prefix. (#2142)](https://github.com/prometheus-community/windows_exporter/pull/2143) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [docs: allow backport PR title prefix.](https://github.com/prometheus-community/windows_exporter/pull/2142) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [[0.30] iis: missing metrics if app-include is set. (#2103)](https://github.com/prometheus-community/windows_exporter/pull/2141) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [[0.30] fix: add missing concurrency lock](https://github.com/prometheus-community/windows_exporter/pull/2140) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
