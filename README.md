@@ -39,10 +39,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.9.0](https://github.com/grafana/helm-charts/releases/tag/beyla-1.9.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.13.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.13.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.10](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.10), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.42.0](https://github.com/zitadel/oidc/releases/tag/v3.42.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.352](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.352), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.47.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.47.3), 2 days ago) - Prometheus community Helm charts
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.3](https://github.com/grafana/grafana/releases/tag/v12.0.3), 2 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 2 days ago) - Like Prometheus, but for logs.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.2), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
