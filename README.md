@@ -24,8 +24,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (4 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.8.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.8.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.15.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.353](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.353), today) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.6](https://github.com/project-zot/zot/releases/tag/v2.1.6), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
