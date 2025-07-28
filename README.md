@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [process: Add flag to control the export of the process cmdline](https://github.com/prometheus-community/windows_exporter/pull/2153) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [docs: Update example_config.yml](https://github.com/prometheus-community/windows_exporter/pull/2152) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [docs: add new cli parameters to docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/567) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [support custom groups claim](https://github.com/jkroepke/openvpn-auth-oauth2/pull/561) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [filetime: support windows paths (#2118)](https://github.com/prometheus-community/windows_exporter/pull/2146) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [diskdrive: fix not exposing state "Pred Fail" (#2101)](https://github.com/prometheus-community/windows_exporter/pull/2145) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [[0.30] os: missing deprecated metric windows_os_processes (#2104)](https://github.com/prometheus-community/windows_exporter/pull/2144) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
