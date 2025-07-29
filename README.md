@@ -24,11 +24,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (4 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (5 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 weeks ago)
@@ -37,25 +37,25 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.15.1), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.353](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.353), today) - 
-- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.6](https://github.com/project-zot/zot/releases/tag/v2.1.6), 1 day ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.0), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.10](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.10), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.42.0](https://github.com/zitadel/oidc/releases/tag/v3.42.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.3](https://github.com/grafana/grafana/releases/tag/v12.0.3), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 5 days ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.15.1), 1 day ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.353](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.353), 1 day ago) - 
+- [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.6](https://github.com/project-zot/zot/releases/tag/v2.1.6), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.10](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.10), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.42.0](https://github.com/zitadel/oidc/releases/tag/v3.42.0), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.3](https://github.com/grafana/grafana/releases/tag/v12.0.3), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.5.3](https://github.com/grafana/loki/releases/tag/v3.5.3), 6 days ago) - Like Prometheus, but for logs.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.14.2](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.14.2), 1 week ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.0), 1 week ago) - A command-line interface to manage STACKIT resources
 
 #### 🔨 My recent Pull Requests
 
-- [process: Add flag to control the export of the process cmdline](https://github.com/prometheus-community/windows_exporter/pull/2153) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: Update example_config.yml](https://github.com/prometheus-community/windows_exporter/pull/2152) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: add new cli parameters to docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/567) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [support custom groups claim](https://github.com/jkroepke/openvpn-auth-oauth2/pull/561) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [feat(auth): support output format in stackit auth get-access-token command](https://github.com/stackitcloud/stackit-cli/pull/889) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (4 days ago)
-- [Add support for userinfo endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/560) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [process: Add flag to control the export of the process cmdline](https://github.com/prometheus-community/windows_exporter/pull/2153) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [docs: Update example_config.yml](https://github.com/prometheus-community/windows_exporter/pull/2152) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [docs: add new cli parameters to docs](https://github.com/jkroepke/openvpn-auth-oauth2/pull/567) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [support custom groups claim](https://github.com/jkroepke/openvpn-auth-oauth2/pull/561) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
+- [feat(auth): support output format in stackit auth get-access-token command](https://github.com/stackitcloud/stackit-cli/pull/889) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (5 days ago)
+- [Add support for userinfo endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/560) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [feat(helm): Support separate loki ruler storage configuration](https://github.com/grafana/loki/pull/18510) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [filetime: support windows paths (#2118)](https://github.com/prometheus-community/windows_exporter/pull/2146) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
@@ -63,7 +63,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (today)
+- [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (1 day ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (2 weeks ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (2 weeks ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (2 weeks ago)
