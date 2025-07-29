@@ -37,8 +37,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.1](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.1), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mysql-exporter-2.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mysql-exporter-2.11.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([synthetic-monitoring-agent-1.1.0](https://github.com/grafana/helm-charts/releases/tag/synthetic-monitoring-agent-1.1.0), today) - 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.6](https://github.com/project-zot/zot/releases/tag/v2.1.6), 2 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.10](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.10), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
