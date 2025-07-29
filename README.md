@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix(helm): make loki.storage.bucketNames are optional, if builtin minio is enabled.](https://github.com/grafana/loki/pull/18653) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [docs: add note about property preferences](https://github.com/prometheus-community/windows_exporter/pull/2155) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [process: Add flag to control the export of the process cmdline](https://github.com/prometheus-community/windows_exporter/pull/2153) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [docs: Update example_config.yml](https://github.com/prometheus-community/windows_exporter/pull/2152) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add support for userinfo endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/560) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [feat(helm): Support separate loki ruler storage configuration](https://github.com/grafana/loki/pull/18510) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
-- [filetime: support windows paths (#2118)](https://github.com/prometheus-community/windows_exporter/pull/2146) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
