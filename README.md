@@ -37,9 +37,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.29.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.1), today) - 
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.4](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.4), today) - A command-line interface to manage STACKIT resources
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.6.2), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.0), today) - Terraform provider for Azure Resource Manager
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.9.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.9.0), today) - A Grafana plugin app to create PDF reports of dashboards
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.4.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.4.0), today) - cloudeteer's helm chart repositories
