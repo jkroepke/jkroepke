@@ -24,19 +24,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (6 days ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 weeks ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 weeks ago)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (3 weeks ago)
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. (3 weeks ago)
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.0-test1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.0-test1), today) - A command-line interface to manage STACKIT resources
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.9.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.9.0), today) - A Grafana plugin app to create PDF reports of dashboards
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.1.1](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.1.1), today) - 
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.4.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.4.0), today) - cloudeteer's helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.5.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.5.0), today) - Microsoft 365 prometheus exporter
@@ -45,8 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.6](https://github.com/project-zot/zot/releases/tag/v2.1.6), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.0), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.10](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.10), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.42.0](https://github.com/zitadel/oidc/releases/tag/v3.42.0), 6 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.3](https://github.com/grafana/grafana/releases/tag/v12.0.3), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
