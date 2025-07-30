@@ -37,10 +37,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.1), today) - A command-line interface to manage STACKIT resources
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-ipmi-exporter-0.6.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-ipmi-exporter-0.6.2), today) - Prometheus community Helm charts
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.3](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.3), today) - A command-line interface to manage STACKIT resources
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.44.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.44.2), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.2), today) - Prometheus community Helm charts
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.9.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.9.0), today) - A Grafana plugin app to create PDF reports of dashboards
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.4.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.4.0), today) - cloudeteer's helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.5.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.5.0), today) - Microsoft 365 prometheus exporter
