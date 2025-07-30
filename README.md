@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.0), today) - Terraform provider for Azure Resource Manager
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-agent-0.44.2](https://github.com/grafana/helm-charts/releases/tag/grafana-agent-0.44.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nats-exporter-2.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nats-exporter-2.20.2), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.0-test1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.0-test1), today) - A command-line interface to manage STACKIT resources
@@ -46,7 +47,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.15.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.15.0), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [project-zot/zot](https://github.com/project-zot/zot) ([v2.1.6](https://github.com/project-zot/zot/releases/tag/v2.1.6), 3 days ago) - zot - A scale-out production-ready vendor-neutral OCI-native container image/artifact registry (purely based on OCI Distribution Specification)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.0), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.10](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.10), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 
 #### 🔨 My recent Pull Requests
 
