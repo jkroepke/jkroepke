@@ -37,7 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.7](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.7), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.2), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.2.0), today) - Prometheus community Helm charts
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.0](https://github.com/prometheus/client_golang/releases/tag/v1.23.0), today) - Prometheus instrumentation library for Go applications
