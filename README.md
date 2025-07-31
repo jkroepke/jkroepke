@@ -37,13 +37,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.3.7](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.3.7), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.2.0), today) - Prometheus community Helm charts
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.0](https://github.com/prometheus/client_golang/releases/tag/v1.23.0), today) - Prometheus instrumentation library for Go applications
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.43.0](https://github.com/zitadel/oidc/releases/tag/v3.43.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.15.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.15.1), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.7](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.7), today) - A command-line interface to manage STACKIT resources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.2), today) - 
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.9.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.9.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.4.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.4.0), 1 day ago) - cloudeteer's helm chart repositories
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.5.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.5.0), 1 day ago) - Microsoft 365 prometheus exporter
