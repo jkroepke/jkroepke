@@ -24,6 +24,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
@@ -33,11 +34,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 weeks ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 weeks ago)
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) - Kubernetes RBAC authorizing HTTP proxy for a single upstream. (3 weeks ago)
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) - Free IDE for Kubernetes (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-rc.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-rc.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.2), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.29.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.29.0), 1 day ago) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.4](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.4), 1 day ago) - A command-line interface to manage STACKIT resources
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.0), 1 day ago) - Terraform provider for Azure Resource Manager
