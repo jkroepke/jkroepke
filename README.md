@@ -37,12 +37,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-mcp-0.1.1](https://github.com/grafana/helm-charts/releases/tag/grafana-mcp-0.1.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.3](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.3), today) - 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.16.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.16.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.14.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.0](https://github.com/prometheus/client_golang/releases/tag/v1.23.0), 1 day ago) - Prometheus instrumentation library for Go applications
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.43.0](https://github.com/zitadel/oidc/releases/tag/v3.43.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.15.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.15.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.7](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.7), 1 day ago) - A command-line interface to manage STACKIT resources
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.9.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.9.0), 2 days ago) - A Grafana plugin app to create PDF reports of dashboards
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.4.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.4.0), 2 days ago) - cloudeteer's helm chart repositories
