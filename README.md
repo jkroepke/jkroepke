@@ -50,6 +50,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: add node to plain text agents](https://github.com/chubin/wttr.in/pull/1117) on [chubin/wttr.in](https://github.com/chubin/wttr.in) (today)
 - [fix(helm): make loki.storage.bucketNames are optional, if builtin minio is enabled.](https://github.com/grafana/loki/pull/18653) on [grafana/loki](https://github.com/grafana/loki) (4 days ago)
 - [docs: add note about property preferences](https://github.com/prometheus-community/windows_exporter/pull/2155) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
 - [process: Add flag to control the export of the process cmdline](https://github.com/prometheus-community/windows_exporter/pull/2153) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
@@ -59,7 +60,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat(auth): support output format in stackit auth get-access-token command](https://github.com/stackitcloud/stackit-cli/pull/889) on [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) (1 week ago)
 - [Add support for userinfo endpoint](https://github.com/jkroepke/openvpn-auth-oauth2/pull/560) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [feat(helm): Support separate loki ruler storage configuration](https://github.com/grafana/loki/pull/18510) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
-- [feat(helm): Expose all storage configuration](https://github.com/grafana/loki/pull/18509) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 
 #### ⭐ Recent Stars
 
