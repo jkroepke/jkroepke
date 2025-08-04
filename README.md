@@ -37,10 +37,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.2.0), today) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.1), 1 day ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.2), 1 day ago) - Prometheus exporter for Windows machines
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.14.3](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.14.3), 3 days ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.16.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.16.0), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), 4 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.0](https://github.com/prometheus/client_golang/releases/tag/v1.23.0), 4 days ago) - Prometheus instrumentation library for Go applications
