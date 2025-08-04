@@ -37,6 +37,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.43.1](https://github.com/zitadel/oidc/releases/tag/v3.43.1), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), today) - cloudeteer's helm chart repositories
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.2.0](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.2.0), today) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.16.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.16.0), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), 4 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.0](https://github.com/prometheus/client_golang/releases/tag/v1.23.0), 4 days ago) - Prometheus instrumentation library for Go applications
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.43.0](https://github.com/zitadel/oidc/releases/tag/v3.43.0), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.37.7](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.37.7), 4 days ago) - A command-line interface to manage STACKIT resources
 
 #### 🔨 My recent Pull Requests
