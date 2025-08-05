@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.16.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.35.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.35.0), today) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.16.1), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.38.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.38.0), today) - A command-line interface to manage STACKIT resources
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.19.1](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.19.1), today) - 
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.44.0](https://github.com/zitadel/oidc/releases/tag/v3.44.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.7), 1 day ago) - Terraform provider for Hetzner DNS
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 1 day ago) - cloudeteer's helm chart repositories
