@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.29.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.29.1), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.354](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.354), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.2.1), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.38.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.38.0), 1 day ago) - A command-line interface to manage STACKIT resources
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.44.0](https://github.com/zitadel/oidc/releases/tag/v3.44.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.7), 2 days ago) - Terraform provider for Hetzner DNS
