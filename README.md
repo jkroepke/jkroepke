@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.19.2](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.19.2), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-operator-v5.19.4](https://github.com/grafana/helm-charts/releases/tag/grafana-operator-v5.19.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.2.1), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.38.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.38.0), 1 day ago) - A command-line interface to manage STACKIT resources
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.44.0](https://github.com/zitadel/oidc/releases/tag/v3.44.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
