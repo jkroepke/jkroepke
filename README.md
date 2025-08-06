@@ -22,40 +22,40 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (today)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
-- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (3 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 day ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (3 days ago)
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (4 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (1 week ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (2 weeks ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.35.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.35.0), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.16.1), today) - Prometheus community Helm charts
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.38.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.38.0), today) - A command-line interface to manage STACKIT resources
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.44.0](https://github.com/zitadel/oidc/releases/tag/v3.44.0), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.7), 1 day ago) - Terraform provider for Hetzner DNS
-- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 1 day ago) - cloudeteer's helm chart repositories
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.2), 2 days ago) - Prometheus exporter for Windows machines
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.16.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.16.0), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), 5 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.35.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.35.0), 1 day ago) - 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.16.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.16.1), 1 day ago) - Prometheus community Helm charts
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.38.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.38.0), 1 day ago) - A command-line interface to manage STACKIT resources
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.44.0](https://github.com/zitadel/oidc/releases/tag/v3.44.0), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.7), 2 days ago) - Terraform provider for Hetzner DNS
+- [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 2 days ago) - cloudeteer's helm chart repositories
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.1), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.2), 3 days ago) - Prometheus exporter for Windows machines
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.16.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.16.0), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), 6 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
-- [The false security of pinned GitHub actions commit hashes](https://github.com/jkroepke/blog/pull/1) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
-- [fix(helm): Add init container configuration for backend, bloom builder, distributor, query-frontend, query-scheduler, read, write.](https://github.com/grafana/loki/pull/18709) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
-- [feat(helm): allow configuring service types](https://github.com/grafana/loki/pull/18708) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
-- [feat(helm): add namespaceOverride](https://github.com/grafana/loki/pull/18707) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
-- [installer: do not fail, if service can't be started.](https://github.com/prometheus-community/windows_exporter/pull/2163) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [installer: disable config file creation, if CONFIG_FILE is set to a non default location.](https://github.com/prometheus-community/windows_exporter/pull/2162) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [installer: add quote to avoid argument splitting](https://github.com/prometheus-community/windows_exporter/pull/2161) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [fix: add node to plain text agents](https://github.com/chubin/wttr.in/pull/1117) on [chubin/wttr.in](https://github.com/chubin/wttr.in) (3 days ago)
+- [The false security of pinned GitHub actions commit hashes](https://github.com/jkroepke/blog/pull/1) on [jkroepke/blog](https://github.com/jkroepke/blog) (1 day ago)
+- [fix(helm): Add init container configuration for backend, bloom builder, distributor, query-frontend, query-scheduler, read, write.](https://github.com/grafana/loki/pull/18709) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
+- [feat(helm): allow configuring service types](https://github.com/grafana/loki/pull/18708) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
+- [feat(helm): add namespaceOverride](https://github.com/grafana/loki/pull/18707) on [grafana/loki](https://github.com/grafana/loki) (3 days ago)
+- [installer: do not fail, if service can't be started.](https://github.com/prometheus-community/windows_exporter/pull/2163) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [installer: disable config file creation, if CONFIG_FILE is set to a non default location.](https://github.com/prometheus-community/windows_exporter/pull/2162) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [installer: add quote to avoid argument splitting](https://github.com/prometheus-community/windows_exporter/pull/2161) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
+- [fix: add node to plain text agents](https://github.com/chubin/wttr.in/pull/1117) on [chubin/wttr.in](https://github.com/chubin/wttr.in) (4 days ago)
 - [fix(helm): make loki.storage.bucketNames are optional, if builtin minio is enabled.](https://github.com/grafana/loki/pull/18653) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [docs: add note about property preferences](https://github.com/prometheus-community/windows_exporter/pull/2155) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
@@ -63,8 +63,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (1 week ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (3 weeks ago)
-- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (3 weeks ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (3 weeks ago)
+- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (4 weeks ago)
+- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (4 weeks ago)
 - [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator (1 month ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (1 month ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 month ago)
