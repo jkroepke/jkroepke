@@ -23,7 +23,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 day ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (3 days ago)
@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-6.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-6.1.2), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.18.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.3), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.0), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.38.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.38.0), 2 days ago) - A command-line interface to manage STACKIT resources
