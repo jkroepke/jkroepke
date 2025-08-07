@@ -35,6 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.1](https://github.com/grafana/alloy/releases/tag/v1.10.1), today) - OpenTelemetry Collector distribution with programmable pipelines
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.10.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.10.0), today) - A Grafana plugin app to create PDF reports of dashboards
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.18.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.18.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.3), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.0), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -43,8 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.7), 3 days ago) - Terraform provider for Hetzner DNS
 - [cloudeteer/helm-charts](https://github.com/cloudeteer/helm-charts) ([m365-exporter-1.5.0](https://github.com/cloudeteer/helm-charts/releases/tag/m365-exporter-1.5.0), 3 days ago) - cloudeteer's helm chart repositories
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.1), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.2), 4 days ago) - Prometheus exporter for Windows machines
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.38.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.38.1), 1 week ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
