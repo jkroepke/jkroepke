@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.2.1](https://github.com/grafana/helm-charts/releases/tag/alloy-1.2.1), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.15.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.15.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.18.1), today) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.1](https://github.com/grafana/alloy/releases/tag/v1.10.1), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.10.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.10.0), today) - A Grafana plugin app to create PDF reports of dashboards
