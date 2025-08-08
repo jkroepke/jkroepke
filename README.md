@@ -22,16 +22,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (today)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (today)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (6 days ago)
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [add docker image](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/14) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
 - [chore: setup fork](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/12) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
 - [collector: Add disable flag](https://github.com/prometheus-community/windows_exporter/pull/2165) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [The false security of pinned GitHub actions commit hashes](https://github.com/jkroepke/blog/pull/1) on [jkroepke/blog](https://github.com/jkroepke/blog) (3 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [installer: do not fail, if service can't be started.](https://github.com/prometheus-community/windows_exporter/pull/2163) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [installer: disable config file creation, if CONFIG_FILE is set to a non default location.](https://github.com/prometheus-community/windows_exporter/pull/2162) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [installer: add quote to avoid argument splitting](https://github.com/prometheus-community/windows_exporter/pull/2161) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [fix: add node to plain text agents](https://github.com/chubin/wttr.in/pull/1117) on [chubin/wttr.in](https://github.com/chubin/wttr.in) (6 days ago)
 
 #### ⭐ Recent Stars
 
