@@ -22,16 +22,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (5 days ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (6 days ago)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) - A command-line interface to manage STACKIT resources (2 weeks ago)
-- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -42,9 +42,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.1](https://github.com/grafana/alloy/releases/tag/v1.10.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.10.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.10.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.0), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.84.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.84.1), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.38.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.38.0), 3 days ago) - A command-line interface to manage STACKIT resources
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.44.0](https://github.com/zitadel/oidc/releases/tag/v3.44.0), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [germanbrew/terraform-provider-hetznerdns](https://github.com/germanbrew/terraform-provider-hetznerdns) ([v3.4.7](https://github.com/germanbrew/terraform-provider-hetznerdns/releases/tag/v3.4.7), 4 days ago) - Terraform provider for Hetzner DNS
 
 #### 🔨 My recent Pull Requests
 
