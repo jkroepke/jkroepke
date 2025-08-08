@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: setup fork](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/12) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
 - [collector: Add disable flag](https://github.com/prometheus-community/windows_exporter/pull/2165) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [The false security of pinned GitHub actions commit hashes](https://github.com/jkroepke/blog/pull/1) on [jkroepke/blog](https://github.com/jkroepke/blog) (3 days ago)
 - [fix(helm): Add init container configuration for backend, bloom builder, distributor, query-frontend, query-scheduler, read, write.](https://github.com/grafana/loki/pull/18709) on [grafana/loki](https://github.com/grafana/loki) (5 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [installer: disable config file creation, if CONFIG_FILE is set to a non default location.](https://github.com/prometheus-community/windows_exporter/pull/2162) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [installer: add quote to avoid argument splitting](https://github.com/prometheus-community/windows_exporter/pull/2161) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [fix: add node to plain text agents](https://github.com/chubin/wttr.in/pull/1117) on [chubin/wttr.in](https://github.com/chubin/wttr.in) (6 days ago)
-- [fix(helm): make loki.storage.bucketNames are optional, if builtin minio is enabled.](https://github.com/grafana/loki/pull/18653) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 
 #### ⭐ Recent Stars
 
