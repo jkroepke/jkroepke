@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.29.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.29.3), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.1.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.11), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.9](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.9), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.40](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.40), 1 day ago) - 
