@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-6.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-6.1.3), today) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.11), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.9](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.9), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.40](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.40), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-75.18.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-75.18.1), 1 day ago) - Prometheus community Helm charts
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.1](https://github.com/grafana/alloy/releases/tag/v1.10.1), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.10.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.10.0), 1 day ago) - A Grafana plugin app to create PDF reports of dashboards
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.0), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
