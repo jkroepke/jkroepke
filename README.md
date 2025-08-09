@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [prometheus-nginxlog-exporter: add chart](https://github.com/jkroepke/helm-charts/pull/80) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [feat!: Remove HCL configuration format](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/22) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
 - [chore: add gpg keys to gitignore](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/15) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
 - [add docker image](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/14) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix(helm): Add init container configuration for backend, bloom builder, distributor, query-frontend, query-scheduler, read, write.](https://github.com/grafana/loki/pull/18709) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 - [feat(helm): allow configuring service types](https://github.com/grafana/loki/pull/18708) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 - [feat(helm): add namespaceOverride](https://github.com/grafana/loki/pull/18707) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
-- [installer: do not fail, if service can't be started.](https://github.com/prometheus-community/windows_exporter/pull/2163) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
