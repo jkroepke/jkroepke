@@ -28,8 +28,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather (1 week ago)
 
@@ -48,6 +48,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: Remove HCL configuration format](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/22) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
+- [chore: add gpg keys to gitignore](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/15) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
 - [add docker image](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/14) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
 - [chore: setup fork](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/12) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
 - [collector: Add disable flag](https://github.com/prometheus-community/windows_exporter/pull/2165) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat(helm): allow configuring service types](https://github.com/grafana/loki/pull/18708) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 - [feat(helm): add namespaceOverride](https://github.com/grafana/loki/pull/18707) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 - [installer: do not fail, if service can't be started.](https://github.com/prometheus-community/windows_exporter/pull/2163) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [installer: disable config file creation, if CONFIG_FILE is set to a non default location.](https://github.com/prometheus-community/windows_exporter/pull/2162) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [installer: add quote to avoid argument splitting](https://github.com/prometheus-community/windows_exporter/pull/2161) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
