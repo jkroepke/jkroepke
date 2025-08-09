@@ -23,9 +23,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (today)
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (1 day ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (5 days ago)
@@ -48,6 +48,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat!: mark go packages as internal](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/24) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
+- [deps: update go version](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/23) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
+- [chore: switch to electron-vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/15) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (today)
 - [prometheus-nginxlog-exporter: add chart](https://github.com/jkroepke/helm-charts/pull/80) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
 - [feat!: Remove HCL configuration format](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/22) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
 - [chore: add gpg keys to gitignore](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/15) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (today)
@@ -55,9 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: setup fork](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/12) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
 - [collector: Add disable flag](https://github.com/prometheus-community/windows_exporter/pull/2165) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [The false security of pinned GitHub actions commit hashes](https://github.com/jkroepke/blog/pull/1) on [jkroepke/blog](https://github.com/jkroepke/blog) (4 days ago)
-- [fix(helm): Add init container configuration for backend, bloom builder, distributor, query-frontend, query-scheduler, read, write.](https://github.com/grafana/loki/pull/18709) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
-- [feat(helm): allow configuring service types](https://github.com/grafana/loki/pull/18708) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
-- [feat(helm): add namespaceOverride](https://github.com/grafana/loki/pull/18707) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 
 #### ⭐ Recent Stars
 
