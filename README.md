@@ -22,20 +22,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
 - [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 days ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.30.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.30.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.2.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.5), 1 day ago) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.2), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.2.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.2.0), 2 days ago) - See expire date from certificates inside kubernetes secrets.
@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix(helm): Websocket related proxy_set_header to locations back to resolve high CPU usage.](https://github.com/grafana/loki/pull/18800) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [feat: added supply-chain attestation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/581) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [ci: fix vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/24) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
 - [ci: fix token](https://github.com/jkroepke/lens-extension-certificate-info/pull/16) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ci: fix pinentry](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/25) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
 - [feat!: mark go packages as internal](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/24) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
 - [deps: update go version](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/23) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
-- [chore: switch to electron-vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/15) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
 
 #### ⭐ Recent Stars
 
