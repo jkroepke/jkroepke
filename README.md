@@ -26,12 +26,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A prometheus exporter to extract e (today)
 - [jkroepke/repo-automation](https://github.com/jkroepke/repo-automation) -  (today)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -53,16 +53,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: added supply-chain attestation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/581) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [ci: fix vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/24) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
 - [ci: fix token](https://github.com/jkroepke/lens-extension-certificate-info/pull/16) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
-- [feat!: remove parse cli flags in favorite of cfg parser](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/27) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
-- [feat!: remove consul integration](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/26) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
 - [chore(ci): remove pinentry](https://github.com/jkroepke/openvpn-auth-oauth2/pull/580) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [ci: fix pinentry](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/25) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
-- [feat!: mark go packages as internal](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/24) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
+- [chore: switch to electron-vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/15) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
+- [prometheus-nginxlog-exporter: add chart](https://github.com/jkroepke/helm-charts/pull/80) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (2 days ago)
+- [collector: Add disable flag](https://github.com/prometheus-community/windows_exporter/pull/2165) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [The false security of pinned GitHub actions commit hashes](https://github.com/jkroepke/blog/pull/1) on [jkroepke/blog](https://github.com/jkroepke/blog) (6 days ago)
 
 #### ⭐ Recent Stars
 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A prometheus exporter to extract e (today)
-- [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 days ago)
 - [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (2 weeks ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 month ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (1 month ago)
@@ -71,6 +70,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 months ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
 - [CoolBeingBurrito/homelab](https://github.com/CoolBeingBurrito/homelab) - ein kleines clüsterchen (2 months ago)
+- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
