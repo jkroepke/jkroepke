@@ -22,48 +22,48 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (today)
-- [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (1 day ago)
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (6 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
+- [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 days ago)
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress NGINX Controller for Kubernetes (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.5), today) - 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.2), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.2.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.2.0), 1 day ago) - See expire date from certificates inside kubernetes secrets.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.15.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.39.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.39.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.11), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.9](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.9), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.1](https://github.com/grafana/alloy/releases/tag/v1.10.1), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.10.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.10.0), 3 days ago) - A Grafana plugin app to create PDF reports of dashboards
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.0), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.5), 1 day ago) - 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.2), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.2.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.2.0), 2 days ago) - See expire date from certificates inside kubernetes secrets.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.15.0), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.39.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.39.0), 3 days ago) - Terraform provider for Azure Resource Manager
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.11), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.9](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.9), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.1](https://github.com/grafana/alloy/releases/tag/v1.10.1), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [mahendrapaipuri/grafana-dashboard-reporter-app](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app) ([v1.10.0](https://github.com/mahendrapaipuri/grafana-dashboard-reporter-app/releases/tag/v1.10.0), 4 days ago) - A Grafana plugin app to create PDF reports of dashboards
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.0), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
-- [feat: added supply-chain attestation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/581) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [ci: fix vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/24) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 day ago)
-- [ci: fix token](https://github.com/jkroepke/lens-extension-certificate-info/pull/16) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 day ago)
-- [feat!: remove parse cli flags in favorite of cfg parser](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/27) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
-- [feat!: remove consul integration](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/26) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
-- [chore(ci): remove pinentry](https://github.com/jkroepke/openvpn-auth-oauth2/pull/580) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [ci: fix pinentry](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/25) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
-- [feat!: mark go packages as internal](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/24) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
-- [deps: update go version](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/23) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (1 day ago)
-- [chore: switch to electron-vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/15) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 day ago)
+- [feat: added supply-chain attestation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/581) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [ci: fix vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/24) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
+- [ci: fix token](https://github.com/jkroepke/lens-extension-certificate-info/pull/16) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
+- [feat!: remove parse cli flags in favorite of cfg parser](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/27) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
+- [feat!: remove consul integration](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/26) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
+- [chore(ci): remove pinentry](https://github.com/jkroepke/openvpn-auth-oauth2/pull/580) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [ci: fix pinentry](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/25) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
+- [feat!: mark go packages as internal](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/24) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
+- [deps: update go version](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/23) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
+- [chore: switch to electron-vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/15) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (1 day ago)
-- [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (1 week ago)
-- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (4 weeks ago)
+- [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 days ago)
+- [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (2 weeks ago)
+- [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 month ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (1 month ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (1 month ago)
 - [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator (1 month ago)
