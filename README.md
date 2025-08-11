@@ -24,20 +24,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A prometheus exporter to extract e (today)
+- [jkroepke/repo-automation](https://github.com/jkroepke/repo-automation) -  (today)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
 - [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 days ago)
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.355](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.355), today) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.1), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.1.0), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.5](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.5), 1 day ago) - 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.2), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.2.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.2.0), 2 days ago) - See expire date from certificates inside kubernetes secrets.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.39.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.39.0), 3 days ago) - Terraform provider for Azure Resource Manager
@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [init](https://github.com/jkroepke/access-log-exporter/pull/1) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [fix(helm): Websocket related proxy_set_header to locations back to resolve high CPU usage.](https://github.com/grafana/loki/pull/18800) on [grafana/loki](https://github.com/grafana/loki) (today)
 - [feat: added supply-chain attestation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/581) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [ci: fix vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/24) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
@@ -57,10 +58,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore(ci): remove pinentry](https://github.com/jkroepke/openvpn-auth-oauth2/pull/580) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [ci: fix pinentry](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/25) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
 - [feat!: mark go packages as internal](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/24) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
-- [deps: update go version](https://github.com/jkroepke/prometheus-nginxlog-exporter/pull/23) on [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A prometheus exporter to extract e (today)
 - [jkroepke/prometheus-nginxlog-exporter](https://github.com/jkroepke/prometheus-nginxlog-exporter) - Export metrics from Nginx access log files to Prometheus (2 days ago)
 - [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (2 weeks ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 month ago)
@@ -70,7 +71,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 months ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
 - [CoolBeingBurrito/homelab](https://github.com/CoolBeingBurrito/homelab) - ein kleines clüsterchen (2 months ago)
-- [clastix/kamaji](https://github.com/clastix/kamaji) - Kamaji is the Hosted Control Plane Manager for Kubernetes. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
