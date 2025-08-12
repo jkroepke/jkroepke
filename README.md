@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1824 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1825 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 314 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 62 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 5 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -23,9 +23,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (today)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/repo-automation](https://github.com/jkroepke/repo-automation) -  (1 day ago)
@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.3](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.3), today) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.5](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.5), today) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.8](https://github.com/grafana/grafana/releases/tag/v11.4.8), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.3.0), today) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.1), today) - Ingress NGINX Controller for Kubernetes
@@ -49,6 +49,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: fix attestation](https://github.com/jkroepke/access-log-exporter/pull/11) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [chore: remove tag from attestation](https://github.com/jkroepke/access-log-exporter/pull/10) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [added test with upstream](https://github.com/jkroepke/access-log-exporter/pull/9) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [more test cases](https://github.com/jkroepke/access-log-exporter/pull/7) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [prepare image attestation](https://github.com/jkroepke/access-log-exporter/pull/3) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 day ago)
@@ -57,8 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: added supply-chain attestation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/581) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [ci: fix vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/24) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (3 days ago)
 - [ci: fix token](https://github.com/jkroepke/lens-extension-certificate-info/pull/16) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (3 days ago)
-- [chore(ci): remove pinentry](https://github.com/jkroepke/openvpn-auth-oauth2/pull/580) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [chore: switch to electron-vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/15) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (3 days ago)
 
 #### ⭐ Recent Stars
 
