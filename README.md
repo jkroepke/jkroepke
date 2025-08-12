@@ -22,6 +22,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/repo-automation](https://github.com/jkroepke/repo-automation) -  (1 day ago)
@@ -31,11 +32,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (4 days ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (4 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.41](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.41), 1 day ago) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.2](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.2), today) - 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.2](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.2), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.1.0), 1 day ago) - Prometheus community Helm charts
