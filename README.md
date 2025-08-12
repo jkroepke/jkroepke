@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.4.8](https://github.com/grafana/grafana/releases/tag/v11.4.8), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.3.0), today) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.1), today) - Ingress NGINX Controller for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.2](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.2), today) - 
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.2.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.2.0), 3 days ago) - See expire date from certificates inside kubernetes secrets.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.39.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.39.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.11), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.9](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.9), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 
 #### 🔨 My recent Pull Requests
 
