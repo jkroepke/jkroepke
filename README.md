@@ -35,16 +35,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.2.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.2.2), today) - Prometheus community Helm charts
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.1), today) - Ingress NGINX Controller for Kubernetes
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.2](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.2), today) - 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.2](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.2), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-adapter-5.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-adapter-5.1.0), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.2), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.2.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.2.0), 3 days ago) - See expire date from certificates inside kubernetes secrets.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.39.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.39.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.11](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.11), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.4.9](https://github.com/jkroepke/setup-vals/releases/tag/v1.4.9), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.1](https://github.com/grafana/alloy/releases/tag/v1.10.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 
 #### 🔨 My recent Pull Requests
 
