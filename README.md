@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-cloud-onboarding-0.2.1](https://github.com/grafana/helm-charts/releases/tag/grafana-cloud-onboarding-0.2.1), today) - 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.0.4](https://github.com/grafana/grafana/releases/tag/v12.0.4), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v12.1.1](https://github.com/grafana/grafana/releases/tag/v12.1.1), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-sampling-1.1.6](https://github.com/grafana/helm-charts/releases/tag/grafana-sampling-1.1.6), today) - 
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-13](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-13), today) - The STACKIT SDK for Go
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.39.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.39.1), today) - A command-line interface to manage STACKIT resources
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.5](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.5), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
