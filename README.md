@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.39.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.39.0), today) - A command-line interface to manage STACKIT resources
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.39.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.39.1), today) - A command-line interface to manage STACKIT resources
 - [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.5](https://github.com/grafana/grafana/releases/tag/v11.6.5), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.6), today) - 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.5](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.5), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: add warning for user agent parser](https://github.com/jkroepke/access-log-exporter/pull/13) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [add docs](https://github.com/jkroepke/access-log-exporter/pull/12) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [chore: fix attestation](https://github.com/jkroepke/access-log-exporter/pull/11) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 day ago)
 - [chore: remove tag from attestation](https://github.com/jkroepke/access-log-exporter/pull/10) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 day ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [init](https://github.com/jkroepke/access-log-exporter/pull/1) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
 - [fix(helm): Websocket related proxy_set_header to locations back to resolve high CPU usage.](https://github.com/grafana/loki/pull/18800) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
 - [feat: added supply-chain attestation](https://github.com/jkroepke/openvpn-auth-oauth2/pull/581) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [ci: fix vite](https://github.com/jkroepke/lens-extension-certificate-info/pull/24) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (4 days ago)
 
 #### ⭐ Recent Stars
 
