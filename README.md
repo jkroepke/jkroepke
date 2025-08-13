@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/grafana](https://github.com/grafana/grafana) ([v11.6.5](https://github.com/grafana/grafana/releases/tag/v11.6.5), today) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.2.6](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.2.6), today) - 
-- [grafana/grafana](https://github.com/grafana/grafana) ([v11.5.8](https://github.com/grafana/grafana/releases/tag/v11.5.8), 1 day ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.5](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.5), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.3.0), 1 day ago) - Prometheus community Helm charts
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.1), 1 day ago) - Ingress NGINX Controller for Kubernetes
