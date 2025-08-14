@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1827 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1828 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 314 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 62 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 6 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), today) - Terraform provider for Azure Resource Manager
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.18.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.18.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.6](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.6), today) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.3), today) - Prometheus community Helm charts
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.39.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.39.1), 1 day ago) - A command-line interface to manage STACKIT resources
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.1), 2 days ago) - Ingress NGINX Controller for Kubernetes
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.2), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.2.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.2.0), 5 days ago) - See expire date from certificates inside kubernetes secrets.
 
 #### 🔨 My recent Pull Requests
 
