@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.4](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.4), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.36.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.36.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), today) - Terraform provider for Azure Resource Manager
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-13](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-13), 1 day ago) - The STACKIT SDK for Go
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.39.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.39.1), 1 day ago) - A command-line interface to manage STACKIT resources
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.1), 2 days ago) - Ingress NGINX Controller for Kubernetes
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.2), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
