@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.18.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.18.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.6](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.6), today) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.3](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-1.23.3](https://github.com/grafana/helm-charts/releases/tag/tempo-1.23.3), today) - 
@@ -43,7 +44,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-13](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-13), 1 day ago) - The STACKIT SDK for Go
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.39.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.39.1), 1 day ago) - A command-line interface to manage STACKIT resources
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.1), 2 days ago) - Ingress NGINX Controller for Kubernetes
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-7.17.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-7.17.1), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.25.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.25.2), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) ([v4.2.0](https://github.com/jkroepke/lens-extension-certificate-info/releases/tag/v4.2.0), 5 days ago) - See expire date from certificates inside kubernetes secrets.
 
