@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [collector: support sub-second timeout values.](https://github.com/prometheus-community/windows_exporter/pull/2181) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Add Apache 2.0 LICENSE file](https://github.com/alibabacloud-go/alibabacloud-gateway-pop/pull/2) on [alibabacloud-go/alibabacloud-gateway-pop](https://github.com/alibabacloud-go/alibabacloud-gateway-pop) (today)
 - [fix default config path](https://github.com/jkroepke/access-log-exporter/pull/18) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [feat: NewFromSavedWithOptions](https://github.com/ua-parser/uap-go/pull/96) on [ua-parser/uap-go](https://github.com/ua-parser/uap-go) (1 day ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: remove tag from attestation](https://github.com/jkroepke/access-log-exporter/pull/10) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
 - [added test with upstream](https://github.com/jkroepke/access-log-exporter/pull/9) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
 - [more test cases](https://github.com/jkroepke/access-log-exporter/pull/7) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
-- [prepare image attestation](https://github.com/jkroepke/access-log-exporter/pull/3) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
