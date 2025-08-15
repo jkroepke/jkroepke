@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.7](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.7), today) - Prometheus community Helm charts
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.7](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.7), today) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.4.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.36.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.36.1), today) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), 1 day ago) - Terraform provider for Azure Resource Manager
