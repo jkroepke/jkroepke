@@ -23,20 +23,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (today)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (4 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (4 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (4 days ago)
 - [jkroepke/repo-automation](https://github.com/jkroepke/repo-automation) -  (5 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.10](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.10), today) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.11](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.11), today) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.8), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.1](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.1), today) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update to go 1.25](https://github.com/jkroepke/openvpn-auth-oauth2/pull/588) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [add grafana dashboard](https://github.com/jkroepke/access-log-exporter/pull/21) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [add nginx stub metrics](https://github.com/jkroepke/access-log-exporter/pull/20) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [add own syslog server](https://github.com/jkroepke/access-log-exporter/pull/19) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: NewFromSavedWithOptions](https://github.com/ua-parser/uap-go/pull/96) on [ua-parser/uap-go](https://github.com/ua-parser/uap-go) (2 days ago)
 - [chore: add warning for user agent parser](https://github.com/jkroepke/access-log-exporter/pull/13) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
 - [add docs](https://github.com/jkroepke/access-log-exporter/pull/12) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
-- [chore: fix attestation](https://github.com/jkroepke/access-log-exporter/pull/11) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
