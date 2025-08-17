@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add nginx server version](https://github.com/jkroepke/access-log-exporter/pull/23) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [test regex](https://github.com/jkroepke/access-log-exporter/pull/22) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [feat: update to go 1.25](https://github.com/jkroepke/openvpn-auth-oauth2/pull/588) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [add grafana dashboard](https://github.com/jkroepke/access-log-exporter/pull/21) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 day ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Add Apache 2.0 LICENSE file](https://github.com/alibabacloud-go/alibabacloud-gateway-pop/pull/2) on [alibabacloud-go/alibabacloud-gateway-pop](https://github.com/alibabacloud-go/alibabacloud-gateway-pop) (2 days ago)
 - [fix default config path](https://github.com/jkroepke/access-log-exporter/pull/18) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
 - [feat: NewFromSavedWithOptions](https://github.com/ua-parser/uap-go/pull/96) on [ua-parser/uap-go](https://github.com/ua-parser/uap-go) (3 days ago)
-- [chore: add warning for user agent parser](https://github.com/jkroepke/access-log-exporter/pull/13) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
 
 #### ⭐ Recent Stars
 
