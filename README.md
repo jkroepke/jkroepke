@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.12](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.12), today) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.0.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.0.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.11](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.11), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.8), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.1](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.1), 1 day ago) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add README.md](https://github.com/jkroepke/access-log-exporter/pull/24) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [feat: add nginx server version](https://github.com/jkroepke/access-log-exporter/pull/23) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [test regex](https://github.com/jkroepke/access-log-exporter/pull/22) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [feat: update to go 1.25](https://github.com/jkroepke/openvpn-auth-oauth2/pull/588) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [collector: support sub-second timeout values.](https://github.com/prometheus-community/windows_exporter/pull/2181) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [Add Apache 2.0 LICENSE file](https://github.com/alibabacloud-go/alibabacloud-gateway-pop/pull/2) on [alibabacloud-go/alibabacloud-gateway-pop](https://github.com/alibabacloud-go/alibabacloud-gateway-pop) (2 days ago)
 - [fix default config path](https://github.com/jkroepke/access-log-exporter/pull/18) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
-- [feat: NewFromSavedWithOptions](https://github.com/ua-parser/uap-go/pull/96) on [ua-parser/uap-go](https://github.com/ua-parser/uap-go) (3 days ago)
 
 #### ⭐ Recent Stars
 
