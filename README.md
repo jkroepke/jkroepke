@@ -36,9 +36,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.15.1), today) - Prometheus community Helm charts
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.15](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.15), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.0.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.0.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.8](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.8), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.1](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.1), 2 days ago) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), 4 days ago) - Terraform provider for Azure Resource Manager
