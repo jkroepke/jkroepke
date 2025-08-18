@@ -36,16 +36,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.46.4](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.46.4), today) - 
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.3](https://github.com/freelensapp/freelens/releases/tag/v1.5.3), today) - Free IDE for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-statsd-exporter-0.15.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-statsd-exporter-0.15.1), today) - Prometheus community Helm charts
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.1.15](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.1.15), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.0.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.0.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-vulture-0.9.1](https://github.com/grafana/helm-charts/releases/tag/tempo-vulture-0.9.1), 2 days ago) - 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/grafana](https://github.com/grafana/grafana) ([v12.1.1](https://github.com/grafana/grafana/releases/tag/v12.1.1), 5 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-13](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-13), 5 days ago) - The STACKIT SDK for Go
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.39.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.39.1), 5 days ago) - A command-line interface to manage STACKIT resources
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.1](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.1), 6 days ago) - Ingress NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
@@ -62,7 +62,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (1 week ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (today)
 - [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (3 weeks ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 month ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (1 month ago)
