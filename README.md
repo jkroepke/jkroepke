@@ -12,7 +12,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [⭐️ 1831 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 315 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 62 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
-- [⭐️ 7 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
+- [⭐️ 11 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 
@@ -23,6 +23,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
@@ -30,14 +31,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 week ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
 - [jkroepke/repo-automation](https://github.com/jkroepke/repo-automation) -  (1 week ago)
 - [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.31.0), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.1.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.1.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-nginx-exporter-1.11.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-nginx-exporter-1.11.9), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.356](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.356), 1 day ago) - 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.2.0](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.2.0), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.3](https://github.com/freelensapp/freelens/releases/tag/v1.5.3), 1 day ago) - Free IDE for Kubernetes
