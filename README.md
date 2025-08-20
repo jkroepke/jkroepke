@@ -12,7 +12,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [⭐️ 1833 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 316 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 62 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
-- [⭐️ 55 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
+- [⭐️ 56 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 
@@ -23,12 +23,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
-- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (3 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 week ago)
 - [jkroepke/repo-automation](https://github.com/jkroepke/repo-automation) -  (1 week ago)
@@ -36,33 +36,33 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.3.1), today) - 
-- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.31.0), today) - Prometheus community Helm charts
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.1.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.1.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.2.0](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.2.0), 1 day ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.3](https://github.com/freelensapp/freelens/releases/tag/v1.5.3), 1 day ago) - Free IDE for Kubernetes
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.1.1](https://github.com/grafana/grafana/releases/tag/v12.1.1), 6 days ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-13](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-13), 6 days ago) - The STACKIT SDK for Go
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.3.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.3.1), 1 day ago) - 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.31.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.31.0), 1 day ago) - Prometheus community Helm charts
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.1.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.1.0), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.2.0](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.2.0), 2 days ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.3](https://github.com/freelensapp/freelens/releases/tag/v1.5.3), 2 days ago) - Free IDE for Kubernetes
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), 6 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/grafana](https://github.com/grafana/grafana) ([v12.1.1](https://github.com/grafana/grafana/releases/tag/v12.1.1), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-13](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-13), 1 week ago) - The STACKIT SDK for Go
 
 #### 🔨 My recent Pull Requests
 
-- [collector: call PdhGetRawCounterArrayW twice to get the correct amount of bytes needed.](https://github.com/prometheus-community/windows_exporter/pull/2183) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/25) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
-- [Add README.md](https://github.com/jkroepke/access-log-exporter/pull/24) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
-- [feat: add nginx server version](https://github.com/jkroepke/access-log-exporter/pull/23) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
-- [test regex](https://github.com/jkroepke/access-log-exporter/pull/22) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
-- [feat: update to go 1.25](https://github.com/jkroepke/openvpn-auth-oauth2/pull/588) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [add grafana dashboard](https://github.com/jkroepke/access-log-exporter/pull/21) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
-- [add nginx stub metrics](https://github.com/jkroepke/access-log-exporter/pull/20) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
-- [add own syslog server](https://github.com/jkroepke/access-log-exporter/pull/19) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
-- [collector: support sub-second timeout values.](https://github.com/prometheus-community/windows_exporter/pull/2181) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [collector: call PdhGetRawCounterArrayW twice to get the correct amount of bytes needed.](https://github.com/prometheus-community/windows_exporter/pull/2183) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/25) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
+- [Add README.md](https://github.com/jkroepke/access-log-exporter/pull/24) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
+- [feat: add nginx server version](https://github.com/jkroepke/access-log-exporter/pull/23) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
+- [test regex](https://github.com/jkroepke/access-log-exporter/pull/22) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
+- [feat: update to go 1.25](https://github.com/jkroepke/openvpn-auth-oauth2/pull/588) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
+- [add grafana dashboard](https://github.com/jkroepke/access-log-exporter/pull/21) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
+- [add nginx stub metrics](https://github.com/jkroepke/access-log-exporter/pull/20) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
+- [add own syslog server](https://github.com/jkroepke/access-log-exporter/pull/19) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
+- [collector: support sub-second timeout values.](https://github.com/prometheus-community/windows_exporter/pull/2181) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 
 #### ⭐ Recent Stars
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (1 day ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (2 days ago)
 - [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (3 weeks ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 month ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (1 month ago)
