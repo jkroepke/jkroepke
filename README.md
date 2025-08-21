@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.85.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.85.0), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.1.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.1.1), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.10.0), 1 day ago) - Prometheus community Helm charts
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.3](https://github.com/freelensapp/freelens/releases/tag/v1.5.3), 3 days ago) - Free IDE for Kubernetes
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.1.12](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.1.12), 1 week ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.40.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.40.0), 1 week ago) - Terraform provider for Azure Resource Manager
-- [grafana/grafana](https://github.com/grafana/grafana) ([v12.1.1](https://github.com/grafana/grafana/releases/tag/v12.1.1), 1 week ago) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more. 
 
 #### 🔨 My recent Pull Requests
 
