@@ -12,7 +12,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [⭐️ 1834 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 316 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 62 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
-- [⭐️ 100 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
+- [⭐️ 101 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 9 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [gcpsecrets: Use `GCP_PROJECT` env var as default project.](https://github.com/helmfile/vals/pull/750) on [helmfile/vals](https://github.com/helmfile/vals) (today)
 - [collector: call PdhGetRawCounterArrayW twice to get the correct amount of bytes needed.](https://github.com/prometheus-community/windows_exporter/pull/2183) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/25) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
 - [Add README.md](https://github.com/jkroepke/access-log-exporter/pull/24) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [add grafana dashboard](https://github.com/jkroepke/access-log-exporter/pull/21) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
 - [add nginx stub metrics](https://github.com/jkroepke/access-log-exporter/pull/20) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
 - [add own syslog server](https://github.com/jkroepke/access-log-exporter/pull/19) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
-- [collector: support sub-second timeout values.](https://github.com/prometheus-community/windows_exporter/pull/2181) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
