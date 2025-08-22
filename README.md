@@ -36,9 +36,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.16.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.16.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.32.0), today) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.41.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.41.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.3), 1 day ago) - 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.85.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.85.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.1.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.1.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.2](https://github.com/grafana/alloy/releases/tag/v1.10.2), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
