@@ -23,8 +23,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
+- [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (today)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics. (1 day ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
@@ -32,13 +33,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 week ago)
-- [jkroepke/repo-automation](https://github.com/jkroepke/repo-automation) -  (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-76.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-76.5.0), today) - Prometheus community Helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.6.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.6.0), today) - Microsoft 365 prometheus exporter
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-3.16.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-3.16.0), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.41.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.41.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.85.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.85.0), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.1.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.1.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
