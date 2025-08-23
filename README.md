@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.26](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.26), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.16.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.4), 1 day ago) - 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.6.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.6.0), 1 day ago) - Microsoft 365 prometheus exporter
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.41.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.41.0), 2 days ago) - Terraform provider for Azure Resource Manager
