@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.0), today) - The Prometheus monitoring system and time series database.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.16.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.16.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.4), 1 day ago) - 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.6.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.6.0), 1 day ago) - Microsoft 365 prometheus exporter
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.2](https://github.com/grafana/alloy/releases/tag/v1.10.2), 3 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), 4 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.2.0](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.2.0), 5 days ago) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.5.3](https://github.com/freelensapp/freelens/releases/tag/v1.5.3), 5 days ago) - Free IDE for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
