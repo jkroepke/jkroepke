@@ -36,13 +36,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.0), today) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.0.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.0), 1 day ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.4), 2 days ago) - 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.6.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.6.0), 2 days ago) - Microsoft 365 prometheus exporter
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.41.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.41.0), 3 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.85.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.85.0), 3 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.1.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.1.1), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.2](https://github.com/grafana/alloy/releases/tag/v1.10.2), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), 5 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.2.0](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.2.0), 6 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
@@ -62,6 +62,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (today)
 - [vozlt/nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module (2 days ago)
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software (4 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (6 days ago)
@@ -71,7 +72,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (1 month ago)
 - [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator (1 month ago)
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 months ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
