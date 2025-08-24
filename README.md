@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [mi: avoid callbacks](https://github.com/jkroepke/windows_exporter/pull/9) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
 - [chore: update to go 1.25](https://github.com/prometheus-community/windows_exporter/pull/2185) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: simplify main func](https://github.com/jkroepke/access-log-exporter/pull/26) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
 - [gcpsecrets: Use `GCP_PROJECT` env var as default project.](https://github.com/helmfile/vals/pull/750) on [helmfile/vals](https://github.com/helmfile/vals) (3 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: add nginx server version](https://github.com/jkroepke/access-log-exporter/pull/23) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 - [test regex](https://github.com/jkroepke/access-log-exporter/pull/22) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 - [feat: update to go 1.25](https://github.com/jkroepke/openvpn-auth-oauth2/pull/588) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [add grafana dashboard](https://github.com/jkroepke/access-log-exporter/pull/21) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
