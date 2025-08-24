@@ -23,6 +23,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (2 days ago)
@@ -32,7 +33,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/homelab](https://github.com/jkroepke/homelab) - Personal homelab environment for everything what I do. (1 week ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,6 +49,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [mssql: expose correct patch level without restart](https://github.com/prometheus-community/windows_exporter/pull/2187) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [gpu: add device id label](https://github.com/prometheus-community/windows_exporter/pull/2186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mi: avoid callbacks](https://github.com/jkroepke/windows_exporter/pull/9) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
 - [chore: update to go 1.25](https://github.com/prometheus-community/windows_exporter/pull/2185) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: simplify main func](https://github.com/jkroepke/access-log-exporter/pull/26) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
@@ -57,8 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/25) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 - [Add README.md](https://github.com/jkroepke/access-log-exporter/pull/24) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 - [feat: add nginx server version](https://github.com/jkroepke/access-log-exporter/pull/23) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
-- [test regex](https://github.com/jkroepke/access-log-exporter/pull/22) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
-- [feat: update to go 1.25](https://github.com/jkroepke/openvpn-auth-oauth2/pull/588) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
