@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.3.1), today) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.0), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.0.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.3.4](https://github.com/grafana/helm-charts/releases/tag/grafana-9.3.4), 3 days ago) - 
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.6.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.6.0), 3 days ago) - Microsoft 365 prometheus exporter
