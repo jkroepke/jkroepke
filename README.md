@@ -36,8 +36,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.30.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.30.1), today) - Prometheus community Helm charts
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.6), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.38.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.38.0), 1 day ago) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.0.2), 2 days ago) - Prometheus community Helm charts
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 3 days ago) - Microsoft 365 prometheus exporter
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.0), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.0), 5 days ago) - The Prometheus monitoring system and time series database.
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.85.0](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.85.0), 1 week ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.10.2](https://github.com/grafana/alloy/releases/tag/v1.10.2), 1 week ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.0](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.0), 1 week ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.2.0](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.2.0), 1 week ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 
 #### 🔨 My recent Pull Requests
 
