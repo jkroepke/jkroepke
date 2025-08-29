@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Add Linux and Darwin commands to plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/574) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [chore: optimize codes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/592) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [fix(helm): Move bucketName validations into the config helpers.](https://github.com/grafana/loki/pull/19051) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
 - [mi: remove callbacks](https://github.com/prometheus-community/windows_exporter/pull/2188) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: update to go 1.25](https://github.com/prometheus-community/windows_exporter/pull/2185) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
 - [chore: simplify main func](https://github.com/jkroepke/access-log-exporter/pull/26) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 - [gcpsecrets: Use `GCP_PROJECT` env var as default project.](https://github.com/helmfile/vals/pull/750) on [helmfile/vals](https://github.com/helmfile/vals) (1 week ago)
-- [collector: call PdhGetRawCounterArrayW twice to get the correct amount of bytes needed.](https://github.com/prometheus-community/windows_exporter/pull/2183) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
