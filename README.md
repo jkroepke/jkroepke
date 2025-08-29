@@ -23,9 +23,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
@@ -36,12 +36,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.13.2](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.13.2), today) - Ingress NGINX Controller for Kubernetes
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.2](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.2), today) - 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.6](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.6), today) - Ingress NGINX Controller for Kubernetes
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.1), today) - A command-line interface to manage STACKIT resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.0), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-29](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-29), today) - The STACKIT SDK for Go
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.42.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.42.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.0](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.0), 1 day ago) - 
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.6), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 4 days ago) - Microsoft 365 prometheus exporter
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.0), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
