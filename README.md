@@ -23,12 +23,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (3 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/docker-wixtoolset](https://github.com/jkroepke/docker-wixtoolset) - Docker Container for creating MSI with wixtoolset under linux (1 week ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
 - [helmfile/vals](https://github.com/helmfile/vals) - Helm-like configuration values loader with support for various sources (1 week ago)
@@ -36,33 +36,33 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.3), today) - 
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.6](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.6), today) - Ingress NGINX Controller for Kubernetes
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.1), today) - A command-line interface to manage STACKIT resources
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.0), today) - Prometheus community Helm charts
-- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-29](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-29), today) - The STACKIT SDK for Go
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.42.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.42.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.6), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 4 days ago) - Microsoft 365 prometheus exporter
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.0), 5 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.0), 6 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.3), 1 day ago) - 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.6](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.6), 1 day ago) - Ingress NGINX Controller for Kubernetes
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.1), 1 day ago) - A command-line interface to manage STACKIT resources
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.0), 1 day ago) - Prometheus community Helm charts
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-29](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-29), 1 day ago) - The STACKIT SDK for Go
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.42.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.42.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.6), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 5 days ago) - Microsoft 365 prometheus exporter
+- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.0), 6 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.0), 1 week ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
-- [installer: set failureflag for Windows service](https://github.com/prometheus-community/windows_exporter/pull/2191) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Add Linux and Darwin commands to plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/574) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
-- [chore: optimize codes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/592) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [fix(helm): Move bucketName validations into the config helpers.](https://github.com/grafana/loki/pull/19051) on [grafana/loki](https://github.com/grafana/loki) (1 day ago)
-- [mi: remove callbacks](https://github.com/prometheus-community/windows_exporter/pull/2188) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
-- [mssql: expose correct patch level without restart](https://github.com/prometheus-community/windows_exporter/pull/2187) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [gpu: add device id label](https://github.com/prometheus-community/windows_exporter/pull/2186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [mi: avoid callbacks](https://github.com/jkroepke/windows_exporter/pull/9) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (5 days ago)
-- [chore: update to go 1.25](https://github.com/prometheus-community/windows_exporter/pull/2185) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [installer: set failureflag for Windows service](https://github.com/prometheus-community/windows_exporter/pull/2191) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [Add Linux and Darwin commands to plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/574) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
+- [chore: optimize codes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/592) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
+- [fix(helm): Move bucketName validations into the config helpers.](https://github.com/grafana/loki/pull/19051) on [grafana/loki](https://github.com/grafana/loki) (2 days ago)
+- [mi: remove callbacks](https://github.com/prometheus-community/windows_exporter/pull/2188) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
+- [mssql: expose correct patch level without restart](https://github.com/prometheus-community/windows_exporter/pull/2187) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [gpu: add device id label](https://github.com/prometheus-community/windows_exporter/pull/2186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [mi: avoid callbacks](https://github.com/jkroepke/windows_exporter/pull/9) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (6 days ago)
+- [chore: update to go 1.25](https://github.com/prometheus-community/windows_exporter/pull/2185) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [chore: simplify main func](https://github.com/jkroepke/access-log-exporter/pull/26) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
-- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (5 days ago)
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (6 days ago)
 - [vozlt/nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module (1 week ago)
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software (1 week ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
@@ -75,11 +75,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [rbiamru](https://github.com/rbiamru)
 - [florianrusch](https://github.com/florianrusch)
 - [rwenz3l](https://github.com/rwenz3l)
 - [bhoeping](https://github.com/bhoeping)
 - [milan-md79](https://github.com/milan-md79)
-- [brutany](https://github.com/brutany)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
