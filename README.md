@@ -24,9 +24,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (today)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (today)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
@@ -36,6 +36,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.0), today) - Github Action for installing vals (https://github.com/getsops/sops)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.0), today) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.0), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.3), 1 day ago) - 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.6](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.6), 1 day ago) - Ingress NGINX Controller for Kubernetes
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.1), 1 day ago) - A command-line interface to manage STACKIT resources
@@ -43,9 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-29](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-29), 1 day ago) - The STACKIT SDK for Go
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.42.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.42.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.6](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.6), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [cloudeteer/m365-exporter](https://github.com/cloudeteer/m365-exporter) ([v3.7.0](https://github.com/cloudeteer/m365-exporter/releases/tag/v3.7.0), 5 days ago) - Microsoft 365 prometheus exporter
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.0), 6 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.0), 1 week ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
@@ -62,6 +62,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (today)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (today)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (6 days ago)
 - [vozlt/nginx-module-vts](https://github.com/vozlt/nginx-module-vts) - Nginx virtual host traffic status module (1 week ago)
 - [CloudPirates-io/helm-charts](https://github.com/CloudPirates-io/helm-charts) - This repository contains public Helm Charts for commonly used software (1 week ago)
@@ -70,8 +72,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (1 month ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (1 month ago)
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (1 month ago)
-- [medik8s/node-healthcheck-operator](https://github.com/medik8s/node-healthcheck-operator) - K8s Node Health Check Operator (1 month ago)
-- [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
