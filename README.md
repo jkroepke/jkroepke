@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.1), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.7](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.7), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.0), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.0), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
@@ -43,7 +44,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-9.4.3](https://github.com/grafana/helm-charts/releases/tag/grafana-9.4.3), 2 days ago) - 
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.6](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.6), 2 days ago) - Ingress NGINX Controller for Kubernetes
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.1](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.1), 2 days ago) - A command-line interface to manage STACKIT resources
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.0), 2 days ago) - Prometheus community Helm charts
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-08-29](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-08-29), 2 days ago) - The STACKIT SDK for Go
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.42.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.42.0), 3 days ago) - Terraform provider for Azure Resource Manager
 
