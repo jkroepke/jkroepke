@@ -23,7 +23,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (2 days ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (2 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (2 days ago)
@@ -32,14 +33,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.8](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.8), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.3](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.3), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.358), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.2), today) - Prometheus community Helm charts
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.42.1](https://github.com/helmfile/vals/releases/tag/v0.42.1), today) - Helm-like configuration values loader with support for various sources
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.7](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.7), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.0), 2 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.0), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.0), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
