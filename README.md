@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.8.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.8.0-weekly.358), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.1.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.1.2), today) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-1.15.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-1.15.0), today) - 
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.42.1](https://github.com/helmfile/vals/releases/tag/v0.42.1), today) - Helm-like configuration values loader with support for various sources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.7](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.7), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.0), 2 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
