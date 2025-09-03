@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.3](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.3), today) - A command-line interface to manage STACKIT resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.5.0), today) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.66.0](https://github.com/prometheus/common/releases/tag/v0.66.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.358), 1 day ago) - 
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.0), 4 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.0](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.0), 4 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.0](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.0), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) ([controller-v1.12.6](https://github.com/kubernetes/ingress-nginx/releases/tag/controller-v1.12.6), 5 days ago) - Ingress NGINX Controller for Kubernetes
 
 #### 🔨 My recent Pull Requests
 
