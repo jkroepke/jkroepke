@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-6.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-6.3.0), today) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.66.0](https://github.com/prometheus/common/releases/tag/v0.66.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.3.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.358), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.19.0), 1 day ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.9), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
