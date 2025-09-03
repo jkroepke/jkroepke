@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix command syntax for Windows in plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/588) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [feat: update to node24](https://github.com/jkroepke/setup-vals/pull/164) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (4 days ago)
 - [feat: update to node24](https://github.com/jkroepke/setup-stackit-cli/pull/67) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (4 days ago)
 - [feat: update to node24](https://github.com/jkroepke/setup-sops/pull/62) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (4 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix(helm): Move bucketName validations into the config helpers.](https://github.com/grafana/loki/pull/19051) on [grafana/loki](https://github.com/grafana/loki) (6 days ago)
 - [mi: remove callbacks](https://github.com/prometheus-community/windows_exporter/pull/2188) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [mssql: expose correct patch level without restart](https://github.com/prometheus-community/windows_exporter/pull/2187) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [gpu: add device id label](https://github.com/prometheus-community/windows_exporter/pull/2186) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
