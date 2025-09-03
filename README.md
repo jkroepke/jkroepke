@@ -36,10 +36,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.0), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.35.0), today) - Prometheus community Helm charts
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.3](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.3), today) - A command-line interface to manage STACKIT resources
 - [prometheus/common](https://github.com/prometheus/common) ([v0.66.0](https://github.com/prometheus/common/releases/tag/v0.66.0), 1 day ago) - Go libraries shared across Prometheus components and libraries.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.358](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.358), 1 day ago) - 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.19.0), 1 day ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.9), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.42.1](https://github.com/helmfile/vals/releases/tag/v0.42.1), 2 days ago) - Helm-like configuration values loader with support for various sources
