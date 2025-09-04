@@ -23,16 +23,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (5 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (5 days ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (5 days ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (5 days ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (6 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,6 +49,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: switch to go.yaml.in/yaml/v3](https://github.com/prometheus-community/windows_exporter/pull/2196) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [chore: switch to go.yaml.in/yaml/v3](https://github.com/jkroepke/access-log-exporter/pull/32) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [chore: use go.yaml.in/yaml/v3](https://github.com/jkroepke/openvpn-auth-oauth2/pull/595) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix command syntax for Windows in plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/588) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [feat: update to node24](https://github.com/jkroepke/setup-vals/pull/164) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (5 days ago)
@@ -57,8 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [installer: set failureflag for Windows service](https://github.com/prometheus-community/windows_exporter/pull/2191) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [Add Linux and Darwin commands to plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/574) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (6 days ago)
 - [chore: optimize codes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/592) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [fix(helm): Move bucketName validations into the config helpers.](https://github.com/grafana/loki/pull/19051) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
-- [mi: remove callbacks](https://github.com/prometheus-community/windows_exporter/pull/2188) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
