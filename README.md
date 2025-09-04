@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.5](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.5), today) - A command-line interface to manage STACKIT resources
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.6](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.6), today) - A command-line interface to manage STACKIT resources
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.4](https://github.com/grafana/loki/releases/tag/v3.5.4), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.0](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.35.0), 1 day ago) - Prometheus community Helm charts
