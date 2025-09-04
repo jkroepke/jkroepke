@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), today) - Terraform provider for Azure Resource Manager
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.9](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.9), today) - A command-line interface to manage STACKIT resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.39.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.39.0), today) - 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.1](https://github.com/prometheus/client_golang/releases/tag/v1.23.1), today) - Prometheus instrumentation library for Go applications
@@ -45,10 +46,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.19.0), 2 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.9), 3 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [helmfile/vals](https://github.com/helmfile/vals) ([v0.42.1](https://github.com/helmfile/vals/releases/tag/v0.42.1), 3 days ago) - Helm-like configuration values loader with support for various sources
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.0](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.0), 5 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 
 #### 🔨 My recent Pull Requests
 
+- [chore: use go.yaml.in/yaml/v3](https://github.com/jkroepke/openvpn-auth-oauth2/pull/595) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Fix command syntax for Windows in plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/588) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [feat: update to node24](https://github.com/jkroepke/setup-vals/pull/164) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (5 days ago)
 - [feat: update to node24](https://github.com/jkroepke/setup-stackit-cli/pull/67) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (5 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: optimize codes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/592) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [fix(helm): Move bucketName validations into the config helpers.](https://github.com/grafana/loki/pull/19051) on [grafana/loki](https://github.com/grafana/loki) (1 week ago)
 - [mi: remove callbacks](https://github.com/prometheus-community/windows_exporter/pull/2188) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [mssql: expose correct patch level without restart](https://github.com/prometheus-community/windows_exporter/pull/2187) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
