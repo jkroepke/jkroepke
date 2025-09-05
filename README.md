@@ -36,14 +36,14 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.41.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.41.0), today) - A command-line interface to manage STACKIT resources
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-mongodb-exporter-3.14.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-mongodb-exporter-3.14.0), today) - Prometheus community Helm charts
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.2), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.2), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.9](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.9), 1 day ago) - A command-line interface to manage STACKIT resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.39.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.39.0), 1 day ago) - 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.1](https://github.com/prometheus/client_golang/releases/tag/v1.23.1), 1 day ago) - Prometheus instrumentation library for Go applications
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.4](https://github.com/grafana/loki/releases/tag/v3.5.4), 1 day ago) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.35.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.66.0](https://github.com/prometheus/common/releases/tag/v0.66.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.19.0), 3 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 
