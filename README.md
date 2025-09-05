@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Replace go-licenses command with make target](https://github.com/jkroepke/openvpn-auth-oauth2/pull/600) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: switch to go.yaml.in/yaml/v3](https://github.com/prometheus-community/windows_exporter/pull/2196) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [chore: switch to go.yaml.in/yaml/v3](https://github.com/jkroepke/access-log-exporter/pull/32) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 day ago)
 - [chore: use go.yaml.in/yaml/v3](https://github.com/jkroepke/openvpn-auth-oauth2/pull/595) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: update to node24](https://github.com/jkroepke/setup-sops/pull/62) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (6 days ago)
 - [installer: set failureflag for Windows service](https://github.com/prometheus-community/windows_exporter/pull/2191) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 - [Add Linux and Darwin commands to plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/574) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [chore: optimize codes](https://github.com/jkroepke/openvpn-auth-oauth2/pull/592) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
