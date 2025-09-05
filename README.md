@@ -36,6 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.1), today) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.1](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.1), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.9](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.9), 1 day ago) - A command-line interface to manage STACKIT resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.39.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.39.0), 1 day ago) - 
@@ -44,8 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.35.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus/common](https://github.com/prometheus/common) ([v0.66.0](https://github.com/prometheus/common/releases/tag/v0.66.0), 3 days ago) - Go libraries shared across Prometheus components and libraries.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.19.0), 3 days ago) - Configure external DNS servers dynamically from Kubernetes resources
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.9), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [helmfile/vals](https://github.com/helmfile/vals) ([v0.42.1](https://github.com/helmfile/vals/releases/tag/v0.42.1), 4 days ago) - Helm-like configuration values loader with support for various sources
 
 #### 🔨 My recent Pull Requests
 
