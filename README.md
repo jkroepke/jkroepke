@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.1](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.1), today) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.1](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.1), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.2](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.2), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.2), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.40.9](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.40.9), 1 day ago) - A command-line interface to manage STACKIT resources
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.39.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.39.0), 1 day ago) - 
