@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.3), today) - Prometheus exporter for Windows machines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.43](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.43), 1 day ago) - 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.2](https://github.com/prometheus/client_golang/releases/tag/v1.23.2), 1 day ago) - Prometheus instrumentation library for Go applications
 - [prometheus/common](https://github.com/prometheus/common) ([v0.66.1](https://github.com/prometheus/common/releases/tag/v0.66.1), 1 day ago) - Go libraries shared across Prometheus components and libraries.
@@ -45,10 +46,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.2), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.4](https://github.com/grafana/loki/releases/tag/v3.5.4), 2 days ago) - Like Prometheus, but for logs.
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([v0.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/v0.19.0), 4 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 
 #### 🔨 My recent Pull Requests
 
+- [thermalzone: deprecate collector](https://github.com/prometheus-community/windows_exporter/pull/2201) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [run ci only on scripts](https://github.com/jkroepke/helm-secrets/pull/596) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
 - [Replace go-licenses command with make target](https://github.com/jkroepke/openvpn-auth-oauth2/pull/600) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [chore: switch to go.yaml.in/yaml/v3](https://github.com/prometheus-community/windows_exporter/pull/2196) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: update to node24](https://github.com/jkroepke/setup-vals/pull/164) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (1 week ago)
 - [feat: update to node24](https://github.com/jkroepke/setup-stackit-cli/pull/67) on [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) (1 week ago)
 - [feat: update to node24](https://github.com/jkroepke/setup-sops/pull/62) on [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) (1 week ago)
-- [installer: set failureflag for Windows service](https://github.com/prometheus-community/windows_exporter/pull/2191) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
