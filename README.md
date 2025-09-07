@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [pdh: added logging, if PDH CStatus is not valid](https://github.com/prometheus-community/windows_exporter/pull/2203) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: add automemlimit](https://github.com/jkroepke/access-log-exporter/pull/46) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 day ago)
 - [os: Add SKU label to info metric](https://github.com/prometheus-community/windows_exporter/pull/2202) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [thermalzone: deprecate collector](https://github.com/prometheus-community/windows_exporter/pull/2201) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: switch to go.yaml.in/yaml/v3](https://github.com/jkroepke/access-log-exporter/pull/32) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
 - [chore: use go.yaml.in/yaml/v3](https://github.com/jkroepke/openvpn-auth-oauth2/pull/595) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [Fix command syntax for Windows in plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/588) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
-- [feat: update to node24](https://github.com/jkroepke/setup-vals/pull/164) on [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) (1 week ago)
 
 #### ⭐ Recent Stars
 
