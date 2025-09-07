@@ -24,8 +24,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 day ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.10](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.10), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.36.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.3), 1 day ago) - Prometheus exporter for Windows machines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.43](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.43), 2 days ago) - 
@@ -45,10 +46,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.41.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.41.0), 2 days ago) - A command-line interface to manage STACKIT resources
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.2), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), 3 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.4](https://github.com/grafana/loki/releases/tag/v3.5.4), 3 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
+- [wip](https://github.com/prometheus-community/windows_exporter/pull/2204) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [pdh: added logging, if PDH CStatus is not valid](https://github.com/prometheus-community/windows_exporter/pull/2203) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: add automemlimit](https://github.com/jkroepke/access-log-exporter/pull/46) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 day ago)
 - [os: Add SKU label to info metric](https://github.com/prometheus-community/windows_exporter/pull/2202) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: switch to go.yaml.in/yaml/v3](https://github.com/prometheus-community/windows_exporter/pull/2196) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [chore: switch to go.yaml.in/yaml/v3](https://github.com/jkroepke/access-log-exporter/pull/32) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (3 days ago)
 - [chore: use go.yaml.in/yaml/v3](https://github.com/jkroepke/openvpn-auth-oauth2/pull/595) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [Fix command syntax for Windows in plugin.yaml](https://github.com/jkroepke/helm-secrets/pull/588) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
 
 #### ⭐ Recent Stars
 
