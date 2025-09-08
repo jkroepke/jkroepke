@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 1845 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 1846 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 326 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 62 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 146 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.19.0), today) - Configure external DNS servers dynamically from Kubernetes resources
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.37.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.37.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.10](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.10), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.3), 2 days ago) - Prometheus exporter for Windows machines
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.3), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.41.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.41.0), 3 days ago) - A command-line interface to manage STACKIT resources
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.2), 3 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.43.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.43.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
