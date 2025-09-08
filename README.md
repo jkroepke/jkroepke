@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.37.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.37.0), today) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.10](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.10), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.36.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.3), 2 days ago) - Prometheus exporter for Windows machines
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.43](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.43), 3 days ago) - 
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.2](https://github.com/prometheus/client_golang/releases/tag/v1.23.2), 3 days ago) - Prometheus instrumentation library for Go applications
