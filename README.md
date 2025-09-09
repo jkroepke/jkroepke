@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.40.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.40.0), today) - 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.9.4](https://github.com/grafana/helm-charts/releases/tag/beyla-1.9.4), today) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.0), today) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.19.0), 1 day ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.10](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.10), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
