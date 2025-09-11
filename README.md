@@ -23,29 +23,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [jkroepke/helm-arg-demo-plugin](https://github.com/jkroepke/helm-arg-demo-plugin) -  (4 days ago)
-- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (5 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (5 days ago)
+- [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-09-11](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-09-11), today) - The STACKIT SDK for Go
+- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.42.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.42.0), today) - A command-line interface to manage STACKIT resources
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.2](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.2), today) - 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.4.6](https://github.com/grafana/loki/releases/tag/v3.4.6), today) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.0), 2 days ago) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.19.0), 3 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.6.10](https://github.com/jkroepke/helm-secrets/releases/tag/v4.6.10), 4 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.31.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.31.3), 5 days ago) - Prometheus exporter for Windows machines
 - [prometheus/client_golang](https://github.com/prometheus/client_golang) ([v1.23.2](https://github.com/prometheus/client_golang/releases/tag/v1.23.2), 6 days ago) - Prometheus instrumentation library for Go applications
 - [prometheus/common](https://github.com/prometheus/common) ([v0.66.1](https://github.com/prometheus/common/releases/tag/v0.66.1), 6 days ago) - Go libraries shared across Prometheus components and libraries.
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.3), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.41.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.41.0), 6 days ago) - A command-line interface to manage STACKIT resources
 
 #### 🔨 My recent Pull Requests
 
@@ -62,6 +62,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
+- [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 week ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 week ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (2 weeks ago)
@@ -71,7 +72,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Captain-Sangam/KubePeek](https://github.com/Captain-Sangam/KubePeek) - Web UI for real-time node group-level observability in AWS EKS — simple, focused, and open source. (1 month ago)
 - [openpubkey/opkssh](https://github.com/openpubkey/opkssh) - opkssh (OpenPubkey SSH) (2 months ago)
 - [dillonzq/LoveIt](https://github.com/dillonzq/LoveIt) - ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题 (2 months ago)
-- [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO  alternative. (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
