@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.4.6](https://github.com/grafana/loki/releases/tag/v3.4.6), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.4.1](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.4.1), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.6.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.6.0), 2 days ago) - Prometheus community Helm charts
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.19.0), 3 days ago) - Configure external DNS servers dynamically from Kubernetes resources
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/common](https://github.com/prometheus/common) ([v0.66.1](https://github.com/prometheus/common/releases/tag/v0.66.1), 6 days ago) - Go libraries shared across Prometheus components and libraries.
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.3](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.3), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.41.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.41.0), 6 days ago) - A command-line interface to manage STACKIT resources
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.2](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.2), 6 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 
 #### 🔨 My recent Pull Requests
 
