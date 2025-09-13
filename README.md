@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [config: openvpn.bypass.common-names accepts regular expressions now](https://github.com/jkroepke/openvpn-auth-oauth2/pull/602) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Update README with additional badges and acknowledgements](https://github.com/jkroepke/lens-extension-certificate-info/pull/37) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 day ago)
 - [wip](https://github.com/prometheus-community/windows_exporter/pull/2204) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [pdh: added logging, if PDH CStatus is not valid](https://github.com/prometheus-community/windows_exporter/pull/2203) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [run ci only on scripts](https://github.com/jkroepke/helm-secrets/pull/596) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
 - [Replace go-licenses command with make target](https://github.com/jkroepke/openvpn-auth-oauth2/pull/600) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 - [chore: switch to go.yaml.in/yaml/v3](https://github.com/prometheus-community/windows_exporter/pull/2196) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [chore: switch to go.yaml.in/yaml/v3](https://github.com/jkroepke/access-log-exporter/pull/32) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
