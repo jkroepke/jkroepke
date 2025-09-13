@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.26.0-rc.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.26.0-rc.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.17.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.3), 1 day ago) - 
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.3), 1 day ago) - Github Action for installing vals (https://github.com/helmfile/vals)
@@ -45,20 +46,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), 2 days ago) - Like Prometheus, but for logs.
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-09-11](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-09-11), 2 days ago) - The STACKIT SDK for Go
 - [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.42.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.42.0), 2 days ago) - A command-line interface to manage STACKIT resources
-- [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ([external-dns-helm-chart-1.19.0](https://github.com/kubernetes-sigs/external-dns/releases/tag/external-dns-helm-chart-1.19.0), 5 days ago) - Configure external DNS servers dynamically from Kubernetes resources
 
 #### 🔨 My recent Pull Requests
 
+- [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/609) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/608) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/607) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/606) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [config: openvpn.bypass.common-names accepts regular expressions now](https://github.com/jkroepke/openvpn-auth-oauth2/pull/602) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [Update README with additional badges and acknowledgements](https://github.com/jkroepke/lens-extension-certificate-info/pull/37) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (1 day ago)
 - [wip](https://github.com/prometheus-community/windows_exporter/pull/2204) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [pdh: added logging, if PDH CStatus is not valid](https://github.com/prometheus-community/windows_exporter/pull/2203) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [feat: add automemlimit](https://github.com/jkroepke/access-log-exporter/pull/46) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 - [os: Add SKU label to info metric](https://github.com/prometheus-community/windows_exporter/pull/2202) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [thermalzone: deprecate collector](https://github.com/prometheus-community/windows_exporter/pull/2201) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
-- [run ci only on scripts](https://github.com/jkroepke/helm-secrets/pull/596) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 week ago)
-- [Replace go-licenses command with make target](https://github.com/jkroepke/openvpn-auth-oauth2/pull/600) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [chore: switch to go.yaml.in/yaml/v3](https://github.com/prometheus-community/windows_exporter/pull/2196) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
