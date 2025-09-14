@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.3.0-rc.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.3.0-rc.1), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.3.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.3.1), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.26.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.26.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.17.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.3), 2 days ago) - 
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update run-name format in tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/613) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/49) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/612) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/610) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/606) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [config: openvpn.bypass.common-names accepts regular expressions now](https://github.com/jkroepke/openvpn-auth-oauth2/pull/602) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [Update README with additional badges and acknowledgements](https://github.com/jkroepke/lens-extension-certificate-info/pull/37) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (2 days ago)
-- [wip](https://github.com/prometheus-community/windows_exporter/pull/2204) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 week ago)
 
 #### ⭐ Recent Stars
 
