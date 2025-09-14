@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.3.0-rc.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.3.0-rc.1), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.26.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.26.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.17.0), 2 days ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.47.3](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.47.3), 2 days ago) - 
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.1), 3 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), 3 days ago) - Like Prometheus, but for logs.
 - [stackitcloud/stackit-sdk-go](https://github.com/stackitcloud/stackit-sdk-go) ([release-2025-09-11](https://github.com/stackitcloud/stackit-sdk-go/releases/tag/release-2025-09-11), 3 days ago) - The STACKIT SDK for Go
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.42.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.42.0), 3 days ago) - A command-line interface to manage STACKIT resources
 
 #### 🔨 My recent Pull Requests
 
