@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Uncomment flags for SBOM and provenance in config](https://github.com/jkroepke/access-log-exporter/pull/50) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 - [Update run-name format in tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/613) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/49) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 day ago)
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/612) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/607) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/606) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
 - [config: openvpn.bypass.common-names accepts regular expressions now](https://github.com/jkroepke/openvpn-auth-oauth2/pull/602) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 days ago)
-- [Update README with additional badges and acknowledgements](https://github.com/jkroepke/lens-extension-certificate-info/pull/37) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (3 days ago)
 
 #### ⭐ Recent Stars
 
