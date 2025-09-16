@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 1853 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 331 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 332 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 69 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 148 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 4 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.7.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.360](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.360), today) - 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-2.17.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-2.17.0), 1 day ago) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.1), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.3.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.3.1), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.26.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.26.0), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
