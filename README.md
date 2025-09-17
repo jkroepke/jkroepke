@@ -36,10 +36,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.33.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.33.1), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.0), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.9.1), today) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.0.0](https://github.com/grafana/helm-charts/releases/tag/grafana-10.0.0), 1 day ago) - 
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.1), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.3.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.3.1), 3 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.26.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.26.0), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
