@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), today) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.0.0](https://github.com/grafana/helm-charts/releases/tag/grafana-10.0.0), 1 day ago) - 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.8.0), 1 day ago) - Prometheus community Helm charts
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.1), 2 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.4), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.44.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.44.0), 6 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.6.0-rc.1), 6 days ago) - The Prometheus monitoring system and time series database.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.5.5](https://github.com/grafana/loki/releases/tag/v3.5.5), 6 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
