@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.1](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.1), today) - Github Action for installing vals (https://github.com/getsops/sops)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.38.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.38.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.44](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.44), today) - 
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), today) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.3.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.3.1), 4 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.26.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.26.0), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.3), 6 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.4), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 
 #### 🔨 My recent Pull Requests
 
