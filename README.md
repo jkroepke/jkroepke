@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), today) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.48.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.48.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.9.1), 1 day ago) - Prometheus community Helm charts
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.26.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.26.0), 5 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.3](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.3), 6 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.4](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.4), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.44.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.44.0), 1 week ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
