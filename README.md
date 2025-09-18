@@ -36,10 +36,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-state-metrics-6.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-state-metrics-6.4.0), today) - Prometheus community Helm charts
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), today) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([tempo-distributed-1.48.0](https://github.com/grafana/helm-charts/releases/tag/tempo-distributed-1.48.0), today) - 
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.9.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.9.1), 1 day ago) - Prometheus community Helm charts
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 1 day ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.1), 3 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.3.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.3.1), 4 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
