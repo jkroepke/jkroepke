@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-node-exporter-4.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-node-exporter-4.48.0), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.38.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.38.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-2.0.44](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-2.0.44), today) - 
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), today) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.0](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.0), 1 day ago) - OpenTelemetry Collector distribution with programmable pipelines
