@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [os: include installation type in Windows version retrieval](https://github.com/prometheus-community/windows_exporter/pull/2217) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2213) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Add go module struct to import the regex definition from external packages](https://github.com/ua-parser/uap-core/pull/640) on [ua-parser/uap-core](https://github.com/ua-parser/uap-core) (1 day ago)
 - [Modify cache condition in CI workflow](https://github.com/jkroepke/access-log-exporter/pull/55) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Update run-name format in tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/613) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (5 days ago)
 - [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/49) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/612) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/610) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 
 #### ⭐ Recent Stars
 
