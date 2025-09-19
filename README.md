@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.5](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.5), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.45.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.45.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.1](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.1), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-27.38.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-27.38.0), 1 day ago) - Prometheus community Helm charts
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 2 days ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 - [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.1), 4 days ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.3.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.3.1), 5 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v1.26.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v1.26.0), 6 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
