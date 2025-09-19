@@ -24,15 +24,15 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/idp](https://github.com/jkroepke/idp) - Internal Developer Platform Demo Repository (today)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (2 days ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 days ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (2 days ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 week ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2213) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Add go module struct to import the regex definition from external packages](https://github.com/ua-parser/uap-core/pull/640) on [ua-parser/uap-core](https://github.com/ua-parser/uap-core) (1 day ago)
 - [Modify cache condition in CI workflow](https://github.com/jkroepke/access-log-exporter/pull/55) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
 - [[CI] Allow mend[bot] to run Renovate post job](https://github.com/prometheus-community/helm-charts/pull/6140) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/49) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/612) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/610) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
-- [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/609) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 
 #### ⭐ Recent Stars
 
