@@ -23,8 +23,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/idp](https://github.com/jkroepke/idp) - Internal Developer Platform Demo Repository (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (3 days ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (3 days ago)
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2219) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [os: include installation type in Windows version retrieval](https://github.com/prometheus-community/windows_exporter/pull/2217) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2213) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Add go module struct to import the regex definition from external packages](https://github.com/ua-parser/uap-core/pull/640) on [ua-parser/uap-core](https://github.com/ua-parser/uap-core) (2 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Uncomment flags for SBOM and provenance in config](https://github.com/jkroepke/access-log-exporter/pull/50) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
 - [Update run-name format in tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/613) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (6 days ago)
 - [fix: use docker](https://github.com/jkroepke/access-log-exporter/pull/49) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (6 days ago)
-- [create tag workflow](https://github.com/jkroepke/openvpn-auth-oauth2/pull/612) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
 
 #### ⭐ Recent Stars
 
