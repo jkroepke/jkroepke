@@ -36,9 +36,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.11.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.361](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.361), today) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.45.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.45.1), 1 day ago) - Terraform provider for Azure Resource Manager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-stackdriver-exporter-4.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-stackdriver-exporter-4.11.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0), 1 day ago) - The Prometheus monitoring system and time series database.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.1), 4 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.5](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.5), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
