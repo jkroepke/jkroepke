@@ -23,16 +23,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
 - [jkroepke/idp](https://github.com/jkroepke/idp) - Internal Developer Platform Demo Repository (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 week ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 week ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 week ago)
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 week ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
