@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.6.0](https://github.com/freelensapp/freelens/releases/tag/v1.6.0), today) - Free IDE for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.361](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.361), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.45.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.45.1), 2 days ago) - Terraform provider for Azure Resource Manager
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.1](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.1), 6 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), 6 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 1 week ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-8.2.1](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-8.2.1), 1 week ago) - Helm charts to allow for the deployment of OAuth2-Proxy
 
 #### 🔨 My recent Pull Requests
 
