@@ -36,9 +36,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-3.5.2](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-3.5.2), today) - 
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.6.0](https://github.com/freelensapp/freelens/releases/tag/v1.6.0), today) - Free IDE for Kubernetes
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-5.9.0-weekly.361](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-5.9.0-weekly.361), 1 day ago) - 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.45.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.45.1), 2 days ago) - Terraform provider for Azure Resource Manager
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0), 2 days ago) - The Prometheus monitoring system and time series database.
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
