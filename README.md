@@ -23,10 +23,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [jkroepke/idp](https://github.com/jkroepke/idp) - Internal Developer Platform Demo Repository (5 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (5 days ago)
+- [jkroepke/idp](https://github.com/jkroepke/idp) - Internal Developer Platform Demo Repository (6 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 week ago)
@@ -36,23 +36,23 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.41.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.41.0), today) - 
-- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.6.0](https://github.com/freelensapp/freelens/releases/tag/v1.6.0), today) - Free IDE for Kubernetes
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.45.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.45.1), 2 days ago) - Terraform provider for Azure Resource Manager
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0), 2 days ago) - The Prometheus monitoring system and time series database.
-- [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.1), 5 days ago) - OpenTelemetry Collector distribution with programmable pipelines
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.5](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.5), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.1](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.1), 6 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), 6 days ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.41.0](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.41.0), 1 day ago) - 
+- [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.6.0](https://github.com/freelensapp/freelens/releases/tag/v1.6.0), 1 day ago) - Free IDE for Kubernetes
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-3.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-3.0.0), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.45.1](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.45.1), 3 days ago) - Terraform provider for Azure Resource Manager
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0), 3 days ago) - The Prometheus monitoring system and time series database.
+- [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.1](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.1), 6 days ago) - OpenTelemetry Collector distribution with programmable pipelines
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.5](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.5), 6 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.1](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.1), 1 week ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [brancz/kube-rbac-proxy](https://github.com/brancz/kube-rbac-proxy) ([v0.20.0](https://github.com/brancz/kube-rbac-proxy/releases/tag/v0.20.0), 1 week ago) - Kubernetes RBAC authorizing HTTP proxy for a single upstream.
 - [cloudeteer/terraform-azurerm-vm](https://github.com/cloudeteer/terraform-azurerm-vm) ([v1.6.1](https://github.com/cloudeteer/terraform-azurerm-vm/releases/tag/v1.6.1), 1 week ago) - ☁️ Cloudeteer's Terraform AzureRM virtual machine module
 
 #### 🔨 My recent Pull Requests
 
-- [Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2219) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
-- [os: include installation type in Windows version retrieval](https://github.com/prometheus-community/windows_exporter/pull/2217) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2213) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
-- [Add go module struct to import the regex definition from external packages](https://github.com/ua-parser/uap-core/pull/640) on [ua-parser/uap-core](https://github.com/ua-parser/uap-core) (6 days ago)
+- [Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2219) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (5 days ago)
+- [os: include installation type in Windows version retrieval](https://github.com/prometheus-community/windows_exporter/pull/2217) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [Update renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2213) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
+- [Add go module struct to import the regex definition from external packages](https://github.com/ua-parser/uap-core/pull/640) on [ua-parser/uap-core](https://github.com/ua-parser/uap-core) (1 week ago)
 - [Modify cache condition in CI workflow](https://github.com/jkroepke/access-log-exporter/pull/55) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (1 week ago)
 - [[CI] Allow mend[bot] to run Renovate post job](https://github.com/prometheus-community/helm-charts/pull/6140) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 week ago)
 - [Update cache condition for GitHub actions](https://github.com/jkroepke/openvpn-auth-oauth2/pull/614) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
@@ -62,7 +62,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (1 week ago)
+- [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (2 weeks ago)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (3 weeks ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (3 weeks ago)
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) -  Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/ (1 month ago)
