@@ -23,8 +23,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (6 days ago)
 - [jkroepke/idp](https://github.com/jkroepke/idp) - Internal Developer Platform Demo Repository (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 week ago)
