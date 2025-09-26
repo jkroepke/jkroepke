@@ -36,12 +36,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.12.0), today) - Prometheus community Helm charts
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.6.1](https://github.com/freelensapp/freelens/releases/tag/v1.6.1), today) - Free IDE for Kubernetes
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.3](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.3), today) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.4), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.6](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.6), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v4.46.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v4.46.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.11.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.11.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.2](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.2), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-loki-6.41.1](https://github.com/grafana/helm-charts/releases/tag/helm-loki-6.41.1), 1 day ago) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.6.0](https://github.com/prometheus/prometheus/releases/tag/v3.6.0), 4 days ago) - The Prometheus monitoring system and time series database.
