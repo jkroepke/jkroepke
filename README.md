@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-77.12.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-77.12.0), 2 days ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.31.1), today) - Prometheus community Helm charts
 - [freelensapp/freelens](https://github.com/freelensapp/freelens) ([v1.6.1](https://github.com/freelensapp/freelens/releases/tag/v1.6.1), 2 days ago) - Free IDE for Kubernetes
 - [grafana/alloy](https://github.com/grafana/alloy) ([v1.11.0-rc.3](https://github.com/grafana/alloy/releases/tag/v1.11.0-rc.3), 2 days ago) - OpenTelemetry Collector distribution with programmable pipelines
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.4](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.4), 2 days ago) - Github Action for installing vals (https://github.com/helmfile/vals)
