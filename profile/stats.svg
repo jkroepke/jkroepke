@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jan-Otto Kr&#246;pke's GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 2988, Total Commits  (last year) : 1714, Total PRs: 2223, Total Issues: 918, Contributed to (last year): 65</desc>
+        <desc id="descId">Total Stars Earned: 2988, Total Commits  (last year) : 1714, Total PRs: 2223, Total Issues: 918, Contributed to (last year): 64</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >65</text>
+      >64</text>
     </g>
   </g>
     </svg>
