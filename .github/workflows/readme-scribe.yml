@@ -36,6 +36,7 @@ jobs:
           token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - name: Commit changes
+        if: github.event_name != 'pull_request'
         env:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_HEAD_REF: ${{ github.head_ref }}

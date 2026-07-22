@@ -17,3 +17,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [⭐️ 11 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 
 #### ❤️ Sponsors
+
+- [numberly (Numberly)](https://github.com/numberly)
+
+
+#### 👷 Check out what I'm currently working on
