@@ -17,7 +17,7 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/modern-go/reflect2 v1.0.2 // indirect
 	github.com/muesli/markscribe v0.6.1-0.20230418075415-d838b6e71dc6 // indirect
-	github.com/shurcooL/githubv4 v0.0.0-20191127044304-8f68eb5628d0 // indirect
+	github.com/shurcooL/githubv4 v0.0.0-20260209031235-2402fdf4a9ed // indirect
 	github.com/shurcooL/graphql v0.0.0-20181231061246-d48a9a75455f // indirect
 	golang.org/x/net v0.9.0 // indirect
 	golang.org/x/oauth2 v0.7.0 // indirect
@@ -26,7 +26,5 @@ require (
 	google.golang.org/protobuf v1.28.0 // indirect
 )
 
-replace (
-    // https://github.com/muesli/markscribe/pull/103
-	github.com/muesli/markscribe v0.6.1-0.20230418075415-d838b6e71dc6 => github.com/danielgatis/markscribe v0.6.1-0.20260718122045-ef2c490b5f4e
-)
+// https://github.com/muesli/markscribe/pull/103
+replace github.com/muesli/markscribe v0.6.1-0.20230418075415-d838b6e71dc6 => github.com/danielgatis/markscribe v0.6.1-0.20260718122045-ef2c490b5f4e
