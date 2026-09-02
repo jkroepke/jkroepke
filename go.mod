@@ -1,6 +1,6 @@
 module github.com/jkroepke/jkroepke
 
-go 1.26.5
+go 1.27.1
 
 tool github.com/muesli/markscribe
 
@@ -26,7 +26,5 @@ require (
 	google.golang.org/protobuf v1.28.0 // indirect
 )
 
-replace (
-    // https://github.com/muesli/markscribe/pull/103
-	github.com/muesli/markscribe v0.6.1-0.20230418075415-d838b6e71dc6 => github.com/danielgatis/markscribe v0.6.1-0.20260718122045-ef2c490b5f4e
-)
+// https://github.com/muesli/markscribe/pull/103
+replace github.com/muesli/markscribe v0.6.1-0.20230418075415-d838b6e71dc6 => github.com/danielgatis/markscribe v0.6.1-0.20260718122045-ef2c490b5f4e
