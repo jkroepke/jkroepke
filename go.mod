@@ -1,6 +1,6 @@
 module github.com/jkroepke/jkroepke
 
-go 1.26.5
+go 1.27.1
 
 tool github.com/muesli/markscribe
 
