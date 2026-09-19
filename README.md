@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [test: repair unsigned commit](https://github.com/jkroepke/idp-brain/pull/62) on [jkroepke/idp-brain](https://github.com/jkroepke/idp-brain) (today)
 - [test: merge method signing behavior](https://github.com/jkroepke/idp-brain/pull/61) on [jkroepke/idp-brain](https://github.com/jkroepke/idp-brain) (today)
 - [test: GitHub squash signing](https://github.com/jkroepke/idp-brain/pull/60) on [jkroepke/idp-brain](https://github.com/jkroepke/idp-brain) (today)
 - [rbac: allow updating finalizer subresources](https://github.com/prometheus-operator/prometheus-operator/pull/8830) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (today)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [[loki] Add experimental envoy gateway](https://github.com/grafana-community/helm-charts/pull/815) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
 - [chore: add Adaptors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1173) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [[CI] Use target values for baseline chart installation](https://github.com/prometheus-community/helm-charts/pull/7285) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
-- [[CI] Use target values for baseline chart installation.](https://github.com/grafana-community/helm-charts/pull/812) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
