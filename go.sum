@@ -5,8 +5,8 @@ github.com/caarlos0/env/v6 v6.10.1/go.mod h1:hvp/ryKXKipEkcuYjs9mI4bBCg+UI0Yhgm5
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/dustin/go-humanize v1.0.1 h1:GzkhY7T5VNhEkwH0PVJgjz+fX1rhBrR7pRT3mDkpeCY=
-github.com/dustin/go-humanize v1.0.1/go.mod h1:Mu1zIs6XwVuF/gI1OepvI0qD18qycQx+mFykh5fBlto=
+github.com/dustin/go-humanize v1.1.0 h1:dbKTrvD0klcbBV/h4AWJdMuZogJACoMlvWIWZ5b2xWg=
+github.com/dustin/go-humanize v1.1.0/go.mod h1:hc1CvRkJMsgxqjmjMQF3QNRAZBwY8AXBAzKYoSX9sFI=
 github.com/gesellix/markscribe v0.0.0-20260727153921-fcdfc00b743f h1:DAJBneVtSDzKoPd+1wRxo2Lhxe159Gy47nQMmllYE38=
 github.com/gesellix/markscribe v0.0.0-20260727153921-fcdfc00b743f/go.mod h1:T4NYgqG9A7tW6ZuCYzbXRKwAtO0GP9Lpt6N/zueXgX0=
 github.com/mmcdole/gofeed v1.4.2 h1:XFFOtsNNZg+zudjtMXb8BI0J/YdnSIGfjEpPgPnZib0=
