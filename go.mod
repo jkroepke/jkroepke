@@ -28,5 +28,5 @@ require (
 
 replace (
     // https://github.com/muesli/markscribe/pull/103
-	github.com/muesli/markscribe v0.6.1-0.20230418075415-d838b6e71dc6 => github.com/gesellix/markscribe v0.6.1-0.20260727153921-fcdfc00b743f
+	github.com/muesli/markscribe v0.6.1-0.20230418075415-d838b6e71dc6 => github.com/gesellix/markscribe v0.0.0-20260727153921-fcdfc00b743f
 )
