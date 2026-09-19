@@ -9,12 +9,12 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 2016 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 496 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
-- [⭐️ 81 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
-- [⭐️ 176 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
+- [⭐️ 2029 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 509 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 83 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
+- [⭐️ 178 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 5 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
-- [⭐️ 11 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
+- [⭐️ 12 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 
 #### ❤️ Sponsors
 
@@ -22,70 +22,70 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) -  (1 day ago)
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 week ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 week ago)
-- [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx) (2 weeks ago)
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux) (3 weeks ago)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io (3 weeks ago)
+- [jkroepke/the-farmer-was-replaced](https://github.com/jkroepke/the-farmer-was-replaced) -  (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
+- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (4 days ago)
+- [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (5 days ago)
+- [jkroepke/grafana-dashboard-skill](https://github.com/jkroepke/grafana-dashboard-skill) -  (1 week ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 week ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([42.82.2](https://github.com/renovatebot/renovate/releases/tag/42.82.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.3.12](https://github.com/jkroepke/setup-sops/releases/tag/v1.3.12), today) - Github Action for installing vals (https://github.com/getsops/sops)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.23](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.23), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.19](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.19), today) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [oauth2-proxy/manifests](https://github.com/oauth2-proxy/manifests) ([oauth2-proxy-10.1.0](https://github.com/oauth2-proxy/manifests/releases/tag/oauth2-proxy-10.1.0), 1 day ago) - Helm charts to allow for the deployment of OAuth2-Proxy
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-80.14.4](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-80.14.4), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([grafana-10.5.8](https://github.com/grafana/helm-charts/releases/tag/grafana-10.5.8), 1 day ago) -
-- [ipitio/backage](https://github.com/ipitio/backage) ([v2026.1.1](https://github.com/ipitio/backage/releases/tag/v2026.1.1), 1 day ago) - Endpoint behind badges for GitHub Packages
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([nightly](https://github.com/goreleaser/goreleaser/releases/tag/nightly), 1 day ago) - Release engineering, simplified
-- [stackitcloud/stackit-cli](https://github.com/stackitcloud/stackit-cli) ([v0.51.0](https://github.com/stackitcloud/stackit-cli/releases/tag/v0.51.0), 2 days ago) - A command-line interface to manage STACKIT resources
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.103.2](https://github.com/renovatebot/renovate/releases/tag/44.103.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.31.1), 1 day ago) - Prometheus community Helm charts
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.3.7-2](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.3.7-2), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.3](https://github.com/zitadel/oidc/releases/tag/v3.51.3), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-048a5869-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-048a5869-nightly), 1 day ago) - Release engineering, simplified
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.114](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.114), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [ipitio/backage](https://github.com/ipitio/backage) ([v2026.9.1](https://github.com/ipitio/backage/releases/tag/v2026.9.1), 2 days ago) - Endpoint behind badges for GitHub Packages
+- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.4](https://github.com/Homebrew/brew/releases/tag/7.0.4), 2 days ago) - 🍺 The Package Manager for Everywhere
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.6.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 2 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix logo alignment and update HTML tags in README](https://github.com/jkroepke/openvpn-auth-oauth2/pull/715) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [add new logo](https://github.com/jkroepke/openvpn-auth-oauth2/pull/714) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 week ago)
-- [fix: renovate configuration](https://github.com/prometheus/prometheus/pull/17793) on [prometheus/prometheus](https://github.com/prometheus/prometheus) (1 week ago)
-- [fix: noop backend not support encrypted files](https://github.com/jkroepke/helm-secrets/pull/680) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 weeks ago)
-- [Add link to Keycloak Remember Me feature in FAQ](https://github.com/jkroepke/openvpn-auth-oauth2/pull/709) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
-- [feat: Add user profile selector feature for client configuration](https://github.com/jkroepke/openvpn-auth-oauth2/pull/707) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (2 weeks ago)
-- [fix: explicitly enable httpmuxgo121](https://github.com/jkroepke/openvpn-auth-oauth2/pull/706) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
-- [Proposal for repository process](https://github.com/grafana-community/helm-charts/pull/5) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 weeks ago)
-- [feat: Re-Style Web UI assets](https://github.com/jkroepke/openvpn-auth-oauth2/pull/704) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 weeks ago)
-- [fix: 'fetch': key not found: "HOMEBREW_GITHUB_PACKAGES_AUTH" (KeyError)](https://github.com/Homebrew/brew/pull/21302) on [Homebrew/brew](https://github.com/Homebrew/brew) (3 weeks ago)
+- [test: merge method signing behavior](https://github.com/jkroepke/idp-brain/pull/61) on [jkroepke/idp-brain](https://github.com/jkroepke/idp-brain) (today)
+- [test: GitHub squash signing](https://github.com/jkroepke/idp-brain/pull/60) on [jkroepke/idp-brain](https://github.com/jkroepke/idp-brain) (today)
+- [rbac: allow updating finalizer subresources](https://github.com/prometheus-operator/prometheus-operator/pull/8830) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (today)
+- [[alertmanager] Improve default deployment configuration](https://github.com/prometheus-community/helm-charts/pull/7293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
+- [Add CKNE beta exam preparation article](https://github.com/jkroepke/blog/pull/71) on [jkroepke/blog](https://github.com/jkroepke/blog) (2 days ago)
+- [[alertmanager] Trim persistence metadata whitespace](https://github.com/prometheus-community/helm-charts/pull/7288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
+- [[loki] Add experimental envoy gateway](https://github.com/grafana-community/helm-charts/pull/815) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
+- [chore: add Adaptors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1173) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [[CI] Use target values for baseline chart installation](https://github.com/prometheus-community/helm-charts/pull/7285) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (4 days ago)
+- [[CI] Use target values for baseline chart installation.](https://github.com/grafana-community/helm-charts/pull/812) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
-- [webdevops/kube-janitor](https://github.com/webdevops/kube-janitor) - Kubernetes janitor (automatic deletion of resoruces with a TTL) (1 week ago)
-- [dortania/OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher) - Experience macOS just like before (3 weeks ago)
-- [ipitio/backage](https://github.com/ipitio/backage) - Endpoint behind badges for GitHub Packages (1 month ago)
-- [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned (3 months ago)
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. (3 months ago)
-- [backube/volsync](https://github.com/backube/volsync) - Asynchronous data replication for Kubernetes volumes (3 months ago)
-- [kubetail-org/kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes. View logs in a terminal or a browser. Run on your desktop or in your cluster. (3 months ago)
-- [TheCodingSheikh/kubecodex](https://github.com/TheCodingSheikh/kubecodex) -  (3 months ago)
-- [suxess-it/kubriX](https://github.com/suxess-it/kubriX) -  (4 months ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (4 months ago)
+- [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (1 day ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
+- [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (2 months ago)
+- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (2 months ago)
+- [dominikschlosser/cloud-native-keycloak](https://github.com/dominikschlosser/cloud-native-keycloak) - Examples of how to run Keycloak in a cloud-native way (2 months ago)
+- [travisjakel/okf-mcp](https://github.com/travisjakel/okf-mcp) - MCP server for Open Knowledge Format (OKF) bundles — okf-ingest's deterministic consume verbs (context, search, impact, diff, doctor) as agent tools (2 months ago)
+- [0dust/OKFy](https://github.com/0dust/OKFy) - Turn docs into agent-readable knowledge bundles using Open Knowledge Format (OKF) (2 months ago)
+- [rodcar/okf-atlas-mcp](https://github.com/rodcar/okf-atlas-mcp) - Lightweight OKF bundle consumer exposed as an MCP server. (2 months ago)
+- [serradura/okf](https://github.com/serradura/okf) - OKF (Open Knowledge Format): Durable, structured memory for AI agents. Author, validate, consume, and maintain portable knowledge bundles through an ecosystem of Skills, MCP, an interactive graph, TUI, CLI, Docker, and a Claude Code plugin. 100% local. (2 months ago)
+- [UmairBaig8/okf-generator](https://github.com/UmairBaig8/okf-generator) - OKF v0.1 knowledge bundle generator — Claude skill + OpenCode integration (2 months ago)
 
 #### 👯 Check out some of my recent followers
 
-- [mikechiloane](https://github.com/mikechiloane)
-- [ngocnd1](https://github.com/ngocnd1)
-- [MathildeLeroi](https://github.com/MathildeLeroi)
-- [goodnessnwajichukwu](https://github.com/goodnessnwajichukwu)
-- [michaelkrieg](https://github.com/michaelkrieg)
+- [tomra](https://github.com/tomra)
+- [eivjo](https://github.com/eivjo)
+- [Frusoz](https://github.com/Frusoz)
+- [strategist922](https://github.com/strategist922)
+- [fmarslan](https://github.com/fmarslan)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
 - [jkroepke/postgres-database-operator](https://github.com/jkroepke/postgres-database-operator) - My first k8s operator written in python based on [zalando's kopf](https://github.com/zalando-incubator/kopf). I want to give our developers the advantage to create databases on the dev RDS (PostgreSQL on AWS) without giving them access to AWS directly.
-- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - I wrote this tool with [@borisskert](https://github.com/borisskert) at adorsys. Initially, we need a configuration as code tool for our Keycloak instance to automate the configuration tasks. Click on the UI was a nogo. After the first PoC with bash and curl scripting, we rewrote the whole tool in java and used the REST client provided by Keycloak.
+- [adorsys/keycloak-config-cli](https://github.com/adorsys/keycloak-config-cli) - I wrote this tool with [@borisskert](https://github.com/borisskert) at adorsys. Initially, we need a configuration as code tool for our Keycloak instance to automate the configuration tasks. Click on the UI was a nogo. After the first PoC with Bash and curl scripting, we rewrote the whole tool in java and used the REST client provided by Keycloak.
 - [jkroepke/github_exporter](https://github.com/jkroepke/github_exporter) - I love Prometheus to hold statistics. I wrote the tool @ adorsys to track all statistics from the organization project to gain an organization-wide overview of all repositories in one dashboard. I used the GraphQL API from GitHub to reduce the number of REST calls to a minimum to prevent rate-limits bans. First time I used javascript for such a project.
-- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - At adorsys we used OpenVPN as primary VPN solution. Since there was no way to integrate Azure AD authentication combind with OpenVPN authentication possiblities, I wrote a python script with allows that the used can authenticates the VPN connection by [devices code flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-device-code) or [resource owner password credentials grant](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)
+- [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) - At adorsys we used OpenVPN as primary VPN solution. Since there was no way to integrate Azure AD authentication combined with OpenVPN authentication possibilities, I wrote a python script with allows that the used can authenticates the VPN connection by [devices code flow](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth2-device-code) or [resource owner password credentials grant](https://docs.microsoft.com/en-us/azure/active-directory/develop/v2-oauth-ropc)
 
 #### 💬 Feedback
 
