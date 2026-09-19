@@ -29,18 +29,24 @@ jobs:
       - name: Prepare Go module
         run: go mod tidy
 
+      - name: Validate markscribe
+        if: github.event_name == 'pull_request'
+        run: go tool markscribe -h
+
       - name: Generate README
+        if: github.event_name != 'pull_request'
         run: go tool markscribe -write README.md templates/README.md.tpl
         env:
-          GITHUB_TOKEN: ${{ github.event_name == 'pull_request' && github.token || secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - name: Generate stats card
+        if: github.event_name != 'pull_request'
         uses: readme-tools/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=false&theme=tokyonight
           path: profile/stats.svg
-          token: ${{ github.event_name == 'pull_request' && github.token || secrets.PERSONAL_GITHUB_TOKEN }}
+          token: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
 
       - name: Commit changes
         if: github.event_name != 'pull_request'
