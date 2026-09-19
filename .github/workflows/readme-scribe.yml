@@ -42,7 +42,7 @@ jobs:
       - name: Commit changes
         if: github.event_name != 'pull_request'
         env:
-          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
           GITHUB_REF_NAME: ${{ github.ref_name }}
         #language=bash
         run: |
