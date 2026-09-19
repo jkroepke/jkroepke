@@ -23,8 +23,8 @@ jobs:
         with:
           go-version: 'stable'
 
-      - name: Download markscribe module
-        run: go mod download github.com/muesli/markscribe
+      - name: Prepare Go module
+        run: go mod tidy
 
       - name: Generate README
         run: go tool markscribe -write README.md templates/README.md.tpl
