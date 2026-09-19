@@ -23,6 +23,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/the-farmer-was-replaced](https://github.com/jkroepke/the-farmer-was-replaced) -  (today)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
@@ -31,10 +32,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/grafana-dashboard-skill](https://github.com/jkroepke/grafana-dashboard-skill) -  (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (1 week ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.15](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.15), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.103.2](https://github.com/renovatebot/renovate/releases/tag/44.103.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.31.1), 1 day ago) - Prometheus community Helm charts
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.3.7-2](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.3.7-2), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
@@ -44,20 +45,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ipitio/backage](https://github.com/ipitio/backage) ([v2026.9.1](https://github.com/ipitio/backage/releases/tag/v2026.9.1), 2 days ago) - Endpoint behind badges for GitHub Packages
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.4](https://github.com/Homebrew/brew/releases/tag/7.0.4), 2 days ago) - 🍺 The Package Manager for Everywhere
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.6.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [grafana/loki](https://github.com/grafana/loki) ([v3.7.8](https://github.com/grafana/loki/releases/tag/v3.7.8), 2 days ago) - Like Prometheus, but for logs.
 
 #### 🔨 My recent Pull Requests
 
-- [rbac: allow updating finalizer subresources](https://github.com/jkroepke/prometheus-operator/pull/2) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (today)
-- [test: repair unsigned commit](https://github.com/jkroepke/idp-brain/pull/62) on [jkroepke/idp-brain](https://github.com/jkroepke/idp-brain) (today)
-- [test: merge method signing behavior](https://github.com/jkroepke/idp-brain/pull/61) on [jkroepke/idp-brain](https://github.com/jkroepke/idp-brain) (today)
-- [test: GitHub squash signing](https://github.com/jkroepke/idp-brain/pull/60) on [jkroepke/idp-brain](https://github.com/jkroepke/idp-brain) (today)
-- [rbac: allow updating finalizer subresources](https://github.com/prometheus-operator/prometheus-operator/pull/8830) on [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) (today)
-- [[alertmanager] Improve default deployment configuration](https://github.com/prometheus-community/helm-charts/pull/7293) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
-- [Add CKNE beta exam preparation article](https://github.com/jkroepke/blog/pull/71) on [jkroepke/blog](https://github.com/jkroepke/blog) (2 days ago)
-- [[alertmanager] Trim persistence metadata whitespace](https://github.com/prometheus-community/helm-charts/pull/7288) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (2 days ago)
-- [[loki] Add experimental envoy gateway](https://github.com/grafana-community/helm-charts/pull/815) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (3 days ago)
-- [chore: add Adaptors](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1173) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
+- [fix: validate configuration semantics](https://github.com/jkroepke/access-log-exporter/pull/294) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [fix: validate CONFIG environment values](https://github.com/jkroepke/access-log-exporter/pull/293) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [fix: support full-size syslog datagrams](https://github.com/jkroepke/access-log-exporter/pull/292) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [fix: parse nginx upstream group separators](https://github.com/jkroepke/access-log-exporter/pull/291) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [fix!: bound nginx host label cardinality](https://github.com/jkroepke/access-log-exporter/pull/290) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [fix: use distroless static nonroot image](https://github.com/jkroepke/access-log-exporter/pull/289) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [[loki] Fix gateway duration metric units](https://github.com/grafana-community/helm-charts/pull/820) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [fix: correct nginx duration metric units](https://github.com/jkroepke/access-log-exporter/pull/288) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [[loki] Fix gateway duration metric units](https://github.com/jkroepke/grafana-community-helm-charts/pull/6) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
+- [Sync upstream main](https://github.com/jkroepke/grafana-community-helm-charts/pull/5) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
 
 #### ⭐ Recent Stars
 
