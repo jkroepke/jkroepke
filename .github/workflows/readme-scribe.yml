@@ -81,7 +81,7 @@ jobs:
 
           jq -n --arg repo "$GITHUB_REPOSITORY" \
                 --arg branch "$GITHUB_REF_NAME" \
-                --arg message "Update profile" \
+                --arg message "Update profile [skip ci]" \
                 --arg expectedOid "$GITHUB_SHA" \
                 --slurpfile fileChanges "$FILE_CHANGES_JSON_FILE" \
                 '{
