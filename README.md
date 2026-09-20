@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.103.7](https://github.com/renovatebot/renovate/releases/tag/44.103.7), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.104.0](https://github.com/renovatebot/renovate/releases/tag/44.104.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-1750aefb-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-1750aefb-nightly), today) - Release engineering, simplified
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.17](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.17), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.31.1), 2 days ago) - Prometheus community Helm charts
