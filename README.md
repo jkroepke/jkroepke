@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.104.2](https://github.com/renovatebot/renovate/releases/tag/44.104.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ff8de3d6-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ff8de3d6-nightly), today) - Release engineering, simplified
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.104.1](https://github.com/renovatebot/renovate/releases/tag/44.104.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.17](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.17), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.31.1), 3 days ago) - Prometheus community Helm charts
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.3.7-2](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.3.7-2), 3 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
