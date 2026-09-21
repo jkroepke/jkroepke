@@ -12,7 +12,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [⭐️ 2029 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 509 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 83 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
-- [⭐️ 178 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
+- [⭐️ 179 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 5 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 12 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
 
@@ -35,19 +35,22 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.104.2](https://github.com/renovatebot/renovate/releases/tag/44.104.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.5](https://github.com/Homebrew/brew/releases/tag/7.0.5), today) - 🍺 The Package Manager for Everywhere
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.40](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.40), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), today) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.105.4](https://github.com/renovatebot/renovate/releases/tag/44.105.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ff8de3d6-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ff8de3d6-nightly), today) - Release engineering, simplified
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.17](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.17), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.31.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.31.1), 3 days ago) - Prometheus community Helm charts
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.3.7-2](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.3.7-2), 3 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.3](https://github.com/zitadel/oidc/releases/tag/v3.51.3), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.114](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.114), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [ipitio/backage](https://github.com/ipitio/backage) ([v2026.9.1](https://github.com/ipitio/backage/releases/tag/v2026.9.1), 4 days ago) - Endpoint behind badges for GitHub Packages
-- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.4](https://github.com/Homebrew/brew/releases/tag/7.0.4), 4 days ago) - 🍺 The Package Manager for Everywhere
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.6.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.6.0), 4 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
+- [test: regenerate finalizer bundle](https://github.com/jkroepke/prometheus-operator/pull/5) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (today)
+- [signing: finalizer RBAC backport](https://github.com/jkroepke/prometheus-operator/pull/4) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (today)
+- [tmp-finalizer-bundle-patch-8830](https://github.com/jkroepke/prometheus-operator/pull/3) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (today)
 - [fix: validate configuration semantics](https://github.com/jkroepke/access-log-exporter/pull/294) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
 - [fix: validate CONFIG environment values](https://github.com/jkroepke/access-log-exporter/pull/293) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
 - [fix: support full-size syslog datagrams](https://github.com/jkroepke/access-log-exporter/pull/292) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
@@ -55,9 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix!: bound nginx host label cardinality](https://github.com/jkroepke/access-log-exporter/pull/290) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
 - [fix: use distroless static nonroot image](https://github.com/jkroepke/access-log-exporter/pull/289) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
 - [[loki] Fix gateway duration metric units](https://github.com/grafana-community/helm-charts/pull/820) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (2 days ago)
-- [fix: correct nginx duration metric units](https://github.com/jkroepke/access-log-exporter/pull/288) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (2 days ago)
-- [[loki] Fix gateway duration metric units](https://github.com/jkroepke/grafana-community-helm-charts/pull/6) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (2 days ago)
-- [Sync upstream main](https://github.com/jkroepke/grafana-community-helm-charts/pull/5) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (2 days ago)
 
 #### ⭐ Recent Stars
 
