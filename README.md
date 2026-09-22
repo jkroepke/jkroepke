@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.6](https://github.com/Homebrew/brew/releases/tag/7.0.6), 1 day ago) - 🍺 The Package Manager for Everywhere
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.106.0](https://github.com/renovatebot/renovate/releases/tag/44.106.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-conntrack-stats-exporter-0.5.40](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-conntrack-stats-exporter-0.5.40), 1 day ago) - Prometheus community Helm charts
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.3.7-2](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.3.7-2), 4 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.3](https://github.com/zitadel/oidc/releases/tag/v3.51.3), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.114](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.114), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [ipitio/backage](https://github.com/ipitio/backage) ([v2026.9.1](https://github.com/ipitio/backage/releases/tag/v2026.9.1), 5 days ago) - Endpoint behind badges for GitHub Packages
 
 #### 🔨 My recent Pull Requests
 
