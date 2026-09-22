@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.5.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.5.0), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.107.0](https://github.com/renovatebot/renovate/releases/tag/44.107.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.107.3](https://github.com/renovatebot/renovate/releases/tag/44.107.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.32.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.32.0), today) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.0-rc.1), today) - The Prometheus monitoring system and time series database.
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.6](https://github.com/Homebrew/brew/releases/tag/7.0.6), 1 day ago) - 🍺 The Package Manager for Everywhere
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
