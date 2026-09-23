@@ -22,20 +22,22 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (4 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (1 week ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
 - [jkroepke/grafana-dashboard-skill](https://github.com/jkroepke/grafana-dashboard-skill) -  (1 week ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 week ago)
-- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change (2 weeks ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.110.0](https://github.com/renovatebot/renovate/releases/tag/44.110.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.111.2](https://github.com/renovatebot/renovate/releases/tag/44.111.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.8](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.8), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.94.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.94.1), today) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.3), today) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.33.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.0-rc.1), 1 day ago) - The Prometheus monitoring system and time series database.
@@ -43,11 +45,12 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 2 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ff8de3d6-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ff8de3d6-nightly), 2 days ago) - Release engineering, simplified
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.17](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.17), 4 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.3](https://github.com/zitadel/oidc/releases/tag/v3.51.3), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.114](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.114), 5 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 
 #### 🔨 My recent Pull Requests
 
+- [Improve SEO and site discoverability](https://github.com/jkroepke/blog/pull/74) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
+- [Add post draft about Docker Hardened Images and exit strategies](https://github.com/jkroepke/blog/pull/73) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
+- [fix: detect Helm versions without v prefix](https://github.com/jkroepke/helm-secrets/pull/891) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (today)
 - [test: regenerate finalizer bundle](https://github.com/jkroepke/prometheus-operator/pull/5) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (2 days ago)
 - [signing: finalizer RBAC backport](https://github.com/jkroepke/prometheus-operator/pull/4) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (2 days ago)
 - [tmp-finalizer-bundle-patch-8830](https://github.com/jkroepke/prometheus-operator/pull/3) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (2 days ago)
@@ -55,9 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: validate CONFIG environment values](https://github.com/jkroepke/access-log-exporter/pull/293) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
 - [fix: support full-size syslog datagrams](https://github.com/jkroepke/access-log-exporter/pull/292) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
 - [fix: parse nginx upstream group separators](https://github.com/jkroepke/access-log-exporter/pull/291) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
-- [fix!: bound nginx host label cardinality](https://github.com/jkroepke/access-log-exporter/pull/290) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
-- [fix: use distroless static nonroot image](https://github.com/jkroepke/access-log-exporter/pull/289) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (4 days ago)
-- [[loki] Fix gateway duration metric units](https://github.com/grafana-community/helm-charts/pull/820) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (4 days ago)
 
 #### ⭐ Recent Stars
 
