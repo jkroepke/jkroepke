@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.112.2](https://github.com/renovatebot/renovate/releases/tag/44.112.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.112.3](https://github.com/renovatebot/renovate/releases/tag/44.112.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.5.1), 1 day ago) - Prometheus community Helm charts
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.8](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.8), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.94.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.94.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
