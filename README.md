@@ -35,8 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.112.3](https://github.com/renovatebot/renovate/releases/tag/44.112.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.5.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.5.1), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.0](https://github.com/renovatebot/renovate/releases/tag/44.115.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.44.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.44.1), today) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.7.0), today) - Terraform provider for Azure Resource Manager
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.8](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.8), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.94.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.94.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.3), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.6](https://github.com/Homebrew/brew/releases/tag/7.0.6), 3 days ago) - 🍺 The Package Manager for Everywhere
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 3 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ff8de3d6-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ff8de3d6-nightly), 3 days ago) - Release engineering, simplified
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.17](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.17), 5 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 
 #### 🔨 My recent Pull Requests
 
