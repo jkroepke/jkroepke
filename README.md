@@ -22,46 +22,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 days ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (5 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (4 days ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (1 week ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (1 week ago)
-- [jkroepke/grafana-dashboard-skill](https://github.com/jkroepke/grafana-dashboard-skill) -  (1 week ago)
+- [jkroepke/grafana-dashboard-skill](https://github.com/jkroepke/grafana-dashboard-skill) -  (2 weeks ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.1](https://github.com/renovatebot/renovate/releases/tag/44.115.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.44.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.44.1), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.7.0), today) - Terraform provider for Azure Resource Manager
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.8](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.8), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.94.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.94.1), 1 day ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.3), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.0-rc.1), 2 days ago) - The Prometheus monitoring system and time series database.
-- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.6](https://github.com/Homebrew/brew/releases/tag/7.0.6), 3 days ago) - 🍺 The Package Manager for Everywhere
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 3 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ff8de3d6-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ff8de3d6-nightly), 3 days ago) - Release engineering, simplified
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.2](https://github.com/renovatebot/renovate/releases/tag/44.115.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.81](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.81), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-32.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-32.0.1), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.7.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.8](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.8), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.94.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.94.1), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.3), 2 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.0-rc.1), 3 days ago) - The Prometheus monitoring system and time series database.
+- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.6](https://github.com/Homebrew/brew/releases/tag/7.0.6), 4 days ago) - 🍺 The Package Manager for Everywhere
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.413](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.413), 4 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 
 #### 🔨 My recent Pull Requests
 
-- [Improve SEO and site discoverability](https://github.com/jkroepke/blog/pull/74) on [jkroepke/blog](https://github.com/jkroepke/blog) (1 day ago)
-- [Add post draft about Docker Hardened Images and exit strategies](https://github.com/jkroepke/blog/pull/73) on [jkroepke/blog](https://github.com/jkroepke/blog) (1 day ago)
-- [fix: detect Helm versions without v prefix](https://github.com/jkroepke/helm-secrets/pull/891) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [test: regenerate finalizer bundle](https://github.com/jkroepke/prometheus-operator/pull/5) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (3 days ago)
-- [signing: finalizer RBAC backport](https://github.com/jkroepke/prometheus-operator/pull/4) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (3 days ago)
-- [tmp-finalizer-bundle-patch-8830](https://github.com/jkroepke/prometheus-operator/pull/3) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (3 days ago)
-- [fix: validate configuration semantics](https://github.com/jkroepke/access-log-exporter/pull/294) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
-- [fix: validate CONFIG environment values](https://github.com/jkroepke/access-log-exporter/pull/293) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
-- [fix: support full-size syslog datagrams](https://github.com/jkroepke/access-log-exporter/pull/292) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
-- [fix: parse nginx upstream group separators](https://github.com/jkroepke/access-log-exporter/pull/291) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (5 days ago)
+- [Improve SEO and site discoverability](https://github.com/jkroepke/blog/pull/74) on [jkroepke/blog](https://github.com/jkroepke/blog) (2 days ago)
+- [Add post draft about Docker Hardened Images and exit strategies](https://github.com/jkroepke/blog/pull/73) on [jkroepke/blog](https://github.com/jkroepke/blog) (2 days ago)
+- [fix: detect Helm versions without v prefix](https://github.com/jkroepke/helm-secrets/pull/891) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [test: regenerate finalizer bundle](https://github.com/jkroepke/prometheus-operator/pull/5) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (4 days ago)
+- [signing: finalizer RBAC backport](https://github.com/jkroepke/prometheus-operator/pull/4) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (4 days ago)
+- [tmp-finalizer-bundle-patch-8830](https://github.com/jkroepke/prometheus-operator/pull/3) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (4 days ago)
+- [fix: validate configuration semantics](https://github.com/jkroepke/access-log-exporter/pull/294) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (6 days ago)
+- [fix: validate CONFIG environment values](https://github.com/jkroepke/access-log-exporter/pull/293) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (6 days ago)
+- [fix: support full-size syslog datagrams](https://github.com/jkroepke/access-log-exporter/pull/292) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (6 days ago)
+- [fix: parse nginx upstream group separators](https://github.com/jkroepke/access-log-exporter/pull/291) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (6 days ago)
+- [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (1 week ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
 - [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (2 months ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (2 months ago)
