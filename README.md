@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 2031 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 511 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 512 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 83 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 179 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 5 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -35,16 +35,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.6](https://github.com/zitadel/oidc/releases/tag/v3.51.6), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.33.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.33.1), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.4](https://github.com/renovatebot/renovate/releases/tag/44.115.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0](https://github.com/prometheus/prometheus/releases/tag/v3.15.0), today) - The Prometheus monitoring system and time series database.
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.14](https://github.com/databus23/helm-diff/releases/tag/v3.15.14), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.115](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.115), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.111](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.111), today) - Github Action for installing vals (https://github.com/helmfile/vals)
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.2](https://github.com/renovatebot/renovate/releases/tag/44.115.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.81](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.81), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-32.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-32.0.1), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.7.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.8](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.8), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.94.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.94.1), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.3), 2 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.0-rc.1), 3 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
