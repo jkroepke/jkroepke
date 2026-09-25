@@ -35,16 +35,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.6](https://github.com/renovatebot/renovate/releases/tag/44.115.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), today) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
+- [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) ([v1.8.9](https://github.com/jkroepke/kube-webhook-certgen/releases/tag/v1.8.9), today) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.6](https://github.com/zitadel/oidc/releases/tag/v3.51.6), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.33.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.33.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.4](https://github.com/renovatebot/renovate/releases/tag/44.115.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0](https://github.com/prometheus/prometheus/releases/tag/v3.15.0), today) - The Prometheus monitoring system and time series database.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.14](https://github.com/databus23/helm-diff/releases/tag/v3.15.14), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.115](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.115), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.111](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.111), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.81](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.81), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.7.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.7.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.8](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.8), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
