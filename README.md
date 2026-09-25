@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.115](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.115), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.111](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.111), today) - Github Action for installing vals (https://github.com/helmfile/vals)
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.2](https://github.com/renovatebot/renovate/releases/tag/44.115.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.81](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.81), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) ([v0.94.1](https://github.com/prometheus-operator/prometheus-operator/releases/tag/v0.94.1), 2 days ago) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.3), 2 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0-rc.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.0-rc.1), 3 days ago) - The Prometheus monitoring system and time series database.
-- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.6](https://github.com/Homebrew/brew/releases/tag/7.0.6), 4 days ago) - 🍺 The Package Manager for Everywhere
 
 #### 🔨 My recent Pull Requests
 
