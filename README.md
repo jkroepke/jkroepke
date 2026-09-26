@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.7.0), today) - Prometheus community Helm charts
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), today) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prom-label-proxy-0.24.0](https://github.com/prometheus-community/helm-charts/releases/tag/prom-label-proxy-0.24.0), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.10](https://github.com/renovatebot/renovate/releases/tag/44.115.10), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) ([v1.8.9](https://github.com/jkroepke/kube-webhook-certgen/releases/tag/v1.8.9), 1 day ago) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx)
