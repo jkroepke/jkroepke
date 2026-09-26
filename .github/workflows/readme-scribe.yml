@@ -14,7 +14,7 @@ permissions: {}
 
 jobs:
   markscribe:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     permissions:
       contents: read
     steps:
@@ -41,7 +41,7 @@ jobs:
 
       - name: Generate stats card
         if: github.event_name != 'pull_request'
-        uses: readme-tools/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        uses: readme-tools/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=false&theme=tokyonight
