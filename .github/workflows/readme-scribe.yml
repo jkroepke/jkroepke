@@ -41,7 +41,7 @@ jobs:
 
       - name: Generate stats card
         if: github.event_name != 'pull_request'
-        uses: readme-tools/github-readme-stats-action@f9d8133845f40d659a754f78b8484983ba766448 # v2.0.1
+        uses: readme-tools/github-readme-stats-action@e856fc8de9d7729b463c468911e232cfbdc3d55e # v2.0.2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&count_private=false&theme=tokyonight
