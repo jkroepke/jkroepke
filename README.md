@@ -48,16 +48,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [sign #841](https://github.com/jkroepke/grafana-community-helm-charts/pull/9) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
+- [sign #840](https://github.com/jkroepke/grafana-community-helm-charts/pull/8) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
+- [feat: add llms.txt and Markdown alternatives](https://github.com/jkroepke/blog/pull/79) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
+- [[CI] Fix Docker Hub image detection in Renovate](https://github.com/grafana-community/helm-charts/pull/841) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [[loki] Replace MinIO with RustFS in CI values](https://github.com/grafana-community/helm-charts/pull/840) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [perf: optimize font loading and responsive images](https://github.com/jkroepke/blog/pull/78) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
 - [Change CI jobs to run on ubuntu-24.04-arm](https://github.com/jkroepke/blog/pull/77) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
 - [feat: manage LoveIt frontend assets with npm](https://github.com/jkroepke/blog/pull/76) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
 - [refactor(renovate): harden dependency updates](https://github.com/jkroepke/renovate-config/pull/24) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
 - [feat(renovate): group GitHub runner updates](https://github.com/jkroepke/renovate-config/pull/23) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
-- [fix(renovate): separate GitHub runner updates](https://github.com/jkroepke/renovate-config/pull/22) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
-- [fix: coalesce concurrent nginx scrapes](https://github.com/jkroepke/access-log-exporter/pull/308) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
-- [fix: reject non-finite metric values](https://github.com/jkroepke/access-log-exporter/pull/307) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
-- [fix: parse syslog headers structurally](https://github.com/jkroepke/access-log-exporter/pull/306) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
-- [fix: record syslog receive timestamp](https://github.com/jkroepke/access-log-exporter/pull/305) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 
 #### ⭐ Recent Stars
 
