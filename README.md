@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 2031 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 2032 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 512 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 83 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 179 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -23,9 +23,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (today)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (today)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (6 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 week ago)
@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.18](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.18), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.7.0), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.12](https://github.com/renovatebot/renovate/releases/tag/44.115.12), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.7.1), today) - Prometheus community Helm charts
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.21](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.21), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.10](https://github.com/renovatebot/renovate/releases/tag/44.115.10), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 2 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) ([v1.8.9](https://github.com/jkroepke/kube-webhook-certgen/releases/tag/v1.8.9), 2 days ago) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.6](https://github.com/zitadel/oidc/releases/tag/v3.51.6), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -48,16 +48,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: preserve container working directory](https://github.com/jkroepke/access-log-exporter/pull/298) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
-- [[CI] Fix formatting in renovate.json matchStrings](https://github.com/grafana-community/helm-charts/pull/839) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [[CI] Refactor regex patterns in renovate.json](https://github.com/grafana-community/helm-charts/pull/837) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [loki: sign migration cleanup](https://github.com/jkroepke/grafana-community-helm-charts/pull/7) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
-- [[loki] Remove unused excludeDefaultZone migration value](https://github.com/grafana-community/helm-charts/pull/836) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [[CI] Fix regex pattern for image matching in renovate.json](https://github.com/grafana-community/helm-charts/pull/835) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [Improve SEO and site discoverability](https://github.com/jkroepke/blog/pull/74) on [jkroepke/blog](https://github.com/jkroepke/blog) (4 days ago)
-- [Add post draft about Docker Hardened Images and exit strategies](https://github.com/jkroepke/blog/pull/73) on [jkroepke/blog](https://github.com/jkroepke/blog) (4 days ago)
-- [fix: detect Helm versions without v prefix](https://github.com/jkroepke/helm-secrets/pull/891) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (4 days ago)
-- [test: regenerate finalizer bundle](https://github.com/jkroepke/prometheus-operator/pull/5) on [jkroepke/prometheus-operator](https://github.com/jkroepke/prometheus-operator) (6 days ago)
+- [perf: optimize font loading and responsive images](https://github.com/jkroepke/blog/pull/78) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
+- [Change CI jobs to run on ubuntu-24.04-arm](https://github.com/jkroepke/blog/pull/77) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
+- [feat: manage LoveIt frontend assets with npm](https://github.com/jkroepke/blog/pull/76) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
+- [refactor(renovate): harden dependency updates](https://github.com/jkroepke/renovate-config/pull/24) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
+- [feat(renovate): group GitHub runner updates](https://github.com/jkroepke/renovate-config/pull/23) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
+- [fix(renovate): separate GitHub runner updates](https://github.com/jkroepke/renovate-config/pull/22) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
+- [fix: coalesce concurrent nginx scrapes](https://github.com/jkroepke/access-log-exporter/pull/308) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [fix: reject non-finite metric values](https://github.com/jkroepke/access-log-exporter/pull/307) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [fix: parse syslog headers structurally](https://github.com/jkroepke/access-log-exporter/pull/306) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
+- [fix: record syslog receive timestamp](https://github.com/jkroepke/access-log-exporter/pull/305) on [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) (today)
 
 #### ⭐ Recent Stars
 
