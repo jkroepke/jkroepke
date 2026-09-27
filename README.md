@@ -35,8 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.12](https://github.com/renovatebot/renovate/releases/tag/44.115.12), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.7.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.7.1), today) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.13](https://github.com/renovatebot/renovate/releases/tag/44.115.13), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.21](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.21), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 1 day ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 2 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
@@ -48,6 +48,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [internal signing](https://github.com/jkroepke/grafana-community-helm-charts/pull/11) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
+- [internal signing](https://github.com/jkroepke/grafana-community-helm-charts/pull/10) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
 - [sign #841](https://github.com/jkroepke/grafana-community-helm-charts/pull/9) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
 - [sign #840](https://github.com/jkroepke/grafana-community-helm-charts/pull/8) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (today)
 - [feat: add llms.txt and Markdown alternatives](https://github.com/jkroepke/blog/pull/79) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [perf: optimize font loading and responsive images](https://github.com/jkroepke/blog/pull/78) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
 - [Change CI jobs to run on ubuntu-24.04-arm](https://github.com/jkroepke/blog/pull/77) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
 - [feat: manage LoveIt frontend assets with npm](https://github.com/jkroepke/blog/pull/76) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
-- [refactor(renovate): harden dependency updates](https://github.com/jkroepke/renovate-config/pull/24) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
-- [feat(renovate): group GitHub runner updates](https://github.com/jkroepke/renovate-config/pull/23) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
 
 #### ⭐ Recent Stars
 
