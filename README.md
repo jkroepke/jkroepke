@@ -35,7 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.32.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.32.1), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.115.13](https://github.com/renovatebot/renovate/releases/tag/44.115.13), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.21](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.21), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
