@@ -35,16 +35,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.116.0](https://github.com/renovatebot/renovate/releases/tag/44.116.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.117.0](https://github.com/renovatebot/renovate/releases/tag/44.117.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.4](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.4), today) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.8](https://github.com/zitadel/oidc/releases/tag/v3.51.8), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.1), today) - Prometheus community Helm charts
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.7](https://github.com/Homebrew/brew/releases/tag/7.0.7), today) - 🍺 The Package Manager for Everywhere
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.7](https://github.com/zitadel/oidc/releases/tag/v3.51.7), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.21](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.21), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 2 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 3 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) ([v1.8.9](https://github.com/jkroepke/kube-webhook-certgen/releases/tag/v1.8.9), 3 days ago) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0](https://github.com/prometheus/prometheus/releases/tag/v3.15.0), 3 days ago) - The Prometheus monitoring system and time series database.
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.115](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.115), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 
 #### 🔨 My recent Pull Requests
 
