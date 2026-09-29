@@ -35,7 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.117.2](https://github.com/renovatebot/renovate/releases/tag/44.117.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.118.1](https://github.com/renovatebot/renovate/releases/tag/44.118.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [ipitio/backage](https://github.com/ipitio/backage) ([v2026.9.2](https://github.com/ipitio/backage/releases/tag/v2026.9.2), today) - Endpoint behind badges for GitHub Packages
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.4](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.4), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.8](https://github.com/zitadel/oidc/releases/tag/v3.51.8), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.1), 1 day ago) - Prometheus community Helm charts
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 4 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) ([v1.8.9](https://github.com/jkroepke/kube-webhook-certgen/releases/tag/v1.8.9), 4 days ago) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx)
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.0](https://github.com/prometheus/prometheus/releases/tag/v3.15.0), 4 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
