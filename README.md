@@ -9,9 +9,9 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 2032 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 512 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
-- [⭐️ 83 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
+- [⭐️ 2030 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 513 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 84 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 179 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 5 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
 - [⭐️ 12 - jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Helm charts used for my [homelab](https://github.com/jkroepke/homelab) projects.
@@ -35,11 +35,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.118.1](https://github.com/renovatebot/renovate/releases/tag/44.118.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.121.0](https://github.com/renovatebot/renovate/releases/tag/44.121.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.2](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.2), today) - Prometheus community Helm charts
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.10](https://github.com/zitadel/oidc/releases/tag/v3.51.10), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [ipitio/backage](https://github.com/ipitio/backage) ([v2026.9.2](https://github.com/ipitio/backage/releases/tag/v2026.9.2), today) - Endpoint behind badges for GitHub Packages
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.4](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.4), 1 day ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.8](https://github.com/zitadel/oidc/releases/tag/v3.51.8), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.8.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.8.1), 1 day ago) - Prometheus community Helm charts
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.7](https://github.com/Homebrew/brew/releases/tag/7.0.7), 1 day ago) - 🍺 The Package Manager for Everywhere
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.21](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.21), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 3 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
