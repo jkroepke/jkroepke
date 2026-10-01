@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.128.3](https://github.com/renovatebot/renovate/releases/tag/44.128.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.130.0](https://github.com/renovatebot/renovate/releases/tag/44.130.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.33.0), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.11](https://github.com/zitadel/oidc/releases/tag/v3.51.11), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [ipitio/backage](https://github.com/ipitio/backage) ([v2026.10.0](https://github.com/ipitio/backage/releases/tag/v2026.10.0), today) - Endpoint behind badges for GitHub Packages
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-yet-another-cloudwatch-exporter-0.48.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-yet-another-cloudwatch-exporter-0.48.0), today) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-27ef66de-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-27ef66de-nightly), today) - Release engineering, simplified
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.4.4](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.4.4), 3 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.7](https://github.com/Homebrew/brew/releases/tag/7.0.7), 3 days ago) - 🍺 The Package Manager for Everywhere
