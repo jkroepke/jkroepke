@@ -35,7 +35,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.130.0](https://github.com/renovatebot/renovate/releases/tag/44.130.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.131.2](https://github.com/renovatebot/renovate/releases/tag/44.131.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.8.0), today) - Terraform provider for Azure Resource Manager
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.33.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.33.0), today) - Prometheus community Helm charts
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.11](https://github.com/zitadel/oidc/releases/tag/v3.51.11), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [ipitio/backage](https://github.com/ipitio/backage) ([v2026.10.0](https://github.com/ipitio/backage/releases/tag/v2026.10.0), today) - Endpoint behind badges for GitHub Packages
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.7](https://github.com/Homebrew/brew/releases/tag/7.0.7), 3 days ago) - 🍺 The Package Manager for Everywhere
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.21](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.21), 4 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) ([v3.15.15](https://github.com/databus23/helm-diff/releases/tag/v3.15.15), 5 days ago) - A helm plugin that shows a diff explaining what a helm upgrade would change
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.13.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.13.0), 6 days ago) - Unofficial EUDI Wallet Dev Toolkit - Fully functional and compliant testing wallet plus other useful tools
 
 #### 🔨 My recent Pull Requests
 

@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Jan-Otto Kr&#246;pke&#39;s GitHub Stats, Rank: S</title>
-        <desc id="descId">Total Stars Earned: 3230, Total Commits  (last year) : 8335, Total PRs: 2609, Total Issues: 971, Contributed to (last year): 68</desc>
+        <desc id="descId">Total Stars Earned: 3230, Total Commits  (last year) : 8441, Total PRs: 2609, Total Issues: 971, Contributed to (last year): 67</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 1.5570695335209657;
+        stroke-dashoffset: 1.5570695325399249;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >8.3k</text>
+      >8.4k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >68</text>
+      >67</text>
     </g>
   </g>
     </svg>
