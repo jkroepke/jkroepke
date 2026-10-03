@@ -22,7 +22,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (6 days ago)
@@ -48,16 +48,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: extend native plugin initial authentication response deadline](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: report unready until the OpenVPN management connection is established](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1208) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: let in-flight HTTP callbacks complete during shutdown](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1207) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: close unsynchronized management connection after command timeout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: treat unexpected management disconnects as failures](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1205) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: apply OAuth2 callback deadline when nonce is disabled](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1204) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: isolate OAuth2 authorization parameters for each request](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1203) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: Fix link to ADOPTERS.md in README.md](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1202) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [chore: stabilize reload integration test signal handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [internal signing](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [feat(renovate): group Moby monorepo updates](https://github.com/jkroepke/renovate-config/pull/25) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (1 day ago)
-- [ci: add Ubuntu 26.04 container to test matrix](https://github.com/jkroepke/helm-secrets/pull/900) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [fix: reuse inherited GPG keys in nested secrets getters](https://github.com/jkroepke/helm-secrets/pull/899) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
-- [internal signing](https://github.com/jkroepke/grafana-community-helm-charts/pull/11) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (6 days ago)
-- [internal signing](https://github.com/jkroepke/grafana-community-helm-charts/pull/10) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (6 days ago)
-- [sign #841](https://github.com/jkroepke/grafana-community-helm-charts/pull/9) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (6 days ago)
-- [sign #840](https://github.com/jkroepke/grafana-community-helm-charts/pull/8) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
