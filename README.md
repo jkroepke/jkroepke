@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-9bf2f568-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-9bf2f568-nightly), today) - Release engineering, simplified
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), 1 day ago) - The Prometheus monitoring system and time series database.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
@@ -43,7 +44,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.8.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.11](https://github.com/zitadel/oidc/releases/tag/v3.51.11), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [ipitio/backage](https://github.com/ipitio/backage) ([v2026.10.0](https://github.com/ipitio/backage/releases/tag/v2026.10.0), 2 days ago) - Endpoint behind badges for GitHub Packages
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-27ef66de-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-27ef66de-nightly), 2 days ago) - Release engineering, simplified
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.7](https://github.com/Homebrew/brew/releases/tag/7.0.7), 5 days ago) - 🍺 The Package Manager for Everywhere
 
 #### 🔨 My recent Pull Requests
