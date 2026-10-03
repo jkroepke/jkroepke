@@ -35,11 +35,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.132.4](https://github.com/renovatebot/renovate/releases/tag/44.132.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.2), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.132.5](https://github.com/renovatebot/renovate/releases/tag/44.132.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-9bf2f568-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-9bf2f568-nightly), today) - Release engineering, simplified
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), 1 day ago) - The Prometheus monitoring system and time series database.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.5.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.5.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.8.0), 2 days ago) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.11](https://github.com/zitadel/oidc/releases/tag/v3.51.11), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
@@ -48,6 +48,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: shut down daemon before closing mock management connection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1210) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: extend native plugin initial authentication response deadline](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: report unready until the OpenVPN management connection is established](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1208) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [fix: let in-flight HTTP callbacks complete during shutdown](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1207) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
@@ -57,7 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: isolate OAuth2 authorization parameters for each request](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1203) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [chore: Fix link to ADOPTERS.md in README.md](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1202) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 - [chore: stabilize reload integration test signal handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
-- [internal signing](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
 
 #### ⭐ Recent Stars
 
