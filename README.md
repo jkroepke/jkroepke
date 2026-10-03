@@ -22,11 +22,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (5 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (5 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (6 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (6 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (1 week ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (2 weeks ago)
@@ -35,33 +35,33 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), today) - Prometheus community Helm charts
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), today) - The Prometheus monitoring system and time series database.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.1), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.5.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.5.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.132.2](https://github.com/renovatebot/renovate/releases/tag/44.132.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.8.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.11](https://github.com/zitadel/oidc/releases/tag/v3.51.11), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [ipitio/backage](https://github.com/ipitio/backage) ([v2026.10.0](https://github.com/ipitio/backage/releases/tag/v2026.10.0), 1 day ago) - Endpoint behind badges for GitHub Packages
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-27ef66de-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-27ef66de-nightly), 1 day ago) - Release engineering, simplified
-- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.7](https://github.com/Homebrew/brew/releases/tag/7.0.7), 4 days ago) - 🍺 The Package Manager for Everywhere
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 1 day ago) - Prometheus community Helm charts
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), 1 day ago) - The Prometheus monitoring system and time series database.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.1](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.1), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.5.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.5.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.132.2](https://github.com/renovatebot/renovate/releases/tag/44.132.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.8.0), 2 days ago) - Terraform provider for Azure Resource Manager
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.11](https://github.com/zitadel/oidc/releases/tag/v3.51.11), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [ipitio/backage](https://github.com/ipitio/backage) ([v2026.10.0](https://github.com/ipitio/backage/releases/tag/v2026.10.0), 2 days ago) - Endpoint behind badges for GitHub Packages
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-27ef66de-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-27ef66de-nightly), 2 days ago) - Release engineering, simplified
+- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.7](https://github.com/Homebrew/brew/releases/tag/7.0.7), 5 days ago) - 🍺 The Package Manager for Everywhere
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Fix link to ADOPTERS.md in README.md](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1202) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [chore: stabilize reload integration test signal handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [internal signing](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [feat(renovate): group Moby monorepo updates](https://github.com/jkroepke/renovate-config/pull/25) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
-- [ci: add Ubuntu 26.04 container to test matrix](https://github.com/jkroepke/helm-secrets/pull/900) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [fix: reuse inherited GPG keys in nested secrets getters](https://github.com/jkroepke/helm-secrets/pull/899) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (1 day ago)
-- [internal signing](https://github.com/jkroepke/grafana-community-helm-charts/pull/11) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (5 days ago)
-- [internal signing](https://github.com/jkroepke/grafana-community-helm-charts/pull/10) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (5 days ago)
-- [sign #841](https://github.com/jkroepke/grafana-community-helm-charts/pull/9) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (5 days ago)
-- [sign #840](https://github.com/jkroepke/grafana-community-helm-charts/pull/8) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (5 days ago)
+- [chore: Fix link to ADOPTERS.md in README.md](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1202) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [chore: stabilize reload integration test signal handling](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1200) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [internal signing](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1199) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (1 day ago)
+- [feat(renovate): group Moby monorepo updates](https://github.com/jkroepke/renovate-config/pull/25) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (1 day ago)
+- [ci: add Ubuntu 26.04 container to test matrix](https://github.com/jkroepke/helm-secrets/pull/900) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [fix: reuse inherited GPG keys in nested secrets getters](https://github.com/jkroepke/helm-secrets/pull/899) on [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) (2 days ago)
+- [internal signing](https://github.com/jkroepke/grafana-community-helm-charts/pull/11) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (6 days ago)
+- [internal signing](https://github.com/jkroepke/grafana-community-helm-charts/pull/10) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (6 days ago)
+- [sign #841](https://github.com/jkroepke/grafana-community-helm-charts/pull/9) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (6 days ago)
+- [sign #840](https://github.com/jkroepke/grafana-community-helm-charts/pull/8) on [jkroepke/grafana-community-helm-charts](https://github.com/jkroepke/grafana-community-helm-charts) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (today)
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (1 day ago)
 - [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (2 weeks ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
 - [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (2 months ago)
