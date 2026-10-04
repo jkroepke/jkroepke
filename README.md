@@ -35,9 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-61704ffc-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-61704ffc-nightly), today) - Release engineering, simplified
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.2), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.132.5](https://github.com/renovatebot/renovate/releases/tag/44.132.5), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-9bf2f568-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-9bf2f568-nightly), 1 day ago) - Release engineering, simplified
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 2 days ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), 2 days ago) - The Prometheus monitoring system and time series database.
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.5.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.5.1), 2 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
