@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 2032 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 2031 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 514 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 84 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 180 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -22,19 +22,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (3 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 weeks ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (2 weeks ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 weeks ago)
-- [jkroepke/grafana-dashboard-skill](https://github.com/jkroepke/grafana-dashboard-skill) -  (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.8](https://github.com/Homebrew/brew/releases/tag/7.0.8), today) - 🍺 The Package Manager for Everywhere
+- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([projectsveltos-1.16.0](https://github.com/projectsveltos/helm-charts/releases/tag/projectsveltos-1.16.0), today) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.133.0](https://github.com/renovatebot/renovate/releases/tag/44.133.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.6.0](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.6.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-61704ffc-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-61704ffc-nightly), 1 day ago) - Release engineering, simplified
@@ -43,8 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), 3 days ago) - The Prometheus monitoring system and time series database.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.8.0), 4 days ago) - Terraform provider for Azure Resource Manager
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.11](https://github.com/zitadel/oidc/releases/tag/v3.51.11), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [ipitio/backage](https://github.com/ipitio/backage) ([v2026.10.0](https://github.com/ipitio/backage/releases/tag/v2026.10.0), 4 days ago) - Endpoint behind badges for GitHub Packages
-- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.7](https://github.com/Homebrew/brew/releases/tag/7.0.7), 1 week ago) - 🍺 The Package Manager for Everywhere
 
 #### 🔨 My recent Pull Requests
 
