@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 2031 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 2032 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 514 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 84 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 180 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -35,20 +35,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.12](https://github.com/zitadel/oidc/releases/tag/v3.51.12), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-3205096e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-3205096e-nightly), today) - Release engineering, simplified
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.138.0](https://github.com/renovatebot/renovate/releases/tag/44.138.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.8](https://github.com/Homebrew/brew/releases/tag/7.0.8), 1 day ago) - 🍺 The Package Manager for Everywhere
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([projectsveltos-1.16.0](https://github.com/projectsveltos/helm-charts/releases/tag/projectsveltos-1.16.0), 1 day ago) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.6.0](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.6.0), 2 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-61704ffc-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-61704ffc-nightly), 2 days ago) - Release engineering, simplified
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.2), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 4 days ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), 4 days ago) - The Prometheus monitoring system and time series database.
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.8.0), 5 days ago) - Terraform provider for Azure Resource Manager
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.11](https://github.com/zitadel/oidc/releases/tag/v3.51.11), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
-- [ci: add storage pool integration test](https://github.com/prometheus-community/windows_exporter/pull/2498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [chore: refactor CI](https://github.com/prometheus-community/windows_exporter/pull/2498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: shut down daemon before closing mock management connection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1210) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [fix: extend native plugin initial authentication response deadline](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [fix: report unready until the OpenVPN management connection is established](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1208) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
