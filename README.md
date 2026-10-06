@@ -23,31 +23,33 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (4 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 weeks ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (3 weeks ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.0.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.415](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.415), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.141.0](https://github.com/renovatebot/renovate/releases/tag/44.141.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.13](https://github.com/zitadel/oidc/releases/tag/v3.51.13), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.6.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.6.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.139.0](https://github.com/renovatebot/renovate/releases/tag/44.139.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-3205096e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-3205096e-nightly), today) - Release engineering, simplified
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.8](https://github.com/Homebrew/brew/releases/tag/7.0.8), 1 day ago) - 🍺 The Package Manager for Everywhere
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([projectsveltos-1.16.0](https://github.com/projectsveltos/helm-charts/releases/tag/projectsveltos-1.16.0), 1 day ago) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.2), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-91.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-91.9.0), 4 days ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), 4 days ago) - The Prometheus monitoring system and time series database.
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.8.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.8.0), 5 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
+- [[CI] Update Super Linter version to v9.0.0](https://github.com/grafana-community/helm-charts/pull/868) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [ci: expand Windows feature fixtures and test Server 2022](https://github.com/prometheus-community/windows_exporter/pull/2503) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[kube-prometheus-stack] Restore finalizer patch permissions](https://github.com/prometheus-community/helm-charts/pull/7346) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [finalizer RBAC](https://github.com/jkroepke/prometheus-community-helm-charts/pull/11) on [jkroepke/prometheus-community-helm-charts](https://github.com/jkroepke/prometheus-community-helm-charts) (today)
 - [Remove Go Report Card badge](https://github.com/prometheus-community/windows_exporter/pull/2502) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [fix: extend native plugin initial authentication response deadline](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [fix: report unready until the OpenVPN management connection is established](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1208) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 - [fix: let in-flight HTTP callbacks complete during shutdown](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1207) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [fix: close unsynchronized management connection after command timeout](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1206) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
-- [fix: treat unexpected management disconnects as failures](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1205) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (3 days ago)
 
 #### ⭐ Recent Stars
 
@@ -74,11 +74,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [notsointresting](https://github.com/notsointresting)
 - [nilpntr](https://github.com/nilpntr)
 - [tomra](https://github.com/tomra)
 - [eivjo](https://github.com/eivjo)
 - [Frusoz](https://github.com/Frusoz)
-- [strategist922](https://github.com/strategist922)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
