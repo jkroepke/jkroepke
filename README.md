@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 2033 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 514 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 515 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 84 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 180 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 5 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -22,7 +22,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (5 days ago)
@@ -35,10 +35,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.142.1](https://github.com/renovatebot/renovate/releases/tag/44.142.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-2.1.0](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-2.1.0), today) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ede67218-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ede67218-nightly), today) - Release engineering, simplified
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.0.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.0.0), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.415](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.415), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.141.0](https://github.com/renovatebot/renovate/releases/tag/44.141.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.13](https://github.com/zitadel/oidc/releases/tag/v3.51.13), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.6.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.6.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.8](https://github.com/Homebrew/brew/releases/tag/7.0.8), 2 days ago) - 🍺 The Package Manager for Everywhere
@@ -48,6 +48,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [pdh: use perfdata struct tags in collector benchmark](https://github.com/prometheus-community/windows_exporter/pull/2505) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [ci: download SQL Server media before installing Windows features](https://github.com/prometheus-community/windows_exporter/pull/2504) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[CI] Update Super Linter version to v9.0.0](https://github.com/grafana-community/helm-charts/pull/868) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (1 day ago)
 - [ci: expand Windows feature fixtures and test Server 2022](https://github.com/prometheus-community/windows_exporter/pull/2503) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [[kube-prometheus-stack] Restore finalizer patch permissions](https://github.com/prometheus-community/helm-charts/pull/7346) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (1 day ago)
@@ -56,8 +58,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [chore: consolidate CI and expand Windows test coverage](https://github.com/prometheus-community/windows_exporter/pull/2498) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [fix: shut down daemon before closing mock management connection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1210) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 - [fix: extend native plugin initial authentication response deadline](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1209) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [fix: report unready until the OpenVPN management connection is established](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1208) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
-- [fix: let in-flight HTTP callbacks complete during shutdown](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1207) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (4 days ago)
 
 #### ⭐ Recent Stars
 
