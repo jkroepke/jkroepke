@@ -23,10 +23,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (4 days ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (5 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (6 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 weeks ago)
@@ -35,7 +35,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.144.1](https://github.com/renovatebot/renovate/releases/tag/44.144.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.145.1](https://github.com/renovatebot/renovate/releases/tag/44.145.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.9), today) - A helm plugin that help manage secrets with Git workflow and store them anywhere
+- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), today) - Like Prometheus, but for logs.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.8.0](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.8.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.0), today) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ede67218-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ede67218-nightly), today) - Release engineering, simplified
@@ -43,21 +45,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.6.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.6.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.8](https://github.com/Homebrew/brew/releases/tag/7.0.8), 2 days ago) - 🍺 The Package Manager for Everywhere
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([projectsveltos-1.16.0](https://github.com/projectsveltos/helm-charts/releases/tag/projectsveltos-1.16.0), 2 days ago) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.2](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.2), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.13.4](https://github.com/prometheus/prometheus/releases/tag/v3.13.4), 5 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
+- [mi: fix flaky Test_MI_FD_Leak](https://github.com/prometheus-community/windows_exporter/pull/2535) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [ci: gate docker image publication on Windows tests](https://github.com/prometheus-community/windows_exporter/pull/2534) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [logical_disk: read BitLocker status through fveapi.dll](https://github.com/prometheus-community/windows_exporter/pull/2533) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [[loki] Use explicit S3 schemas in RustFS CI values](https://github.com/grafana-community/helm-charts/pull/876) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
+- [scheduled_task: expose result statuses and deprecate last_result](https://github.com/prometheus-community/windows_exporter/pull/2532) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [[ci] Preserve pod logs for failed integration tests](https://github.com/grafana-community/helm-charts/pull/875) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [Update CI badge in README.md](https://github.com/prometheus-community/windows_exporter/pull/2531) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [wmi: add generic wmi collector](https://github.com/prometheus-community/windows_exporter/pull/2530) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mi: validate unmarshal target before querying and unit-test setField](https://github.com/prometheus-community/windows_exporter/pull/2520) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore(renovate): track main branch, never bump Go minor on release branches](https://github.com/prometheus-community/windows_exporter/pull/2519) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [build: require go 1.27, use generic methods for mi unmarshalling](https://github.com/prometheus-community/windows_exporter/pull/2518) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix: tighten reflect usage in pdh and textfile](https://github.com/prometheus-community/windows_exporter/pull/2517) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mi: fix NewInterval inflating durations of 60s or more](https://github.com/prometheus-community/windows_exporter/pull/2516) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [process: report owner label as DOMAIN\user](https://github.com/prometheus-community/windows_exporter/pull/2515) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [feat: log build and account before initializing collectors](https://github.com/prometheus-community/windows_exporter/pull/2514) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [pdh: fix heap corruption from undersized counter array buffer](https://github.com/prometheus-community/windows_exporter/pull/2513) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
