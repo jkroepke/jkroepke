@@ -35,29 +35,29 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.1), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.147.0](https://github.com/renovatebot/renovate/releases/tag/44.147.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.148.1](https://github.com/renovatebot/renovate/releases/tag/44.148.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.15](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.15), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), today) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.9.0), today) - Terraform provider for Azure Resource Manager
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.9](https://github.com/Homebrew/brew/releases/tag/7.0.9), today) - 🍺 The Package Manager for Everywhere
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([sveltos-dashboard-1.16.1](https://github.com/projectsveltos/helm-charts/releases/tag/sveltos-dashboard-1.16.1), today) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.3](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.3), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.9), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), 1 day ago) - Like Prometheus, but for logs.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ede67218-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ede67218-nightly), 1 day ago) - Release engineering, simplified
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.13](https://github.com/zitadel/oidc/releases/tag/v3.51.13), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.6.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.6.1), 2 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 
 #### 🔨 My recent Pull Requests
 
+- [container: synchronize CRI pipe shutdown](https://github.com/prometheus-community/windows_exporter/pull/2560) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [pdh: collect synchronously under mutex](https://github.com/prometheus-community/windows_exporter/pull/2559) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [contrib: add Windows exporter monitoring mixin](https://github.com/prometheus-community/windows_exporter/pull/2558) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [container: read Kubernetes metadata from the CRI API](https://github.com/prometheus-community/windows_exporter/pull/2557) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [dashboard: rework sample dashboard](https://github.com/prometheus-community/windows_exporter/pull/2556) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [container: fix hostprocess memory metrics and containerd bundle handling](https://github.com/prometheus-community/windows_exporter/pull/2555) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [docs: add an upgrade guide from 0.31 to 0.32](https://github.com/prometheus-community/windows_exporter/pull/2554) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [fix: strict flag values, MI NULL properties and container without HCS](https://github.com/prometheus-community/windows_exporter/pull/2553) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [fix: repair Docker Compose demo](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1212) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [textfile: replace utfbom with a focused UTF-8 BOM helper](https://github.com/prometheus-community/windows_exporter/pull/2552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [ole: replace go-ole with native COM bindings](https://github.com/prometheus-community/windows_exporter/pull/2551) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [headers: remove unused netapi32, secur32 and schedule_service](https://github.com/prometheus-community/windows_exporter/pull/2550) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [registry: return errors instead of panicking on perflib data](https://github.com/prometheus-community/windows_exporter/pull/2549) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix: reject unknown process priorities and trap SIGTERM instead of os.Kill](https://github.com/prometheus-community/windows_exporter/pull/2548) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix: collectors Close leaks, recover goroutine panics, validate sub-collectors](https://github.com/prometheus-community/windows_exporter/pull/2547) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [hyperv: fix Replica VM PDH collector type](https://github.com/prometheus-community/windows_exporter/pull/2545) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [chore: replace the Makefile with a minimal one](https://github.com/prometheus-community/windows_exporter/pull/2544) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [pdh: per-counter metric types, no zero for invalid samples, worker panics](https://github.com/prometheus-community/windows_exporter/pull/2543) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
