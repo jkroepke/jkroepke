@@ -35,6 +35,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-1942d443-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-1942d443-nightly), today) - Release engineering, simplified
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.148.3](https://github.com/renovatebot/renovate/releases/tag/44.148.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
@@ -44,7 +45,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.9.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.9](https://github.com/Homebrew/brew/releases/tag/7.0.9), 1 day ago) - 🍺 The Package Manager for Everywhere
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([sveltos-dashboard-1.16.1](https://github.com/projectsveltos/helm-charts/releases/tag/sveltos-dashboard-1.16.1), 1 day ago) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.9), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
