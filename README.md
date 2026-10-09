@@ -23,10 +23,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (6 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 week ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 weeks ago)
@@ -35,34 +35,34 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.148.1](https://github.com/renovatebot/renovate/releases/tag/44.148.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.15](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.15), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), today) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.9.0), today) - Terraform provider for Azure Resource Manager
-- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.9](https://github.com/Homebrew/brew/releases/tag/7.0.9), today) - 🍺 The Package Manager for Everywhere
-- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([sveltos-dashboard-1.16.1](https://github.com/projectsveltos/helm-charts/releases/tag/sveltos-dashboard-1.16.1), today) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.9), 1 day ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
-- [grafana/loki](https://github.com/grafana/loki) ([operator/v0.12.0](https://github.com/grafana/loki/releases/tag/operator/v0.12.0), 1 day ago) - Like Prometheus, but for logs.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ede67218-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ede67218-nightly), 1 day ago) - Release engineering, simplified
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.148.3](https://github.com/renovatebot/renovate/releases/tag/44.148.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.15](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.15), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), 1 day ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.9.0), 1 day ago) - Terraform provider for Azure Resource Manager
+- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.9](https://github.com/Homebrew/brew/releases/tag/7.0.9), 1 day ago) - 🍺 The Package Manager for Everywhere
+- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([sveltos-dashboard-1.16.1](https://github.com/projectsveltos/helm-charts/releases/tag/sveltos-dashboard-1.16.1), 1 day ago) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) ([v4.7.9](https://github.com/jkroepke/helm-secrets/releases/tag/v4.7.9), 2 days ago) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 
 #### 🔨 My recent Pull Requests
 
-- [container: synchronize CRI pipe shutdown](https://github.com/prometheus-community/windows_exporter/pull/2560) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [pdh: collect synchronously under mutex](https://github.com/prometheus-community/windows_exporter/pull/2559) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [contrib: add Windows exporter monitoring mixin](https://github.com/prometheus-community/windows_exporter/pull/2558) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [container: read Kubernetes metadata from the CRI API](https://github.com/prometheus-community/windows_exporter/pull/2557) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [dashboard: rework sample dashboard](https://github.com/prometheus-community/windows_exporter/pull/2556) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [container: fix hostprocess memory metrics and containerd bundle handling](https://github.com/prometheus-community/windows_exporter/pull/2555) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: add an upgrade guide from 0.31 to 0.32](https://github.com/prometheus-community/windows_exporter/pull/2554) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix: strict flag values, MI NULL properties and container without HCS](https://github.com/prometheus-community/windows_exporter/pull/2553) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix: repair Docker Compose demo](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1212) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [textfile: replace utfbom with a focused UTF-8 BOM helper](https://github.com/prometheus-community/windows_exporter/pull/2552) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [gpu: make device discovery non-fatal and refresh it on unknown LUIDs](https://github.com/prometheus-community/windows_exporter/pull/2573) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [pdh/registry: decode performance data without per-counter allocations](https://github.com/prometheus-community/windows_exporter/pull/2572) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [gpu: add vendor-neutral sensor metrics from dxgkrnl](https://github.com/prometheus-community/windows_exporter/pull/2571) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [dashboard: add the generator for the sample dashboard](https://github.com/prometheus-community/windows_exporter/pull/2570) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [printer: bound the Win32_Printer query by the scrape timeout](https://github.com/prometheus-community/windows_exporter/pull/2569) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [container: collect Hyper-V isolated containers from CRI stats](https://github.com/prometheus-community/windows_exporter/pull/2568) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [pdh/registry: reuse the raw data buffer across Collect calls](https://github.com/prometheus-community/windows_exporter/pull/2567) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [container: add start time, process count and page fault metrics](https://github.com/prometheus-community/windows_exporter/pull/2566) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [hyperv: deprecate cumulative virtual storage device latency gauges](https://github.com/prometheus-community/windows_exporter/pull/2565) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [pdh: preserve duplicate counter instances](https://github.com/prometheus-community/windows_exporter/pull/2564) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (6 days ago)
-- [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (2 weeks ago)
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (1 week ago)
+- [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (3 weeks ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
 - [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (2 months ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (2 months ago)
