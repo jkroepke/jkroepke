@@ -18,46 +18,47 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ❤️ Sponsors
 
+- [konstantin-kelemen (Konstanin Kelemen)](https://github.com/konstantin-kelemen)
 - [numberly (Numberly)](https://github.com/numberly)
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 week ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 weeks ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (3 weeks ago)
 - [zitadel/oidc](https://github.com/zitadel/oidc) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-1942d443-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-1942d443-nightly), today) - Release engineering, simplified
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.148.4](https://github.com/renovatebot/renovate/releases/tag/44.148.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.3), today) - Release engineering, simplified
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.148.3](https://github.com/renovatebot/renovate/releases/tag/44.148.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.15](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.15), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.9.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.9](https://github.com/Homebrew/brew/releases/tag/7.0.9), 1 day ago) - 🍺 The Package Manager for Everywhere
-- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) ([sveltos-dashboard-1.16.1](https://github.com/projectsveltos/helm-charts/releases/tag/sveltos-dashboard-1.16.1), 1 day ago) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy.
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Refactor golang version package rules in renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2583) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [dashboard: use counters for disk queue length and VHD latency](https://github.com/prometheus-community/windows_exporter/pull/2582) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [printer: read printers and jobs from the spooler API](https://github.com/prometheus-community/windows_exporter/pull/2577) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [dashboard: add TCP and UDP to the Network tab](https://github.com/prometheus-community/windows_exporter/pull/2576) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [contrib: expand Windows mixin rules and publish runbooks](https://github.com/prometheus-community/windows_exporter/pull/2575) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [collector: preserve failures in joined collection errors](https://github.com/prometheus-community/windows_exporter/pull/2574) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [gpu: make device discovery non-fatal and refresh it on unknown LUIDs](https://github.com/prometheus-community/windows_exporter/pull/2573) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [pdh/registry: decode performance data without per-counter allocations](https://github.com/prometheus-community/windows_exporter/pull/2572) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [gpu: add vendor-neutral sensor metrics from dxgkrnl](https://github.com/prometheus-community/windows_exporter/pull/2571) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [dashboard: add the generator for the sample dashboard](https://github.com/prometheus-community/windows_exporter/pull/2570) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [printer: bound the Win32_Printer query by the scrape timeout](https://github.com/prometheus-community/windows_exporter/pull/2569) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [container: collect Hyper-V isolated containers from CRI stats](https://github.com/prometheus-community/windows_exporter/pull/2568) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [pdh/registry: reuse the raw data buffer across Collect calls](https://github.com/prometheus-community/windows_exporter/pull/2567) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [container: add start time, process count and page fault metrics](https://github.com/prometheus-community/windows_exporter/pull/2566) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [hyperv: deprecate cumulative virtual storage device latency gauges](https://github.com/prometheus-community/windows_exporter/pull/2565) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [pdh: preserve duplicate counter instances](https://github.com/prometheus-community/windows_exporter/pull/2564) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [dashboard: generate the sample dashboard with grafonnet](https://github.com/prometheus-community/windows_exporter/pull/2570) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
