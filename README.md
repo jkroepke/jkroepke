@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 2033 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 2031 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 516 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 84 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 180 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.148.6](https://github.com/renovatebot/renovate/releases/tag/44.148.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.0](https://github.com/renovatebot/renovate/releases/tag/44.149.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.3), today) - Release engineering, simplified
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -49,6 +49,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [cpu_info: use native queries after verifying WMI parity](https://github.com/prometheus-community/windows_exporter/pull/2633) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [netframework: collect CLR performance counters through PDH](https://github.com/prometheus-community/windows_exporter/pull/2632) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [dashboard: add process metrics with bounded graphs and summaries](https://github.com/prometheus-community/windows_exporter/pull/2631) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Add configuration for Go dependencies compatibility](https://github.com/prometheus-community/windows_exporter/pull/2629) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [terminal_services: detect Connection Broker via service control manager](https://github.com/prometheus-community/windows_exporter/pull/2628) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [scheduled_task: read only published task properties](https://github.com/prometheus-community/windows_exporter/pull/2613) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -56,9 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [dashboard: explain how the virtual disk latency is computed](https://github.com/prometheus-community/windows_exporter/pull/2609) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mixin: lint dashboards and migrate CI tasks to mise](https://github.com/prometheus-community/windows_exporter/pull/2608) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: gate Windows integration tests on Go and workflow changes](https://github.com/prometheus-community/windows_exporter/pull/2607) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [dashboard: show current collector failures with history](https://github.com/prometheus-community/windows_exporter/pull/2606) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [iis: keep partial collector cleanup safe](https://github.com/prometheus-community/windows_exporter/pull/2605) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Add sponsor @konstantin-kelemen to README](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1216) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 
 #### ⭐ Recent Stars
 
