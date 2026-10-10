@@ -23,10 +23,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 day ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
 - [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.0), today) - Prometheus exporter for Windows machines
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.2](https://github.com/renovatebot/renovate/releases/tag/44.149.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.7.0](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.7.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), today) - Release engineering, simplified
@@ -45,20 +46,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.9.0), 2 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
-- [scheduled_task: read task folders in parallel](https://github.com/prometheus-community/windows_exporter/pull/2643) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mscluster: collect shared volume metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2642) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mscluster: collect cluster metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2641) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mscluster: collect network metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2640) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mscluster: collect node metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2639) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [process: read the IIS application pool from the w3wp command line](https://github.com/prometheus-community/windows_exporter/pull/2638) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [scheduled_task: reuse metrics of unchanged tasks between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2637) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [diskdrive: read Win32_DiskDrive properties natively after verifying WMI parity](https://github.com/prometheus-community/windows_exporter/pull/2636) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mscluster: collect resource group metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2635) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mscluster: collect resource metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2634) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [ci: test the MSI installer lifecycle in the package job](https://github.com/prometheus-community/windows_exporter/pull/2662) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [collector: publish documented counter types for udp and hyperv metrics](https://github.com/prometheus-community/windows_exporter/pull/2661) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [httphandler: remove /version endpoint](https://github.com/prometheus-community/windows_exporter/pull/2660) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [collector: remove deprecated thermalzone collector](https://github.com/prometheus-community/windows_exporter/pull/2659) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [ci: stop dumping ClusAPI property lists in every test run](https://github.com/prometheus-community/windows_exporter/pull/2658) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [collector: bound MI probe queries in Build with a timeout](https://github.com/prometheus-community/windows_exporter/pull/2657) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [ci: build Go test binaries while fixtures are provisioned](https://github.com/prometheus-community/windows_exporter/pull/2656) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [dashboard: add Storage Spaces row to the Disk tab](https://github.com/prometheus-community/windows_exporter/pull/2655) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [pdh: reuse the row maps between samples](https://github.com/prometheus-community/windows_exporter/pull/2654) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [hyperv: label unnamed dynamic memory VMs as (unknown)](https://github.com/prometheus-community/windows_exporter/pull/2653) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
