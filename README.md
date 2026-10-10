@@ -23,42 +23,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (today)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 day ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (1 day ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 weeks ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.0](https://github.com/renovatebot/renovate/releases/tag/44.149.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.3), today) - Release engineering, simplified
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.15](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.15), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), 1 day ago) - Prometheus community Helm charts
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.9.0), 1 day ago) - Terraform provider for Azure Resource Manager
-- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.9](https://github.com/Homebrew/brew/releases/tag/7.0.9), 1 day ago) - 🍺 The Package Manager for Everywhere
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v3.0.0-beta.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v3.0.0-beta.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.0](https://github.com/renovatebot/renovate/releases/tag/44.149.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.18.3](https://github.com/goreleaser/goreleaser/releases/tag/v2.18.3), 1 day ago) - Release engineering, simplified
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.2.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.2.0), 2 days ago) - Prometheus community Helm charts
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.9.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.9.0), 2 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
-- [cpu_info: use native queries after verifying WMI parity](https://github.com/prometheus-community/windows_exporter/pull/2633) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [netframework: collect CLR performance counters through PDH](https://github.com/prometheus-community/windows_exporter/pull/2632) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [dashboard: add process metrics with bounded graphs and summaries](https://github.com/prometheus-community/windows_exporter/pull/2631) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [chore: Add configuration for Go dependencies compatibility](https://github.com/prometheus-community/windows_exporter/pull/2629) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [terminal_services: detect Connection Broker via service control manager](https://github.com/prometheus-community/windows_exporter/pull/2628) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [scheduled_task: read only published task properties](https://github.com/prometheus-community/windows_exporter/pull/2613) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [httphandler: merge registries without checking every metric twice](https://github.com/prometheus-community/windows_exporter/pull/2612) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [dashboard: explain how the virtual disk latency is computed](https://github.com/prometheus-community/windows_exporter/pull/2609) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mixin: lint dashboards and migrate CI tasks to mise](https://github.com/prometheus-community/windows_exporter/pull/2608) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [ci: gate Windows integration tests on Go and workflow changes](https://github.com/prometheus-community/windows_exporter/pull/2607) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mscluster: collect resource metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2634) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [cpu_info: use native queries after verifying WMI parity](https://github.com/prometheus-community/windows_exporter/pull/2633) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [netframework: collect CLR performance counters through PDH](https://github.com/prometheus-community/windows_exporter/pull/2632) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [dashboard: add process metrics with bounded graphs and summaries](https://github.com/prometheus-community/windows_exporter/pull/2631) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [chore: Add configuration for Go dependencies compatibility](https://github.com/prometheus-community/windows_exporter/pull/2629) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [terminal_services: detect Connection Broker via service control manager](https://github.com/prometheus-community/windows_exporter/pull/2628) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [scheduled_task: read only published task properties](https://github.com/prometheus-community/windows_exporter/pull/2613) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [httphandler: merge registries without checking every metric twice](https://github.com/prometheus-community/windows_exporter/pull/2612) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [dashboard: explain how the virtual disk latency is computed](https://github.com/prometheus-community/windows_exporter/pull/2609) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mixin: lint dashboards and migrate CI tasks to mise](https://github.com/prometheus-community/windows_exporter/pull/2608) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
