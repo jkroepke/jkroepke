@@ -36,11 +36,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.0), today) - Prometheus exporter for Windows machines
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.2), today) - Prometheus exporter for Windows machines
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v3.0.0-beta.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v3.0.0-beta.3), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), today) - Prometheus community Helm charts
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.2](https://github.com/renovatebot/renovate/releases/tag/44.149.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.7.0](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.7.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), today) - Release engineering, simplified
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
@@ -49,16 +49,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [fix: drop the 32 MiB FIPS entropy buffer from release binaries](https://github.com/prometheus-community/windows_exporter/pull/2667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mi: deliver query results through MI callbacks](https://github.com/prometheus-community/windows_exporter/pull/2666) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [ci: wait for the collector close bound in TestRun](https://github.com/prometheus-community/windows_exporter/pull/2665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [ci: fix release asset publishing](https://github.com/prometheus-community/windows_exporter/pull/2664) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: test the MSI installer lifecycle in the package job](https://github.com/prometheus-community/windows_exporter/pull/2662) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [collector: publish documented counter types for udp and hyperv metrics](https://github.com/prometheus-community/windows_exporter/pull/2661) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [httphandler: remove /version endpoint](https://github.com/prometheus-community/windows_exporter/pull/2660) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [collector: remove deprecated thermalzone collector](https://github.com/prometheus-community/windows_exporter/pull/2659) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [ci: stop dumping ClusAPI property lists in every test run](https://github.com/prometheus-community/windows_exporter/pull/2658) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [collector: bound MI probe queries in Build with a timeout](https://github.com/prometheus-community/windows_exporter/pull/2657) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [ci: build Go test binaries while fixtures are provisioned](https://github.com/prometheus-community/windows_exporter/pull/2656) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [dashboard: add Storage Spaces row to the Disk tab](https://github.com/prometheus-community/windows_exporter/pull/2655) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [pdh: reuse the row maps between samples](https://github.com/prometheus-community/windows_exporter/pull/2654) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [hyperv: label unnamed dynamic memory VMs as (unknown)](https://github.com/prometheus-community/windows_exporter/pull/2653) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
