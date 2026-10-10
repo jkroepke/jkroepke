@@ -36,11 +36,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.1](https://github.com/renovatebot/renovate/releases/tag/44.149.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.2](https://github.com/renovatebot/renovate/releases/tag/44.149.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v2.7.0](https://github.com/dominikschlosser/eudi-dev/releases/tag/v2.7.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), today) - Release engineering, simplified
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.3.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.3.0), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v3.0.0-beta.1](https://github.com/dominikschlosser/eudi-dev/releases/tag/v3.0.0-beta.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
@@ -49,16 +49,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [scheduled_task: read task folders in parallel](https://github.com/prometheus-community/windows_exporter/pull/2643) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mscluster: collect shared volume metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2642) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mscluster: collect cluster metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2641) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mscluster: collect network metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2640) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mscluster: collect node metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2639) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [process: read the IIS application pool from the w3wp command line](https://github.com/prometheus-community/windows_exporter/pull/2638) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [scheduled_task: reuse metrics of unchanged tasks between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2637) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [diskdrive: read Win32_DiskDrive properties natively after verifying WMI parity](https://github.com/prometheus-community/windows_exporter/pull/2636) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mscluster: collect resource group metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2635) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [mscluster: collect resource metrics through ClusAPI](https://github.com/prometheus-community/windows_exporter/pull/2634) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [cpu_info: use native queries after verifying WMI parity](https://github.com/prometheus-community/windows_exporter/pull/2633) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [netframework: collect CLR performance counters through PDH](https://github.com/prometheus-community/windows_exporter/pull/2632) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [dashboard: add process metrics with bounded graphs and summaries](https://github.com/prometheus-community/windows_exporter/pull/2631) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [chore: Add configuration for Go dependencies compatibility](https://github.com/prometheus-community/windows_exporter/pull/2629) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [terminal_services: detect Connection Broker via service control manager](https://github.com/prometheus-community/windows_exporter/pull/2628) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [scheduled_task: read only published task properties](https://github.com/prometheus-community/windows_exporter/pull/2613) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [httphandler: merge registries without checking every metric twice](https://github.com/prometheus-community/windows_exporter/pull/2612) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [dashboard: explain how the virtual disk latency is computed](https://github.com/prometheus-community/windows_exporter/pull/2609) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [mixin: lint dashboards and migrate CI tasks to mise](https://github.com/prometheus-community/windows_exporter/pull/2608) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
