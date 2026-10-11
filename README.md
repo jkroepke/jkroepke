@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.3](https://github.com/renovatebot/renovate/releases/tag/44.149.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.2), 1 day ago) - Prometheus exporter for Windows machines
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.151.0](https://github.com/renovatebot/renovate/releases/tag/44.151.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.3), today) - Prometheus exporter for Windows machines
 - [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v3.0.0-beta.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v3.0.0-beta.3), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 1 day ago) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), 1 day ago) - Release engineering, simplified
@@ -49,16 +49,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [mscluster: reuse metrics of unchanged cluster objects between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2681) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [net: reuse metrics of unchanged adapters between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2680) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [printer: reuse metrics of unchanged printers between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2679) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mixin: add a dashboard per tab next to the full dashboard](https://github.com/prometheus-community/windows_exporter/pull/2678) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [prometheus: presize the metric hash map in Registry.Gather and Gatherers.Gather](https://github.com/prometheus/client_golang/pull/2170) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (today)
-- [ci: add a Health Service resource to the CI cluster](https://github.com/prometheus-community/windows_exporter/pull/2677) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [fix: frame OpenVPN management messages by message type](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1222) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [feat: expose Prometheus metrics on the debug listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1221) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [fix: derive OpenVPN deny reasons from a single typed source](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1220) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [fix: keep running when a configuration reload fails](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1219) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [logical_disk: cache volume info, read free space live, tolerate failing volumes](https://github.com/prometheus-community/windows_exporter/pull/2691) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [system: read the boot time from the kernel on every scrape](https://github.com/prometheus-community/windows_exporter/pull/2690) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [net: match PDH adapter names, format full MAC addresses, reuse buffers](https://github.com/prometheus-community/windows_exporter/pull/2689) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [update: include optional updates such as the monthly preview update](https://github.com/prometheus-community/windows_exporter/pull/2688) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [terminal_services: fix swapped cpu_time labels, pending broker gauge, shared PDH query and series caching](https://github.com/prometheus-community/windows_exporter/pull/2687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [netframework: sample all .NET CLR counter objects in one PDH query](https://github.com/prometheus-community/windows_exporter/pull/2686) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [process, gpu, hyperv, netframework: reuse label pairs of unchanged series](https://github.com/prometheus-community/windows_exporter/pull/2685) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [tcp, udp, netframework: sample related counter objects in one PDH query](https://github.com/prometheus-community/windows_exporter/pull/2684) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [Build the Castagnoli CRC table lazily](https://github.com/klauspost/compress/pull/1259) on [klauspost/compress](https://github.com/klauspost/compress) (today)
+- [ci: upgrade from 0.32.0-beta.1 in the installer test](https://github.com/prometheus-community/windows_exporter/pull/2683) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
