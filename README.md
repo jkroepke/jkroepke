@@ -24,41 +24,41 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
-- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 week ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (2 days ago)
+- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (2 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (5 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 weeks ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (2 weeks ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.2), today) - Prometheus exporter for Windows machines
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v3.0.0-beta.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v3.0.0-beta.3), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.2](https://github.com/renovatebot/renovate/releases/tag/44.149.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), today) - Release engineering, simplified
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), 2 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.149.3](https://github.com/renovatebot/renovate/releases/tag/44.149.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.2](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.2), 1 day ago) - Prometheus exporter for Windows machines
+- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v3.0.0-beta.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v3.0.0-beta.3), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 1 day ago) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), 1 day ago) - Release engineering, simplified
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 2 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), 2 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 3 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), 3 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
-- [fix: drop the 32 MiB FIPS entropy buffer from release binaries](https://github.com/prometheus-community/windows_exporter/pull/2667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mi: deliver query results through MI callbacks](https://github.com/prometheus-community/windows_exporter/pull/2666) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [ci: wait for the collector close bound in TestRun](https://github.com/prometheus-community/windows_exporter/pull/2665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [ci: fix release asset publishing](https://github.com/prometheus-community/windows_exporter/pull/2664) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [ci: test the MSI installer lifecycle in the package job](https://github.com/prometheus-community/windows_exporter/pull/2662) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [collector: publish documented counter types for udp and hyperv metrics](https://github.com/prometheus-community/windows_exporter/pull/2661) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [httphandler: remove /version endpoint](https://github.com/prometheus-community/windows_exporter/pull/2660) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [collector: remove deprecated thermalzone collector](https://github.com/prometheus-community/windows_exporter/pull/2659) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [ci: stop dumping ClusAPI property lists in every test run](https://github.com/prometheus-community/windows_exporter/pull/2658) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [collector: bound MI probe queries in Build with a timeout](https://github.com/prometheus-community/windows_exporter/pull/2657) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [prometheus: avoid sorting and per-label allocations in MakeLabelPairs](https://github.com/prometheus/client_golang/pull/2169) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (1 day ago)
+- [docs: align collector documentation with the collector source](https://github.com/prometheus-community/windows_exporter/pull/2668) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [fix: drop the 32 MiB FIPS entropy buffer from release binaries](https://github.com/prometheus-community/windows_exporter/pull/2667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mi: deliver query results through MI callbacks](https://github.com/prometheus-community/windows_exporter/pull/2666) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [ci: wait for the collector close bound in TestRun](https://github.com/prometheus-community/windows_exporter/pull/2665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [ci: fix release asset publishing](https://github.com/prometheus-community/windows_exporter/pull/2664) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [ci: test the MSI installer lifecycle in the package job](https://github.com/prometheus-community/windows_exporter/pull/2662) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [collector: publish documented counter types for udp and hyperv metrics](https://github.com/prometheus-community/windows_exporter/pull/2661) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [httphandler: remove /version endpoint](https://github.com/prometheus-community/windows_exporter/pull/2660) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [collector: remove deprecated thermalzone collector](https://github.com/prometheus-community/windows_exporter/pull/2659) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
