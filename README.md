@@ -23,9 +23,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (2 days ago)
 - [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (2 days ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (2 days ago)
@@ -49,16 +49,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [mixin: make dashboard UID, title, description and tags configurable](https://github.com/prometheus-community/windows_exporter/pull/2672) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mixin: explain "not in Go" goroutines, allow a compact dashboard](https://github.com/prometheus-community/windows_exporter/pull/2671) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: shrink README below the Docker Hub description limit](https://github.com/prometheus-community/windows_exporter/pull/2670) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [prometheus: avoid sorting and per-label allocations in MakeLabelPairs](https://github.com/prometheus/client_golang/pull/2169) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (1 day ago)
-- [docs: align collector documentation with the collector source](https://github.com/prometheus-community/windows_exporter/pull/2668) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [fix: drop the 32 MiB FIPS entropy buffer from release binaries](https://github.com/prometheus-community/windows_exporter/pull/2667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [mi: deliver query results through MI callbacks](https://github.com/prometheus-community/windows_exporter/pull/2666) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [ci: wait for the collector close bound in TestRun](https://github.com/prometheus-community/windows_exporter/pull/2665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [ci: fix release asset publishing](https://github.com/prometheus-community/windows_exporter/pull/2664) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [ci: test the MSI installer lifecycle in the package job](https://github.com/prometheus-community/windows_exporter/pull/2662) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mscluster: reuse metrics of unchanged cluster objects between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2681) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [net: reuse metrics of unchanged adapters between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2680) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [printer: reuse metrics of unchanged printers between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2679) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mixin: add a dashboard per tab next to the full dashboard](https://github.com/prometheus-community/windows_exporter/pull/2678) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [prometheus: presize the metric hash map in Registry.Gather and Gatherers.Gather](https://github.com/prometheus/client_golang/pull/2170) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (today)
+- [ci: add a Health Service resource to the CI cluster](https://github.com/prometheus-community/windows_exporter/pull/2677) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [fix: frame OpenVPN management messages by message type](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1222) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [feat: expose Prometheus metrics on the debug listener](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1221) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: derive OpenVPN deny reasons from a single typed source](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1220) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [fix: keep running when a configuration reload fails](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1219) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 
 #### ⭐ Recent Stars
 
