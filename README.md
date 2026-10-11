@@ -49,16 +49,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [labelcache: share label pairs between series and keep one map](https://github.com/prometheus-community/windows_exporter/pull/2697) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [installer: disable the Restart Manager](https://github.com/prometheus-community/windows_exporter/pull/2696) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [ci: print installer and event log activity in the installer test](https://github.com/prometheus-community/windows_exporter/pull/2695) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [memory: rename commit_limit, drop free system PTEs, add standby cache lifetime](https://github.com/prometheus-community/windows_exporter/pull/2694) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [dmi: add BIOS, baseboard, chassis, product family and SKU labels](https://github.com/prometheus-community/windows_exporter/pull/2692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [logical_disk: cache volume info, read free space live, tolerate failing volumes](https://github.com/prometheus-community/windows_exporter/pull/2691) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [system: read the boot time from the kernel on every scrape](https://github.com/prometheus-community/windows_exporter/pull/2690) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [net: match PDH adapter names, format full MAC addresses, reuse buffers](https://github.com/prometheus-community/windows_exporter/pull/2689) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [update: include optional updates such as the monthly preview update](https://github.com/prometheus-community/windows_exporter/pull/2688) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [terminal_services: fix swapped cpu_time labels, pending broker gauge, shared PDH query and series caching](https://github.com/prometheus-community/windows_exporter/pull/2687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [netframework: sample all .NET CLR counter objects in one PDH query](https://github.com/prometheus-community/windows_exporter/pull/2686) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [process, gpu, hyperv, netframework: reuse label pairs of unchanged series](https://github.com/prometheus-community/windows_exporter/pull/2685) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [tcp, udp, netframework: sample related counter objects in one PDH query](https://github.com/prometheus-community/windows_exporter/pull/2684) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Build the Castagnoli CRC table lazily](https://github.com/klauspost/compress/pull/1259) on [klauspost/compress](https://github.com/klauspost/compress) (today)
-- [ci: upgrade from 0.32.0-beta.1 in the installer test](https://github.com/prometheus-community/windows_exporter/pull/2683) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
