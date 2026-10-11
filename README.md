@@ -49,6 +49,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [mixin: make dashboard UID, title, description and tags configurable](https://github.com/prometheus-community/windows_exporter/pull/2672) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mixin: explain "not in Go" goroutines, allow a compact dashboard](https://github.com/prometheus-community/windows_exporter/pull/2671) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [docs: shrink README below the Docker Hub description limit](https://github.com/prometheus-community/windows_exporter/pull/2670) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [prometheus: avoid sorting and per-label allocations in MakeLabelPairs](https://github.com/prometheus/client_golang/pull/2169) on [prometheus/client_golang](https://github.com/prometheus/client_golang) (1 day ago)
 - [docs: align collector documentation with the collector source](https://github.com/prometheus-community/windows_exporter/pull/2668) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [fix: drop the 32 MiB FIPS entropy buffer from release binaries](https://github.com/prometheus-community/windows_exporter/pull/2667) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
@@ -56,9 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [ci: wait for the collector close bound in TestRun](https://github.com/prometheus-community/windows_exporter/pull/2665) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [ci: fix release asset publishing](https://github.com/prometheus-community/windows_exporter/pull/2664) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [ci: test the MSI installer lifecycle in the package job](https://github.com/prometheus-community/windows_exporter/pull/2662) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [collector: publish documented counter types for udp and hyperv metrics](https://github.com/prometheus-community/windows_exporter/pull/2661) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [httphandler: remove /version endpoint](https://github.com/prometheus-community/windows_exporter/pull/2660) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [collector: remove deprecated thermalzone collector](https://github.com/prometheus-community/windows_exporter/pull/2659) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
