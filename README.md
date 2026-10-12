@@ -25,20 +25,20 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (3 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (3 days ago)
-- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (3 days ago)
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (1 day ago)
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (3 days ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (3 days ago)
+- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (3 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 weeks ago)
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 weeks ago)
-- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.151.2](https://github.com/renovatebot/renovate/releases/tag/44.151.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.151.3](https://github.com/renovatebot/renovate/releases/tag/44.151.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v2.7.1](https://github.com/eudi-dev/eudi-dev/releases/tag/v2.7.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.3), 1 day ago) - Prometheus exporter for Windows machines
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) ([v3.0.0-beta.3](https://github.com/dominikschlosser/eudi-dev/releases/tag/v3.0.0-beta.3), 2 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 2 days ago) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), 2 days ago) - Release engineering, simplified
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 3 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
@@ -62,7 +62,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### ⭐ Recent Stars
 
-- [dominikschlosser/eudi-dev](https://github.com/dominikschlosser/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (1 week ago)
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (1 week ago)
 - [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (3 weeks ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
 - [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (2 months ago)
