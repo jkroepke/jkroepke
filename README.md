@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.151.3](https://github.com/renovatebot/renovate/releases/tag/44.151.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v2.7.1](https://github.com/eudi-dev/eudi-dev/releases/tag/v2.7.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.155.1](https://github.com/renovatebot/renovate/releases/tag/44.155.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v2.8.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v2.8.4), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.3), 1 day ago) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 2 days ago) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), 2 days ago) - Release engineering, simplified
@@ -49,16 +49,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [proposal: Opt-in code-signing service for Prometheus ecosystem projects](https://github.com/prometheus/proposals/pull/101) on [prometheus/proposals](https://github.com/prometheus/proposals) (today)
+- [iis: document the 250 ms Web Service counter refresh wait](https://github.com/prometheus-community/windows_exporter/pull/2701) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [scheduled_task: skip filtered folders, exclude Windows tasks and missed runs by default](https://github.com/prometheus-community/windows_exporter/pull/2700) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [wmi: reuse label pairs between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2699) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [labelcache: share label pairs between series and keep one map](https://github.com/prometheus-community/windows_exporter/pull/2697) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [installer: disable the Restart Manager](https://github.com/prometheus-community/windows_exporter/pull/2696) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [ci: print installer and event log activity in the installer test](https://github.com/prometheus-community/windows_exporter/pull/2695) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [memory: rename commit_limit, drop free system PTEs, add standby cache lifetime](https://github.com/prometheus-community/windows_exporter/pull/2694) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [dmi: add BIOS, baseboard, chassis, product family and SKU labels](https://github.com/prometheus-community/windows_exporter/pull/2692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [logical_disk: cache volume info, read free space live, tolerate failing volumes](https://github.com/prometheus-community/windows_exporter/pull/2691) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [system: read the boot time from the kernel on every scrape](https://github.com/prometheus-community/windows_exporter/pull/2690) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [net: match PDH adapter names, format full MAC addresses, reuse buffers](https://github.com/prometheus-community/windows_exporter/pull/2689) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [update: include optional updates such as the monthly preview update](https://github.com/prometheus-community/windows_exporter/pull/2688) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [terminal_services: fix swapped cpu_time labels, pending broker gauge, shared PDH query and series caching](https://github.com/prometheus-community/windows_exporter/pull/2687) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 
 #### ⭐ Recent Stars
 
