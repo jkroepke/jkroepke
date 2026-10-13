@@ -23,63 +23,63 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (1 day ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (3 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (3 days ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (3 days ago)
-- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (6 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [plecos/logrotatewin](https://github.com/plecos/logrotatewin) - This is a Windows implementation of the logrotate utility found in Linux platforms. The goal is to use the same command line parameters and files as the Linux version. (2 days ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (4 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (4 days ago)
+- [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (4 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 weeks ago)
-- [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes (3 weeks ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.155.1](https://github.com/renovatebot/renovate/releases/tag/44.155.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v2.8.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v2.8.4), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.3](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.3), 1 day ago) - Prometheus exporter for Windows machines
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 2 days ago) - Prometheus community Helm charts
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-ccaac66e-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-ccaac66e-nightly), 2 days ago) - Release engineering, simplified
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 3 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), 3 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 4 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.2.3](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.2.3), 4 days ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-e6c4afca-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-e6c4afca-nightly), today) - Release engineering, simplified
+- [plecos/logrotatewin](https://github.com/plecos/logrotatewin) ([v0.0.59](https://github.com/plecos/logrotatewin/releases/tag/v0.0.59), 1 day ago) - This is a Windows implementation of the logrotate utility found in Linux platforms. The goal is to use the same command line parameters and files as the Linux version.
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.0.0-rc.6](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.0.0-rc.6), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.4), 1 day ago) - Prometheus exporter for Windows machines
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.155.1](https://github.com/renovatebot/renovate/releases/tag/44.155.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 3 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.0](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.0), 4 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), 4 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.116](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.116), 4 days ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.4.22](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.4.22), 5 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 
 #### 🔨 My recent Pull Requests
 
-- [proposal: Opt-in code-signing service for Prometheus ecosystem projects](https://github.com/prometheus/proposals/pull/101) on [prometheus/proposals](https://github.com/prometheus/proposals) (today)
-- [iis: document the 250 ms Web Service counter refresh wait](https://github.com/prometheus-community/windows_exporter/pull/2701) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [scheduled_task: skip filtered folders, exclude Windows tasks and missed runs by default](https://github.com/prometheus-community/windows_exporter/pull/2700) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [wmi: reuse label pairs between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2699) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [labelcache: share label pairs between series and keep one map](https://github.com/prometheus-community/windows_exporter/pull/2697) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [installer: disable the Restart Manager](https://github.com/prometheus-community/windows_exporter/pull/2696) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [ci: print installer and event log activity in the installer test](https://github.com/prometheus-community/windows_exporter/pull/2695) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [memory: rename commit_limit, drop free system PTEs, add standby cache lifetime](https://github.com/prometheus-community/windows_exporter/pull/2694) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [dmi: add BIOS, baseboard, chassis, product family and SKU labels](https://github.com/prometheus-community/windows_exporter/pull/2692) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [logical_disk: cache volume info, read free space live, tolerate failing volumes](https://github.com/prometheus-community/windows_exporter/pull/2691) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [hyperv: require datastore metrics in the CI fixture test](https://github.com/prometheus-community/windows_exporter/pull/2704) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mixin: fix NaN columns and doubled counts on the Updates dashboard](https://github.com/prometheus-community/windows_exporter/pull/2703) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mixin: note that scheduled task missed runs need the missed-runs flag](https://github.com/prometheus-community/windows_exporter/pull/2702) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [proposal: Opt-in code-signing service for Prometheus ecosystem projects](https://github.com/prometheus/proposals/pull/101) on [prometheus/proposals](https://github.com/prometheus/proposals) (1 day ago)
+- [iis: document the 250 ms Web Service counter refresh wait](https://github.com/prometheus-community/windows_exporter/pull/2701) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [scheduled_task: skip filtered folders, exclude Windows tasks and missed runs by default](https://github.com/prometheus-community/windows_exporter/pull/2700) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [wmi: reuse label pairs between scrapes](https://github.com/prometheus-community/windows_exporter/pull/2699) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [labelcache: share label pairs between series and keep one map](https://github.com/prometheus-community/windows_exporter/pull/2697) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [installer: disable the Restart Manager](https://github.com/prometheus-community/windows_exporter/pull/2696) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [ci: print installer and event log activity in the installer test](https://github.com/prometheus-community/windows_exporter/pull/2695) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (1 week ago)
 - [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (3 weeks ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 months ago)
 - [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (2 months ago)
 - [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (2 months ago)
 - [dominikschlosser/cloud-native-keycloak](https://github.com/dominikschlosser/cloud-native-keycloak) - Examples of how to run Keycloak in a cloud-native way (2 months ago)
-- [travisjakel/okf-mcp](https://github.com/travisjakel/okf-mcp) - MCP server for Open Knowledge Format (OKF) bundles — okf-ingest's deterministic consume verbs (context, search, impact, diff, doctor) as agent tools (2 months ago)
-- [0dust/OKFy](https://github.com/0dust/OKFy) - Turn docs into agent-readable knowledge bundles using Open Knowledge Format (OKF) (2 months ago)
-- [rodcar/okf-atlas-mcp](https://github.com/rodcar/okf-atlas-mcp) - Lightweight OKF bundle consumer exposed as an MCP server. (2 months ago)
+- [travisjakel/okf-mcp](https://github.com/travisjakel/okf-mcp) - MCP server for Open Knowledge Format (OKF) bundles — okf-ingest's deterministic consume verbs (context, search, impact, diff, doctor) as agent tools (3 months ago)
+- [0dust/OKFy](https://github.com/0dust/OKFy) - Turn docs into agent-readable knowledge bundles using Open Knowledge Format (OKF) (3 months ago)
+- [rodcar/okf-atlas-mcp](https://github.com/rodcar/okf-atlas-mcp) - Lightweight OKF bundle consumer exposed as an MCP server. (3 months ago)
 - [serradura/okf](https://github.com/serradura/okf) - OKF (Open Knowledge Format): Durable, structured memory for AI agents. Author, validate, consume, and maintain portable knowledge bundles through an ecosystem of Skills, MCP, an interactive graph, TUI, CLI, Docker, and a Claude Code plugin. 100% local. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
+- [a4hmad1](https://github.com/a4hmad1)
 - [notsointresting](https://github.com/notsointresting)
 - [nilpntr](https://github.com/nilpntr)
 - [tomra](https://github.com/tomra)
 - [eivjo](https://github.com/eivjo)
-- [Frusoz](https://github.com/Frusoz)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
