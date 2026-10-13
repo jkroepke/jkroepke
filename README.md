@@ -36,10 +36,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.155.9](https://github.com/renovatebot/renovate/releases/tag/44.155.9), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.2), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.155.5](https://github.com/renovatebot/renovate/releases/tag/44.155.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.0.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.0.4), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.3.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.3.1), today) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-e6c4afca-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-e6c4afca-nightly), today) - Release engineering, simplified
 - [plecos/logrotatewin](https://github.com/plecos/logrotatewin) ([v0.0.59](https://github.com/plecos/logrotatewin/releases/tag/v0.0.59), 1 day ago) - This is a Windows implementation of the logrotate utility found in Linux platforms. The goal is to use the same command line parameters and files as the Linux version.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.4), 1 day ago) - Prometheus exporter for Windows machines
