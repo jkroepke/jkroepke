@@ -36,9 +36,9 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.0.1](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.0.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-e6c4afca-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-e6c4afca-nightly), today) - Release engineering, simplified
 - [plecos/logrotatewin](https://github.com/plecos/logrotatewin) ([v0.0.59](https://github.com/plecos/logrotatewin/releases/tag/v0.0.59), 1 day ago) - This is a Windows implementation of the logrotate utility found in Linux platforms. The goal is to use the same command line parameters and files as the Linux version.
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.0.0-rc.6](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.0.0-rc.6), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.4), 1 day ago) - Prometheus exporter for Windows machines
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.155.1](https://github.com/renovatebot/renovate/releases/tag/44.155.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-windows-exporter-0.12.9](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-windows-exporter-0.12.9), 3 days ago) - Prometheus community Helm charts
