@@ -36,11 +36,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.4.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.4.0), today) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-1015c53f-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-1015c53f-nightly), today) - Release engineering, simplified
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.155.9](https://github.com/renovatebot/renovate/releases/tag/44.155.9), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.36.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.36.2), 1 day ago) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.0.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.0.4), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-e6c4afca-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-e6c4afca-nightly), 1 day ago) - Release engineering, simplified
 - [plecos/logrotatewin](https://github.com/plecos/logrotatewin) ([v0.0.59](https://github.com/plecos/logrotatewin/releases/tag/v0.0.59), 2 days ago) - This is a Windows implementation of the logrotate utility found in Linux platforms. The goal is to use the same command line parameters and files as the Linux version.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.4](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.4), 2 days ago) - Prometheus exporter for Windows machines
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.14](https://github.com/zitadel/oidc/releases/tag/v3.51.14), 5 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
