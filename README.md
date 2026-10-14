@@ -29,16 +29,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (3 days ago)
 - [plecos/logrotatewin](https://github.com/plecos/logrotatewin) - This is a Windows implementation of the logrotate utility found in Linux platforms. The goal is to use the same command line parameters and files as the Linux version. (3 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (5 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (5 days ago)
-- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
 - [jkroepke/helm-release-size-analyzer](https://github.com/jkroepke/helm-release-size-analyzer) - A cluster-free CLI that measures the exact decoded Helm release Secret size and breaks it down by top-level property. (5 days ago)
+- [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere (5 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (5 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.158.0](https://github.com/renovatebot/renovate/releases/tag/44.158.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.159.0](https://github.com/renovatebot/renovate/releases/tag/44.159.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.7.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.7.0), today) - Prometheus community Helm charts
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.1.1](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.1.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.45.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.45.0), today) - Prometheus community Helm charts
 - [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) ([v1.11.0](https://github.com/jkroepke/kube-webhook-certgen/releases/tag/v1.11.0), today) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-1015c53f-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-1015c53f-nightly), today) - Release engineering, simplified
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([cloudcost-exporter-1.1.16](https://github.com/grafana/helm-charts/releases/tag/cloudcost-exporter-1.1.16), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
@@ -49,6 +49,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [chore: fix flaky reload tests by stopping the daemon before closing the management connection](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1227) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
+- [chore: add an in-process SSF transmitter for tests](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1226) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [[prometheus-operator-admission-webhook] use kubernetes.io/tls secret for webhook certificates](https://github.com/prometheus-community/helm-charts/pull/7374) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [[kube-prometheus-stack] use kubernetes.io/tls secret for admission webhook certificates](https://github.com/prometheus-community/helm-charts/pull/7373) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
 - [feat: opt-in kubernetes.io/tls secrets with migration of existing secrets](https://github.com/jkroepke/kube-webhook-certgen/pull/188) on [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) (today)
@@ -57,8 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat: add ppc64le and riscv64 support](https://github.com/jkroepke/kube-webhook-certgen/pull/186) on [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) (today)
 - [docs: explain what the hyperv datastore metrics cover](https://github.com/prometheus-community/windows_exporter/pull/2706) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [hyperv: require datastore metrics in the CI fixture test](https://github.com/prometheus-community/windows_exporter/pull/2704) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [mixin: fix NaN columns and doubled counts on the Updates dashboard](https://github.com/prometheus-community/windows_exporter/pull/2703) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
-- [mixin: note that scheduled task missed runs need the missed-runs flag](https://github.com/prometheus-community/windows_exporter/pull/2702) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 
 #### ⭐ Recent Stars
 
