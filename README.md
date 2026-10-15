@@ -36,6 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.18](https://github.com/grafana/loki/releases/tag/v3.6.18), today) - Like Prometheus, but for logs.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.7.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.82](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.82), today) - Github Action for installing vals (https://github.com/getsops/sops)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.16](https://github.com/zitadel/oidc/releases/tag/v3.51.16), today) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.164.6](https://github.com/renovatebot/renovate/releases/tag/44.164.6), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
@@ -44,21 +46,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.1.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.1.4), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.5), today) - Prometheus exporter for Windows machines
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.3.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.3.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [ipitio/backage](https://github.com/ipitio/backage) ([v2026.10.1](https://github.com/ipitio/backage/releases/tag/v2026.10.1), today) - Endpoint behind badges for GitHub Packages
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.0](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.0), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 
 #### 🔨 My recent Pull Requests
 
-- [feat(packaging): publish a signed YUM/DNF repository on each release](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1236) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [mixin: add an MSSQL dashboard](https://github.com/prometheus-community/windows_exporter/pull/2725) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [[CI] Also push charts when ghcr.io answers denied](https://github.com/jkroepke/helm-charts/pull/156) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
-- [[CI] Never overwrite published chart versions on GHCR](https://github.com/jkroepke/helm-charts/pull/155) on [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) (today)
-- [[CI] Never overwrite published chart versions on GHCR](https://github.com/prometheus-community/helm-charts/pull/7381) on [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) (today)
-- [[CI] Never overwrite published chart versions on GHCR](https://github.com/grafana-community/helm-charts/pull/893) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
-- [logical_disk: remove the avg_*_requests_queued gauges](https://github.com/prometheus-community/windows_exporter/pull/2724) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mssql: fix units and types of cumulative and current counters](https://github.com/prometheus-community/windows_exporter/pull/2723) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [pagefile: read the paging file size from the % Usage base](https://github.com/prometheus-community/windows_exporter/pull/2722) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [memory: publish pool allocation counts as gauges](https://github.com/prometheus-community/windows_exporter/pull/2721) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [pdh: report duplicate instances by occurrence instead of renaming them](https://github.com/prometheus-community/windows_exporter/pull/2742) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [scheduled_task: run COM work on long-lived workers](https://github.com/prometheus-community/windows_exporter/pull/2741) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [collector: let the collection own the label and metric caches](https://github.com/prometheus-community/windows_exporter/pull/2740) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [headers: fail Build on missing native exports and assert MI/COM layouts](https://github.com/prometheus-community/windows_exporter/pull/2739) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [mi: bound every query with a timeout and add context cancellation](https://github.com/prometheus-community/windows_exporter/pull/2738) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [utils: share the include/exclude regexp flag handling](https://github.com/prometheus-community/windows_exporter/pull/2737) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [pdh: release partially initialized collectors in the constructors](https://github.com/prometheus-community/windows_exporter/pull/2736) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [pdh: avoid reflection and per-scrape allocations when collecting](https://github.com/prometheus-community/windows_exporter/pull/2735) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [log: open the event log lazily, bound close, keep the service running, structured messages](https://github.com/prometheus-community/windows_exporter/pull/2734) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [cmd: validate telemetry.path and scrape.timeout-margin, warn on unknown disabled collectors](https://github.com/prometheus-community/windows_exporter/pull/2733) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
