@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [collector: publish base units and _total counter names](https://github.com/prometheus-community/windows_exporter/pull/2743) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [pdh: report duplicate instances by occurrence instead of renaming them](https://github.com/prometheus-community/windows_exporter/pull/2742) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [scheduled_task: run COM work on long-lived workers](https://github.com/prometheus-community/windows_exporter/pull/2741) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [collector: let the collection own the label and metric caches](https://github.com/prometheus-community/windows_exporter/pull/2740) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [pdh: release partially initialized collectors in the constructors](https://github.com/prometheus-community/windows_exporter/pull/2736) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [pdh: avoid reflection and per-scrape allocations when collecting](https://github.com/prometheus-community/windows_exporter/pull/2735) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [log: open the event log lazily, bound close, keep the service running, structured messages](https://github.com/prometheus-community/windows_exporter/pull/2734) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [cmd: validate telemetry.path and scrape.timeout-margin, warn on unknown disabled collectors](https://github.com/prometheus-community/windows_exporter/pull/2733) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
