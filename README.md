@@ -36,11 +36,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.162.0](https://github.com/renovatebot/renovate/releases/tag/44.162.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.164.5](https://github.com/renovatebot/renovate/releases/tag/44.164.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.1.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.1.4), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.8.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.8.0), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.5](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.5), today) - Prometheus exporter for Windows machines
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.3.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.3.0), today) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.1.2](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.1.2), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [ipitio/backage](https://github.com/ipitio/backage) ([v2026.10.1](https://github.com/ipitio/backage/releases/tag/v2026.10.1), today) - Endpoint behind badges for GitHub Packages
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.0](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.0), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) ([v1.11.0](https://github.com/jkroepke/kube-webhook-certgen/releases/tag/v1.11.0), 1 day ago) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx)
@@ -49,16 +49,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [docs: record counter types of AD DS, AD CS, AD FS, DFSR and RemoteFX for agents](https://github.com/prometheus-community/windows_exporter/pull/2713) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [docs: record counter types of AD DS, AD CS, AD FS, DFSR and RemoteFX for agents](https://github.com/jkroepke/windows_exporter/pull/13) on [jkroepke/windows_exporter](https://github.com/jkroepke/windows_exporter) (today)
+- [ci: give betas and releases distinct numeric file versions](https://github.com/prometheus-community/windows_exporter/pull/2712) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [smb: fix metric types and names, extend 32-bit counters in smb and smbclient](https://github.com/prometheus-community/windows_exporter/pull/2710) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [pdh: fall back to localized names of v2 counter sets](https://github.com/prometheus-community/windows_exporter/pull/2709) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [[grafana] Add values schema](https://github.com/grafana-community/helm-charts/pull/892) on [grafana-community/helm-charts](https://github.com/grafana-community/helm-charts) (today)
 - [terminal_services: keep session_info when the Terminal Services Session object is missing](https://github.com/prometheus-community/windows_exporter/pull/2708) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [pdh: load a missing elapsed time base on a later sample](https://github.com/prometheus-community/windows_exporter/pull/2707) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat: verify the SSF receiver against Keycloak (SSF 9/9)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1234) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 - [docs: document Shared Signals session revocation (SSF 8/9)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1233) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [feat: authenticate the SSF receiver with client credentials (SSF 7/9)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1232) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [Refactor default.json to update labels and remove groups](https://github.com/jkroepke/renovate-config/pull/27) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
-- [feat: receive SSF events by RFC 8936 poll delivery (SSF 6/8)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1231) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [feat: verify SSF security event tokens (SSF 5/8)](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1230) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 
 #### ⭐ Recent Stars
 
@@ -75,11 +75,11 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👯 Check out some of my recent followers
 
+- [goozcena-gnl](https://github.com/goozcena-gnl)
 - [a4hmad1](https://github.com/a4hmad1)
 - [notsointresting](https://github.com/notsointresting)
 - [nilpntr](https://github.com/nilpntr)
 - [tomra](https://github.com/tomra)
-- [eivjo](https://github.com/eivjo)
 
 #### 📜 Historical projects
 - [jkroepke/2Moons](https://github.com/jkroepke/2Moons) - First coding project. A browser game engine written in PHP
