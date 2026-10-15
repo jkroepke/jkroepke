@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.161.0](https://github.com/renovatebot/renovate/releases/tag/44.161.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.161.1](https://github.com/renovatebot/renovate/releases/tag/44.161.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-admission-webhook-0.46.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-admission-webhook-0.46.0), 1 day ago) - Prometheus community Helm charts
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.1.1](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.1.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) ([v1.11.0](https://github.com/jkroepke/kube-webhook-certgen/releases/tag/v1.11.0), 1 day ago) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx)
