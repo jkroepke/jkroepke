@@ -27,38 +27,38 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
+- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 day ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.165.1](https://github.com/renovatebot/renovate/releases/tag/44.165.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), today) - Prometheus community Helm charts
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.53.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.53.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.165.0](https://github.com/renovatebot/renovate/releases/tag/44.165.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.0), today) - Prometheus community Helm charts
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.6](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.6), today) - Prometheus exporter for Windows machines
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.1), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.18](https://github.com/grafana/loki/releases/tag/v3.6.18), 1 day ago) - Like Prometheus, but for logs.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.82](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.82), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.16](https://github.com/zitadel/oidc/releases/tag/v3.51.16), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.10.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.1.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.1.4), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) ([v2.3.0](https://github.com/jkroepke/openvpn-auth-oauth2/releases/tag/v2.3.0), 1 day ago) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows
 
 #### 🔨 My recent Pull Requests
 
-- [docs: add Defender and disk health examples to the wmi collector](https://github.com/prometheus-community/windows_exporter/pull/2771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: explain idle time rates above 1 for logical_disk and physical_disk](https://github.com/prometheus-community/windows_exporter/pull/2770) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: document a least-privilege service account](https://github.com/prometheus-community/windows_exporter/pull/2769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [service: add delayed_start and trigger_start labels to windows_service_info](https://github.com/prometheus-community/windows_exporter/pull/2768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [netframework: add process_id to all metrics and process filters](https://github.com/prometheus-community/windows_exporter/pull/2767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [cpu: hide small drops of the processor time counters](https://github.com/prometheus-community/windows_exporter/pull/2766) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [hyperv: add the vm_state sub-collector for VMs that are not running](https://github.com/prometheus-community/windows_exporter/pull/2765) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [iis: add worker_responses_total as denominator for worker_request_errors_total](https://github.com/prometheus-community/windows_exporter/pull/2764) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [logical_disk: remove the *_latency_seconds_total counters](https://github.com/prometheus-community/windows_exporter/pull/2763) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [chore: Refactor renovate.json package rules and labels](https://github.com/prometheus-community/windows_exporter/pull/2762) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [Revert MCP Python to 3.14 to restore prebuilt wheels in CI](https://github.com/jkroepke/okf-crossplane-v2/pull/149) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (today)
+- [pdh: convert all raw time counter types to seconds](https://github.com/prometheus-community/windows_exporter/pull/2776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [docs: clarify which raw performance counters need a multiplier](https://github.com/prometheus-community/windows_exporter/pull/2775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [Document xprin function container reuse](https://github.com/jkroepke/okf-crossplane-v2/pull/148) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (today)
+- [Document xprin Crossplane version pinning](https://github.com/jkroepke/okf-crossplane-v2/pull/147) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (today)
+- [Document xprin Crossplane CLI tier detection](https://github.com/jkroepke/okf-crossplane-v2/pull/146) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (today)
+- [Document xprin test artifacts export](https://github.com/jkroepke/okf-crossplane-v2/pull/145) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (today)
+- [Document xprin update-goldens](https://github.com/jkroepke/okf-crossplane-v2/pull/144) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (today)
+- [Document crossplane resource validate built-in decoding](https://github.com/jkroepke/okf-crossplane-v2/pull/143) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (today)
+- [Document CLI Go model runtime.Object generation](https://github.com/jkroepke/okf-crossplane-v2/pull/142) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (today)
 
 #### ⭐ Recent Stars
 
