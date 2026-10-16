@@ -23,16 +23,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 day ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 day ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 day ago)
-- [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx) (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
@@ -49,6 +49,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [docs: add Defender and disk health examples to the wmi collector](https://github.com/prometheus-community/windows_exporter/pull/2771) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [docs: explain idle time rates above 1 for logical_disk and physical_disk](https://github.com/prometheus-community/windows_exporter/pull/2770) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [docs: document a least-privilege service account](https://github.com/prometheus-community/windows_exporter/pull/2769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [service: add delayed_start and trigger_start labels to windows_service_info](https://github.com/prometheus-community/windows_exporter/pull/2768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [netframework: add process_id to all metrics and process filters](https://github.com/prometheus-community/windows_exporter/pull/2767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
@@ -57,8 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [iis: add worker_responses_total as denominator for worker_request_errors_total](https://github.com/prometheus-community/windows_exporter/pull/2764) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [logical_disk: remove the *_latency_seconds_total counters](https://github.com/prometheus-community/windows_exporter/pull/2763) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [chore: Refactor renovate.json package rules and labels](https://github.com/prometheus-community/windows_exporter/pull/2762) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [Group workflow '# renovate:' deps with GitHub Actions](https://github.com/jkroepke/renovate-config/pull/28) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
-- [chore(ci): create release tags with GITHUB_TOKEN and dispatch CI](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1241) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
 
 #### ⭐ Recent Stars
 
