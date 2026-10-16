@@ -9,7 +9,7 @@ In my free time, I'm going to support and maintain opensource projects. I have a
 I like the challenge of code somewhat in a programming language without knowing how to do it exactly correctly. That's one of the reasons why my projects are written in different languages.
 
 #### 🌱 My current projects
-- [⭐️ 2032 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
+- [⭐️ 2033 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
 - [⭐️ 518 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 84 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 181 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
@@ -26,39 +26,39 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (today)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 day ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (1 day ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (1 day ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (1 day ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 day ago)
 - [jkroepke/kube-webhook-certgen](https://github.com/jkroepke/kube-webhook-certgen) - Tools to help with self signed cert generation for Kubernetes test environment (fork of ingress-nginx) (2 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.53.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.53.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.165.0](https://github.com/renovatebot/renovate/releases/tag/44.165.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.0), today) - Prometheus community Helm charts
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.6](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.6), today) - Prometheus exporter for Windows machines
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.164.10](https://github.com/renovatebot/renovate/releases/tag/44.164.10), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.1), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.18](https://github.com/grafana/loki/releases/tag/v3.6.18), 1 day ago) - Like Prometheus, but for logs.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([helm-k6-operator-4.7.0](https://github.com/grafana/helm-charts/releases/tag/helm-k6-operator-4.7.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.82](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.82), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.16](https://github.com/zitadel/oidc/releases/tag/v3.51.16), 1 day ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.9.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.9.0), 1 day ago) - Prometheus community Helm charts
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.10.0), 1 day ago) - Terraform provider for Azure Resource Manager
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.1.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.1.4), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 
 #### 🔨 My recent Pull Requests
 
+- [docs: document a least-privilege service account](https://github.com/prometheus-community/windows_exporter/pull/2769) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [service: add delayed_start and trigger_start labels to windows_service_info](https://github.com/prometheus-community/windows_exporter/pull/2768) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [netframework: add process_id to all metrics and process filters](https://github.com/prometheus-community/windows_exporter/pull/2767) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [cpu: hide small drops of the processor time counters](https://github.com/prometheus-community/windows_exporter/pull/2766) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [hyperv: add the vm_state sub-collector for VMs that are not running](https://github.com/prometheus-community/windows_exporter/pull/2765) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [iis: add worker_responses_total as denominator for worker_request_errors_total](https://github.com/prometheus-community/windows_exporter/pull/2764) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [logical_disk: remove the *_latency_seconds_total counters](https://github.com/prometheus-community/windows_exporter/pull/2763) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [chore: Refactor renovate.json package rules and labels](https://github.com/prometheus-community/windows_exporter/pull/2762) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Group workflow '# renovate:' deps with GitHub Actions](https://github.com/jkroepke/renovate-config/pull/28) on [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) (today)
 - [chore(ci): create release tags with GITHUB_TOKEN and dispatch CI](https://github.com/jkroepke/openvpn-auth-oauth2/pull/1241) on [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) (today)
-- [ci: build each release once from its tag and publish it as a draft](https://github.com/prometheus-community/windows_exporter/pull/2754) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: move the 0.32 upgrade guide to docs/upgrade](https://github.com/prometheus-community/windows_exporter/pull/2753) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [mi: limit the CIM_DataFile cancellation test to one directory](https://github.com/prometheus-community/windows_exporter/pull/2752) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [netframework: add the counter reference to AGENTS.md](https://github.com/prometheus-community/windows_exporter/pull/2751) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [pdh: dump the .NET CLR counters in CI](https://github.com/prometheus-community/windows_exporter/pull/2750) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [docs: document memory and leak investigations in AGENTS.md](https://github.com/prometheus-community/windows_exporter/pull/2749) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [pdh: probe the .NET CLR ratio counter types in CI](https://github.com/prometheus-community/windows_exporter/pull/2748) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
-- [hyperv: label replica relationships with the VM ID](https://github.com/prometheus-community/windows_exporter/pull/2747) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 
 #### ⭐ Recent Stars
 
