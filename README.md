@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-4a71e1e8-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-4a71e1e8-nightly), today) - Release engineering, simplified
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 1 day ago) - Prometheus exporter for Windows machines
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.165.1](https://github.com/renovatebot/renovate/releases/tag/44.165.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), 1 day ago) - Prometheus community Helm charts
@@ -45,11 +46,10 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.82](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.82), 2 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.16](https://github.com/zitadel/oidc/releases/tag/v3.51.16), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 - [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.10.0), 2 days ago) - Terraform provider for Azure Resource Manager
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.1.4](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.1.4), 2 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 
 #### 🔨 My recent Pull Requests
 
-- [mixin: group alerts by collector area and add tier 1 alerts](https://github.com/prometheus-community/windows_exporter/pull/2777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
+- [mixin: group alerts by collector area and add alerts for default and opt-in collectors](https://github.com/prometheus-community/windows_exporter/pull/2777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [Revert MCP Python to 3.14 to restore prebuilt wheels in CI](https://github.com/jkroepke/okf-crossplane-v2/pull/149) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (1 day ago)
 - [pdh: convert all raw time counter types to seconds](https://github.com/prometheus-community/windows_exporter/pull/2776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
 - [docs: clarify which raw performance counters need a multiplier](https://github.com/prometheus-community/windows_exporter/pull/2775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
