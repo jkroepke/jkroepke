@@ -36,6 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.2.0](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.2.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.166.0](https://github.com/renovatebot/renovate/releases/tag/44.166.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-4a71e1e8-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-4a71e1e8-nightly), today) - Release engineering, simplified
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 1 day ago) - Prometheus exporter for Windows machines
@@ -45,7 +46,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.18](https://github.com/grafana/loki/releases/tag/v3.6.18), 2 days ago) - Like Prometheus, but for logs.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.82](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.82), 2 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.16](https://github.com/zitadel/oidc/releases/tag/v3.51.16), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) ([v5.10.0](https://github.com/hashicorp/terraform-provider-azurerm/releases/tag/v5.10.0), 2 days ago) - Terraform provider for Azure Resource Manager
 
 #### 🔨 My recent Pull Requests
 
