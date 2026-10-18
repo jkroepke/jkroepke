@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.167.2](https://github.com/renovatebot/renovate/releases/tag/44.167.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.167.4](https://github.com/renovatebot/renovate/releases/tag/44.167.4), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.2.0](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.2.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-4a71e1e8-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-4a71e1e8-nightly), 1 day ago) - Release engineering, simplified
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 2 days ago) - Prometheus exporter for Windows machines
