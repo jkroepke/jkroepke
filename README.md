@@ -23,21 +23,21 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 day ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (2 days ago)
-- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (2 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
+- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (2 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (3 days ago)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (3 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.167.1](https://github.com/renovatebot/renovate/releases/tag/44.167.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.2.0](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.2.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.166.0](https://github.com/renovatebot/renovate/releases/tag/44.166.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-4a71e1e8-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-4a71e1e8-nightly), 1 day ago) - Release engineering, simplified
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 2 days ago) - Prometheus exporter for Windows machines
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), 2 days ago) - Prometheus community Helm charts
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [docs: Update README to include dashboard and alerting rules](https://github.com/prometheus-community/windows_exporter/pull/2781) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat(about): enrich about page](https://github.com/jkroepke/blog/pull/87) on [jkroepke/blog](https://github.com/jkroepke/blog) (1 day ago)
 - [mixin: group alerts by collector area and add alerts for default and opt-in collectors](https://github.com/prometheus-community/windows_exporter/pull/2777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
 - [Revert MCP Python to 3.14 to restore prebuilt wheels in CI](https://github.com/jkroepke/okf-crossplane-v2/pull/149) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Document xprin Crossplane version pinning](https://github.com/jkroepke/okf-crossplane-v2/pull/147) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
 - [Document xprin Crossplane CLI tier detection](https://github.com/jkroepke/okf-crossplane-v2/pull/146) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
 - [Document xprin test artifacts export](https://github.com/jkroepke/okf-crossplane-v2/pull/145) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
-- [Document xprin update-goldens](https://github.com/jkroepke/okf-crossplane-v2/pull/144) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
 
 #### ⭐ Recent Stars
 
