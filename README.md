@@ -23,50 +23,50 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (today)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (1 day ago)
-- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (1 day ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 day ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (1 day ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (2 days ago)
-- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (2 days ago)
-- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (2 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (1 day ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (2 days ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (2 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (2 days ago)
+- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (2 days ago)
+- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (2 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (3 days ago)
+- [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (3 days ago)
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) - Github Action for installing vals (https://github.com/helmfile/vals) (3 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.2.0](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.2.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.166.0](https://github.com/renovatebot/renovate/releases/tag/44.166.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-4a71e1e8-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-4a71e1e8-nightly), today) - Release engineering, simplified
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 1 day ago) - Prometheus exporter for Windows machines
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), 1 day ago) - Prometheus community Helm charts
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.53.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.53.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.1), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.18](https://github.com/grafana/loki/releases/tag/v3.6.18), 2 days ago) - Like Prometheus, but for logs.
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.82](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.82), 2 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
-- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.16](https://github.com/zitadel/oidc/releases/tag/v3.51.16), 2 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.2.0](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.2.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.166.0](https://github.com/renovatebot/renovate/releases/tag/44.166.0), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-4a71e1e8-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-4a71e1e8-nightly), 1 day ago) - Release engineering, simplified
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 2 days ago) - Prometheus exporter for Windows machines
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), 2 days ago) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.53.0](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.53.0), 2 days ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.1), 2 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
+- [grafana/loki](https://github.com/grafana/loki) ([v3.6.18](https://github.com/grafana/loki/releases/tag/v3.6.18), 3 days ago) - Like Prometheus, but for logs.
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.82](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.82), 3 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [zitadel/oidc](https://github.com/zitadel/oidc) ([v3.51.16](https://github.com/zitadel/oidc/releases/tag/v3.51.16), 3 days ago) - Easy to use OpenID Connect client and server library written for Go and certified by the OpenID Foundation
 
 #### 🔨 My recent Pull Requests
 
-- [feat(about): enrich about page](https://github.com/jkroepke/blog/pull/87) on [jkroepke/blog](https://github.com/jkroepke/blog) (today)
-- [mixin: group alerts by collector area and add alerts for default and opt-in collectors](https://github.com/prometheus-community/windows_exporter/pull/2777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Revert MCP Python to 3.14 to restore prebuilt wheels in CI](https://github.com/jkroepke/okf-crossplane-v2/pull/149) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (1 day ago)
-- [pdh: convert all raw time counter types to seconds](https://github.com/prometheus-community/windows_exporter/pull/2776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [docs: clarify which raw performance counters need a multiplier](https://github.com/prometheus-community/windows_exporter/pull/2775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (1 day ago)
-- [Document xprin function container reuse](https://github.com/jkroepke/okf-crossplane-v2/pull/148) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (1 day ago)
-- [Document xprin Crossplane version pinning](https://github.com/jkroepke/okf-crossplane-v2/pull/147) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (1 day ago)
-- [Document xprin Crossplane CLI tier detection](https://github.com/jkroepke/okf-crossplane-v2/pull/146) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (1 day ago)
-- [Document xprin test artifacts export](https://github.com/jkroepke/okf-crossplane-v2/pull/145) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (1 day ago)
-- [Document xprin update-goldens](https://github.com/jkroepke/okf-crossplane-v2/pull/144) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (1 day ago)
+- [feat(about): enrich about page](https://github.com/jkroepke/blog/pull/87) on [jkroepke/blog](https://github.com/jkroepke/blog) (1 day ago)
+- [mixin: group alerts by collector area and add alerts for default and opt-in collectors](https://github.com/prometheus-community/windows_exporter/pull/2777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Revert MCP Python to 3.14 to restore prebuilt wheels in CI](https://github.com/jkroepke/okf-crossplane-v2/pull/149) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
+- [pdh: convert all raw time counter types to seconds](https://github.com/prometheus-community/windows_exporter/pull/2776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [docs: clarify which raw performance counters need a multiplier](https://github.com/prometheus-community/windows_exporter/pull/2775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
+- [Document xprin function container reuse](https://github.com/jkroepke/okf-crossplane-v2/pull/148) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
+- [Document xprin Crossplane version pinning](https://github.com/jkroepke/okf-crossplane-v2/pull/147) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
+- [Document xprin Crossplane CLI tier detection](https://github.com/jkroepke/okf-crossplane-v2/pull/146) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
+- [Document xprin test artifacts export](https://github.com/jkroepke/okf-crossplane-v2/pull/145) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
+- [Document xprin update-goldens](https://github.com/jkroepke/okf-crossplane-v2/pull/144) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
 
 #### ⭐ Recent Stars
 
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (2 weeks ago)
-- [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (4 weeks ago)
+- [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (1 month ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 months ago)
-- [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (2 months ago)
-- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (2 months ago)
+- [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (3 months ago)
+- [projectsveltos/helm-charts](https://github.com/projectsveltos/helm-charts) - Sveltos is tool for managing Kubernetes add-ons in tens of clusters. Support for ClusterAPI powered clusters and helm charts. Sveltos has built-in support for multi-tenancy. (3 months ago)
 - [dominikschlosser/cloud-native-keycloak](https://github.com/dominikschlosser/cloud-native-keycloak) - Examples of how to run Keycloak in a cloud-native way (3 months ago)
 - [travisjakel/okf-mcp](https://github.com/travisjakel/okf-mcp) - MCP server for Open Knowledge Format (OKF) bundles — okf-ingest's deterministic consume verbs (context, search, impact, diff, doctor) as agent tools (3 months ago)
 - [0dust/OKFy](https://github.com/0dust/OKFy) - Turn docs into agent-readable knowledge bundles using Open Knowledge Format (OKF) (3 months ago)
