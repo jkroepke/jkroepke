@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.167.1](https://github.com/renovatebot/renovate/releases/tag/44.167.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.167.2](https://github.com/renovatebot/renovate/releases/tag/44.167.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.2.0](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.2.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-4a71e1e8-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-4a71e1e8-nightly), 1 day ago) - Release engineering, simplified
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 2 days ago) - Prometheus exporter for Windows machines
@@ -49,6 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
+- [cmd: disable console QuickEdit mode while the exporter runs](https://github.com/prometheus-community/windows_exporter/pull/2782) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [docs: Update README to include dashboard and alerting rules](https://github.com/prometheus-community/windows_exporter/pull/2781) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [feat(about): enrich about page](https://github.com/jkroepke/blog/pull/87) on [jkroepke/blog](https://github.com/jkroepke/blog) (1 day ago)
 - [mixin: group alerts by collector area and add alerts for default and opt-in collectors](https://github.com/prometheus-community/windows_exporter/pull/2777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (2 days ago)
@@ -58,7 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [Document xprin function container reuse](https://github.com/jkroepke/okf-crossplane-v2/pull/148) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
 - [Document xprin Crossplane version pinning](https://github.com/jkroepke/okf-crossplane-v2/pull/147) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
 - [Document xprin Crossplane CLI tier detection](https://github.com/jkroepke/okf-crossplane-v2/pull/146) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
-- [Document xprin test artifacts export](https://github.com/jkroepke/okf-crossplane-v2/pull/145) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (2 days ago)
 
 #### ⭐ Recent Stars
 
