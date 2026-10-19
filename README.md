@@ -36,8 +36,8 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.171.1](https://github.com/renovatebot/renovate/releases/tag/44.171.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.10](https://github.com/Homebrew/brew/releases/tag/7.0.10), today) - 🍺 The Package Manager for Everywhere
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.168.3](https://github.com/renovatebot/renovate/releases/tag/44.168.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.14.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.14.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.0](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-de872191-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-de872191-nightly), today) - Release engineering, simplified
