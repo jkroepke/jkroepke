@@ -36,13 +36,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.171.8](https://github.com/renovatebot/renovate/releases/tag/44.171.8), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.11.0), today) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-68e5e341-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-68e5e341-nightly), today) - Release engineering, simplified
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.1](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.171.1](https://github.com/renovatebot/renovate/releases/tag/44.171.1), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.10](https://github.com/Homebrew/brew/releases/tag/7.0.10), 1 day ago) - 🍺 The Package Manager for Everywhere
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-1.14.0](https://github.com/grafana/helm-charts/releases/tag/alloy-1.14.0), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 4 days ago) - Prometheus exporter for Windows machines
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.10.1](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.10.1), 4 days ago) - Prometheus community Helm charts
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.1), 4 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.18](https://github.com/grafana/loki/releases/tag/v3.6.18), 5 days ago) - Like Prometheus, but for logs.
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.82](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.82), 5 days ago) - Github Action for installing vals (https://github.com/getsops/sops)
