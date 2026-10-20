@@ -10,7 +10,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🌱 My current projects
 - [⭐️ 2034 - jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - I love the deployment via helm. The original helm-secrets project was discontinued. I started a fork and I learn how bash unit tests work!
-- [⭐️ 521 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
+- [⭐️ 522 - jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - OpenVPN with OIDC Authentication. Replaces  [jkroepke/openvpn-auth-azure-ad](https://github.com/jkroepke/openvpn-auth-azure-ad) 
 - [⭐️ 84 - jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - Lens Extension to see details of a certificate inside a secret.
 - [⭐️ 182 - jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs through the syslog protocol and converts them into metrics.
 - [⭐️ 5 - jkroepke/terraform-provider-azureakscommand](https://github.com/jkroepke/terraform-provider-azureakscommand) - Terraform provider which allows running commands inside private Azure Kubernetes Service without direct connection.
@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.171.8](https://github.com/renovatebot/renovate/releases/tag/44.171.8), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.172.0](https://github.com/renovatebot/renovate/releases/tag/44.172.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([kube-prometheus-stack-92.11.0](https://github.com/prometheus-community/helm-charts/releases/tag/kube-prometheus-stack-92.11.0), today) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-68e5e341-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-68e5e341-nightly), today) - Release engineering, simplified
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.1](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.1), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
