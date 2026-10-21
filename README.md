@@ -26,19 +26,19 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
+- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (5 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (5 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
-- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (5 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (6 days ago)
+- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (5 days ago)
+- [prometheus/client_golang](https://github.com/prometheus/client_golang) - Prometheus instrumentation library for Go applications (6 days ago)
 - [jkroepke/helm-charts](https://github.com/jkroepke/helm-charts) - Collection of charts used in my projects (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([beyla-1.16.15](https://github.com/grafana/helm-charts/releases/tag/beyla-1.16.15), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([rollout-operator-0.53.1](https://github.com/grafana/helm-charts/releases/tag/rollout-operator-0.53.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.175.3](https://github.com/renovatebot/renovate/releases/tag/44.175.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.2](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.2), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.175.0](https://github.com/renovatebot/renovate/releases/tag/44.175.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.19](https://github.com/grafana/loki/releases/tag/v3.6.19), 1 day ago) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-4.0.1), 1 day ago) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-68e5e341-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-68e5e341-nightly), 1 day ago) - Release engineering, simplified
