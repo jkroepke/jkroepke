@@ -24,24 +24,24 @@ I like the challenge of code somewhat in a programming language without knowing 
 #### 👷 Check out what I'm currently working on
 
 - [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) - Community maintained binary distribution of podman-container-tools/skopeo (today)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (2 days ago)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (3 days ago)
 - [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (5 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (5 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (5 days ago)
 - [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (5 days ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (5 days ago)
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli) (6 days ago)
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([pyroscope-2.4.1](https://github.com/grafana/helm-charts/releases/tag/pyroscope-2.4.1), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.176.0](https://github.com/renovatebot/renovate/releases/tag/44.176.0), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-injection-controller-0.3.0](https://github.com/grafana/helm-charts/releases/tag/k8s-injection-controller-0.3.0), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.37.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.37.1), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.176.1](https://github.com/renovatebot/renovate/releases/tag/44.176.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.1), today) - The Prometheus monitoring system and time series database.
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.2](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.2), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.19](https://github.com/grafana/loki/releases/tag/v3.6.19), 1 day ago) - Like Prometheus, but for logs.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-4.0.1), 1 day ago) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-68e5e341-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-68e5e341-nightly), 1 day ago) - Release engineering, simplified
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.10](https://github.com/Homebrew/brew/releases/tag/7.0.10), 2 days ago) - 🍺 The Package Manager for Everywhere
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 5 days ago) - Prometheus exporter for Windows machines
@@ -49,7 +49,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔨 My recent Pull Requests
 
-- [Static skopeo builds with goreleaser, cosign and distroless](https://github.com/podman-container-tools-community/dev/pull/1) on [podman-container-tools-community/dev](https://github.com/podman-container-tools-community/dev) (today)
+- [Static skopeo builds with goreleaser, cosign and distroless](https://github.com/podman-container-tools-community/skopeo/pull/1) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (today)
 - [feat(projects): add projects page with open source work and Helm charts](https://github.com/jkroepke/blog/pull/88) on [jkroepke/blog](https://github.com/jkroepke/blog) (2 days ago)
 - [process: write unicode spaces in command line test as escapes](https://github.com/prometheus-community/windows_exporter/pull/2784) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
 - [cmd: disable console QuickEdit mode while the exporter runs](https://github.com/prometheus-community/windows_exporter/pull/2782) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (3 days ago)
