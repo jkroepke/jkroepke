@@ -36,7 +36,7 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.172.2](https://github.com/renovatebot/renovate/releases/tag/44.172.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.173.1](https://github.com/renovatebot/renovate/releases/tag/44.173.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.19](https://github.com/grafana/loki/releases/tag/v3.6.19), 1 day ago) - Like Prometheus, but for logs.
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-kafka-exporter-4.0.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-kafka-exporter-4.0.1), 1 day ago) - Prometheus community Helm charts
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-68e5e341-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-68e5e341-nightly), 1 day ago) - Release engineering, simplified
