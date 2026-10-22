@@ -23,32 +23,34 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) - Community maintained binary distribution of podman-container-tools/skopeo (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
+- [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) -  (today)
+- [podman-container-tools-community/.github](https://github.com/podman-container-tools-community/.github) - podman-container-tools-community (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) - Community maintained binary distribution of podman-container-tools/skopeo (today)
+- [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) -  (today)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (4 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (6 days ago)
-- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (6 days ago)
-- [jkroepke/openvpn-auth-oauth2](https://github.com/jkroepke/openvpn-auth-oauth2) - openvpn-auth-oauth2 is a plugin/management interface client for OpenVPN server to handle an OIDC based single sign-on (SSO) auth flows (6 days ago)
 - [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (6 days ago)
-- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) - Github Action for installing vals (https://github.com/getsops/sops) (1 week ago)
+- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (6 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.35.0), today) - Prometheus community Helm charts
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([mimir-distributed-6.3.0-weekly.417](https://github.com/grafana/helm-charts/releases/tag/mimir-distributed-6.3.0-weekly.417), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.176.3](https://github.com/renovatebot/renovate/releases/tag/44.176.3), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0), today) - Prometheus exporter for Windows machines
+- [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) ([v1.11.5](https://github.com/podman-container-tools-community/skopeo/releases/tag/v1.11.5), today) - Community maintained binary distribution of podman-container-tools/skopeo
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([alertmanager-snmp-notifier-2.2.1](https://github.com/prometheus-community/helm-charts/releases/tag/alertmanager-snmp-notifier-2.2.1), today) - Prometheus community Helm charts
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.3](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.3), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-f1e16bfd-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-f1e16bfd-nightly), today) - Release engineering, simplified
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.176.2](https://github.com/renovatebot/renovate/releases/tag/44.176.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.6), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.1), 1 day ago) - The Prometheus monitoring system and time series database.
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.2](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.2), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.19](https://github.com/grafana/loki/releases/tag/v3.6.19), 2 days ago) - Like Prometheus, but for logs.
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.10](https://github.com/Homebrew/brew/releases/tag/7.0.10), 3 days ago) - 🍺 The Package Manager for Everywhere
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 6 days ago) - Prometheus exporter for Windows machines
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.1), 6 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 
 #### 🔨 My recent Pull Requests
 
+- [Add org profile and community health files](https://github.com/podman-container-tools-community/.github/pull/1) on [podman-container-tools-community/.github](https://github.com/podman-container-tools-community/.github) (today)
+- [chore: fix formatting in renovate.json](https://github.com/prometheus-community/windows_exporter/pull/2790) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
 - [Static skopeo builds with goreleaser, cosign and distroless](https://github.com/podman-container-tools-community/skopeo/pull/1) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (1 day ago)
 - [feat(projects): add projects page with open source work and Helm charts](https://github.com/jkroepke/blog/pull/88) on [jkroepke/blog](https://github.com/jkroepke/blog) (3 days ago)
 - [process: write unicode spaces in command line test as escapes](https://github.com/prometheus-community/windows_exporter/pull/2784) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (4 days ago)
@@ -57,8 +59,6 @@ I like the challenge of code somewhat in a programming language without knowing 
 - [feat(about): enrich about page](https://github.com/jkroepke/blog/pull/87) on [jkroepke/blog](https://github.com/jkroepke/blog) (5 days ago)
 - [mixin: group alerts by collector area and add alerts for default and opt-in collectors](https://github.com/prometheus-community/windows_exporter/pull/2777) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 - [Revert MCP Python to 3.14 to restore prebuilt wheels in CI](https://github.com/jkroepke/okf-crossplane-v2/pull/149) on [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) (6 days ago)
-- [pdh: convert all raw time counter types to seconds](https://github.com/prometheus-community/windows_exporter/pull/2776) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
-- [docs: clarify which raw performance counters need a multiplier](https://github.com/prometheus-community/windows_exporter/pull/2775) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (6 days ago)
 
 #### ⭐ Recent Stars
 
