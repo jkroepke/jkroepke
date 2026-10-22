@@ -23,42 +23,42 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [podman-container-tools-community/.github](https://github.com/podman-container-tools-community/.github) - podman-container-tools-community (today)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (today)
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
-- [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) - Community maintained binary distribution of podman-container-tools/buildah (today)
-- [ipitio/backage](https://github.com/ipitio/backage) - Endpoint behind badges for GitHub Packages (today)
-- [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) - Community maintained binary distribution of podman-container-tools/skopeo (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) - Community maintained binary distribution of podman-container-tools/podman (today)
+- [ipitio/backage](https://github.com/ipitio/backage) - Endpoint behind badges for GitHub Packages (today)
+- [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) - Community maintained binary distribution of podman-container-tools/buildah (today)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
+- [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) - Community maintained binary distribution of podman-container-tools/skopeo (today)
+- [podman-container-tools-community/.github](https://github.com/podman-container-tools-community/.github) - podman-container-tools-community (today)
 - [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
-- [jkroepke/okf-crossplane-v2](https://github.com/jkroepke/okf-crossplane-v2) - LLM-wiki in OKF (Open Knowledge Format) for Crossplane v2 (6 days ago)
-- [jkroepke/renovate-config](https://github.com/jkroepke/renovate-config) - Shareable Config Presets for renovate (6 days ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (6 days ago)
 
 #### 🔭 Latest releases I've contributed to
 
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.178.2](https://github.com/renovatebot/renovate/releases/tag/44.178.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.117](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.117), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.2](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.2), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.4), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0), today) - Release engineering, simplified
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.20.2), today) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.178.1](https://github.com/renovatebot/renovate/releases/tag/44.178.1), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([alloy-operator-0.9.2](https://github.com/grafana/helm-charts/releases/tag/alloy-operator-0.9.2), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0), today) - Prometheus exporter for Windows machines
-- [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) ([v1.11.5](https://github.com/podman-container-tools-community/skopeo/releases/tag/v1.11.5), today) - Community maintained binary distribution of podman-container-tools/skopeo
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.3](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.3), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-f1e16bfd-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-f1e16bfd-nightly), today) - Release engineering, simplified
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.19](https://github.com/grafana/loki/releases/tag/v3.6.19), 2 days ago) - Like Prometheus, but for logs.
-- [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.10](https://github.com/Homebrew/brew/releases/tag/7.0.10), 3 days ago) - 🍺 The Package Manager for Everywhere
 
 #### 🔨 My recent Pull Requests
 
-- [Review fixes: floating tags, image labels, package dependencies, container-libs, systemd build tag](https://github.com/podman-container-tools-community/podman/pull/10) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
-- [Review fixes: systemd tag, containers-common dependency, newest release, image rebuilds, sync batching](https://github.com/podman-container-tools-community/buildah/pull/11) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
-- [Drop the renovate checksum hook](https://github.com/podman-container-tools-community/skopeo/pull/21) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (today)
-- [Review follow-ups for the cgo build: zig pin for rebuilds, release notes, package depends](https://github.com/podman-container-tools-community/skopeo/pull/20) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (today)
-- [Let Renovate maintain libseccomp's sha256 and drop the checksum hook](https://github.com/podman-container-tools-community/podman/pull/9) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
-- [Let Renovate maintain libseccomp's sha256 and drop the checksum hook](https://github.com/podman-container-tools-community/buildah/pull/10) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
-- [Install bats-core with mise](https://github.com/podman-container-tools-community/podman/pull/8) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
-- [Install bats-core with mise](https://github.com/podman-container-tools-community/buildah/pull/9) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
-- [Install bats-core with mise](https://github.com/podman-container-tools-community/skopeo/pull/19) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (today)
-- [ci: share one zizmor config between super-linter and the zizmor check](https://github.com/prometheus-community/windows_exporter/pull/2792) on [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) (today)
+- [Build images from released binaries, unify the pipeline, version the Podman 6 dependencies](https://github.com/podman-container-tools-community/podman/pull/14) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
+- [Build images from released binaries, unify the pipeline, storage.conf and netavark dependency](https://github.com/podman-container-tools-community/buildah/pull/16) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
+- [Build images from released binaries and unify the pipeline](https://github.com/podman-container-tools-community/skopeo/pull/25) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (today)
+- [Cache the static libseccomp build in pull request CI](https://github.com/podman-container-tools-community/podman/pull/13) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
+- [Cache the static libseccomp build in pull request CI](https://github.com/podman-container-tools-community/buildah/pull/15) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
+- [Fix invalid Renovate configuration](https://github.com/jkroepke/lens-extension-certificate-info/pull/438) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (today)
+- [Test GPG signature verification and the --sign-by error](https://github.com/podman-container-tools-community/buildah/pull/14) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
+- [Test signing and signature verification](https://github.com/podman-container-tools-community/podman/pull/12) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
+- [Test signing and signature verification](https://github.com/podman-container-tools-community/skopeo/pull/24) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (today)
+- [Set the zig C compiler and pkg-config path through templated env](https://github.com/podman-container-tools-community/podman/pull/11) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
 
 #### ⭐ Recent Stars
 
