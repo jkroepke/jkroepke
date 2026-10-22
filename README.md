@@ -36,13 +36,13 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-redis-exporter-6.35.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-redis-exporter-6.35.0), today) - Prometheus community Helm charts
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-f1e16bfd-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-f1e16bfd-nightly), today) - Release engineering, simplified
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.176.2](https://github.com/renovatebot/renovate/releases/tag/44.176.2), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-manifest-tail-0.1.6](https://github.com/grafana/helm-charts/releases/tag/k8s-manifest-tail-0.1.6), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-29.37.1](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-29.37.1), 1 day ago) - Prometheus community Helm charts
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.1), 1 day ago) - The Prometheus monitoring system and time series database.
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.2](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.2), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
 - [grafana/loki](https://github.com/grafana/loki) ([v3.6.19](https://github.com/grafana/loki/releases/tag/v3.6.19), 2 days ago) - Like Prometheus, but for logs.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0-68e5e341-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0-68e5e341-nightly), 2 days ago) - Release engineering, simplified
 - [Homebrew/brew](https://github.com/Homebrew/brew) ([7.0.10](https://github.com/Homebrew/brew/releases/tag/7.0.10), 3 days ago) - 🍺 The Package Manager for Everywhere
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0-beta.7](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0-beta.7), 6 days ago) - Prometheus exporter for Windows machines
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.1](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.1), 6 days ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
