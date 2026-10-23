@@ -36,16 +36,16 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 🔭 Latest releases I've contributed to
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-32.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-32.0.2), 1 day ago) - Prometheus community Helm charts
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.178.3](https://github.com/renovatebot/renovate/releases/tag/44.178.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-fastly-exporter-0.15.0](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-fastly-exporter-0.15.0), today) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.178.5](https://github.com/renovatebot/renovate/releases/tag/44.178.5), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jkroepke/setup-vals](https://github.com/jkroepke/setup-vals) ([v1.5.112](https://github.com/jkroepke/setup-vals/releases/tag/v1.5.112), today) - Github Action for installing vals (https://github.com/helmfile/vals)
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.20.0-2d9b4c9a-nightly](https://github.com/goreleaser/goreleaser/releases/tag/v2.20.0-2d9b4c9a-nightly), today) - Release engineering, simplified
 - [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.83](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.83), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
 - [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.117](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.117), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
 - [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.2](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.2), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
 - [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.4), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0), 1 day ago) - Release engineering, simplified
 - [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0), 1 day ago) - Prometheus exporter for Windows machines
 - [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.3](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.3), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.1), 2 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
