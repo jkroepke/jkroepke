@@ -23,46 +23,46 @@ I like the challenge of code somewhat in a programming language without knowing 
 
 #### 👷 Check out what I'm currently working on
 
-- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (today)
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (today)
 - [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) - Community maintained binary distribution of podman-container-tools/podman (today)
-- [ipitio/backage](https://github.com/ipitio/backage) - Endpoint behind badges for GitHub Packages (today)
 - [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) - Community maintained binary distribution of podman-container-tools/buildah (today)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (today)
 - [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) - Community maintained binary distribution of podman-container-tools/skopeo (today)
-- [podman-container-tools-community/.github](https://github.com/podman-container-tools-community/.github) - podman-container-tools-community (today)
-- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (3 days ago)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (6 days ago)
+- [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) - See expire date from certificates inside kubernetes secrets. (1 day ago)
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) - Prometheus exporter for Windows machines (1 day ago)
+- [ipitio/backage](https://github.com/ipitio/backage) - Endpoint behind badges for GitHub Packages (1 day ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
+- [podman-container-tools-community/.github](https://github.com/podman-container-tools-community/.github) - podman-container-tools-community (1 day ago)
+- [jkroepke/blog](https://github.com/jkroepke/blog) - My personal blog (4 days ago)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics. (1 week ago)
 
 #### 🔭 Latest releases I've contributed to
 
-- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.178.2](https://github.com/renovatebot/renovate/releases/tag/44.178.2), today) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
-- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.117](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.117), today) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
-- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.2](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.2), today) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
-- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.4), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0), today) - Release engineering, simplified
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-blackbox-exporter-11.20.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-blackbox-exporter-11.20.2), today) - Prometheus community Helm charts
-- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0), today) - Prometheus exporter for Windows machines
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.3](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.3), today) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
-- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.1), 1 day ago) - The Prometheus monitoring system and time series database.
-- [grafana/loki](https://github.com/grafana/loki) ([v3.6.19](https://github.com/grafana/loki/releases/tag/v3.6.19), 2 days ago) - Like Prometheus, but for logs.
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) ([prometheus-operator-crds-32.0.2](https://github.com/prometheus-community/helm-charts/releases/tag/prometheus-operator-crds-32.0.2), 1 day ago) - Prometheus community Helm charts
+- [renovatebot/renovate](https://github.com/renovatebot/renovate) ([44.178.3](https://github.com/renovatebot/renovate/releases/tag/44.178.3), 1 day ago) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
+- [jkroepke/setup-sops](https://github.com/jkroepke/setup-sops) ([v1.5.83](https://github.com/jkroepke/setup-sops/releases/tag/v1.5.83), 1 day ago) - Github Action for installing vals (https://github.com/getsops/sops)
+- [jkroepke/setup-stackit-cli](https://github.com/jkroepke/setup-stackit-cli) ([v1.2.117](https://github.com/jkroepke/setup-stackit-cli/releases/tag/v1.2.117), 1 day ago) - Github Action for installing stackit-cli (https://github.com/stackitcloud/stackit-cli)
+- [jkroepke/access-log-exporter](https://github.com/jkroepke/access-log-exporter) ([v0.5.2](https://github.com/jkroepke/access-log-exporter/releases/tag/v0.5.2), 1 day ago) - A Prometheus exporter that receives access logs from nginx through the syslog protocol and converts them into metrics.
+- [grafana/helm-charts](https://github.com/grafana/helm-charts) ([k8s-monitoring-4.5.4](https://github.com/grafana/helm-charts/releases/tag/k8s-monitoring-4.5.4), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v2.19.0](https://github.com/goreleaser/goreleaser/releases/tag/v2.19.0), 1 day ago) - Release engineering, simplified
+- [prometheus-community/windows_exporter](https://github.com/prometheus-community/windows_exporter) ([v0.32.0](https://github.com/prometheus-community/windows_exporter/releases/tag/v0.32.0), 1 day ago) - Prometheus exporter for Windows machines
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) ([v3.3.3](https://github.com/eudi-dev/eudi-dev/releases/tag/v3.3.3), 1 day ago) - Web/CLI testing wallet for the EUDI ecosystem. No phone required.
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) ([v3.15.1](https://github.com/prometheus/prometheus/releases/tag/v3.15.1), 2 days ago) - The Prometheus monitoring system and time series database.
 
 #### 🔨 My recent Pull Requests
 
-- [Build images from released binaries, unify the pipeline, version the Podman 6 dependencies](https://github.com/podman-container-tools-community/podman/pull/14) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
-- [Build images from released binaries, unify the pipeline, storage.conf and netavark dependency](https://github.com/podman-container-tools-community/buildah/pull/16) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
-- [Build images from released binaries and unify the pipeline](https://github.com/podman-container-tools-community/skopeo/pull/25) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (today)
-- [Cache the static libseccomp build in pull request CI](https://github.com/podman-container-tools-community/podman/pull/13) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
-- [Cache the static libseccomp build in pull request CI](https://github.com/podman-container-tools-community/buildah/pull/15) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
-- [Fix invalid Renovate configuration](https://github.com/jkroepke/lens-extension-certificate-info/pull/438) on [jkroepke/lens-extension-certificate-info](https://github.com/jkroepke/lens-extension-certificate-info) (today)
-- [Test GPG signature verification and the --sign-by error](https://github.com/podman-container-tools-community/buildah/pull/14) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (today)
-- [Test signing and signature verification](https://github.com/podman-container-tools-community/podman/pull/12) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
-- [Test signing and signature verification](https://github.com/podman-container-tools-community/skopeo/pull/24) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (today)
-- [Set the zig C compiler and pkg-config path through templated env](https://github.com/podman-container-tools-community/podman/pull/11) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (today)
+- [Set the io.containers.capabilities label on the image](https://github.com/podman-container-tools-community/buildah/pull/18) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (1 day ago)
+- [Install bash in the image](https://github.com/podman-container-tools-community/skopeo/pull/27) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (1 day ago)
+- [Install zig, goreleaser, syft and cosign with mise](https://github.com/podman-container-tools-community/podman/pull/15) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (1 day ago)
+- [Install zig, goreleaser, syft and cosign with mise](https://github.com/podman-container-tools-community/buildah/pull/17) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (1 day ago)
+- [Install zig, goreleaser, syft and cosign with mise](https://github.com/podman-container-tools-community/skopeo/pull/26) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (1 day ago)
+- [Build images from released binaries, unify the pipeline, version the Podman 6 dependencies](https://github.com/podman-container-tools-community/podman/pull/14) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (1 day ago)
+- [Build images from released binaries, unify the pipeline, storage.conf and netavark dependency](https://github.com/podman-container-tools-community/buildah/pull/16) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (1 day ago)
+- [Build images from released binaries and unify the pipeline](https://github.com/podman-container-tools-community/skopeo/pull/25) on [podman-container-tools-community/skopeo](https://github.com/podman-container-tools-community/skopeo) (1 day ago)
+- [Cache the static libseccomp build in pull request CI](https://github.com/podman-container-tools-community/podman/pull/13) on [podman-container-tools-community/podman](https://github.com/podman-container-tools-community/podman) (1 day ago)
+- [Cache the static libseccomp build in pull request CI](https://github.com/podman-container-tools-community/buildah/pull/15) on [podman-container-tools-community/buildah](https://github.com/podman-container-tools-community/buildah) (1 day ago)
 
 #### ⭐ Recent Stars
 
-- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (2 weeks ago)
+- [eudi-dev/eudi-dev](https://github.com/eudi-dev/eudi-dev) - Web/CLI testing wallet for the EUDI ecosystem. No phone required. (3 weeks ago)
 - [cloudx-io/setup-go](https://github.com/cloudx-io/setup-go) - setup-go with job-isolated caches for high parallelism and high hit rates (1 month ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 months ago)
 - [tgoodwin/kamera](https://github.com/tgoodwin/kamera) - kamera is a simulation toolkit for observing, analyzing, and verifying the behavior of Kubernetes control planes. (3 months ago)
